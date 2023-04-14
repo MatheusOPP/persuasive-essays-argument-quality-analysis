@@ -1,0 +1,39 @@
+Type: MajorClaim T1
+Text: it still has its bad side, especially for children
+Supporting MajorClaim T1
+
+    Type: Claim T3
+    Text: using computer constantly has bad influence on children's eyes
+    Supporting Claim T3
+
+        Premise: When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted
+
+    No arguments attacks Claim T3
+
+    Type: Claim T9
+    Text: even people who are not interested in online game can still be negatively affected by using computer too much
+    Supporting Claim T9
+
+        Premise: Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc. instead
+
+    No arguments attacks Claim T9
+
+    Type: Claim T6
+    Text: people who are addicted to games, especially online games, can eventually bear dangerous consequences
+    Supporting Claim T6
+
+        Premise: several teenagers play games without rest, which leads to health depression
+        Premise: children who play games too much on computer can seriously lack communicating skills
+
+    No arguments attacks Claim T6
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: it is undeniable that computer is a crucial part of human life
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+

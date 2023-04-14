@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: Some people may oppose these, citing the environmental and cultural destruction caused by tourism
+supporting Claim T10:
+
+
+attacking Claim T10:
+----Premise T11: compared to the tourism industry, other alternatives, like resource extraction and manufacture, are far worse destroyers
+----supporting Premise T11:
+--------Premise T12: paper mills pour hundreds and thousands of tons of contamination into rivers, causing severe water pollution
+
+----no arguments attacks Premise T11
+
+----Premise T13: the dramatic majority of tourist, particularly those who tend to spending a wealth of time and money locating and visiting rustic villages, are well educated
+----Premise T14: It is illogical to believe that these rational folks will not conduct themselves decently if required to do so
+

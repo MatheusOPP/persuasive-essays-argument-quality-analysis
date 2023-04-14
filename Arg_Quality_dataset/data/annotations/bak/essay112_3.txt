@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: exams also have some drawbacks
+Supporting Claim T6
+
+    Premise: teachers and learners focus only on theses aspects of the curriculum that are likely to be tested, thus narrowing the educational experience for all
+    Premise: Test-wise candidates can often perform well on exams without having good underlying knowledge or skills
+
+No arguments attacks Claim T6
+

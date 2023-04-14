@@ -1,0 +1,27 @@
+Type: MajorClaim T2
+Text: the negative impacts brought about by mobile phones are harmful to a person’s education and character
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: many young owners of cellular phones are struggling at school because they are distracted most of the time with their phones
+    Supporting Claim T3
+
+        Premise: Games and applications installed in phones have occupied much of their time, leaving them lesser time for their studies and other school activities
+        Premise: internet capable phones help influence the young ones to become more interested in chatting and social sites rather than doing school works
+
+    No arguments attacks Claim T3
+
+    Type: Claim T9
+    Text: juveniles who possess mobile phones have great tendencies to become materialistic
+    Supporting Claim T9
+
+        Premise: they would need their parents to support them financially for what they want
+        Premise: They would not only purchase a phone because of its functionality but also for its brand
+        Premise: An illustration of this unfortunate trend can be seen almost everywhere these days, wherein most teens at an early age own phones which are worth twice the salary of their parents
+        Premise: these do not come at a significant and inexpensive cost
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T2
+

@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: other celebrities do set up role models to young people because of their visible accomplishments
+supporting Claim T11:
+
+----Premise T10: this kind of self-made celebrity can inspire children to develop their talents through application and perseverance
+----supporting Premise T10:
+--------Premise T8: celebrities such as sports player whose performance and professional skills can be directly seen by their fans
+--------Premise T9: people understand that the great deal of efforts on training is directly linked to their results
+
+----no arguments attacks Premise T10
+
+----Premise T12: other celebrities such as musician also have achieved great success in their career
+----supporting Premise T12:
+--------Premise T13: Take Michael Jackson as an example, his works are widely spread around the world, and have been extremely welcomed by the younger generation
+--------Premise T14: His songs spread the idea that people should care about each other, which suggests to young people how to become a good member of society
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T11
+

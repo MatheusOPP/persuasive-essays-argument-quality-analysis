@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: following fashion trends enables people to keep up with the world's latest transformations, which is of vital importance if we consider the fact that people are living in a global village today
+Supporting Claim T4
+
+    Premise: When individuals keep the habit of grasping the world's cutting-edge fashion information, they are gradually changing their attitudes to viewing the world, which means they are more open to accept diverse voices from people around the world
+    Premise: they might fall behind shortly
+
+No arguments attacks Claim T4
+

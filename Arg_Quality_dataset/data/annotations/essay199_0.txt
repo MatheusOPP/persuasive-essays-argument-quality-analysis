@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I prefer to study individually
+supporting MajorClaim T1:
+
+----Claim T2: it helps me to concentrate more, and it helps me to build my personality
+----Claim T4: it helps me to focus more and establish my personality
+----type: Claim T5
+----text: Studying alone helps us to focus more in our lessons
+----supporting Claim T5:
+
+--------Premise T6: I am a type of person who cannot comprehend my subjects unless I am alone
+--------Premise T7: I can prepare my schedules, guidelines, exercises and go over them all
+--------Premise T8: we have a lot of subjects which require us to sit and study alone such as math, reading, and drawing
+--------Premise T9: I can take advantage of every minute without wasting by studying alone
+
+----no arguments attacks Claim T5
+
+----type: Claim T10
+----text: we are building our personalities when we study alone
+----supporting Claim T10:
+
+--------Premise T11: answering our homework alone encourages us to be more responsible and independent
+--------Premise T12: it motivates us to be accurate in our work in the future
+--------Premise T13: when I fix my study plan with a specific time and finish it on time, it improves my ability in the future to become more precise and careful
+
+----no arguments attacks Claim T10
+
+
+no arguments attacks MajorClaim T1
+

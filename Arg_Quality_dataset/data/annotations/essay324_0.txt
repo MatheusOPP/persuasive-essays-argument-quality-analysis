@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: different types of tasks endow more colors to our life
+supporting MajorClaim T2:
+
+----type: Claim T9
+----text: Changing the type of work will be fresh and elicit their potential to adapt a new environment, which, according to psychology theories, makes workers relaxed and happier
+----supporting Claim T9:
+
+--------Premise T10: Doing different tasks makes employees and employers much happier
+--------Premise T8: Workers, who work for an ordinary company or industry, will be sick of same tasks day by day
+--------Premise T11: consider every workers have ability to do several kinds of work, employers will be satisfied by the generating benefits
+--------Premise T12: They both will be happy
+--------supporting Premise T12:
+------------Premise T13: the change of job, not the same task day by day
+
+--------no arguments attacks Premise T12
+
+
+----attacking Claim T9:
+--------Premise T14: they can be familiar with their job
+--------supporting Premise T14:
+
+--------attacking Premise T14:
+------------Premise T15: changing of job is what serve to their happier
+
+
+----type: Claim T19
+----text: doing same task day and night just server to increase our psychological burden, connecting with different types of job is capable give us more colors to our life
+----supporting Claim T19:
+
+--------Premise T20: Different types of tasks during workday brings more challenges, making life colorful
+--------Premise T18: As the saying of a Chinese writer, the color of life is rooted not in Japanese cherry blossom or Canadian maple leaf, but rather there always exists new things and challenge
+--------Premise T17: New challenges from different tasks amounts far more than more works, it also means through dealing with it, I will obtain more knowledge and experience
+--------Premise T16: As an engineering researcher, I will surely be disappointed for failure, and exited for new challenges
+--------Premise T21: Just like a song, if I did not have challenge, life would be blue
+
+----no arguments attacks Claim T19
+
+
+attacking MajorClaim T2:
+----Claim T1: the same task give us opportunities to be an expert
+----type: Claim T3
+----text: great achievement needs someone keen on one task for long time
+----supporting Claim T3:
+
+--------Premise T7: Gandhi devoted his whole life to fight against British-ruled government and inspire movements for civil rights in India, finally he became the father of the nation
+--------Premise T6: As a authoritative dentist in my province, my mother has worked for 25 years
+--------Premise T5: It allows us to achieve more
+
+----attacking Claim T3:
+--------Premise T4: when it comes to "happier", different type of jobs can be responsible factor
+
+

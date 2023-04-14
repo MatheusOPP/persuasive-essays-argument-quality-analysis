@@ -1,0 +1,45 @@
+Type: MajorClaim T2
+Text: groups provide a place for people to gain experiences or achieve goals
+Supporting MajorClaim T2
+
+    Type: Claim T4
+    Text: almost of us live in the environment of groups
+    Supporting Claim T4
+
+        Premise: After graduating from schools, employees might go to business associations for various business resources and benefits
+        Premise: As university students, it is likely for them to join student organization of their major in order to expand their experiences or communicate with others
+        Premise: By making teamwork, the children in schools may learn to how to get along with others
+        Premise: We begin taking part in groups or organizations during the early days of life, and especially most people continue their social participation in all through life
+
+    No arguments attacks Claim T4
+
+    Type: Claim T10
+    Text: By participating in an organization, it is a positive way for people to obtain some experiences on a particular purpose
+    Supporting Claim T10
+
+        Premise: A solid group can be a suited environment, which provides people to improve themselves or broaden their horizons
+
+    No arguments attacks Claim T10
+
+    Type: Claim T15
+    Text: groups and organizations would lead people to take action or achieve their goal
+    Supporting Claim T15
+
+        Premise: they lit the light for the poor and victims
+        Premise: there are various charities in the world
+        Premise: Tzu Chi, a non-profit Buddhism organization in Taiwan, is famous for contributing to the social and community services, and medical care
+        Premise: They bring hopes and inspire others with their generous spirit
+
+    No arguments attacks Claim T15
+
+    Type: Claim T5
+    Text: the groups play an essential role in the process of socialization, from children to adults
+    Supporting Claim T5
+
+        Premise: humans are a part of the society, and the society includes a wide variety of groups
+
+    No arguments attacks Claim T5
+
+
+No arguments attacks MajorClaim T2
+

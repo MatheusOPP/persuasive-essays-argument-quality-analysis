@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the option of working or studying from home is thought to provide more benefits than drawbacks
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: the advantages that people enjoy by working or studying from home, are obvious
+----supporting Claim T7:
+
+--------Premise T2: it helps working people to maintain work life balance
+--------supporting Premise T2:
+------------Premise T3: the new mother who can join her work as well as take care of her baby
+
+--------no arguments attacks Premise T2
+
+--------Premise T4: People also get the desired flexibility in terms of working hours
+--------Premise T5: For students too, studying from home is an attractive option
+--------supporting Premise T5:
+------------Premise T6: They save the travelling time to Universities and utilize that time on their studies
+------------Premise T8: In a busy city like Tokyo, students waste a lot of time in travelling
+
+--------no arguments attacks Premise T5
+
+--------Premise T9: the benefit that professionals or students get by connecting from home is enormous
+
+----no arguments attacks Claim T7
+
+
+attacking MajorClaim T1:
+----type: Claim T14
+----text: These factors affect people who work or study from home
+----supporting Claim T14:
+
+--------Premise T12: Teachers think that students get affected too as they can not clear their doubts in study topics instantly
+--------Premise T11: This harms an employee's deliverable
+--------Premise T10: once an employee works from isolation, he or she spends a lot of time in communication via phone or email with colleagues
+
+----no arguments attacks Claim T14
+
+

@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: lives in the old days is easier than today
+supporting Claim T5:
+
+----Premise T8: competition is getting fierce
+----supporting Premise T8:
+--------Premise T7: world population getting higher
+
+----no arguments attacks Premise T8
+
+----Premise T6: Nowadays, all humans compete together
+----Premise T9: If you are not able to handle your jobs, then someone will replace you right away
+----Premise T10: People need to put much more effort to keep their living condition
+----Premise T4: life is simple in the past
+
+no arguments attacks Claim T5
+

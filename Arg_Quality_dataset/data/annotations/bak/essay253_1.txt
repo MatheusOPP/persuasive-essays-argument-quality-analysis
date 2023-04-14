@@ -1,0 +1,35 @@
+Type: MajorClaim T2
+Text: using life experiences and examples to demonstrate the knowledge on a subject is an effective way to attract students' attention and keep them eager on learning
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: it reinforces students' impression on the knowledge but also invites students to practice the knowledge out on their own
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: by explaining how the subject contributes to daily life, students will have vivid impression on that subject thus become more interested and active in acquiring the knowledge on that subject
+    Supporting Claim T4
+
+        Premise: Take chemistry for example, merely memorizing the names of the substances and the structural formulas seems to be very boring, while representing where and how those chemical reactions really happen near students will raise their curiosity and lead them to digest those theories learned from the class
+        Premise: While I was in senior high school, my chemical teacher once showed us how the detergent dissolves oil by an experiment and later on taught us how to describe this process with formal structural formulas
+        Premise: This type of learning method is more fun and eventually the results are good
+        Premise: I connected the visual images of that experiment with the formula and I barely forget, even though now I'm not studying chemistry anymore
+
+    No arguments attacks Claim T4
+
+    Type: Claim T9
+    Text: by bridging the theories with daily life events, students are given the chance to apply knowledge to their lives and develop their own ability of problem-solving
+    Supporting Claim T9
+
+        Premise: This will address students' interests
+        Premise: in law class, students are informed their rights and duties and they are taught how they can apply law to different situations that might happen upon them
+        Premise: When any one of the situations occurs, they can think independently and figure out how to react
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T2
+

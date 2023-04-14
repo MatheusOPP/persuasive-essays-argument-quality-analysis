@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: unexpectedly the violent behavior has effected on child’s behaviors
+supporting Claim T3:
+
+----Premise T5: Imagine an actor who is a child’s favorite is doing violent roles
+----Premise T4: In this case, the child would imitate the actor's behaviors in order to look like to him
+----Premise T7: children behaviors are the most concerning matter which parents are always trying to do their best
+----Premise T6: Nowadays children are more involved in TV programs
+
+no arguments attacks Claim T3
+

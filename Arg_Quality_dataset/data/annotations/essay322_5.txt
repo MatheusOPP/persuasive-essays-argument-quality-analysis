@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: Historic buildings answer many questions, which are mysterious about our previous ancestors; thereby no one can determine the price of the historic buildings
+supporting Claim T7:
+
+----Premise T8: They show the history of nations and previous generations who lived in the city
+----Premise T9: They show the lifestyle of people who lived in thousands of years ago
+----Premise T10: They show us how they survive, or how they defend themselves etc
+----Premise T11: By investigating about their structures, we can understand how much they knew about the architecture of building
+----Premise T12: historic buildings are important treasures, which provide an area to learn valuable lessons
+
+no arguments attacks Claim T7
+

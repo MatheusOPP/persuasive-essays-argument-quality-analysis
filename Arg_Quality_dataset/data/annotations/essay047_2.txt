@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: zoos are more likely to be a killer rather than a protector in protecting wild lives
+supporting Claim T6:
+
+----Premise T9: the limited space and the artificial trees and lakes can not fully compensate the animals for their loss
+----Premise T8: if rural animals are captured in the zoo for a long period, it would have negative influences on both the physical and psychological status of the creatures
+----Premise T7: the wild species would suffer from isolation and depression
+
+no arguments attacks Claim T6
+

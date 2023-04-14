@@ -1,0 +1,43 @@
+Type: MajorClaim T2
+Text: schools which obligate their students to take standardized tests are right
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: these schools can qualitatively check if they are giving an appropriate education to their students
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T5
+    Text: standardized tests are preferable
+    Supporting Claim T5
+
+        Premise: they help teachers to fairly grade the students
+        Premise: exams could be the only way for teachers to see the real abilities of those students
+        Premise: the usage of standardized tests is the superior option for them
+
+    No arguments attacks Claim T5
+
+    Type: Claim T12
+    Text: schools should require students to take standardized tests, as long as this option helps to both sides
+    Supporting Claim T12
+
+        Premise: standardized tests can be good chance for students to apply their knowledge on practice
+        Premise: standardized tests offer them such chance
+
+    No arguments attacks Claim T12
+
+    Type: Claim T14
+    Text: requirement to take standardized tests is the right choice
+    Supporting Claim T14
+
+        Premise: in this case teachers can compare the level of knowledge of different students
+        Premise: In any class there will be students who will show low academic performance, so teachers could work with them more intensively
+        Premise: standardized tests are required over those who don’t
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T2
+

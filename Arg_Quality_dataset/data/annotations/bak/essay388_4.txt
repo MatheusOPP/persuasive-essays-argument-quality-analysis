@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: stringent gun control does not decrease violence and crime
+Supporting Claim T7
+
+    Premise: most gun violence is committed with guns obtained illegally
+    Premise: People who are intent to commit crime and control cities through gang violence and other means will find a way to continue to use guns, regardless of gun control
+
+No arguments attacks Claim T7
+

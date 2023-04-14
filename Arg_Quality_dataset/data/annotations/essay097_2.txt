@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: sport events with the spirit of healthiness, honesty and fairness can help strengthen understanding, friendship and solidarity among nations
+supporting Claim T4:
+
+----Premise T8: there are many good opportunities for discovering different cultures
+----supporting Premise T8:
+--------Premise T7: a large number of people will gather in the host city for sport events
+
+----no arguments attacks Premise T8
+
+----Premise T9: After sharing competitive but interesting moments in each competition, the competitors often shake hands friendly and congratulate the winners, which can lead to an improvement in the relationships among nations
+
+no arguments attacks Claim T4
+

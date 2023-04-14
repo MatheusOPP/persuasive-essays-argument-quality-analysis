@@ -1,0 +1,50 @@
+Type: MajorClaim T1
+Text: parents are really the best teachers who give us much knowledge and advice
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: parents are the first teachers who teach babies how to walk and speak and make children to become a good person
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: parents provide their children the best social skills and knowledge in order to prepare for their children's future life
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: children are taught basic things, which influence their whole life, by their parents
+    Supporting Claim T4
+
+        Premise: parents bring the whole world of wonderful and colorful thing into their baby's little mind
+        Premise: As a baby, they do not know any thing all around but they learn everything from their parents
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: parents train their child how to become a good person
+    Supporting Claim T8
+
+        Premise: They always make their children basically say thanks and apology in the right way
+        Premise: it is common that they try to explain who is a good or bad person
+        Premise: children are shown how to behave well with others
+        Premise: this can influence positively their future children and makes children's behavior better before they face the real world
+
+    No arguments attacks Claim T8
+
+    Type: Claim T13
+    Text: parents' support is one factor which makes people succeed in their life
+    Supporting Claim T13
+
+        Premise: Unlike a professional, parents always support children and give them much social skill so they can communicate well with others and have good habit in life
+        Premise: they tend to provide the best knowledge and advice from their experience for children
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T1
+

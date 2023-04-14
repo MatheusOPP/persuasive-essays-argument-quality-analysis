@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: big cities offer more opportunities for one's career advancements and a more chances of higher income that small towns does
+Supporting Claim T7
+
+    Premise: economic power of a country is driven by it's big cities and the majority of wealth and finance is centered and controlled in big cities
+    Premise: higher income can be the basis of a happier, healthier life
+
+No arguments attacks Claim T7
+

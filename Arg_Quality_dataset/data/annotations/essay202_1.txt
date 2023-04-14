@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T1
+text: the co-workers should believe in fellowship
+supporting Claim T1:
+
+----Premise T2: This helps them to enjoy their work life while building up very strong personal relationships
+----Premise T3: you spend most of your day at office
+----Premise T4: If you have a good company in office, it is certainly a blessing
+
+no arguments attacks Claim T1
+

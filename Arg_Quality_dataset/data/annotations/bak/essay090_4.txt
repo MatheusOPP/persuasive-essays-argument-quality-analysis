@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: we have to be aware to never judge with their appearance
+Supporting Claim T5
+
+    Premise: there are people who play a role and cheat the other individuals with their playing
+    Premise: some people cheat their fiance before marriage by showing a cheerful face and well spoken; however, after getting marriage they show their real personality
+
+No arguments attacks Claim T5
+

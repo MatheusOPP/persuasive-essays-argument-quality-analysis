@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: many university authorities provide music lessons for their students
+supporting Claim T3:
+
+----Premise T4: they live and study in a harmony with music
+----Premise T5: It is obvious that music has a great power which can positively influence on human being and its psychology
+----Premise T6: students, who spend a great deal of their time studying different academic subjects should have an opportunity to cope with the stress gained during school time
+----Premise T7: music can be a useful and interesting solution
+----Premise T8: if musical activity involves many participants, there will be co-operation and developed team work in the group, which is, of course, beneficial in their future life
+----Premise T9: students with a quite poor academic background can show themselves in the music
+----Premise T10: the calm atmosphere in the class might be created
+
+no arguments attacks Claim T3
+

@@ -1,0 +1,31 @@
+Type: MajorClaim T1
+Text: I completely disagree with the idea that businesses should be allowed to do anything they want to make a profit
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: With this permission they are allowed to hit and damage everything for just making a profit
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: if there is not any control on the businesses and they are permitted to do everything they want, they will threaten the beings' life such as human, animals and plants
+    Supporting Claim T3
+
+        Premise: As every day we read and hear in televisions and newspapers that some factories hit the environment by their toxic substances
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: they might hit consumer's life
+    Supporting Claim T6
+
+        Premise: if we let them do anything they can to just make a profit, they will produce products with low qualities and high prices
+        Premise: a few months ago it was broadcast from TV that a company which produced baby milk, sold milk which did not have quality and it caused a few babies die
+
+    No arguments attacks Claim T6
+
+
+No arguments attacks MajorClaim T1
+

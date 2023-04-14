@@ -1,0 +1,25 @@
+Type: MajorClaim T2
+Text: the main function of a university remains as the provision of knowledge and access to resources
+Supporting MajorClaim T2
+
+    Type: Claim T7
+    Text: a university should provide access to information, rather than offer selected courses that are suitable for employers' taste
+    Supporting Claim T7
+
+        Premise: It is, therefore, not necessary for a certain course or type of training to be offered to the students by a university, but instead, these must be made available when needed
+        Premise: universities are regarded as institutions where abundant educational resources gather
+
+    No arguments attacks Claim T7
+
+    Type: Claim T3
+    Text: A university, in common sense, is a medium for conveying or providing access to knowledge
+    Supporting Claim T3
+
+        Premise: students are the ones universities should really cater for, not the employers
+        Premise: High school graduates choose to further educate themselves in universities because of all different reasons: a degree that's more widely accepted, gain knowledge and insight into an industry, or simply deepen their research interests in a certain field
+
+    No arguments attacks Claim T3
+
+
+No arguments attacks MajorClaim T2
+

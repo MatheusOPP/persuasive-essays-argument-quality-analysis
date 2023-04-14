@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: investing much time in cooking food will guarantee nutrition as well as quality of food for their family
+supporting Claim T13:
+
+
+attacking Claim T13:
+----Premise T12: it is quite easy to have a nutritious meal with guaranteed quality, but do not waste a lot of time
+----supporting Premise T12:
+--------Premise T14: as a matter of fact, using technology or advanced facilities do not make food lose its nutrition and quality
+--------Premise T17: along with the high living standard, requirements of quality products in almost restaurants, nowadays, are under severe control and supervision by appropriate authorities
+--------Premise T15: health and life of eaters is assured
+--------supporting Premise T15:
+------------Premise T16: Even, with the help of ozone machines, bacterias, mold spores, or pesticide in vegetables, fruits and foods will be killed and removed
+
+--------no arguments attacks Premise T15
+
+
+----no arguments attacks Premise T12
+
+

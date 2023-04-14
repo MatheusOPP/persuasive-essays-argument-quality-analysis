@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Universities should accept equal numbers of students of both genders
+supporting Claim T6:
+
+----Premise T7: women have proved themselves in every field whether it is indoor or outdoor
+----supporting Premise T7:
+--------Premise T8: nowadays women are working in home as well as in the sky
+--------Premise T9: They are acting as a good housewife and they are flying planes also
+
+----no arguments attacks Premise T7
+
+----Premise T10: university authority must not be biased on ground of the gender discrimination
+----supporting Premise T10:
+--------Premise T11: They must consider the academic record of the student as main criteria of admission
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T6
+

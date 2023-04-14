@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: smoking in restaurants should be strictly banned
+supporting Claim T8:
+
+----Premise T9: it makes the restaurant a polluted place which threatens every customer's health
+----Premise T10: if there is only one person smoking in a restaurant, all others will smoke unconsciously and their health is under attacked
+----supporting Premise T10:
+--------Premise T11: some burned substance in a cigarette can easily deteriorate a person's respiratory system after he/she inhales it
+
+----no arguments attacks Premise T10
+
+----Premise T7: the second-hand smoke, which comes from the smoker's mouth, puts an even greater threat on surrounding people's health than the smoker himself
+----Premise T12: it is too strong to assert that smoking should be prohibited everywhere in the society, one smoking in a restaurant is considered to enjoy his time with the ignorance of others' health
+
+no arguments attacks Claim T8
+

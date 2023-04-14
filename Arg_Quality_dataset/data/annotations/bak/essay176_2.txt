@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: visiting a well-known museum also can broaden our horizon
+Supporting Claim T8
+
+    Premise: Those outstanding and diverse range of objects,with classic and magnificent art, is guaranteed to inspire us
+    Premise: In my city, National Palace Museum is celebrated for collection of ancient Chinese artifacts
+    Premise: To my astonishment, Jadeite cabbage is the most famous artistic work, which is made of jade, is vividly shown
+
+No arguments attacks Claim T8
+

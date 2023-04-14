@@ -1,0 +1,35 @@
+Type: MajorClaim T1
+Text: childhood is the happiest time of a person's life
+Supporting MajorClaim T1
+
+    Type: Claim T3
+    Text: in childhood most people are happier than in adulthood
+    Supporting Claim T3
+
+        Premise: They do not have to worry about bills, jobs, how would their life be in the future
+        Premise: They just worry about two things: to have fun, learn and be happy
+        Premise: when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood
+        Premise: I did not have to worry about costs and other things, I just had fun and learned
+
+    No arguments attacks Claim T3
+
+    Type: Claim T8
+    Text: people are most creative when they were children
+    Supporting Claim T8
+
+        Premise: children imagine new things and games just to have fun and be happy
+
+    No arguments attacks Claim T8
+
+    Type: Claim T11
+    Text: school memories are one of the best memories in a person's life
+    Supporting Claim T11
+
+        Premise: childhood is the period where people go to school and learn
+        Premise: There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun
+
+    No arguments attacks Claim T11
+
+
+No arguments attacks MajorClaim T1
+

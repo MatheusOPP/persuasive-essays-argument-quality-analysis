@@ -1,0 +1,65 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I prefer to spend my entire live in one place which is my hometown
+supporting MajorClaim T1:
+
+----Claim T2: In my hometown, I have a lot of friends and good relationships, I love the traffic in here, and the environment is wonderful
+----type: Claim T6
+----text: If anyone needs help, his neighbor will help as much as possible
+----supporting Claim T6:
+
+--------Premise T3: Nowhere else can give me some people like in here
+--------Premise T4: In here, I have a lot of friends, and we usually spend free time to play sports like soccer, basketball and of course we have a lot of fun
+--------Premise T5: Every people in my town have known each others, and we have good relationships
+
+----no arguments attacks Claim T6
+
+----type: Claim T13
+----text: I want to live here
+----supporting Claim T13:
+
+--------Premise T12: I love the traffic system in here
+--------supporting Premise T12:
+------------Premise T9: Last week, I went to the city center to meet my friends
+------------Premise T10: The traffic in the city was too crowed
+------------Premise T11: I have to wait for an hour to go to my friend house
+------------Premise T8: we can move easily to anywhere
+------------supporting Premise T8:
+----------------Premise T7: We have large streets but few cars
+
+------------no arguments attacks Premise T8
+
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T13
+
+----type: Claim T17
+----text: I also love the environment in here
+----supporting Claim T17:
+
+--------Premise T14: I have been gone to some places to travel and stay for a short time, and I realize that the environment in some place isn't clean and fresh like my home town
+--------Premise T16: the environment can't be keep clean
+--------supporting Premise T16:
+------------Premise T15: There were a lot of people
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Claim T17
+
+
+attacking MajorClaim T1:
+----type: Claim T19
+----text: Moving some places can give to you a lot of experiences
+----supporting Claim T19:
+
+
+----attacking Claim T19:
+--------Premise T20: living in one place like your hometown can make you feel comfortable about the traffic, people and of course the environment
+
+

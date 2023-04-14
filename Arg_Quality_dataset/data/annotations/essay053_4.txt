@@ -1,0 +1,11 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: thousand of animals undergo painful suffering or death as a result of scientific research of drugs and various products
+supporting Claim T10:
+
+
+no arguments attacks Claim T10
+

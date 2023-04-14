@@ -1,0 +1,63 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: if the good people always get an happy ending, I don’t think it’s proper
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: we can’t always let good people be rewarded in movies or TV programs
+----supporting Claim T4:
+
+--------Premise T9: I don’t want to see the same kind of ending again and again
+--------Premise T8: But now many people, including me, have been tired with it
+--------Premise T7: Hollywood stories usually have a happy ending like a hero beats a crime and get a girl
+--------Premise T6: But if the good people are not always rewarded, we will try to finish the movie or dramas to find out the end of the story
+--------Premise T2: if all the story end up in the same way, it will be boring
+--------Premise T3: If good people always win, we can guess the ending of the movies or dramas
+--------Premise T5: Then we will feel less interested in them
+
+----no arguments attacks Claim T4
+
+----type: Claim T10
+----text: if children always watch the TV programs that good people get rewarded, they may think it will be true in the real world
+----supporting Claim T10:
+
+--------Premise T17: it happen more often in the real world than in those movies
+--------Premise T11: They will be misleading by those movies
+--------Premise T16: Even in the real world, good people can get a bad ending sometimes
+--------Premise T12: they may act like good people in order to get reward
+--------Premise T13: Once they find the good people are not always get rewarded, they may feel upset and not to be a good person
+--------Premise T15: we should tell this to the young children to avoid the misunderstanding
+--------supporting Premise T15:
+------------Premise T14: the good people do good things no matter the ending is good or not
+
+--------no arguments attacks Premise T15
+
+
+----no arguments attacks Claim T10
+
+----type: Claim T22
+----text: we should show people the truth in the stories
+----supporting Claim T22:
+
+--------Premise T23: if they can, they will be good people no matter how the story ends
+
+----attacking Claim T22:
+--------Premise T18: those good endings sometimes are helpful
+--------supporting Premise T18:
+------------Premise T19: Some people may be encouraged to do good things
+
+--------attacking Premise T18:
+------------Premise T20: this kind of behavior won’t last long
+------------supporting Premise T20:
+----------------Premise T21: someday they will realize the truth
+
+------------no arguments attacks Premise T20
+
+
+
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: One of the strong arguments in favour of tighter media control is to limit the violent and sexual content
+supporting Claim T3:
+
+----Premise T4: They have a serious impact on people in their puberty
+----supporting Premise T4:
+--------Premise T5: an internet cartoon comedy called happy tree is extremely brutal, where the characters usually have their heads or limbs tear off
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T3
+

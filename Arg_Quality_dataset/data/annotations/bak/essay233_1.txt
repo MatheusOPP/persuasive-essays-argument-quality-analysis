@@ -1,0 +1,8 @@
+Type: Claim T2
+Text: But people should be careful with what they eat
+Supporting Claim T2
+
+    Premise: they should buy only food from well known brands
+
+No arguments attacks Claim T2
+

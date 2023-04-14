@@ -1,0 +1,37 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: this is a worrying tread which has negative impact on children
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: This gives children the idea that it is not necessary to study hard at school for a better career and earning a living
+----supporting Claim T3:
+
+--------Premise T4: The first impression of the celebrities seems that they are rich while not having to work hard
+--------Premise T5: they will not value other people's hard work and take everything for granted
+
+----no arguments attacks Claim T3
+
+----type: Claim T7
+----text: without proper parenting, children may perceive that this is the cool life people are supposed to be living
+----supporting Claim T7:
+
+--------Premise T6: It is not uncommon to see on the media that some of them are committing to crimes or misbehaving such as being addicted to drugs or alcohols, having messy sex lives
+--------Premise T8: not all celebrities are role models
+
+----no arguments attacks Claim T7
+
+----type: Claim T9
+----text: some celebrities, e.g. writers, passionate entrepreneurs are good examples to children
+----supporting Claim T9:
+
+--------Premise T10: they share fascinating stories or how to pursue their goal by doing something that has a meaning to them and may change the world
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

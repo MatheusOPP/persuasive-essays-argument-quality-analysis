@@ -1,0 +1,40 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: It’s certainly better for children to grow up in a big city
+supporting MajorClaim T1:
+
+----Claim T2: I hold this belief because of two main reasons, academic and social reasons
+----type: Claim T4
+----text: Growing up in the countryside is not such a good experience
+----supporting Claim T4:
+
+--------Premise T3: you won’t know a lot of people, there are gossips everywhere, and your life will be really limited
+
+----no arguments attacks Claim T4
+
+----type: Claim T11
+----text: In a big city you have more qualified teachers and a better access to technology
+----supporting Claim T11:
+
+--------Premise T13: I have a friend that grew up in the countryside
+--------Premise T12: He said that he had to study a lot to pass the test to enter the university
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----type: Claim T6
+----text: if a child grows up in a big city they will be all day at home at the computer or at the video-game
+----supporting Claim T6:
+
+
+----attacking Claim T6:
+--------Premise T7: this is not true if you live in a neighborhood with other people about your age as I did
+--------Premise T8: My friends and I used to play soccer, bike, climb trees and do a lot of other stuff every day
+--------Premise T9: We did play video-games, but that wasn't our main activity
+--------Premise T10: In a big city there are more kinds of people and more things to do
+
+

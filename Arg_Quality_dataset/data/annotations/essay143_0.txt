@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: successful people still do things they already know
+supporting MajorClaim T1:
+
+----Claim T3: the advantages of this are relatively greater than that of the opposite
+----type: Claim T9
+----text: successful people do not have to try new things or take risks
+----supporting Claim T9:
+
+--------Premise T8: He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time
+--------Premise T7: He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income
+--------Premise T6: Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment
+--------Premise T5: The lower the factors making us fail we have, the higher probability to success we own
+--------Premise T4: to be successful, we all try to reduce the risk we might encounter
+
+----no arguments attacks Claim T9
+
+----type: Claim T10
+----text: it is not necessary for successful people to take risks
+----supporting Claim T10:
+
+--------Premise T15: those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed
+--------Premise T14: The same reason why they succeed is that they all have the predominated abilities in sports realm
+--------Premise T13: the sports stars do not have to take some drugs to win a game or show their extraordinary skills
+--------Premise T12: a successful person should be able to dismantle the hurdles prohibiting him to success
+--------Premise T11: it depends on the capability of one to decide whether he can succeed or not
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----type: Claim T16
+----text: doing something new is necessary for people to success
+----supporting Claim T16:
+
+--------Premise T17: they can become different from others, which is also a widely accepted idea for success
+--------Premise T18: Try something new can indeed make people become special
+
+----no arguments attacks Claim T16
+
+

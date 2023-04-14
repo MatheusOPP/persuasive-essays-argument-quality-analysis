@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: a person should keep trying for his goals
+supporting MajorClaim T1:
+
+----Claim T3: Anyone who wants to achieve the goal should acknowledge that his effort and experience from suffering helps him understand his true potential and increase his strength, and ultimately, it will prompt him to be ready for overcoming the greater challenge in his life
+----type: Claim T6
+----text: committing to our goal helps creating personal worth
+----supporting Claim T6:
+
+--------Premise T4: I realized the true potential of my body and mind as I decided to train myself hard
+--------Premise T5: Even if I were not to win this medal, I acknowledged the great amount of my endeavor as I could keep my tired legs running
+
+----no arguments attacks Claim T6
+
+----type: Claim T11
+----text: one who learns the great difficulty will become stronger
+----supporting Claim T11:
+
+--------Premise T7: I remembered how I was suffered in the first round when I was last person who touched the line
+--------Premise T8: I did not give up, and believed that I would be better in the next round
+--------supporting Premise T8:
+------------Premise T9: I knew how to improve myself
+
+--------no arguments attacks Premise T8
+
+--------Premise T10: I had been a loser for a thousand time before the first winning, and suffering from losing in each competition makes me stronger
+
+----no arguments attacks Claim T11
+
+----Claim T17: the true reward is to have the dignity
+----type: Claim T12
+----text: the responsibility is worthy of carrying
+----supporting Claim T12:
+
+--------Premise T13: When the distance is longer and harder to achieve, a runner who can go beyond his limit will proud of himself
+--------Premise T14: He can feel the sweetness of triumph
+--------supporting Premise T14:
+------------Premise T15: he did not stop pursing his goal
+
+--------no arguments attacks Premise T14
+
+
+----attacking Claim T12:
+--------Premise T16: we, as an average people, might feel that the responsibility to our goal is too heavy to carry on
+
+
+no arguments attacks MajorClaim T1
+

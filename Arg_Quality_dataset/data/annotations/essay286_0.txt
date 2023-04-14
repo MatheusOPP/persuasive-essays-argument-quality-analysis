@@ -1,0 +1,76 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: Many circumstances that I experienced change the way I think
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: These experiences taught me to change my life to be a better person
+----supporting Claim T3:
+
+--------Premise T4: I could find a better way to solve problems
+--------Premise T6: these experiences could make me to make plan for my future life
+--------Premise T5: experiences could shape me to be more aware about my health
+
+----no arguments attacks Claim T3
+
+----type: Claim T7
+----text: There are many experiences that are improve my life in many way
+----supporting Claim T7:
+
+--------Premise T8: I could improve the way that I solve problems, improve how I take care of my health, and improve to plan my life for future
+
+----no arguments attacks Claim T7
+
+----type: Claim T15
+----text: studying in university taught me to be more prudent person to solve problems
+----supporting Claim T15:
+
+--------Premise T9: in math class, the way that we learnt to find an answer by doing step by step
+--------Premise T10: Start with find cause of problem and the way to do research to solve the problem
+--------Premise T11: I could adapt this method to use my real life
+--------Premise T12: When I want to go to somewhere, I try to find the way to reach to destination
+--------Premise T13: Which ways are shortest and which ways are less consume my time
+--------Premise T14: I could find a better way to solve problems
+
+----no arguments attacks Claim T15
+
+----type: Claim T17
+----text: Some experiences could teach me the way to take care of myself
+----supporting Claim T17:
+
+--------Premise T21: I can have a good health
+--------supporting Premise T21:
+------------Premise T20: This food are not have chemical
+
+--------no arguments attacks Premise T21
+
+--------Premise T19: I am always buy a quality food such as organic food
+--------supporting Premise T19:
+------------Premise T18: reading and listening the news about choosing a good diet are the way to keep myself are more healthy
+
+--------no arguments attacks Premise T19
+
+--------Premise T16: This experience teach me to aware my health
+
+----no arguments attacks Claim T17
+
+----type: Claim T23
+----text: experiences are also change to plan for my future life
+----supporting Claim T23:
+
+--------Premise T25: I start changing myself from spending many thing that I want to saving money for my entire life
+--------supporting Premise T25:
+------------Premise T24: I read about saving money for my retire is a good plan for my life
+------------Premise T22: This experience change me to concern about making plan for my future life
+
+--------no arguments attacks Premise T25
+
+
+----no arguments attacks Claim T23
+
+
+no arguments attacks MajorClaim T1
+

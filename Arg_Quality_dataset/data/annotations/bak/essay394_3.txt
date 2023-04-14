@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: poor handwriting can have a negative impact on students' school performance
+Supporting Claim T8
+
+    Premise: kids who are bad at handwriting meet difficulties in taking notes and catching up lessons
+    Premise: It resulted in the missing of information and the lack of details during their works
+    Premise: the increasing taking advantage of advanced equipment could make students be lazier and more subjective in their writing skills
+
+No arguments attacks Claim T8
+

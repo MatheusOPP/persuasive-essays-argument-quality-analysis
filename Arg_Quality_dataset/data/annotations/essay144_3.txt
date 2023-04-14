@@ -1,0 +1,26 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: university should only accept good students
+supporting Claim T10:
+
+----Premise T11: it gives better human resources for sophisticated purposes
+----Premise T15: limiting the number of people who can be admitted by universities is a good choice
+----supporting Premise T15:
+--------Premise T16: it will reward the motivation of students and constantly keep them in the difficult level of learning, which makes them do the best to improve themselves
+--------Premise T17: this improves the overall quality of education and gives the best people to serve in the most necessary needs of the society
+
+----no arguments attacks Premise T15
+
+
+attacking Claim T10:
+----Premise T12: this may lead to 'social division', when someone with high education refuses to do the called 'low jobs'
+----supporting Premise T12:
+
+----attacking Premise T12:
+--------Premise T13: it gives no harm to the whole community
+--------Premise T14: Those standard jobs will always be available for everyone, while complex ones should be only handled by the best people, who start their career from the best institutions
+
+

@@ -1,0 +1,42 @@
+Type: MajorClaim T2
+Text: I would rather prefer working in a large company than in a small one
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: I have different reasons to hold that, such as having a better chance to find work, having a better salary and having the opportunity to travel around the world to attend international conferences
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T8
+    Text: a large company can give better salaries than a smaller one
+    Supporting Claim T8
+
+        Premise: common sense would tell us that a famous and international known company won't give the same salary as a small local company
+        Premise: The fact that a company is a large one, this means that it's having a considerable success
+        Premise: this means that the company can give more salaries to its employees
+
+    No arguments attacks Claim T8
+
+    Type: Claim T12
+    Text: large companies have an international reputation, as they organize international conferences, meetings and workshops which will give me the opportunity to travel in different countries and meet new people
+    Supporting Claim T12
+
+        Premise: As well as learning new skills in my field from these workshops
+
+    No arguments attacks Claim T12
+
+    Type: Claim T5
+    Text: to find a job in a large company is way more easier than to find a job in a small company
+    Supporting Claim T5
+
+        Premise: Large company equals more job opportunity
+        Premise: Large companies always look for new skilled employees to fill in their need of distributing, managing and selling their products in different countries
+        Premise: if a large company decides to open a branch in a foreign country, they would need more employees in that country to work there
+
+    No arguments attacks Claim T5
+
+
+No arguments attacks MajorClaim T2
+

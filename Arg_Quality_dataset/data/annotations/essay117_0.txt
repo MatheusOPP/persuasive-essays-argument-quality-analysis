@@ -1,0 +1,51 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: technology alone can solve the world's environmental problems
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: technology alone could save the environment
+----supporting Claim T5:
+
+--------Premise T6: now we have come so far ahead in technology that there is no going back
+--------Premise T7: We cannot ask the people of the jet age to go back to the age of the bullock cart
+
+----no arguments attacks Claim T5
+
+----type: Claim T8
+----text: There are a lot of advances going on technology which are helping the environment a lot
+----supporting Claim T8:
+
+--------Premise T9: One prime example is finding solutions to water problems in developing countries such as Africa
+--------supporting Premise T9:
+------------Premise T10: By pressurising sea water to produce vapour jets and filtering them through carbon nano tubes, we can get clean drinking water from sea water - an almost inexhaustible resource
+
+--------no arguments attacks Premise T9
+
+--------Premise T11: Japan is working to build a working space solar power system by 2030
+--------Premise T12: By drawing on the colossal energy of the sun, it could meet the entire world's electricity requirements indefinitely without nuclear or GHG emissions
+--------Premise T13: If successful, the impact on the world would be monumental
+--------supporting Premise T13:
+------------Premise T14: It would mean energy for schools, hospitals, and homes
+------------Premise T15: It would mean another industrial revolution
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Claim T8
+
+
+attacking MajorClaim T1:
+----type: Claim T2
+----text: if humans stop using technology and lead a simple way of life then only we can save the environment
+----supporting Claim T2:
+
+--------Premise T3: it is the luxuries people use which damages the environment
+--------Premise T4: If people don't use air conditioners, automobiles and other such things that technology has brought us, then naturally there would be less pollution and natural resources like fossil fuels would be saved and all this would save the environment
+
+----no arguments attacks Claim T2
+
+

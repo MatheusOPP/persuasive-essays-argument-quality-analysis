@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Living in their own houses will save the young adults a lot of money
+supporting Claim T6:
+
+----Premise T7: If they live separate from their parents they will have to pay for a loan, electricity, water or even for a meal
+----Premise T12: parents will give their children money in order they to focus only on studying
+----Premise T10: There will not be such worries when young adults live in their own home
+----supporting Premise T10:
+--------Premise T11: parents will take care for them
+
+----no arguments attacks Premise T10
+
+----Premise T8: If the young adults still study they will have to combine studying with working
+----supporting Premise T8:
+--------Premise T9: they will not have money to pay for everything
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T6
+

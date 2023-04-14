@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: the hidden meanings of serious movies are usually beyond words and images which make us think about ourselves
+supporting Claim T7:
+
+----Premise T9: The movie is humorous and satiric,which leads us to think what is the most valuable of our lives, and it reminds us how important our families are
+----Premise T8: "Click" is a very interesting comedy, with a serious approach about the importance of having a balanced life between family and work businesses
+
+no arguments attacks Claim T7
+

@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T9
+text: students can learn outside the textbook and classroom with a real working experiences that can be a great opportunity for future job consideration whereas organizations earn much more as they can not only save time and money but also be enlightened by what young people have to say
+supporting MajorClaim T9:
+
+----type: Claim T2
+----text: students can learn invaluable experiences through the period of time working for the institutions they are assigned to
+----supporting Claim T2:
+
+--------Premise T5: the internship, although without pay, can give them the experiences that money cannot buy
+--------supporting Premise T5:
+------------Premise T3: students might have little idea of the real challenges or the true situation when they enter the workforce after graduation
+------------supporting Premise T3:
+----------------Premise T4: In most school curriculums, the courses are theoretical and often by instructors speaking to students sitting in the classroom
+
+------------no arguments attacks Premise T3
+
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Claim T2
+
+----type: Claim T1
+----text: companies save time and resources for searching new staffs and organizing an orientation
+----supporting Claim T1:
+
+--------Premise T8: the younger generations can help them generate new ideas as the students are not bound to restricted workload and they tend to have greater imagination, which can be essentially helpful when they are making a new advertisement or slogan
+--------Premise T7: they can start looking for potential employees and begin the training
+--------Premise T6: As for the companies, the unpaid interns can no doubt save some money
+
+----no arguments attacks Claim T1
+
+
+no arguments attacks MajorClaim T9
+

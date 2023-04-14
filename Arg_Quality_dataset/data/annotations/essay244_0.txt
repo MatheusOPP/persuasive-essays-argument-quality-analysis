@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: television has more bad than good
+supporting MajorClaim T1:
+
+----Claim T2: it has made people not to have conversation each other
+----type: Claim T9
+----text: television shows make people forget what is really important
+----supporting Claim T9:
+
+--------Premise T3: they cannot make appointment or go out with their family or friends at that time
+--------supporting Premise T3:
+------------Premise T5: they think the programs are so crucial to their lives
+------------Premise T4: One who has favorite programs tends to be obessed with them when they are on air
+------------Premise T6: One of my friends, for example, once cancelled an appointment to play basketball with in order to watch the favorite television show "Infinete Challenges"
+------------Premise T7: This is not only about basketball, but also about our friendship, which depends on how often we meet and have a chance to talk to each other
+------------Premise T8: watching television alone at home, my friend lost the opportunity to increase cohesion between us
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Claim T9
+
+----type: Claim T15
+----text: even when people watch television together, there is no chance for them to have conversation in front of television
+----supporting Claim T15:
+
+--------Premise T10: it is not good for them to watch television if they want to improve their sense of closeness
+--------supporting Premise T10:
+------------Premise T11: Watching television program together is not that different from watching same program alone
+------------Premise T13: It is natural they behave in that way
+------------supporting Premise T13:
+----------------Premise T14: television shows don't require any participation
+
+------------no arguments attacks Premise T13
+
+------------Premise T12: it is reported that most of people don't converse with their family when they are watching television together
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Claim T15
+
+----Claim T17: It is because television not only makes people be obsessed with it but also makes their mouth close
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: most serious movies have a wide variety of content
+supporting Claim T3:
+
+----Premise T4: Entertaining movies are created to amuse people
+----Premise T5: most entertaining movies are empty and nonsensical
+----Premise T6: Compared with the entertainment film, the serious film may be more worthwhile and meaningful
+----Premise T10: Serious movies usually designed to express one or more thinking about love, humaneness
+----Premise T11: it may point out the dark sides of the society
+
+no arguments attacks Claim T3
+

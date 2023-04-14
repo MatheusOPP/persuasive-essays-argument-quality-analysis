@@ -1,0 +1,11 @@
+Type: Claim T13
+Text: Computers and modems bring works to home but these still have many things distract their mind
+Supporting Claim T13
+
+    Premise: Facebook or Yahoo have been the entertaining websites, however, they are the reasons why people cannot concentrate on their job
+    Premise: The dos and don't at office play important role to prevent these things from workers
+    Premise: the project cannot being done
+    Premise: The best condition might not be good for people
+
+No arguments attacks Claim T13
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: Experience gained through traveling to different places, meeting different people and even at job goes long way
+supporting Claim T4:
+
+----Premise T5: It not only enhances the confidence of a student but also makes them independent
+----Premise T6: Student's who works tend to gather better financial resources which they can rely on during their university studies
+----Premise T7: This experience also makes them aware of what they would like to make of their life
+----Premise T8: They develop broader view and can make a better choice of their future studies or courses
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: it is crucial to learn our children as soon as possible to learn financially issues
+supporting Claim T2:
+
+----Premise T3: sociologists found that our characteristics and personality forms early in life, even though when we are not borne
+----Premise T4: when I was at age 7 my father gave me monthly money to buy thing that I liked
+----Premise T5: First time I spend the whole money to eat at school and my money finished
+----Premise T6: I asked my father for extra money, but he refuse to give it to me
+----Premise T7: I found that I should manage the way that I spend money
+----Premise T8: I learned to be economical and now I have every thing I wanted
+
+no arguments attacks Claim T2
+

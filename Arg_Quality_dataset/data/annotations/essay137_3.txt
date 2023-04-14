@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: world sport events provide positive waves for number of people
+supporting Claim T8:
+
+----Premise T9: The main purpose of such competitions is to enjoy and share emotions between supporters though their favorite team
+----Premise T10: These emotions are shared locally in our village or city, nationally in our own country but even internationally too
+----Premise T11: these events gather people and their nationalist pride feeling is increased
+----supporting Premise T11:
+--------Premise T12: the football world cup taking place every four years is a very followed event during which everyone is having fun
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T8
+

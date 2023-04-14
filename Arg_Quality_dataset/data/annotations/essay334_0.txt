@@ -1,0 +1,63 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T4
+text: we cannot ignore its negative effects
+supporting MajorClaim T4:
+
+----type: Claim T18
+----text: the disadvantages of machines that bring to us should not be neglected by people
+----supporting Claim T18:
+
+--------Premise T12: because of extensive of using machines, many people loss their job
+--------supporting Premise T12:
+------------Premise T13: Especially in large population countries, high unemployment rate may cause crime and social instability
+
+--------no arguments attacks Premise T12
+
+--------Premise T14: using of machines are also pose serious pollution and energy dissipation
+--------supporting Premise T14:
+------------Premise T15: nowadays people prefer to use dish-washing machine to wash dishes and plates rather than hand washing
+------------supporting Premise T15:
+----------------Premise T16: they did not know that compared with hand washing dish-washing machine consume at least 2 times water and electricity to wash these tableware
+----------------Premise T17: if thousands of families use dish-washing machines, how many water and how much electricity will be wasted
+
+------------no arguments attacks Premise T15
+
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T18
+
+
+attacking MajorClaim T4:
+----Claim T1: we cannot deny machines are play a vital role in people living and working
+----Claim T3: although using machines have many benefits
+----type: Claim T10
+----text: machines can bring many benefits
+----supporting Claim T10:
+
+--------Premise T11: machines are more effective than human
+--------supporting Premise T11:
+------------Premise T5: Not like human, machines do not need rest, which means they can work as long as employers want and consistently produce high quality products without any mistakes
+
+--------no arguments attacks Premise T11
+
+--------Premise T6: using machines can save company's money
+--------supporting Premise T6:
+------------Premise T8: employers do not need to spend money on employee's welfare
+------------supporting Premise T8:
+----------------Premise T7: machines never ask for salary, over-time pay or pension
+
+------------no arguments attacks Premise T8
+
+------------Premise T9: The company only needs some technicians to make sure machines are working on the right track or replace some part when machines are not working
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Claim T10
+
+

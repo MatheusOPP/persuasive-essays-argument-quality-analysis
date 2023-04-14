@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: athletes and singers deserve their current salary
+supporting Claim T8:
+
+----Premise T3: they have an exceptional ability that other people do not own
+----Premise T4: hardly anyone could play basketball as skillfully as Michael Jordan - a legendary former American player who won several times in the NBA championship
+----Premise T5: They also point out that these people have to undergo painstaking and industrious training, let alone participate in a great number of contests to be recognized and prove themselves
+----Premise T6: there are many singers and athletes, few of whom could rise to fame and victory ultimately
+----Premise T7: Overcoming all these obstacles, they should be paid a great deal of money for their extraordinary efforts
+
+no arguments attacks Claim T8
+

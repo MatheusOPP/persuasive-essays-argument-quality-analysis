@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: A strong competition sense helps children having urge to learn or to practice for being the best among peers, and this factor is initially arises from the schools and parents, to encourage children to get the highest scores through the grading system
+supporting Claim T5:
+
+----Premise T6: a competitive child is usually more motivated to pursue a goal or to face difficulties independently
+
+attacking Claim T5:
+----Premise T8: Being competitive leads them to success, but could also restrict them in many ways
+----supporting Premise T8:
+--------Premise T4: it might be hard for a competitive person to deal or manage in a team work project
+
+----no arguments attacks Premise T8
+
+

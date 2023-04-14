@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: A large number of industries fire many forces because of doing their works by new technologies and computers
+supporting Claim T12:
+
+----Premise T6: by using computers in many industries human's role has been reduced
+----Premise T11: Despite many advantages, by coming computers many jobs has been vanished
+----Premise T8: Many industries use computers to command to robots in order to do many regular tasks, which were carried out by human early
+----supporting Premise T8:
+--------Premise T9: many processes of production of cars are carrying out by robots, which are controlled by computers
+--------Premise T10: car companies use computers to simulate and analyze car accident by computers
+
+----no arguments attacks Premise T8
+
+----Premise T7: Nowadays, computer can control and perform some routine activities in industries, which were early done by human
+
+no arguments attacks Claim T12
+

@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: focusing only on talented students is a better option
+supporting Claim T4:
+
+----Premise T5: it helps academic institutions maintain their high education quality
+----Premise T6: Unlike middle school or high school, university and college require far a lot of ability and skills to keep up with an enormous amount of complex knowledge
+----Premise T7: some students may be capable in high schools, but the pressure of higher education is tough even for talented ones
+----Premise T8: That explains why it is only suitable for a limited people, and opening up for everyone will be fatal for institutions
+----supporting Premise T8:
+--------Premise T9: they need to somehow lower the materials so that it is practical for everyone
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T4
+

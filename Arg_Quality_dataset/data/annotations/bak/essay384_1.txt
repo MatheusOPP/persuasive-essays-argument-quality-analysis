@@ -1,0 +1,28 @@
+Type: MajorClaim T2
+Text: violent contents must be excluded from all kidvids in order to reduce the proportion of juvenile delinquency
+Supporting MajorClaim T2
+
+    Type: Claim T7
+    Text: it would be rather necessary for governments to establish an intensive law that prevents teenagers from watching these violent and brutal TV Shows and movies
+    Supporting Claim T7
+
+        Premise: reducing the proportion of violent content in TV shows could, to some degree, decrease the overall crime rate
+        Premise: As a result of mental immaturity, most youngsters are incapable of distinguishing right from wrong
+        Premise: by watching these violent TV programs and videos, juveniles will become very aggressive and offensive and have a great tendency to commit crimes
+        Premise: governments must first prohibit any types of violent content in all children’s television programs
+
+    No arguments attacks Claim T7
+
+
+Attacking MajorClaim T2
+    Type: Claim T11
+    Text: it would certainly be a violation of adults’ civil liberties, if governments implement such a restricted regulation on these TV shows or movies that only for mature audiences
+    Supporting Claim T11
+
+        Premise: adults watch horror video or war movies for relaxing themselves after a busy day
+        Premise: For whom, such media sources are mere materials of relaxation and entertainment
+        Premise: Considering that these mature minds are capable of being responsible for their own behaviors, they certainly have the right to watch TV shows or movies that are appealing to them
+
+    No arguments attacks Claim T11
+
+

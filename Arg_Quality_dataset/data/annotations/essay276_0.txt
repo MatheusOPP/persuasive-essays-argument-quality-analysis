@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: dancing is an important part of culture
+supporting MajorClaim T1:
+
+----Claim T2: dancing are represent to believe of people
+----type: Claim T5
+----text: dancing is important in every culture
+----supporting Claim T5:
+
+--------Premise T3: dancing could show how civilization of that culture is
+--------Premise T4: people use dancing to entertain themselves
+
+----no arguments attacks Claim T5
+
+----type: Claim T6
+----text: dancing are the part of people belief
+----supporting Claim T6:
+
+--------Premise T7: some culture people believe that they dance in order to sacrifice to their god so they will be get a happy life
+--------Premise T8: Or some part of the world that are in arid area believe that if they danced, the rain would come
+--------Premise T9: dancing are significant part of culture that could show to something that people believe
+
+----no arguments attacks Claim T6
+
+----type: Claim T10
+----text: dancing can represent to civilization of that culture
+----supporting Claim T10:
+
+--------Premise T11: I have seen many western movies that when a kingdom have visitor from another kingdom, king or queen would dance to show a splendid of their kingdom culture
+--------Premise T12: The way of movement, the way that they costume and also a music while they dance
+--------Premise T13: All this is a civilization of their culture
+
+----no arguments attacks Claim T10
+
+----type: Claim T14
+----text: dancing is one of that ways
+----supporting Claim T14:
+
+--------Premise T17: many event, such as christmas, last christmas I went to mall to buy gifts, and I was entertained by group of people in santa custom dancing in christmas song
+--------Premise T16: Both people who see and dance also have a good time
+--------Premise T18: I felt that people around me happy and group of santas also happy to see people happy
+--------Premise T15: many culture, people have many ways to entertain themselves
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

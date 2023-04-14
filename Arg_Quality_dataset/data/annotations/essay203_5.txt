@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: those who believe in hard work are clear about their goals and know about their final destination
+supporting Claim T13:
+
+----Premise T14: They carefully organize the process of achieving their targets and continue to evaluate their progress until they reach the final goal
+----Premise T15: If you believe in luck, you would be clueless about where you are heading
+----Premise T16: a friend of mine, who had severe financial constraints, had the habit of buying lottery tickets thinking that one day he would win a lottery
+----Premise T17: He was living in an illusion that he can solve his financial issues with this lottery
+----Premise T18: up to this day his luck has not appeared and problems have got further worsened
+
+no arguments attacks Claim T13
+

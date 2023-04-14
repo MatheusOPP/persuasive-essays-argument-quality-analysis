@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I would prefer to have my own job
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: time is the more valuable thing, which I have in my life
+----supporting Claim T7:
+
+--------Premise T2: By having my own business, I can manage my own time
+--------Premise T3: could work whenever I want, or I do not need to give reasons to my boss for a delay
+--------Premise T4: I can arrange time to travel when I would like
+--------Premise T5: I can work long hours for earning more money
+--------Premise T6: the most important reason for me to be self-employed is the sense of free
+
+----no arguments attacks Claim T7
+
+----type: Claim T8
+----text: I never have been rich in my life
+----supporting Claim T8:
+
+--------Premise T10: my salary is not dramatically changed
+--------Premise T9: If I work for other people, I have to give my ideas to employers cheaply
+--------Premise T11: I can earn more money based on my creativity and personal ideas
+--------Premise T13: The amount of money is always the most important criterion for everyone to choose a job
+--------Premise T12: earning money is the fundamental reason that why people work
+
+----no arguments attacks Claim T8
+
+
+attacking MajorClaim T1:
+----Claim T14: many people are not eager to work for themselves
+

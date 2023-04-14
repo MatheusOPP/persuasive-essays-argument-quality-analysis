@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: mobile phones have shortened the distance of communication
+supporting Claim T13:
+
+----Premise T14: Mobile phones , such as smart phones, has made our communication easy and convenience
+----supporting Premise T14:
+--------Premise T12: as most of the telecommunication companies provide us with access to the internet via our phones, people are able to enjoy sending instant messages and making international calls free of charge
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T13
+

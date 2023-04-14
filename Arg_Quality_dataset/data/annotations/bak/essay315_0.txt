@@ -1,0 +1,39 @@
+Type: MajorClaim T1
+Text: I prefer to live in bigger cities than in small ones
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: living in a dynamic environment can turn into a very rich experience that sharpens one's personality and open one's eyes on the real world
+    Supporting Claim T2
+
+        Premise: Life in big cities cities gives one new challenges every day, let it be deciding which restaurant to go to or deciding which company to work for
+        Premise: For me, this lifestyles is very attractive and is considered a huge advantage of big cities compared with the constant, slow paced life styles of small towns
+
+    No arguments attacks Claim T2
+
+    Type: Claim T5
+    Text: the facilitates and services it contains which support and improve the quality of its inhabitants' lives, hospitals, advanced medical facilities can satisfy one's need of medical safety
+    Supporting Claim T5
+
+
+    No arguments attacks Claim T5
+
+    Type: Claim T6
+    Text: Cultural events such as exhibitions and theatre plays can enrich one's and widen his horizons, things which aren't offered by small towns
+    Supporting Claim T6
+
+
+    No arguments attacks Claim T6
+
+    Type: Claim T7
+    Text: big cities offer more opportunities for one's career advancements and a more chances of higher income that small towns does
+    Supporting Claim T7
+
+        Premise: economic power of a country is driven by it's big cities and the majority of wealth and finance is centered and controlled in big cities
+        Premise: higher income can be the basis of a happier, healthier life
+
+    No arguments attacks Claim T7
+
+
+No arguments attacks MajorClaim T1
+

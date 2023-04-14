@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: The new high school will bring a lot of advantages to my community
+supporting MajorClaim T2:
+
+----Claim T3: The high school of my district is pretty old and lacks in necessities for students, so they can't get enough education
+----Claim T7: this new construction has a lot of advantages like new connections between students from different communities, also the new educational equipment will increase the students' enthusiasm toward studying
+----type: Claim T8
+----text: the new high school will bring a lots of opportunities for student concerned in education
+----supporting Claim T8:
+
+--------Premise T11: the students can't study well during the classes
+--------supporting Premise T11:
+------------Premise T10: the laboratory of physics and chemistry was in bad condition
+
+--------no arguments attacks Premise T11
+
+--------Premise T12: They will study with new breath and great enthusiasm in new school
+--------Premise T9: Their old high school is pretty old and need in new educational materials, repairing of the place for sport activities
+
+----no arguments attacks Claim T8
+
+----type: Claim T13
+----text: the new high school will be a place for new connections between the student of different communities and districts of the city
+----supporting Claim T13:
+
+--------Premise T14: After classes students and not only the students will get together in building of high school, participate in different competitions
+--------Premise T15: during the football match the students of different high schools will come and after the competition they will keep in touch
+--------Premise T16: This will increase the social connections of the students
+
+----attacking Claim T13:
+--------Premise T17: The only disadvantage is the noisiness of the competitions
+--------supporting Premise T17:
+------------Premise T18: The people living in the neighborhood will be a bit perturbed
+
+--------no arguments attacks Premise T17
+
+
+
+attacking MajorClaim T2:
+----type: Claim T4
+----text: The only disadvantage is the nosiness of competitions which students will participate
+----supporting Claim T4:
+
+--------Premise T6: it isn't a big deal
+
+----no arguments attacks Claim T4
+
+

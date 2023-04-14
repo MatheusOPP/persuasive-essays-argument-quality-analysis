@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: students who study outside their countries can get a lot of experience living in a foreign country
+supporting Claim T4:
+
+----Premise T7: Living in a new country requires a great amount of flexibility and adaptability in one's character
+----Premise T9: they should be able to deal with the obstacles that they may encounter
+----supporting Premise T9:
+--------Premise T8: students might face many challenges in the host country
+--------Premise T10: Overcoming problems teaches the students how to be more mature and self-independence
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T4
+

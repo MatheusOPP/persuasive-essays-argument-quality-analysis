@@ -1,0 +1,37 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the benefits of learning in universities are the vital factor in creating more possibilities for the development of society through advancing academic fulfillment and the young generation who have experiences and challenges
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: universities provide not only skills for careers, but also academic knowledge for the human race, such as bio science, politics, and medicine
+----supporting Claim T7:
+
+--------Premise T10: diverse experiences in the campus life can make the young generation more competently
+--------supporting Premise T10:
+------------Premise T11: there are a number of chances through internships, deeper discussion, independent life, and exchange scholarships
+
+--------no arguments attacks Premise T10
+
+--------Premise T9: many researches in the ivory-tower have created ingenious discoveries and achievements for the development of modern society
+--------Premise T8: These academic values are necessary to the progress of the world
+
+----no arguments attacks Claim T7
+
+
+attacking MajorClaim T1:
+----Claim T2: higher education does not guarantee young students' success
+----type: Claim T3
+----text: it is a loss of national productivity that young people spend much time on searching for high salary jobs, even can be a sheer time-consuming
+----supporting Claim T3:
+
+--------Premise T6: the labor market for highly educated students is now too competitive to get a job after finishing their studying
+--------Premise T5: labors for graduates are in short supply
+--------Premise T4: there are numerous job opportunities for those who do not have the certification of university graduation, such as mechanics, sales persons, or engineers
+
+----no arguments attacks Claim T3
+
+

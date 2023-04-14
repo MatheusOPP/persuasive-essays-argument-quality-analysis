@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: email can be count as one of the most beneficial results of modern technology
+Supporting Claim T3
+
+    Premise: Many years ago, peoples had to pay a great deal of money to post their letters, and their payements were related to the weight of their letters or boxes, and many accidents may cause problem that the post could not be delivered
+    Premise: nowadays, all people can take advantage of internet to have their own email free, and send their emails to everyone in no time, besides they can be sure if their emails have been delivered or not
+
+No arguments attacks Claim T3
+

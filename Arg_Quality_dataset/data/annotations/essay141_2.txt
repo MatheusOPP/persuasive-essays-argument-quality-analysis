@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: we can commence to agree that communicating with someone in person is the best way
+supporting Claim T11:
+
+----Premise T7: He once complained a service of a restaurant
+----Premise T8: Without exaggeration, he directly went to the boss and told the boss that something wrong occurred on the meal--a fly concealed in it
+----Premise T9: Afterward, my uncle acquired a new service thanks to face-to face communication
+----Premise T10: If he just wrote something to complain on the website or by telephone, I do not think this problem would be thought important
+----Premise T6: Sometimes, face-to face communication can lead us to convince or complain someone successfully, and a fitting example can be found from my uncle
+----Premise T5: communicating in person can be more convincing
+
+no arguments attacks Claim T11
+

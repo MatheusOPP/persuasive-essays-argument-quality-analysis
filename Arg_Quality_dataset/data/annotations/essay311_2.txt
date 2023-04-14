@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: the students are not constantly expert in every part of a subject
+supporting Claim T6:
+
+----Premise T4: I don't like electronics
+----supporting Premise T4:
+--------Premise T5: electronics cannot always be seen in the real world
+
+----no arguments attacks Premise T4
+
+----Premise T7: And I have had 0 in physics score when I study the electronics
+----Premise T8: But I constantly achieve 100 score when I study other part of the physics
+----Premise T9: And if I cannot attend the classes until I pass the exam of electronics, I could not pass the entire part of physics, and I will fail the exam over and over again
+----Premise T10: Luckily, in our university, you can attend the classes regardless of the score you reach
+----Premise T11: And I can study physics without consideration of my electronics
+----Premise T12: And at last, I took the electronics again and pass the exam
+
+no arguments attacks Claim T6
+

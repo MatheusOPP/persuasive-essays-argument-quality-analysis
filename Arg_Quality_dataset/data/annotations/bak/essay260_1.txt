@@ -1,0 +1,11 @@
+Type: Claim T2
+Text: If you don't make yourself outstanding enough or you fail to distinguish yourself from others, you will be easily replaced and eliminated by someone who is better than you
+Supporting Claim T2
+
+    Premise: when I was in college, I was always chosen to be the presenter of group report
+    Premise: Only who has the sharpest weapon can survive
+    Premise: As living in a competent world, we are like playing a survival game
+    Premise: being positively different from everyone else usually means that you've achieved something that is superior than others
+
+No arguments attacks Claim T2
+

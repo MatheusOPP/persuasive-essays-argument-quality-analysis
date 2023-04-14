@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: sectors such as medical care and education deserve more governmental support
+supporting Claim T12:
+
+----Premise T11: it is a bit inappropriate to use the majority of citizens' tax funds to meet a minority of people's needs
+----supporting Premise T11:
+--------Premise T15: not everyone is a fan of watching musicals on the spot
+
+----no arguments attacks Premise T11
+
+----Premise T14: putting taxpayers' money on building theaters or sports stadiums is unfair to those who cannot use them
+----Premise T13: they are accessed by every individual in our society on a daily basis
+
+no arguments attacks Claim T12
+

@@ -1,0 +1,41 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is still of great importance to remain the harmonious coexistence of both sides for the smooth sailing of the company
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: old workers are not a patch on the younger ones for their unchanged paradigm
+----supporting Claim T6:
+
+--------Premise T3: The old were raised in poverty, probably caused by war, look at the world from a negative and pessimistic point of view
+--------Premise T4: The misery is so ingrained in their mind that they refuse to change, or more precisely, to accept the existence of such modernity
+--------Premise T5: most would rather choose to piece together parts of a machine than have it done by a robot for their disbelief of its efficiency and safety compared with human's capability
+
+----no arguments attacks Claim T6
+
+----type: Claim T9
+----text: knowledge is worth mentioning as a key factor to help young workers outrank the elderly
+----supporting Claim T9:
+
+--------Premise T7: Who would the employer choose, an old man with old-fashioned education and a young man who is not only good at fundermentaly subject, but also knows how to program or how to speak foreign languages
+--------Premise T8: Not to undermine old workers, but their lack of authority over such basically required fields in this day and age leads to their incompetence in every modern workplace
+
+----no arguments attacks Claim T9
+
+----type: Claim T10
+----text: their unresponsiveness can be attributed to their attitude towards life
+----supporting Claim T10:
+
+--------Premise T11: that they are aware of their deteriorating health and lack of enthusiasm comes with their taste for monotony and safe ideology
+--------Premise T13: Blatantly seen, success of most companies stems from young people, whose enterprising ideas that catch up with the world is regarded as wind of refreshment
+--------Premise T12: This, by all means, is outweigh by youngsters' adventurousness and bravery
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----Claim T2: workers over 50 have proven themselves subordinate to the following generation in all aspects
+

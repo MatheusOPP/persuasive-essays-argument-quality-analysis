@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: businesses had better not employ the workers for the whole of their life
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: writing e-mail helps people express honestly
+supporting Claim T9:
+
+----Premise T10: the face-to-face conversations make them feel stupid
+----supporting Premise T10:
+--------Premise T11: Sometimes, their ideas are not expressed as exactly as they expect
+
+----no arguments attacks Premise T10
+
+----Premise T8: e-mail will be a good tool to help me speak out
+----supporting Premise T8:
+--------Premise T12: I want to talk to my friend about a ticklish problem like her behavior, it's hard for me to face her and explain what she should do
+--------Premise T13: She will just read my e-mail instead of listening to my voice which can make her annoyed
+--------Premise T14: I don't have to worry about any other thing can make my opinion become unpersuasive
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T9
+

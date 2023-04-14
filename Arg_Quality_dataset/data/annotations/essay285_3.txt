@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: online class could not provide knowledge about social skills
+supporting Claim T10:
+
+----Premise T12: In a classroom, teacher could give assignment to student to work as a group
+----Premise T13: This could help students to learn how to deal with people, how to collaborate with people in their group
+----Premise T11: This important skill cannot be gotten in online classes
+
+no arguments attacks Claim T10
+

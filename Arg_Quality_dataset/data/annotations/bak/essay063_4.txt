@@ -1,0 +1,8 @@
+Type: Claim T13
+Text: investing much time in cooking food will guarantee nutrition as well as quality of food for their family
+Supporting Claim T13
+
+
+Attacking Claim T13
+    Premise: it is quite easy to have a nutritious meal with guaranteed quality, but do not waste a lot of time
+

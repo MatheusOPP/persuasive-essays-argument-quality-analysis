@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: creating an enjoyable working environment is more realistic and essential if one wishes an increase in productivity and better employee performances
+supporting Claim T5:
+
+----Premise T10: Take Google for example, the company offers recreation rooms and extra personal leaves for their workers to develop a more relaxing and supportive workforce
+----Premise T11: the employers can make sure the employees can actually focus and concentrate on their projects instead of thinking about their children or feeling pressured
+
+no arguments attacks Claim T5
+

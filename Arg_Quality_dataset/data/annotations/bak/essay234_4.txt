@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: schools should require students to take standardized tests, as long as this option helps to both sides
+Supporting Claim T12
+
+    Premise: standardized tests can be good chance for students to apply their knowledge on practice
+    Premise: standardized tests offer them such chance
+
+No arguments attacks Claim T12
+

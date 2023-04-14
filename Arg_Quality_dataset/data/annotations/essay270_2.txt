@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: great planning and organizing ability is able to cause our actions more efficient and productive
+supporting Claim T3:
+
+----Premise T4: Take myself as an example, I used to be overwhelmed by the burden of preparing for the final exam, submitting my paper, and finishing my internship work at the end of each term
+----Premise T5: Yet, in this year, following the suggestion of my roommate, John, I make a to-do list to plan and organize perfectly everything I should get done in the final and hence take every tasks and trivials into control
+----Premise T6: This plan ability helps me a lot, making me climb to the top rank of the class while finishing everything else
+
+no arguments attacks Claim T3
+

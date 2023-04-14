@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: some museums and art galleries will not disappear
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

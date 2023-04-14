@@ -1,0 +1,8 @@
+Type: Claim T15
+Text: playing sports will give good effects on children
+Supporting Claim T15
+
+    Premise: there are many benefit when children doing sport
+
+No arguments attacks Claim T15
+

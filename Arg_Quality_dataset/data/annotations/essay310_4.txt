@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: people prone to work in two or three firms in a week
+supporting Claim T15:
+
+----Premise T16: the expenses have been increased
+----Premise T12: This fact pushes them to work faster and faster
+----Premise T11: If they work just in one organization they cannot earn enough money
+----Premise T17: The more money, the more chances
+----Premise T14: I am working in two organization to gain more salary
+----supporting Premise T14:
+--------Premise T13: applying to study abroad needs a lot of money
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T15
+

@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: social activities have same rights to receive monetary support
+Supporting Claim T10
+
+    Premise: social groups and classes are significant factors to prepare students to contribute in discussion and encounter real social environment
+    Premise: students should be prepared to present in society after their graduation
+    Premise: social activities can help them to be familiar with other's mind and different environment
+    Premise: besides the academic knowledge, the awareness of social behavior is an important factor for human's life
+
+No arguments attacks Claim T10
+

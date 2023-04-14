@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: investing money to enhance the general health state is a totally right decision
+supporting Claim T15:
+
+----Premise T14: human resources play a key role in the development of a country
+----Premise T5: Preventative measures will help improve general health state of all citizens
+----supporting Premise T5:
+--------Premise T12: vaccines will guarantee that pregnant women and their babies are protected from serious infectious diseases such as flu, smallpox, rubella so on
+--------Premise T13: When huge injection campaigns are organized throughout our country, the community's health state will be improved remarkably
+
+----no arguments attacks Premise T5
+
+----Premise T17: the government can save a lot of money for our country's health budget
+----supporting Premise T17:
+--------Premise T16: the cost of treatment is often much higher than that of prevention
+
+----no arguments attacks Premise T17
+
+
+no arguments attacks Claim T15
+

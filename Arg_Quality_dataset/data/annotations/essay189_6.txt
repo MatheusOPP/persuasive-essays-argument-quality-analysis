@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: If the student get involved himself in job in rest of the time, then it would cause an extra burden on them
+supporting Claim T12:
+
+----Premise T13: He has to spend his most of time in school to get a good grades
+----Premise T14: A student has to do lots of studies in today's competitive world to prove himself
+
+no arguments attacks Claim T12
+

@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: the economic development and environmental protection can be conflicting
+supporting Claim T5:
+
+----Premise T7: they have to rely on natural resources to maintain their living standards
+----supporting Premise T7:
+--------Premise T8: these needy countries lack adequate financial and human resources, advanced technologies and experience
+
+----no arguments attacks Premise T7
+
+----Premise T6: some countries may place economic developments ahead of environmental protection, thus ruining the local environments
+----Premise T3: unchecked and reckless uses of the local raw materials may happen, which can put a strain on the natural resources
+----supporting Premise T3:
+--------Premise T4: people in the poverty-stricken areas are not likely to be equipped with knowledge to preserve the ecosystems
+
+----no arguments attacks Premise T3
+
+
+no arguments attacks Claim T5
+

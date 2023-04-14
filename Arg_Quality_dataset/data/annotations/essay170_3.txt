@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: advanced technology enables people to enhance their living-level and health care standard
+supporting Claim T8:
+
+----Premise T9: With the improvement of medical technology, it is obvious that the life expectancy in many countries has been significantly longer than before, and many serious diseases are under control
+----Premise T10: we could get more happiness from technology
+----supporting Premise T10:
+--------Premise T11: Digital entertainment technology allows people to enjoy playing interactive video games and watching three-dimensional movies
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T8
+

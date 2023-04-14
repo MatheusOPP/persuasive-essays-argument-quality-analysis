@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: they have a lot of time in their hand to enjoy this stage of their life
+Supporting Claim T8
+
+    Premise: they do not have to educate and they do not have to work
+    Premise: I made a large number of friends in this age, and I almost traveled to all cities of my county when I was in kindergarten
+    Premise: I got familiar with different kind of animals and plants in this age
+
+No arguments attacks Claim T8
+

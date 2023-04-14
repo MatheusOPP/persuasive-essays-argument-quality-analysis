@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: the advertisement is not the only cause for people to buy
+supporting Claim T9:
+
+----Premise T11: buying habit is a very personal things for individuals
+----Premise T10: sometimes it depends on one's needs and ability of consumption
+----Premise T12: It is unlikely to buy things impulsively for adults who have concern of arranging disposable income
+----Premise T13: Most of them have to allocate the money if they doing other purchase
+
+no arguments attacks Claim T9
+

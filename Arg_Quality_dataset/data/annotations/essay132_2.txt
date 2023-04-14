@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: The best way to ensure a flexible earning is getting more jobs
+supporting Claim T6:
+
+----Premise T8: many people's jobs are now at high stake
+----supporting Premise T8:
+--------Premise T9: robots, automation and softwares are taking over manual human workers professions such as clerks, interpreters, security services, retails and specially in manufacturing companies
+--------Premise T10: North American economists have published reports after scrutinizing the recent American economic situation that, technology is eliminating more jobs than creating one
+--------Premise T11: the arrival of technology has also been playing a major role promoting further unemployment
+
+----no arguments attacks Premise T8
+
+----Premise T7: corporational policy to to pay less to inferiors is another reason that drives labours to work on different sectors
+
+no arguments attacks Claim T6
+

@@ -1,0 +1,74 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: going to classes should be optional for the students
+supporting MajorClaim T2:
+
+----Claim T1: it is university level of education, students have enough maturity to choose their choice
+----type: Claim T5
+----text: they have enough ability to read and understand the text book
+----supporting Claim T5:
+
+--------Premise T6: the university students have grown up
+
+----no arguments attacks Claim T5
+
+----type: Claim T7
+----text: with the modern technology, students can collect more information from different sources
+----supporting Claim T7:
+
+--------Premise T8: from the Internet, students can read many articles and e-books and can watch video tutorials which provide the information more apparently
+
+----no arguments attacks Claim T7
+
+----type: Claim T11
+----text: going to classes are sometimes waste of the time
+----supporting Claim T11:
+
+--------Premise T3: some lecturers in our university read the same text in the reference books for that particular course module
+--------Premise T4: they didn't explain the contents in order to understand by the students
+--------Premise T12: It was waste of the time
+
+----no arguments attacks Claim T11
+
+----type: Claim T13
+----text: rather than attending any boring lecturers, students can participate to other activities such as debate competition, swimming meet, Basketball and so forth
+----supporting Claim T13:
+
+--------Premise T17: they can meet other university students and build up the relationships with them
+
+----no arguments attacks Claim T13
+
+----type: Claim T16
+----text: they have to schedule the lectures time, studying time and working time
+----supporting Claim T16:
+
+--------Premise T15: Students need to work as part time basis
+--------Premise T14: most of the university students are working students in order to manage the expenses during the education time
+--------Premise T18: mostly university has taken whole day for the lectures
+
+----no arguments attacks Claim T16
+
+----Claim T22: When the students go to university, they have matured mentally and physically
+----Claim T23: They have enough knowledge to choose what they need to do
+
+attacking MajorClaim T2:
+----type: Claim T9
+----text: some lecturers deliver lectures very informative and interesting way
+----supporting Claim T9:
+
+--------Premise T10: When the students attend that lectures, they can obviously feel that it was very useful and they did not waste their time
+
+----no arguments attacks Claim T9
+
+----type: Claim T20
+----text: few brilliant lecturers deliver more informative lectures
+----supporting Claim T20:
+
+
+----attacking Claim T20:
+--------Premise T21: some are boring the students in the class and wasting the students' time
+
+

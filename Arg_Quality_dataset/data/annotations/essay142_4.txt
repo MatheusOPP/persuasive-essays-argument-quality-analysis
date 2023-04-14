@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: the increase in life expectancy puts a high pressure on the economic system
+supporting Claim T11:
+
+----Premise T12: more pension have to spend for Medicare instead of investing in other sectors of the economic system
+
+attacking Claim T11:
+----Premise T14: they are worth to have good care
+----supporting Premise T14:
+--------Premise T13: the capital that spend on taking care the elderly is contributed by these people during their working time
+--------Premise T15: They have given their effort to the society so that young people, the governments have a responsibility to improve the Medicare system
+
+----no arguments attacks Premise T14
+
+

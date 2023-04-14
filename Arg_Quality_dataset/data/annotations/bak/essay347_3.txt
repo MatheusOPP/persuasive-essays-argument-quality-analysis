@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: A good advertisement can convince people to believe that it is what they want, even though it is not the real needs of the society
+Supporting Claim T7
+
+    Premise: products usually look more gorgeous and with good quality in advertisement, people are more likely to buy goods impulsively without a second thought
+    Premise: there are always people purchase particular products swayed by advertising which makes it a trend to follow for other people who is unnecessarily need it
+
+No arguments attacks Claim T7
+

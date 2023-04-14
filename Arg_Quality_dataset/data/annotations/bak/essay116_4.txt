@@ -1,0 +1,8 @@
+Type: Claim T11
+Text: talent in art is extremely precious and should not be wasted
+Supporting Claim T11
+
+    Premise: this type of talent has to be valued as other types of talents such as talent in science or literature
+
+No arguments attacks Claim T11
+

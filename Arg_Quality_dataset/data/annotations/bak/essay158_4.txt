@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: managers of cities can earn more money from the attraction provided by old buildings and that amount can be spent on their conservation
+Supporting Claim T9
+
+    Premise: Old buildings are an essential part of history
+    Premise: Tourist often decide to discover the culture of a country when they visit through those old buildings
+
+No arguments attacks Claim T9
+

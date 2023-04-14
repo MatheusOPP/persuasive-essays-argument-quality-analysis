@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: death penalty neither controls the violent in society nor creates a violent culture
+supporting Claim T2:
+
+----Premise T22: it is regarded as the "legalized revenge" to victims' family
+----supporting Premise T22:
+--------Premise T4: the criminal is repeated second time
+
+----no arguments attacks Premise T22
+
+----Premise T3: Crimes kill someone which is illegal; nevertheless, the government use law to punish them, which is the same way they sinned but in a legal one
+----Premise T5: capital punishment is a form of revenge which creates violent culture
+
+no arguments attacks Claim T2
+

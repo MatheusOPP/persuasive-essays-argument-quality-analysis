@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: it would improve students' social behavior
+Supporting Claim T6
+
+    Premise: if they deal more with facts, they can realize social situations effectively and so improve their social communication in everyday life
+    Premise: If students only rely on concepts and ideas theorically, they would not realize human's mind very well
+
+No arguments attacks Claim T6
+

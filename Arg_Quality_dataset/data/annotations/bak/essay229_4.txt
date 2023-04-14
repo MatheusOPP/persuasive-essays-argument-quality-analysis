@@ -1,0 +1,14 @@
+Type: MajorClaim T16
+Text: a mistake can not brake friendship if it is not a big
+Supporting MajorClaim T16
+
+    Type: Claim T17
+    Text: friendship is forever and gift our life
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T16
+

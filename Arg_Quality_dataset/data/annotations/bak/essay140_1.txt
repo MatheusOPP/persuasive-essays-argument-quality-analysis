@@ -1,0 +1,9 @@
+Type: Claim T2
+Text: judging student's skills and abilities should only be based on their academic qualifications and talents rather than gender in particular
+Supporting Claim T2
+
+    Premise: both male and female students are equally competitive to each other and deserve to produce impressive results in various field of education
+    Premise: In India, for example, female students are more often likely to grab more number of top scorer positions in every year higher secondary school examinations
+
+No arguments attacks Claim T2
+

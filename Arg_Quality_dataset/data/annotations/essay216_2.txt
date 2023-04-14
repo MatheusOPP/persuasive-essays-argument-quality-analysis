@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: investing in roads and highways can broaden the area and allow more public transportation to work
+supporting Claim T4:
+
+----Premise T10: Not only buses but also other personal vehicles can move easily on the roads
+----Premise T11: I always leave school at the time that everybody rushes into the roads and hastily goes home
+----Premise T12: It is extremely troublesome for me to escape from the crowd on the roads in only one hour
+----Premise T13: if the roads are enlarged, everyone can go home in short time and there are hardly any collisions
+
+no arguments attacks Claim T4
+

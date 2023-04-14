@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: students are given such fantastic chance to create new and wide relationships with a lot of people from any corner of one nation, even from the whole world
+supporting Claim T10:
+
+----Premise T9: The number of individual who enroll in university are enormous, more than any school one person have studied
+----Premise T11: my brother are studying in an international university with a mixed community include Vietnam, Brazil, Argentina, etc
+----Premise T12: And he told me that he is very excited for experiencing such new environment, which is one of his main purposes when attending university
+
+no arguments attacks Claim T10
+

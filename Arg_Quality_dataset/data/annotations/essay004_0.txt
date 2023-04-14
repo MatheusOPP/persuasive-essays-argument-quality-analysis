@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: this industry has affected the cultural attributes and damaged the natural environment of the tourist destinations
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: international tourism can create negative impacts on the destination countries
+----supporting Claim T4:
+
+--------Premise T8: This was due to the lack of adequate controls by authorities and lead to a bad image of Thailand tourism
+--------Premise T7: Take Thailand for example, in the Vietnam War, many American soldiers came to Thailand for a break and involved in sexual and drug activities, these huge demands caused many local businesses opened and expanded, even illegally involved in under-age prostitutes to maximize their profits
+--------Premise T6: tourists from different cultures will probably cause changes to the cultural identity of the tourist destinations
+
+----no arguments attacks Claim T4
+
+----type: Claim T5
+----text: tourism has threatened the nature environments
+----supporting Claim T5:
+
+--------Premise T9: tourism increasingly create harms to the natural habitats of the destination appeals
+--------Premise T11: many marine lives have been endangered, in the extremes part of the reef become uninhabitable for these marine species
+--------supporting Premise T11:
+------------Premise T10: As the Australia’s Great Barrier Reef has shown, the billion visitors per annum has generated immense destruction to this nature wonder, namely breaking the corals caused by walking or throwing boat’s anchors, dropping fuel and other sorts of pollutions
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Claim T5
+
+
+attacking MajorClaim T1:
+----Claim T3: the tourism bring large profit for the destination countries
+

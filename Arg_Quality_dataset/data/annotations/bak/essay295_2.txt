@@ -1,0 +1,29 @@
+Type: MajorClaim T4
+Text: I support this point that the learning with a teacher is better
+Supporting MajorClaim T4
+
+    Type: Claim T10
+    Text: learning with a teacher is that you can ask about problems related your studies
+    Supporting Claim T10
+
+        Premise: when we encounter difficulty in our study which we can not make out, that asking the difficulty from our teacher is propitious way for us to solve it instantly
+        Premise: professors and teachers have much experience and knowledge, and are so dextrous with letting students understand their study
+        Premise: They know something which are not incorporated in such materials as books and webpages
+        Premise: I, in my class, often communicate with my teacher to find a coordinated answer to a my faced problem, and my classmates are so accustomed to communicating with the teacher
+
+    No arguments attacks Claim T10
+
+    Type: Claim T15
+    Text: the learning with a teacher is more efficient than by myself
+    Supporting Claim T15
+
+        Premise: We can accomplish our assignments with little help of a teacher within less time than do it by ourself
+        Premise: the teachers play important role in leading us to right direction
+        Premise: This gives us opportunity to rise our educational level to an exited degree
+        Premise: knowledge may be thereby better improved and strengthened
+
+    No arguments attacks Claim T15
+
+
+No arguments attacks MajorClaim T4
+

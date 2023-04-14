@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: sacrificing the senior members to save the young workers poses several negative influences
+supporting Claim T10:
+
+----Premise T11: From personal level, it fosters a sense of unfairness between the older and younger generations
+----supporting Premise T11:
+--------Premise T12: every person within the business enterprise has the rights to proceed their work as long as they are capable of doing it, disregard the age and physical capacity
+
+----no arguments attacks Premise T11
+
+----Premise T8: From social perspective, massively forcing the early retirement would be one of financial burden to the local government
+----supporting Premise T8:
+--------Premise T9: sufficient pension payments and regular medical care should be given and arranged for the senior citizens after they have been imposed to terminate their employment permanently
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T10
+

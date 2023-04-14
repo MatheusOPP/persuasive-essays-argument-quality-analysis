@@ -1,0 +1,32 @@
+Type: MajorClaim T2
+Text: a hurried decision is almost never a good one
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: making quick decisions leads to probable bad results
+    Supporting Claim T3
+
+        Premise: if someone decided to quit his job without really thinking about the alternative, or a plan B, he could end up being unemployed, because of his speedy decision
+        Premise: making a quick decision means that it's not very thought out, and that it hasn't been checked from all its aspects
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: making a rushed decision could also mean that the person is missing out on a potential opportunity
+    Supporting Claim T6
+
+        Premise: he wouldn't have been unemployed
+
+    No arguments attacks Claim T6
+
+    Type: Claim T9
+    Text: hasty decisions, not only goes to waste, but also, could affect the entire life of the person
+    Supporting Claim T9
+
+        Premise: his life had taken a turn to the worst
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T2
+

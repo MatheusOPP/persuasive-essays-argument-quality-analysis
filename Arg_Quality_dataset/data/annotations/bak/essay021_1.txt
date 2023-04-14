@@ -1,0 +1,44 @@
+Type: MajorClaim T2
+Text: high sales are obviously a reflection of the powerful advertisements
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: The most effective way to convince consumers to purchase a product is through advertising
+    Supporting Claim T3
+
+        Premise: The product also should satisfy the needs of the consumers
+        Premise: it is not sufficient in itself
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: advertisers push the limits of creativity to dispose the consumers to purchase the product
+    Supporting Claim T6
+
+        Premise: We are mainly introduced to products through advertisements
+        Premise: When the consumers are impressed by the way a product is advertised, they can be convinced to consider that the product is a need in some cases
+        Premise: the number of that product being sold will increases
+
+    No arguments attacks Claim T6
+
+    Type: Claim T7
+    Text: Advertisement is the most effective way to create a well-known product
+    Supporting Claim T7
+
+        Premise: the more an advertisement of a product takes place in mass media, the more popular the product becomes
+        Premise: Consumers tend to purchase the most known product when it comes to picking one out of two different brands of the same product
+
+    No arguments attacks Claim T7
+
+    Type: Claim T8
+    Text: They make the product preferable
+    Supporting Claim T8
+
+        Premise: advertisements have undeniable affects on the society about the product being advertised
+        Premise: When a product is commonly used, it becomes trustworthy for the society, no matter what quality it is
+
+    No arguments attacks Claim T8
+
+
+No arguments attacks MajorClaim T2
+

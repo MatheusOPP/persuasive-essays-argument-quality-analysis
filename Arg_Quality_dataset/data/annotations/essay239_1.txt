@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: a person with good manner will give others a fine personal impression
+supporting Claim T2:
+
+----Premise T3: Through those impressions, a person was easily to get acquired with others and blended with the community that surrounded him as soon as possible
+----Premise T4: I worked in a new company, if I am a guy with good manners and treating everyone well, my new colleagues will accept me, even then I will be approved by the employers
+----Premise T6: I will be fired and have no other choice but lost my job
+----Premise T5: In opposite situation if I am being rude, I can not get along well with each other
+
+no arguments attacks Claim T2
+

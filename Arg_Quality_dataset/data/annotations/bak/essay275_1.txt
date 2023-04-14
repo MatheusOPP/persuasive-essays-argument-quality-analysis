@@ -1,0 +1,13 @@
+Type: Claim T2
+Text: it is crucial to learn our children as soon as possible to learn financially issues
+Supporting Claim T2
+
+    Premise: sociologists found that our characteristics and personality forms early in life, even though when we are not borne
+    Premise: when I was at age 7 my father gave me monthly money to buy thing that I liked
+    Premise: First time I spend the whole money to eat at school and my money finished
+    Premise: I asked my father for extra money, but he refuse to give it to me
+    Premise: I found that I should manage the way that I spend money
+    Premise: I learned to be economical and now I have every thing I wanted
+
+No arguments attacks Claim T2
+

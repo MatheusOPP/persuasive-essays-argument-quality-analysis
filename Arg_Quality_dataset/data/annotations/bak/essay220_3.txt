@@ -1,0 +1,12 @@
+Type: Claim T5
+Text: undergoing with parents is worthwhile
+Supporting Claim T5
+
+    Premise: All memories become priceless treasure as time passes by
+    Premise: If he lives with his parents for longer time, they have more chances to share the feelings, exercise, and travel together
+    Premise: When having a job, it is of low possibilities to work in his hometown
+    Premise: The young adult has to try to create memories with his dad and mom in the early age
+    Premise: the young adult can have more experience with his parents
+
+No arguments attacks Claim T5
+

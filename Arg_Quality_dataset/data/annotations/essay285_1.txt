@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: it should not replace classroom learning
+supporting Claim T2:
+
+----Premise T4: learning in classroom are not only learning academic skills but also learning social skills, and learning how to solve problem in real situation
+----Premise T3: Learning in classroom could provide more information to study
+
+no arguments attacks Claim T2
+

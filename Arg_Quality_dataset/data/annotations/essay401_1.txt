@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: The first reason why the father's role should be equal to the mother's role is the nature of parantage
+supporting Claim T5:
+
+----Premise T3: the role models within a family play a significant role in the development of the child's characteristics
+----supporting Premise T3:
+--------Premise T4: in a traditional Turkish family, while a mother has a sincere and thoughtful approach to the child, a father role must be present as authoritarian and conversative to raise a well-behaved child
+
+----no arguments attacks Premise T3
+
+
+no arguments attacks Claim T5
+

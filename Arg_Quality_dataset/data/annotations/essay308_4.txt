@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: I also love the environment in here
+supporting Claim T17:
+
+----Premise T14: I have been gone to some places to travel and stay for a short time, and I realize that the environment in some place isn't clean and fresh like my home town
+----Premise T16: the environment can't be keep clean
+----supporting Premise T16:
+--------Premise T15: There were a lot of people
+
+----no arguments attacks Premise T16
+
+
+no arguments attacks Claim T17
+

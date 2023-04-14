@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: it is unfair for passive smokers
+supporting Claim T14:
+
+----Premise T15: they do not smoke but they have same health risks as the active one
+----Premise T18: Stroke, heart disorders, hearing loss, and cancers are some diseases that can attack passive smokers
+----Premise T17: When they are around the active smokers, they will inhale hazardous smoke
+----Premise T16: passive smokers will have a lot of health risks
+
+no arguments attacks Claim T14
+

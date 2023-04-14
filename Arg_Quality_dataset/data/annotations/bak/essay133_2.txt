@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: people cannot pass the day without stay in front of computer or using it
+Supporting Claim T3
+
+    Premise: This situation becomes lifestyle habits, and nowadays human activities are influenced by computer use
+
+No arguments attacks Claim T3
+

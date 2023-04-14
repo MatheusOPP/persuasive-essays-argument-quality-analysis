@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: it is indisputable that every new kind food or pill may be noxious, and scientists must do something to insure that the new invention benefits people instead of making people ill or even dying
+Supporting Claim T10
+
+    Premise: The new foods or medicines are invented to promote the quantity of human's life
+    Premise: it also have potentially harm for human's health without any testing
+    Premise: even if they are volunteers; they cannot take the place of animals to test the new foods or medicines
+
+Attacking Claim T10
+    Premise: animal experiments have negative impact on the natural balance
+

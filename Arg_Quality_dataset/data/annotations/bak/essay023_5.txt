@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: There is panic among people that their conversation can be intercepted by the third party
+Supporting Claim T11
+
+    Premise: This possibility exists all the time
+
+Attacking Claim T11
+    Premise: a more efficient and reliable system can also be invented to guarantee the private information of users
+

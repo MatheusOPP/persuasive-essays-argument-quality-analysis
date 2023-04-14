@@ -1,0 +1,8 @@
+Type: Claim T7
+Text: it is not possible for everyone to visit a foreign country to learn a foreign language
+Supporting Claim T7
+
+    Premise: it requires large amount of money and legal formalities
+
+No arguments attacks Claim T7
+

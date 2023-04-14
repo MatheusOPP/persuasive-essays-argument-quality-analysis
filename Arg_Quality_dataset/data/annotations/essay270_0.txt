@@ -1,0 +1,65 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: it is essential for people, especially young ones, to possess the ability to plan and organize
+supporting MajorClaim T2:
+
+----Claim T1: it can improve the efficiency and reduce the crisis of our actions
+----type: Claim T3
+----text: great planning and organizing ability is able to cause our actions more efficient and productive
+----supporting Claim T3:
+
+--------Premise T4: Take myself as an example, I used to be overwhelmed by the burden of preparing for the final exam, submitting my paper, and finishing my internship work at the end of each term
+--------Premise T5: Yet, in this year, following the suggestion of my roommate, John, I make a to-do list to plan and organize perfectly everything I should get done in the final and hence take every tasks and trivials into control
+--------Premise T6: This plan ability helps me a lot, making me climb to the top rank of the class while finishing everything else
+
+----no arguments attacks Claim T3
+
+----type: Claim T7
+----text: the capacity to plan and organize also help young people to eliminate the crisis in their actions, which may ruin one's whole effort over a very long time
+----supporting Claim T7:
+
+--------Premise T11: Every employee can not afford this kind of loss
+--------Premise T9: If some employees lack the ability to plan and organize ahead, they may get the procrastination and therefore take into action until the deadline is imminent
+--------supporting Premise T9:
+------------Premise T8: the employees in every company have to create profit as much as they can for their supervisors and complete their assignments perfectly
+
+--------no arguments attacks Premise T9
+
+--------Premise T10: those employees who did not plan and finish their assignments ahead of time perhaps are unable to finish these tasks on time and therefore will be penalized or get fired
+--------supporting Premise T10:
+------------Premise T12: the deadline of task is shifted to an earlier date for the change of company's schedule
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Claim T7
+
+----Claim T22: In this complex society, we, young people, are encompassed with multiple tasks
+
+attacking MajorClaim T2:
+----type: Claim T13
+----text: it is not need for young people to possess this ability
+----supporting Claim T13:
+
+--------Premise T14: the ability to plan and organize can be learned until obtaining a job
+
+----attacking Claim T13:
+--------Premise T15: this ability is also essential for young people
+--------supporting Premise T15:
+------------Premise T16: young people can overcome their bad habits and fulfill their goals more quickly with this ability
+
+--------no arguments attacks Premise T15
+
+--------Premise T20: if they make their plan in the first place, and then stick to their plans, they could get their work done quickly beyond their imagination
+--------supporting Premise T20:
+------------Premise T17: As searching information on the internet, young people are probably distracted by other attractions such as online games or social webs
+------------Premise T18: they would surf on the internet for hours and end up no where
+------------Premise T19: It is obviously a huge waste of time
+
+--------no arguments attacks Premise T20
+
+
+

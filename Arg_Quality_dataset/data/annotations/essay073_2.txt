@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: pictures can influence the way people think
+supporting Claim T4:
+
+----Premise T6: statistics show a slight reduction in the number of smokers, indicating that they realize the effects of the negative habit
+----supporting Premise T6:
+--------Premise T5: nowadays horrendous images are displayed on the cigarette boxes to illustrate the consequences of smoking
+
+----no arguments attacks Premise T6
+
+
+no arguments attacks Claim T4
+

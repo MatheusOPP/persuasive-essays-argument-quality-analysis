@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: Health education causes long-term positive effects on our next generations
+supporting Claim T4:
+
+----Premise T6: thank to a full health education from their childhoods, children will have good habits of taking care of their own health and these habits may be kept in their adolescences
+----Premise T11: Health education will help people to have right choices of treatment to recover more quickly
+----supporting Premise T11:
+--------Premise T8: health education will prepare for people especially children necessary knowledge to protect themselves from risks of diseases
+--------Premise T9: Instead of afraid or panic, they may be calmer if unfortunately committing some normal diseases such as allergy or illness in seasonal changes
+--------Premise T10: Many diseases which may be cured easily can turn to serious ones if we do not have right treatment
+
+----no arguments attacks Premise T11
+
+----Premise T7: if a child is educated to have a hygienic lifestyle at a very young age, he also keeps it when older
+
+no arguments attacks Claim T4
+

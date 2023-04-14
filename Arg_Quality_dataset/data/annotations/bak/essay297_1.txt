@@ -1,0 +1,45 @@
+Type: MajorClaim T2
+Text: the classroom learning is the best way to provide education for these reasons
+Supporting MajorClaim T2
+
+    Type: Claim T7
+    Text: classroom learning is the best way to provide education comparing to online classes
+    Supporting Claim T7
+
+        Premise: In the classroom environment you can learn from your classmates
+        Premise: When I was in First Year in B Com, I was not serious in my study, but when I saw some of my friends who took better grades than me, it influenced me and I intended to do better in my subjects
+        Premise: I got 1st rank in final exam
+
+    No arguments attacks Claim T7
+
+    Type: Claim T8
+    Text: It makes you perfect in time management skills
+    Supporting Claim T8
+
+        Premise: It makes you communication and of course your group skills better, which can help you in your future and career
+        Premise: you can learn by participating in group studies how to communicate with others
+        Premise: in classroom learning you have to complete study work on time
+
+    No arguments attacks Claim T8
+
+    Type: Claim T12
+    Text: you learn quickly
+    Supporting Claim T12
+
+        Premise: You can improve your skills by work under any professor; you can ask questions face to face, it will clear your doubts
+        Premise: professors play vital role in classroom learning, most of them are specialists is their subjects, and they help you by giving valuable information and useful skills
+        Premise: For Toefl IBT Coaching first I was depend on some online courses, but after 1 month I realized that I was wasting my time so I joined an institute for preparation of Toefl IBT, and in 1 month I felt that my English skills have been improving faster
+
+    No arguments attacks Claim T12
+
+
+Attacking MajorClaim T2
+    Type: Claim T16
+    Text: online classes have some advantages so they could be used as supplementary
+    Supporting Claim T16
+
+
+    Attacking Claim T16
+        Premise: they could not be substitute of existing classroom learning
+
+

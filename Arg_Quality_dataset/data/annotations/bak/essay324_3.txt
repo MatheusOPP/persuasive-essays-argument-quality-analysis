@@ -1,0 +1,12 @@
+Type: Claim T9
+Text: Changing the type of work will be fresh and elicit their potential to adapt a new environment, which, according to psychology theories, makes workers relaxed and happier
+Supporting Claim T9
+
+    Premise: Doing different tasks makes employees and employers much happier
+    Premise: Workers, who work for an ordinary company or industry, will be sick of same tasks day by day
+    Premise: consider every workers have ability to do several kinds of work, employers will be satisfied by the generating benefits
+    Premise: They both will be happy
+
+Attacking Claim T9
+    Premise: they can be familiar with their job
+

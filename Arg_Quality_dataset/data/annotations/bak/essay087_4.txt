@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: there are a large number of opportunities in privat works that you cannot find them when you work for the others
+Supporting Claim T5
+
+    Premise: In your job you can be boss of yourself; however, in the other jobs someone else are your boss
+    Premise: You always have to be responsible for your task, and it make a stressful situation that I never like it
+
+No arguments attacks Claim T5
+

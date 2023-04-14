@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: young adults living with parents will not be free to do what they want
+supporting Claim T10:
+
+
+attacking Claim T10:
+----Premise T11: most young adults are inclined to take unprecedented advantages of the freedom they have
+----Premise T12: It is good thing if living with parents does not give freedom for young people to party all night, smoke or do drugs
+

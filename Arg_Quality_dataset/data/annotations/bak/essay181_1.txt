@@ -1,0 +1,46 @@
+Type: MajorClaim T2
+Text: the benefit from it will outweigh the cost
+Supporting MajorClaim T2
+
+    Type: Claim T4
+    Text: There are many advantages setting up the university such as more opportunities to people in the community to pursue their studies, creation of jobs
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: This new university will allow a great number of people in my community to have a chance to study
+    Supporting Claim T5
+
+        Premise: suppose you live in a faraway community where there is no single university and you might not want to leave your family
+        Premise: If you would like to attend a business school, you have to travel across the country to get to a distant university
+        Premise: He or she definitely can get in the business school in the proposed community's university
+
+    No arguments attacks Claim T5
+
+    Type: Claim T12
+    Text: This can also help stimulate the local economy
+    Supporting Claim T12
+
+        Premise: a number vacant positions need to be filled
+        Premise: when people have jobs, they will have money to spend on goods and services
+
+    No arguments attacks Claim T12
+
+    Type: Claim T14
+    Text: building the university may lead to some social problems
+    Supporting Claim T14
+
+        Premise: A number of people then may come from any other communities in order to get in to or get the jobs at the university
+        Premise: When many people congregate in one place, I think that some kinds of social problems will follow
+        Premise: Traffic may worsen
+        Premise: More wastes have to be managed
+        Premise: Maybe crime rate will also increase
+        Premise: These social problems may impair the quality of life in the community
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T2
+

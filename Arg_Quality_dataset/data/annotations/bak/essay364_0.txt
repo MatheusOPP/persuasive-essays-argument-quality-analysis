@@ -1,0 +1,42 @@
+Type: MajorClaim T1
+Text: traditional skills and ways are always valuable and will last forever
+Supporting MajorClaim T1
+
+    Type: Claim T8
+    Text: traditional skills and ways belong to value of culture
+    Supporting Claim T8
+
+        Premise: They make differences between countries
+        Premise: they keep reserving conventions
+        Premise: ways to build a house in every country are different and they distinguish between countries
+
+    No arguments attacks Claim T8
+
+    Type: Claim T14
+    Text: in some cases that traditional way can not replace by a new technology
+    Supporting Claim T14
+
+        Premise: Lot of people like to use traditional things because if their quality and durability
+        Premise: there are plenty of works that using traditional way is unique method
+
+    No arguments attacks Claim T14
+
+    Type: Claim T15
+    Text: Traditional skills and ways of life will help youngsters study and know more history
+    Supporting Claim T15
+
+        Premise: Methods which their ancestors used in the past will be displayed again for new generations
+        Premise: they might create somethings that are useful for life
+
+    No arguments attacks Claim T15
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: technology has brought many benefits
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+

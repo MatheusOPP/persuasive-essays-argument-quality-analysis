@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: it is more likely for us to buy goods in lower price in the shopping center, and save our time on the other hand
+supporting Claim T2:
+
+----Premise T12: There may be a competition between the new shopping center and other existing stores to attract the customers
+----Premise T13: with sales promotion, it is easy for consumers to compare the price of the same merchandise before they buy
+----Premise T14: the residents do not have a problem spending time on commute in the hope of setting up a shopping center near their homes
+
+no arguments attacks Claim T2
+

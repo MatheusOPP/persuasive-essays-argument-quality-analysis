@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: In order to help visitors to learn more about the exhibits, museums hold various activities which make visitors be part of what they are seeing
+supporting Claim T12:
+
+----Premise T13: at American Museum of Natural History, you can make a bone-by-bone reproduction of the museum's stegosaurus
+----Premise T14: at Museum of Art in New York, you can look at 17th century instruments while listening to their music
+----Premise T15: While if you "visit" the museum online, you may not able to get this kind of experience
+
+no arguments attacks Claim T12
+

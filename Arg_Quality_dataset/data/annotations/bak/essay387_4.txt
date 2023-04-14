@@ -1,0 +1,8 @@
+Type: Claim T10
+Text: living in such cities also means living in high crime rate areas
+Supporting Claim T10
+
+    Premise: Unemployed workers or school dropouts can easily commit crime from petty offence to felony such as burglary, pickpocketing, trickery, vandalism, smuggling or even murder
+
+No arguments attacks Claim T10
+

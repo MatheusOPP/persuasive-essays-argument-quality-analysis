@@ -1,0 +1,11 @@
+Type: Claim T16
+Text: a visit to the zoo will help increasing someone's respect and appreciation for animals
+Supporting Claim T16
+
+    Premise: It is a lot easier to appreciate something after you have seen it, and learned from it
+    Premise: This is especially true for people living in the city, where the only animals they normally interact with are pets like cats and dogs
+    Premise: In the present there is a lack of respect for animals
+    Premise: Being able to see the animals in real life and learning facts about them would help by making people aware of the importance of animals and the respect they deserve
+
+No arguments attacks Claim T16
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: there is no reason that governments should hesitate to invest in public transportation, a healthy, safe and economical way of transporting
+supporting Claim T13:
+
+----Premise T12: According to National Safety Council, riding the bus is over 170 times safer than private care
+----Premise T11: using public transportation is much safer than private transportation
+
+no arguments attacks Claim T13
+

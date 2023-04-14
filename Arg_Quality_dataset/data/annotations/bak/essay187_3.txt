@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: When you are exposed to an environment where everybody talks to you in the new language you want to learn and expects you express words from the same language, you are forced to learn it as soon and good as possible
+Supporting Claim T9
+
+    Premise: There are lots of evidences show that communication is the most important factor in learning a new language
+    Premise: if I wanted to learn a new language and had enough money to afford the travel, I would definitely make the second choice
+
+No arguments attacks Claim T9
+

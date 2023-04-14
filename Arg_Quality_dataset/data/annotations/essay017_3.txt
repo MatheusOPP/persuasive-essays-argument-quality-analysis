@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: In spite of enjoying watching television shows, it is really time consuming task
+supporting Claim T5:
+
+----Premise T6: Emergence of new television channels or shows are not surprising
+----Premise T7: We kill time by tracking these channels so at the end of the day we understand it is late for doing any other activities
+----Premise T8: This is a problem that suffers all of us everyday
+----Premise T9: there is no time for call to our parents or friends
+
+no arguments attacks Claim T5
+

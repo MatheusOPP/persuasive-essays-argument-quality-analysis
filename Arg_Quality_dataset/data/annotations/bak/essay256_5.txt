@@ -1,0 +1,10 @@
+Type: Claim T15
+Text: if students already understand the contents on the class enough to pass the exams or they can study the course on their own
+Supporting Claim T15
+
+
+Attacking Claim T15
+    Premise: this is a rather immodest way of thinking
+    Premise: professors can always give students more than students themselves could because of the experiences and their qualifications as professors
+    Premise: even if students believe that they are so brilliant to surpass their professors, they can still go to the classes to discuss with professors and classmates
+

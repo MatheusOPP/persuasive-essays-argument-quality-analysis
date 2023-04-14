@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: new technologies are always great
+supporting Claim T11:
+
+
+attacking Claim T11:
+----Premise T4: it takes time for people to adapt them
+----Premise T6: many people often get lost
+----supporting Premise T6:
+--------Premise T5: we are informed with devices that are produced with new features nearly every day
+
+----no arguments attacks Premise T6
+
+----Premise T8: even though I used it for couple months, I still do not know how to use all the features proficiently
+----supporting Premise T8:
+--------Premise T9: I tried to go through all the instructions but, soon, I gave up
+--------supporting Premise T9:
+------------Premise T10: I found out that it is time-consuming and there are too many things to learn
+
+--------no arguments attacks Premise T9
+
+--------Premise T7: I use new Iphone which I personally think is great
+
+----no arguments attacks Premise T8
+
+

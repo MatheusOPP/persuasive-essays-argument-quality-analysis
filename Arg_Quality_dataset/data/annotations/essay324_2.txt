@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: great achievement needs someone keen on one task for long time
+supporting Claim T3:
+
+----Premise T7: Gandhi devoted his whole life to fight against British-ruled government and inspire movements for civil rights in India, finally he became the father of the nation
+----Premise T6: As a authoritative dentist in my province, my mother has worked for 25 years
+----Premise T5: It allows us to achieve more
+
+attacking Claim T3:
+----Premise T4: when it comes to "happier", different type of jobs can be responsible factor
+

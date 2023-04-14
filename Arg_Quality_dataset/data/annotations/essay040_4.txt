@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: doing extra jobs helps student with money for their accommodation
+supporting Claim T11:
+
+----Premise T12: high studying tuition, added with raising accommodation expenses are becoming a huge burden to students
+----Premise T13: With the money they earn from extra jobs, which normally is not much, those difficulties could be partially solved
+
+no arguments attacks Claim T11
+

@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: by charging private individuals for causing air pollution, that will at least contribute to reduce the amount of the pollution
+Supporting Claim T8
+
+    Premise: some expensive vehicles cause a huge amount of pollution
+    Premise: As house heating is a major need in the winter time, some households do not consider to use filters to reduce the amount of pollution that the heating causes
+    Premise: private individuals cause air pollution in several ways such as inessential use of cars and house heating
+
+No arguments attacks Claim T8
+

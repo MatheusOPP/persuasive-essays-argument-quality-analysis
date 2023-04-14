@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: the parents can save money, if their children live with them longer
+supporting Claim T13:
+
+----Premise T14: living at home costs less than living outside
+----Premise T10: he may have to rent a house and the rental would become a burden for parents
+----supporting Premise T10:
+--------Premise T15: Learning to be independent means that the young adult needs to leave home
+
+----no arguments attacks Premise T10
+
+----Premise T11: another daily expense is also the considerable outgoings
+----Premise T12: Spending much money may not result in what the parents expect their children to be
+
+no arguments attacks Claim T13
+

@@ -1,0 +1,28 @@
+Type: MajorClaim T1
+Text: both learning by myself and learning with a teacher could be helpful
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: Learning with a teacher can prevent one from being confused and increase the rate and speed of learning
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: for practical subjects you have to have a teacher
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: sometimes I would rather learning on my own
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+
+No arguments attacks MajorClaim T1
+

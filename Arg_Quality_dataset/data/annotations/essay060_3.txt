@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: Working or traveling for some time, after high school, can help them to find their field of interest
+supporting Claim T8:
+
+----Premise T9: It will also help them to learn professional setup by working
+----Premise T10: Financially, students can save a little money to support their university education by doing a job
+----Premise T11: Some students even utilize this time for preparation of their desired university course
+
+no arguments attacks Claim T8
+

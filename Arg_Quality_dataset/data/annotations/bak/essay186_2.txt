@@ -1,0 +1,37 @@
+Type: MajorClaim T3
+Text: human needs for farmland, housing and industry are more important
+Supporting MajorClaim T3
+
+    Type: Claim T9
+    Text: the needs for farmland, housing and industry are more important
+    Supporting Claim T9
+
+        Premise: the society will be stable and harmony due to more farmland and industry
+        Premise: land used for farmland, housing and industry can benefit more to the whole society
+        Premise: the economy of the whole society will be developed with the help of agriculture, real estate industry and industry, in particularly industry which is the pillar industry of national economy
+
+    No arguments attacks Claim T9
+
+    Type: Claim T10
+    Text: farmland, housing and industry can satisfy the desire of human that living a better life
+    Supporting Claim T10
+
+        Premise: farming, housing and industry provide us the food we eat, place we live, clothes we wear, which are essential to live
+        Premise: Especially in some poor areas, survival is the most significant thing
+        Premise: highly developed agriculture and industry can improve our living conditions which allow us have a good quality life
+
+    No arguments attacks Claim T10
+
+    Type: Claim T14
+    Text: it can do good to protect the endangered animals
+    Supporting Claim T14
+
+        Premise: we can have more advanced methods to take care of endangered animals
+        Premise: agriculture and industry make a contribution to the economy
+
+    Attacking Claim T14
+        Premise: farmland, housing and industry will occupy the land used for endangered animals
+
+
+No arguments attacks MajorClaim T3
+

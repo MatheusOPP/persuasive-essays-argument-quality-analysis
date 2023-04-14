@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: arts should by no means been disregarded by the government
+supporting Claim T8:
+
+----Premise T11: they require various entertainment such as music, movies or books to them ease their minds and release pressure
+----supporting Premise T11:
+--------Premise T10: Currently, people are increasingly occupied with their work and studies due to the stiff competition
+
+----no arguments attacks Premise T11
+
+----Premise T9: arts can enrich people's cultural lives
+----Premise T12: Without arts, people would be at risk of suffering psychological problems
+
+no arguments attacks Claim T8
+

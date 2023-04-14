@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: spending more time to nurture excellent students is more consequential to professors, rather than research
+supporting Claim T20:
+
+----Premise T17: Students are unsatisfied with the unprepared course, and the enrollment of universities may decline
+----Premise T18: Many students would not choose these kinds of universities to study
+----Premise T16: if professors are busy in doing research, ignoring preparing appropriate courses for students, it would ruin the reputation of universities
+----Premise T28: It is adverse to the whole academic field
+----supporting Premise T28:
+--------Premise T19: hardly can professors find assistants to help with projects
+
+----no arguments attacks Premise T28
+
+
+no arguments attacks Claim T20
+

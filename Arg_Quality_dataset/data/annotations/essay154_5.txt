@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: living with a roommate also enables me to socialize more easily
+supporting Claim T11:
+
+----Premise T12: It is always easier to socialize when you have a lot of people around you
+----Premise T13: You can invite your roommates' friends over to your room and have fun together
+----Premise T14: one night, my roommate, Millan, brought his friends along
+----Premise T15: Even though his friends and I were total strangers to each other, we quickly got to know each other
+----Premise T16: We soon found out that everyone loved playing video games
+----Premise T17: We played a video game called 'Halo' together all night, and became good friends
+----Premise T18: Living with a roommate made socializing much easier for me
+
+no arguments attacks Claim T11
+

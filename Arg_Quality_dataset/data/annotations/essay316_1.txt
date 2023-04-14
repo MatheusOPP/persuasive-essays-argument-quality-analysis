@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: Building more accommodating constructions meets people's basic need
+supporting Claim T8:
+
+----Premise T9: People cannot live a harmonious life if citizens do not have a decent place to live in
+----Premise T3: If the price of housing grows continuously, a comfortable place to live in will be a luxury to the middle class and the low class
+----Premise T4: ordinary people, especially the younger generation, will fall into a certain pattern - work, pay bills for housing, work; and I am sure that it will increase people's dissatisfaction of the government
+----Premise T5: when they are working, the fair of losing their accommodation always lingers, which will limit their efficiency
+----Premise T6: government should spend money on people to rescue them from this
+----supporting Premise T6:
+--------Premise T7: only a government of the people, by the people, for the people will finally last; people's cohesiveness will be promoted
+
+----no arguments attacks Premise T6
+
+
+no arguments attacks Claim T8
+

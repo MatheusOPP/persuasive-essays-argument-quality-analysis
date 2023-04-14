@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: a visit to the zoo will help increasing someone's respect and appreciation for animals
+supporting Claim T16:
+
+----Premise T18: It is a lot easier to appreciate something after you have seen it, and learned from it
+----Premise T19: This is especially true for people living in the city, where the only animals they normally interact with are pets like cats and dogs
+----Premise T20: In the present there is a lack of respect for animals
+----Premise T17: Being able to see the animals in real life and learning facts about them would help by making people aware of the importance of animals and the respect they deserve
+
+no arguments attacks Claim T16
+

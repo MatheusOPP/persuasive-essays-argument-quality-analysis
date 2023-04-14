@@ -1,0 +1,12 @@
+Type: Claim T17
+Text: government should create campaign to fill love to family
+Supporting Claim T17
+
+    Premise: When family understand each other, it mean society and a nation will not have much trouble
+    Premise: setting event once a week to gather everyone in family to spend time with each other
+    Premise: family is a root of society
+    Premise: If everyone in family did not have time to spend with each other, that family could have problems, If family had problems, it mean society could have problems
+    Premise: When society had problems, it could impact to a nation
+
+No arguments attacks Claim T17
+

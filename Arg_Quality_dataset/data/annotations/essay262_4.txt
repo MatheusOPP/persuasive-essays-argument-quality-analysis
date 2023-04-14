@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: this generation is encountering the self-recognition issue which could not be experienced by the previous generation
+supporting Claim T14:
+
+----Premise T12: The past generation was given less freedom and was usually asked to follow the paths their parents had prepared for them
+
+no arguments attacks Claim T14
+

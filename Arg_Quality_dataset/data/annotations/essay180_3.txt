@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: By participating in an organization, it is a positive way for people to obtain some experiences on a particular purpose
+supporting Claim T10:
+
+----Premise T11: A solid group can be a suited environment, which provides people to improve themselves or broaden their horizons
+----supporting Premise T11:
+--------Premise T12: as a student majoring in mass media, I have taken part in mass media student group for a year
+--------Premise T13: When being in the department of art, I have not only learned how to do a project, but also known some famous artists during the term
+--------Premise T14: it is advantage which increase an opportunity on my resume for the sake of getting a better job
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T10
+

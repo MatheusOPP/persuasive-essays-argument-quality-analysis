@@ -1,0 +1,11 @@
+Type: Claim T14
+Text: another advantage of small towns is living costs
+Supporting Claim T14
+
+    Premise: because of less crowded spaces we have more facilities and more services
+    Premise: Living cost is one of the important concerns in every society and then, in a small town living cost is fewer than in big cities
+    Premise: in a small town we can live in big houses with good landscapes
+    Premise: we can save time and money
+
+No arguments attacks Claim T14
+

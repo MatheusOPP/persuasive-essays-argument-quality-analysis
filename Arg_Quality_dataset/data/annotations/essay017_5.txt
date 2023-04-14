@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: some television programs have a negative effect on viewers
+supporting Claim T14:
+
+----Premise T15: Some thriller or action movies advertise negative activities such as doing criminal activity
+----Premise T17: They usually try to mimic what they see on movies in their daily behaviors
+----Premise T16: These genre of programs has more negative effects on our teenagers
+
+no arguments attacks Claim T14
+

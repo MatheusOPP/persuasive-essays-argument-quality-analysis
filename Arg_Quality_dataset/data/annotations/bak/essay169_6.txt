@@ -1,0 +1,11 @@
+Type: Claim T20
+Text: spending more time to nurture excellent students is more consequential to professors, rather than research
+Supporting Claim T20
+
+    Premise: Students are unsatisfied with the unprepared course, and the enrollment of universities may decline
+    Premise: Many students would not choose these kinds of universities to study
+    Premise: if professors are busy in doing research, ignoring preparing appropriate courses for students, it would ruin the reputation of universities
+    Premise: It is adverse to the whole academic field
+
+No arguments attacks Claim T20
+

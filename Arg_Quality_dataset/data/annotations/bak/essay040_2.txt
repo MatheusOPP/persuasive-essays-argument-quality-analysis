@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: having experienced in working environment during student time offers a distinct advantage when they apply for jobs after their graduation
+Supporting Claim T4
+
+    Premise: students who get part time jobs have not only academic knowledge but also hands-on experience
+    Premise: Part-time jobs furnish them with precious chance to practice what they are learning at their universities
+    Premise: It is undoubtedly certain that students can gain their practical experience by getting involved extra jobs
+
+No arguments attacks Claim T4
+

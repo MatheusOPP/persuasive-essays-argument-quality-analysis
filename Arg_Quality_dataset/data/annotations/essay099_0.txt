@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I would agree to idea of taking a break before starting higher education
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: Students who take break, gain lot of benefits by traveling around the places or by working
+----supporting Claim T2:
+
+--------Premise T3: They tend to contribute more due to their real world experiences which makes them more mature
+
+----no arguments attacks Claim T2
+
+----type: Claim T4
+----text: Experience gained through traveling to different places, meeting different people and even at job goes long way
+----supporting Claim T4:
+
+--------Premise T5: It not only enhances the confidence of a student but also makes them independent
+--------Premise T6: Student's who works tend to gather better financial resources which they can rely on during their university studies
+--------Premise T7: This experience also makes them aware of what they would like to make of their life
+--------Premise T8: They develop broader view and can make a better choice of their future studies or courses
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T1:
+----type: Claim T14
+----text: Taking a break not just has benefits but it also comes with some negative impacts
+----supporting Claim T14:
+
+--------Premise T9: Once student's starts earning, they might not like to go back to studies where they would lose their financial independence
+--------Premise T10: They might even find it difficult to adapt to education environment
+--------Premise T11: There is also a risk of student never going back to university or higher education
+--------Premise T12: Probably some might take some short term courses instead of proper and complete university education, which will help them to get a better job and salaries
+--------Premise T13: This might only help them in a short run as it is a known fact that to make a reasonable career in longer runs, one needs a proper and higher qualification
+
+----no arguments attacks Claim T14
+
+

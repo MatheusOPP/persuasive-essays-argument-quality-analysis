@@ -1,0 +1,11 @@
+Type: Claim T15
+Text: jobs can divert students from their studies
+Supporting Claim T15
+
+    Premise: If students started earning in earlier age in their life, then they get attracted towards money
+    Premise: They feel themselves independent and would prefer to work more for money
+    Premise: This would affect their studies, they loose their interest from studies
+    Premise: they drop out their studies so as to earn more money
+
+No arguments attacks Claim T15
+

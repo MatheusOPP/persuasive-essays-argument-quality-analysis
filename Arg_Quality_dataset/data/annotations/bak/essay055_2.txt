@@ -1,0 +1,12 @@
+Type: Claim T3
+Text: The benefits of teaching students different units are easily recognized
+Supporting Claim T3
+
+    Premise: with some basic knowledge of diverse fields, students have more options in choosing specialized areas or jobs in the future
+    Premise: Teenagers are still too young and immature to decide what they are going to dedicate
+    Premise: In students' point of view, the combination of difficult and easy subjects balances their schoolwork stress and fosters their enthusiasm on classes
+
+Attacking Claim T3
+    Premise: still many teenagers cannot enjoy the variation of the curriculum, instead, they feel more stressful with so much homework and exams to be done
+    Premise: most students regard the extra knowledge useless and impractical for their future jobs
+

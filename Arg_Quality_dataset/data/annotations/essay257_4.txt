@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: The most fortunate people in the word cannot manufacture an automobile or build a high tower just by her or his chance
+supporting Claim T20:
+
+----Premise T23: such people do work hard and have great experiences because of their hard works
+----Premise T22: These plans is done by someone who is mastered in his/her work
+----Premise T21: you have to work hard to learn and to get a lot of information before doing a project in good way
+
+no arguments attacks Claim T20
+

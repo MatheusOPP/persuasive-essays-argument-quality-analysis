@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: It is possible that in the future you have some unavoidable expenses that you could not afford without savings
+supporting Claim T8:
+
+----Premise T9: you can not be sure about the development in your personal life
+----Premise T10: Back in university I remember a friend of mine who had just little savings and he had to deal with a major repair of his car
+----Premise T12: he had to sell it
+----supporting Premise T12:
+--------Premise T11: He could not afford the maintenance
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T8
+

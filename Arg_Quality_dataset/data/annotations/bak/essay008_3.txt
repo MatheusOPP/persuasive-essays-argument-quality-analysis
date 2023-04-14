@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: if countries, especially the developing countries, are determined to take off, one of the key points governments should set on agenda is to educate more qualified future citizens through elementary education
+Supporting Claim T4
+
+    Premise: a lack of well-established primary education goes hand in hand with a high rate of illiteracy, and this interplay seriously compromises a country's future development
+    Premise: government should guarantee that all people have equal and convenient access to it
+    Premise: elementary education, like the base of a architecture, is the fundamental requirement to be a qualified citizen in today's society
+
+No arguments attacks Claim T4
+

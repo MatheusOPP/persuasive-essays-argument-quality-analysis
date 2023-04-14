@@ -1,0 +1,63 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: businesses had better not employ the workers for the whole of their life
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: various ideas and creativity from different people are indispensable for a company to flourish
+----supporting Claim T4:
+
+--------Premise T5: The invaluable experience of senior employees can pass down to the young apprentices who get used to new job, but regularly give out creative and novel ideas
+--------Premise T7: the youngsters are capable of meeting those standards
+--------supporting Premise T7:
+------------Premise T6: the rapid development in every field nowadays requires precise updates and access to new knowledge
+------------Premise T8: they have activeness, inventiveness and enterprise which allow them to complete their jobs perfectly
+------------Premise T9: These vital factors can decide whether the company can thrive or not
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T10
+----text: the staff soon gets boring with their stable job in such a long time
+----supporting Claim T10:
+
+--------Premise T17: this situation will have an adverse impact on the enterprise
+--------supporting Premise T17:
+------------Premise T16: The same-old-same-old environment soon makes them depressed
+
+--------no arguments attacks Premise T17
+
+--------Premise T11: At a certain time, they may presume that a securing job is the most important and necessary
+--------supporting Premise T11:
+------------Premise T12: they need to earn money to manage their life
+
+--------no arguments attacks Premise T11
+
+--------Premise T13: the bulk of them realize that high promotion and competition can assist them to improve their skills and horizons
+--------Premise T14: Many people enjoy challenging them
+--------supporting Premise T14:
+------------Premise T15: they don not want to be monotonous and passive ones
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T10
+
+----type: Claim T18
+----text: the businesses ought to recruit many workers so as to tackle this aching issue
+----supporting Claim T18:
+
+--------Premise T21: the factories and companies will have abundant human sources to ensure the pace of manufacture and also devising lots of unique ideas
+--------Premise T19: the economic crisis and financial recession result in a tremendous increase in unemployment
+--------Premise T20: It enables the jobless to better their life and earn a living
+
+----no arguments attacks Claim T18
+
+
+no arguments attacks MajorClaim T1
+

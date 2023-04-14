@@ -1,0 +1,11 @@
+Type: Claim T7
+Text: I will learn faster and better and won't get discouraged and confused
+Supporting Claim T7
+
+    Premise: And then he or she will teach me the course efficiently in a short time
+    Premise: In this situation, I'll look for a teacher and request for help from him or her
+    Premise: Sometimes when learning a course by myself which is hard and confusing to understand and has few sources available, I get discouraged after spending a lot of time
+    Premise: A good and experienced teacher can help me learn faster and easier
+
+No arguments attacks Claim T7
+

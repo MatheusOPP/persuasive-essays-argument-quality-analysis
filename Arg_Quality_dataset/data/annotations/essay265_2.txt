@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: studying hard in school is an important factor to succeed in a job
+supporting Claim T4:
+
+----Premise T8: if someone wants to become a good industrial engineer, he should study his technical courses very well so that he will be able to utilize them well in his future job
+----Premise T5: If we study them hard, we will have the chance of doing our job better and quicker in the future
+----Premise T7: In school, we are able to identify skills required for our future job and work on mastering and learning them
+----Premise T17: This can be done in school
+----Premise T6: We need to know and learn about the theoritical basis of our future job
+
+no arguments attacks Claim T4
+

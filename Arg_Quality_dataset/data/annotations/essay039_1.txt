@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: many facts about solar system can be discovered
+supporting Claim T3:
+
+----Premise T4: a picture of planet earth proved that the earth is round, not flat
+----Premise T5: it is the earth which goes around the sun, not vice versa
+----Premise T6: If it was not for the space exploration, we would never know these facts
+
+no arguments attacks Claim T3
+

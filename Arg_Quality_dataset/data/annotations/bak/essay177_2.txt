@@ -1,0 +1,11 @@
+Type: Claim T3
+Text: Studying at home by using technology is convenient
+Supporting Claim T3
+
+    Premise: The biggest advantage is that your classroom and instructor are available 24 hours a day
+    Premise: you could make your own schedule for completing the requirements of the course
+    Premise: You can study any time you want
+
+Attacking Claim T3
+    Premise: if you aren't extremely dedicated or have good time management skills, it may be very difficult to complete a course at home
+

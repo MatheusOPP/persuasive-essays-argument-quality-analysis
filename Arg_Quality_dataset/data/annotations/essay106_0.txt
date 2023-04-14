@@ -1,0 +1,31 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: the move will do more good by looking at the quality of health and image of a nation in long run
+supporting MajorClaim T2:
+
+----type: Claim T3
+----text: the number of fatality can be significantly reduced if a total ban on public smoking is implemented
+----supporting Claim T3:
+
+--------Premise T6: A large proportion of death involved second hand smoker particularly young children and pregnant women who were vulnerable to these lethal diseases
+--------Premise T5: Recent death statistic released by the Malaysian Ministry of Health shows that the top killer was lung related diseases caused by smoking
+--------Premise T4: it is well known and clinically proven that smoking is extremely hazardous to the smoker and others who have been exposed to the fume over a period of time
+
+----no arguments attacks Claim T3
+
+----type: Claim T7
+----text: the image of a healthy nation can be promoted when government restricts public smoking by imposing stern penalty to the offender
+----supporting Claim T7:
+
+--------Premise T9: the Brunei government had recently enforced a law against smoking in public areas such as cafés, hospital and shopping street
+--------Premise T10: This step has curbed down the numbers of smokers in the country and as a result, Brunei remains a place known for its tranquility and cleanliness
+--------Premise T8: This example shows the benefit of restricting public smoking to a country as a whole
+
+----no arguments attacks Claim T7
+
+
+no arguments attacks MajorClaim T2
+

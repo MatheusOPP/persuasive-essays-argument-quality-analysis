@@ -1,0 +1,49 @@
+Type: MajorClaim T3
+Text: it is good for us to have hobbies and do physical activities which are different from our work
+Supporting MajorClaim T3
+
+    Type: Claim T5
+    Text: having hobbies and doing physical activities is the best way to keep fit
+    Supporting Claim T5
+
+        Premise: doing some sport and hobbies can prevent us from becoming too fat or short-sighted
+        Premise: My neighbor Tom once was a computer engineer in a big company
+        Premise: When he found out that he was too fat to find a girlfriend, he made up his mind to loose weight
+        Premise: He ate fast food everyday and never went out to exercise
+        Premise: After a moth, he is thinner and finds a girlfriend
+        Premise: He started to jog every morning
+
+    No arguments attacks Claim T5
+
+    Type: Claim T13
+    Text: having hobbies and doing sports can refresh our mind
+    Supporting Claim T13
+
+        Premise: at school, students have breaks every class so that they can relax for a few minutes and prepare for the next class
+        Premise: Humans are not robots; we can't keep working for twenty-four hours
+        Premise: Doing sports or hobbies for a short time can recharge our batteries
+
+    Attacking Claim T13
+        Premise: doing something for a long time can be boring
+
+    Type: Claim T18
+    Text: we should develop at least one personal hobby, not to show off, but express our emotion when we feel depressed or pressured
+    Supporting Claim T18
+
+        Premise: Playing musical instrument is a good way, I can play classical guitar
+        Premise: When I meet difficulties in studies, I will take my guitar and play the song Green Sleeves
+        Premise: It makes me feel better and gives me the confidence
+
+    No arguments attacks Claim T18
+
+
+Attacking MajorClaim T3
+    Type: Claim T2
+    Text: it may take us a lot of times to develop our personal hobbies
+    Supporting Claim T2
+
+        Premise: doing so can bring us a healthy body, a refreshed mind and a way to release pressure and sadness
+
+    No arguments attacks Claim T2
+
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: spending too much money for equipping the gyms or constructing football/basketball courts are really not necessary to encourage students to do sports
+supporting Claim T4:
+
+----Premise T8: What the university should do is informing the students the benefits of doing sport by hanging some posters in the campus, inviting some athletes to lecture for students and encourage them to spend some time for their body and health
+----Premise T5: my roommate, Mary, always wakes up 6 in the morning and spends 1 hour doing sport in the park which is near our dormitory
+----Premise T6: When she gets to the dorm, she is really full of energy and after taking a shower, she is ready to start a good day
+----Premise T7: she is doing exercise without spending a cent
+
+no arguments attacks Claim T4
+

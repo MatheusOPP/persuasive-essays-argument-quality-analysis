@@ -1,0 +1,8 @@
+Type: Claim T4
+Text: depending on luck for everything is not good
+Supporting Claim T4
+
+
+Attacking Claim T4
+    Premise: it is good to be lucky
+

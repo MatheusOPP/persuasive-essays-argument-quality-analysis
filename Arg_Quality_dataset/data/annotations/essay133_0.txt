@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos”.
+          
+Type: MajorClaim T1
+Text: computer can influence society, and people's lives have already been controlled by device
+Supporting MajorClaim T1:
+
+----Type: Claim T3
+----Text: people cannot pass the day without stay in front of computer or using it
+----Supporting Claim T3:
+
+--------Premise T4: This situation becomes lifestyle habits, and nowadays human activities are influenced by computer use
+
+----No arguments attacks Claim T3
+
+----Type: Claim T11
+----Text: using computer can make people easier to complete their work
+----Supporting Claim T11:
+
+--------Premise T10: Communication by feature-computer such as email and internet help busy businessmen to make deal with relation even in different country
+--------Premise T12: Businessmen, for example, use computer device to presentation or communication with their colleagues
+
+----No arguments attacks Claim T11
+
+
+Attacking MajorClaim T1:
+----Type: Claim T8
+----Text: this modern device has been a major hindrance to some people
+----Supporting Claim T8:
+
+--------Premise T7: the idea that computers could be a help has been neglected
+
+----No arguments attacks Claim T8
+
+

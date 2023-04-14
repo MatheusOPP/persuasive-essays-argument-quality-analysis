@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: the expertise of the senior workers who had retired should never be underestimated
+supporting Claim T14:
+
+----Premise T16: it is highly recommended that the retiree come over to the companies or hospitals to have regular sessions with the present staffs to bridge the gap between them and to pass on their knowledge
+----supporting Premise T16:
+--------Premise T15: Their invaluable experiences and knowledge in their respective fields such as engineering, medicine, and law can certainly be beneficial to the younger generation
+
+----no arguments attacks Premise T16
+
+
+no arguments attacks Claim T14
+

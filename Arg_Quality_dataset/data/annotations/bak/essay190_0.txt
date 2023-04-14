@@ -1,0 +1,33 @@
+Type: MajorClaim T1
+Text: In modern life, zoos have become even more important in serving as places for people to study and enjoy the nature while a lot of natural destruction is made to build towers and skyscrapers
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: recently, zookeepers have also tried their best to make animals feel more comfortable by making artificial landscapes more familiar to the nature, taking care all animals in both feeding and sanity
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T8
+    Text: humanities benefit so much from zoos
+    Supporting Claim T8
+
+        Premise: zoos are fascinating places of entertainment
+        Premise: all zoos serve relates to education
+        Premise: some zoos are also reservation sites of many animals that are about to become extinct
+
+    No arguments attacks Claim T8
+
+
+Attacking MajorClaim T1
+    Type: Claim T9
+    Text: zoos just take away freedom of animals
+    Supporting Claim T9
+
+        Premise: Being confined, animals may lose their own nature as well as wildness and feel upset and discontented
+        Premise: zoos are some kind of prisons and it's so cruel and wrong to keep animal in such prisons
+
+    No arguments attacks Claim T9
+
+

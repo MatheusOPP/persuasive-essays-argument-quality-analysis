@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: aiding campaign gives a chance to considerate about poor people
+supporting Claim T11:
+
+----Premise T12: If people in rich countries ponder poor people suffering from poverty and diseases, they would never take their abundance for granted
+----Premise T13: It not only raises the notice the meaning of harmony and love, but also be a good chance to learn humane doctrine of globalization
+
+no arguments attacks Claim T11
+

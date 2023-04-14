@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: People are corrupting their ecosphere
+supporting Claim T3:
+
+----Premise T4: In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies
+----Premise T5: These wastes including household waste and industrial waste are so big that a "new" continent is now being formed in the sea from garbage
+----Premise T6: the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change
+
+no arguments attacks Claim T3
+

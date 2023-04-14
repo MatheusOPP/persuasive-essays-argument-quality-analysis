@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: government should create campaign to fill love to family
+supporting Claim T17:
+
+----Premise T19: When family understand each other, it mean society and a nation will not have much trouble
+----Premise T18: setting event once a week to gather everyone in family to spend time with each other
+----Premise T20: family is a root of society
+----Premise T21: If everyone in family did not have time to spend with each other, that family could have problems, If family had problems, it mean society could have problems
+----Premise T22: When society had problems, it could impact to a nation
+
+no arguments attacks Claim T17
+

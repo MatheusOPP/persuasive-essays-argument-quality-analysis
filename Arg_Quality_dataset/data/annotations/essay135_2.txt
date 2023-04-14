@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: it is reasonable to lend a hand to our fellow citizens
+supporting Claim T12:
+
+----Premise T4: there is a high demand that the money should be spent in the place where it is collected
+----supporting Premise T4:
+--------Premise T9: charity organisations are mainly funded by the home country
+
+----no arguments attacks Premise T4
+
+----Premise T10: even within the most developed countries, there are still poor people who lack their basic needs
+----Premise T11: By solving the problems in the home country, it is beneficial for social stability and steady economic growth
+
+no arguments attacks Claim T12
+

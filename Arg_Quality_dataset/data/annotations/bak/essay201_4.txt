@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: conservation leads us to a higher standard of living
+Supporting Claim T5
+
+    Premise: Biodiversity and a more beautiful nature are not only the results of abetter environment but also are the necessities of photography and other types of art
+
+Attacking Claim T5
+    Premise: art is one of the best ways of entertaining human beings
+

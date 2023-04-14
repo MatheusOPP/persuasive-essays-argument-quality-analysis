@@ -1,0 +1,33 @@
+Type: MajorClaim T3
+Text: it also gives rise to many social problems such as children's social skills and their mental health
+Supporting MajorClaim T3
+
+    Type: Claim T6
+    Text: it is harmful for us to use mobile phones frequently
+    Supporting Claim T6
+
+        Premise: spending too much time on mobiles phones many exert an adverse effect on our social skills
+        Premise: continuous use of mobile phones may also damage children's eyesight and physical posture
+
+    No arguments attacks Claim T6
+
+    Type: Claim T11
+    Text: the growing number of mobiles games will impact their mental development
+    Supporting Claim T11
+
+        Premise: there many game applications available online and many of them are quite aggressive in nature
+        Premise: frequent conflicts may occur during communication
+
+    No arguments attacks Claim T11
+
+
+Attacking MajorClaim T3
+    Type: Claim T13
+    Text: mobile phones have shortened the distance of communication
+    Supporting Claim T13
+
+        Premise: Mobile phones , such as smart phones, has made our communication easy and convenience
+
+    No arguments attacks Claim T13
+
+

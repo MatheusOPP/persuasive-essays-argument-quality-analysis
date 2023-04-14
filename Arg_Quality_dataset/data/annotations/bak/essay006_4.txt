@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: the new academic experience that the students can obtain at the institution where they are pursuing their studies
+Supporting Claim T5
+
+    Premise: they will get exposed to a different educational system
+    Premise: They will meet new professors and new classmates which makes the academic experience different from that in their home country
+
+No arguments attacks Claim T5
+

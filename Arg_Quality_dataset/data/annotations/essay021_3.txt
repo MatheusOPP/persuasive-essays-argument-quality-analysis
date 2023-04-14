@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: Advertisement is the most effective way to create a well-known product
+supporting Claim T7:
+
+----Premise T14: the more an advertisement of a product takes place in mass media, the more popular the product becomes
+----Premise T15: Consumers tend to purchase the most known product when it comes to picking one out of two different brands of the same product
+
+no arguments attacks Claim T7
+

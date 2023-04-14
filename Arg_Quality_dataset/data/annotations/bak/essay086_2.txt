@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: it is a good idea for children to past their first earlier life in the cities
+Supporting Claim T3
+
+    Premise: in my country the best schools, universities and institutes are located in cities, and todays education is one of the most important parts of our children's life
+    Premise: education is better in big cities in comparison with countrysides
+
+No arguments attacks Claim T3
+

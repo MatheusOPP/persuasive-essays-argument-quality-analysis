@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: attending lectures in person provides students an opportunity to communicate with teachers and other classmates
+supporting Claim T9:
+
+----Premise T10: They further point out that traditional teaching approaches involving discussion and cooperation among students play a significant role in campus life
+----Premise T11: It is the real interactions and communications in class make education much more attractive
+
+no arguments attacks Claim T9
+

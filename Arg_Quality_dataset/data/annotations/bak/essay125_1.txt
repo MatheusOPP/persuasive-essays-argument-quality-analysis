@@ -1,0 +1,36 @@
+Type: MajorClaim T2
+Text: everybody who is studying in university should concentrate on the objectives and try their best
+Supporting MajorClaim T2
+
+    Type: Claim T6
+    Text: they can gain a deep sight into what are they studying
+    Supporting Claim T6
+
+        Premise: people are able to strengthen their knowledge
+        Premise: through the instructions of teachers, the sufficient infrastructure such as laboratory, library, students is capable of doing research on every academic aspect
+        Premise: for most people, university is an ideal place for them to develop their understanding
+
+    No arguments attacks Claim T6
+
+    Type: Claim T10
+    Text: students are given such fantastic chance to create new and wide relationships with a lot of people from any corner of one nation, even from the whole world
+    Supporting Claim T10
+
+        Premise: The number of individual who enroll in university are enormous, more than any school one person have studied
+        Premise: my brother are studying in an international university with a mixed community include Vietnam, Brazil, Argentina, etc
+        Premise: And he told me that he is very excited for experiencing such new environment, which is one of his main purposes when attending university
+
+    No arguments attacks Claim T10
+
+    Type: Claim T8
+    Text: preparing for career is an essential function of university
+    Supporting Claim T8
+
+        Premise: they can have some experiences in the outside world and discover what their life goals are
+        Premise: they know where and what to put high emphasis on in order to achieve their objectives
+
+    No arguments attacks Claim T8
+
+
+No arguments attacks MajorClaim T2
+

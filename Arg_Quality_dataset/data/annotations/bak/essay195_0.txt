@@ -1,0 +1,52 @@
+Type: MajorClaim T1
+Text: If a university plans to develop a new research in my country and I have to choose between establishing a centre for business research or a centre for agriculture research, I would opt for the second one
+Supporting MajorClaim T1
+
+    Type: Claim T4
+    Text: The centre for research in agriculture can help my co-citizens to better exploit these land
+    Supporting Claim T4
+
+        Premise: Most of these lands are left without any treatment
+        Premise: my country has a lot of land which is useful for the agriculture
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: This centre can also help people there to solve their issues related to their land
+    Supporting Claim T5
+
+        Premise: Especially, if they have no knowledge or education in this field
+
+    No arguments attacks Claim T5
+
+    Type: Claim T7
+    Text: the centre for research in agriculture helps the economy of my country to improve
+    Supporting Claim T7
+
+        Premise: The agriculture field has only thirty percent as a market part
+        Premise: The centre of research can raise the market part of this field by developing the agriculture products
+        Premise: the dates are the most important agriculture product in my country
+        Premise: The centre of research for agriculture can make some research in how to get a good quality of this product, how to treat the Palme and maybe how to treat the land of the palms
+
+    No arguments attacks Claim T7
+
+    Type: Claim T12
+    Text: Another reason that makes the centre of research for the agriculture more important than the centre of business research is that the first one can create a lot of jobs
+    Supporting Claim T12
+
+        Premise: showing people how to exploit a land and get good agriculture products will push people to think about working in the field of agriculture rather than working in business or other field to make money
+
+    No arguments attacks Claim T12
+
+
+Attacking MajorClaim T1
+    Type: Claim T14
+    Text: a centre of business research is more important
+    Supporting Claim T14
+
+        Premise: we have to be in parallel with the advanced countries which have focused in business field
+
+    Attacking Claim T14
+        Premise: being a developed country does not mean that we have to focus only in business, but we have to focus on what really bring us to the level of self satisfaction, and the agriculture for our country is the field that can realize that
+
+

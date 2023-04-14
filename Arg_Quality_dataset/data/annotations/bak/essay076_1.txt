@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: the government should be accountable for citizens' health care and education to keep society safe and stable
+Supporting Claim T4
+
+    Premise: citizens enjoy the right to live in a harmonious and stable environment, which should be enabled by the government, the leader of the society
+    Premise: without sufficient guidance of teachers, these citizens might misbehave or even commit crimes, posing a threat to other citizens' security
+    Premise: such people might fail to get cured in time, thus influencing their working efficiency, which would destabilize the production of the industry
+    Premise: it is the government that should be obligated to fund the health care and education for citizens
+
+No arguments attacks Claim T4
+

@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: another advantage of small towns is living costs
+supporting Claim T14:
+
+----Premise T17: because of less crowded spaces we have more facilities and more services
+----Premise T15: Living cost is one of the important concerns in every society and then, in a small town living cost is fewer than in big cities
+----Premise T16: in a small town we can live in big houses with good landscapes
+----Premise T19: we can save time and money
+----supporting Premise T19:
+--------Premise T18: Transportation cost is less than in big cities and we have less traffic
+
+----no arguments attacks Premise T19
+
+
+no arguments attacks Claim T14
+

@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: Proficiency brings perfectness in terms of art work
+Supporting Claim T10
+
+    Premise: the modern artists who implement their creative thinking onto high value creation are paid with immense sum by the art collector
+    Premise: the high sum which modern artists receive is related to the quality instead of the quantity and their rare talent
+    Premise: modern artists also devote themselves find a unique concept in which ordinary people cannot do, such making impossible become possible
+
+No arguments attacks Claim T10
+

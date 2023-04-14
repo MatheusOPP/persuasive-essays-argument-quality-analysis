@@ -1,0 +1,8 @@
+Type: Claim T13
+Text: there are many supporting conditions that help women balance housework and work
+Supporting Claim T13
+
+    Premise: Besides the gorvernment's policies on limited families and their husbands' sharing in the housework, many employers are willing to offer part-time jobs for women
+
+No arguments attacks Claim T13
+

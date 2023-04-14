@@ -1,0 +1,13 @@
+Type: Claim T11
+Text: we can commence to agree that communicating with someone in person is the best way
+Supporting Claim T11
+
+    Premise: He once complained a service of a restaurant
+    Premise: Without exaggeration, he directly went to the boss and told the boss that something wrong occurred on the meal--a fly concealed in it
+    Premise: Afterward, my uncle acquired a new service thanks to face-to face communication
+    Premise: If he just wrote something to complain on the website or by telephone, I do not think this problem would be thought important
+    Premise: Sometimes, face-to face communication can lead us to convince or complain someone successfully, and a fitting example can be found from my uncle
+    Premise: communicating in person can be more convincing
+
+No arguments attacks Claim T11
+

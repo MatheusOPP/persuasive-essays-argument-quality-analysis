@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: they bring about students to be happier and to have more fun and entertainments
+supporting Claim T15:
+
+----Premise T16: If we follow just one wing of my life i.e., studying as a student, after some whiles it would be boring and we wouldn't have any motivation
+----Premise T17: Such activities can help us to pick up with other students and have more friends
+----Premise T18: more friends and new experience inspire the feeling of happiness and excitement in me
+
+no arguments attacks Claim T15
+

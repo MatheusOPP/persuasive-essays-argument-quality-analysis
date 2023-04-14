@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: The third reason is that the pace of life
+supporting Claim T18:
+
+----Premise T19: If we cannot react properly and immediately, then we will be in a vulnerable situation
+----Premise T20: We have no choice but have to live in a fast pace
+
+attacking Claim T18:
+----Premise T16: Today, we are able to read the news all over the world, to chat with people through the Internet, or to travel around the world by planes
+----supporting Premise T16:
+
+----attacking Premise T16:
+--------Premise T17: it also means that any thing happens in the world will affect our life
+
+

@@ -1,0 +1,12 @@
+Type: Claim T8
+Text: boys and girls have the diversity in psychological modes and individuality
+Supporting Claim T8
+
+    Premise: Most of male students tend to use their left brain to think and act, and they are more rational and logical than girls in many cases
+    Premise: there are more male scientists and engineers in comparison with females around the world
+    Premise: Many boys are interested in science and technology, while a number of girls like to learn literature, education and arts
+    Premise: girls are more likely to prefer some jobs related to emotion and communication, such as teacher, singer and interpreter
+    Premise: girls differ from boys in mind and behaviour to a large extent, and they both have better ability in the specific aspect
+
+No arguments attacks Claim T8
+

@@ -1,0 +1,10 @@
+Type: Claim T2
+Text: due to the limitation of technology renewable resources are relatively expensive
+Supporting Claim T2
+
+    Premise: the plan of renewable resources of energy may face challenges in that not every country can afford the reforming
+    Premise: Researches in renewable energy cost a huge amount of money which developing countries cannot afford
+    Premise: fossil fuels are abundant and inexpensive in many areas
+
+No arguments attacks Claim T2
+

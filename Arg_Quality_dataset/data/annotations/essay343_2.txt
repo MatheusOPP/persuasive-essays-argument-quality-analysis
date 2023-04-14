@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: advertisement enables to support users in getting accustomed to enterprises and know thoroughly items sold from these producers
+supporting Claim T9:
+
+----Premise T6: Take Coca cola for an example, this drinking firm is well-known as one of companies invested a major part of their money in advertising
+----Premise T7: No wonder why this drinking title becomes more and more familiar with customers around the world
+----Premise T8: online advertisement is one of the easiest approaches due to their potential gains such as cheaper cost, convenience and easily observing
+
+no arguments attacks Claim T9
+

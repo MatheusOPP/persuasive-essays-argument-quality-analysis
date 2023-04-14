@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: This is sure to lead to more carbon emitted into the atmosphere, which can cause skin cancer and destroy the natural environment
+supporting Claim T9:
+
+----Premise T8: If governments use more money to improve roads, there is a strong likelihood that more people drive their private cars work
+----Premise T6: carbon emission cut is significantly essential for protecting the atmosphere
+----Premise T7: the more cars and motorbikes are on roads, the more seriously the ozone layer is damaged
+
+no arguments attacks Claim T9
+

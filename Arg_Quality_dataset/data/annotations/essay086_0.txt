@@ -1,0 +1,48 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: big cities can be a good place for bringing up children
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: it is a good idea for children to past their first earlier life in the cities
+----supporting Claim T3:
+
+--------Premise T9: in my country the best schools, universities and institutes are located in cities, and todays education is one of the most important parts of our children's life
+--------Premise T8: education is better in big cities in comparison with countrysides
+
+----no arguments attacks Claim T3
+
+----type: Claim T4
+----text: Children who live in cities have a lot of entertainment
+----supporting Claim T4:
+
+--------Premise T10: it is acknowledged that a large number of creational facilities are built in cities
+--------Premise T11: playgrounds, parks, science museums, cinemas etc
+--------Premise T12: in countrysides we hardly ever see creational facilities
+--------Premise T13: Children who live in countrysides most of the time pass their free time in farms
+
+----no arguments attacks Claim T4
+
+----type: Claim T5
+----text: they can learn a lot of things by watching television and surfing through the net
+----supporting Claim T5:
+
+--------Premise T14: in big cities children access to media easily
+
+----no arguments attacks Claim T5
+
+----type: Claim T6
+----text: they can exchange their knowledge, they can learn different cultures
+----supporting Claim T6:
+
+--------Premise T15: Via internet they can have connection with the other children all around the world
+
+----no arguments attacks Claim T6
+
+
+attacking MajorClaim T1:
+----Claim T7: countrysides have some advantages such as fresh air, peace, and etc
+

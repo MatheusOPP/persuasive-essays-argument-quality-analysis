@@ -1,0 +1,11 @@
+Type: Claim T16
+Text: Our difficult experiences also make us robust and strong unknowingly
+Supporting Claim T16
+
+    Premise: We might be facing a toughest time of life at the time, but when we think back about those moments later in life, we feel more confident about our decisions and about ourselves
+    Premise: When I moved to college hostel after school, first few days were very unsettling for me
+    Premise: I had felt very fragile and emotionally distracted, but then slowly I started adjusting with roommates and built connection with them
+    Premise: I also became more casual and social with others, this experience increased my communication skill and social speaking skills
+
+No arguments attacks Claim T16
+

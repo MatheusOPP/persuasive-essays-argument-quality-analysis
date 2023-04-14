@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: professional lives are filled with tasks that is neccessary parts of the jobs
+supporting Claim T7:
+
+----Premise T9: Nobody likes attending boring conferences, or working a person who isn't well in with anyone
+----Premise T8: I'm a research asistant at a university, and as any of the univesity in ours we have a professor who isn't good at human relationships, most of the asistans don't enjoy to talk with him about any situation, although we have to ask about his field
+
+no arguments attacks Claim T7
+

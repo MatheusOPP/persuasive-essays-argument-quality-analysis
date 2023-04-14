@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: the research takes up too much teaching time
+Supporting Claim T5
+
+
+Attacking Claim T5
+    Premise: research could bring funding and latest achievements in the field
+

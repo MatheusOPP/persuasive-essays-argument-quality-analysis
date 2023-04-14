@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: news media help people broaden their knowledge
+Supporting Claim T12
+
+    Premise: This is particularly essential when the globalization process has been permeating into all areas of society
+    Premise: the fast growth of news media is helpful for people worldwide
+    Premise: there is a strong likelihood that today people are able to know the world better
+
+No arguments attacks Claim T12
+

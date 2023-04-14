@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: No one can argue the importance to include health lessons in school programmes, especially at primary level, in the hope of raising people's awareness
+supporting Claim T7:
+
+----Premise T5: they will have a fundamental grasp of how to lead a healthy lifestyle
+----supporting Premise T5:
+--------Premise T4: Children should be taught about balanced diets, nutritious food as well as harmful ones
+
+----no arguments attacks Premise T5
+
+----Premise T6: it is much easier for people at early ages to form a habit of, for instance, not consuming too much fast food, over-fried food or intoxicants
+
+no arguments attacks Claim T7
+

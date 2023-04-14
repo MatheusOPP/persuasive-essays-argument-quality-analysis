@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: you can write an e-mail at any time of the day
+supporting Claim T10:
+
+----Premise T9: I work and study at the university and I don't have spare time during the day
+----Premise T8: I get home at about midnight and I still need to answer some questions and to solve some routine problems
+----Premise T7: for me it is better to leave a voice mail
+----supporting Premise T7:
+--------Premise T6: I might not have time to call a person or to meet with him or her in an appropriate time
+
+----no arguments attacks Premise T7
+
+
+no arguments attacks Claim T10
+

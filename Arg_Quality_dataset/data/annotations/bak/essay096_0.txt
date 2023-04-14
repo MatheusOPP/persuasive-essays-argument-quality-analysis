@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: the juries should at least know something about the criminals before coming to a conclusion
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

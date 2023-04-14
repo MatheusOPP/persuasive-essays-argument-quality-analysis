@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: parents are really the best teachers who give us much knowledge and advice
+supporting MajorClaim T1:
+
+----Claim T2: parents are the first teachers who teach babies how to walk and speak and make children to become a good person
+----Claim T3: parents provide their children the best social skills and knowledge in order to prepare for their children's future life
+----type: Claim T4
+----text: children are taught basic things, which influence their whole life, by their parents
+----supporting Claim T4:
+
+--------Premise T7: parents bring the whole world of wonderful and colorful thing into their baby's little mind
+--------supporting Premise T7:
+------------Premise T6: Parents always try to explain and describe tenderly all things in simple way so that their baby can understand and learn from that
+
+--------no arguments attacks Premise T7
+
+--------Premise T5: As a baby, they do not know any thing all around but they learn everything from their parents
+
+----no arguments attacks Claim T4
+
+----type: Claim T8
+----text: parents train their child how to become a good person
+----supporting Claim T8:
+
+--------Premise T9: They always make their children basically say thanks and apology in the right way
+--------Premise T10: it is common that they try to explain who is a good or bad person
+--------Premise T11: children are shown how to behave well with others
+--------Premise T12: this can influence positively their future children and makes children's behavior better before they face the real world
+
+----no arguments attacks Claim T8
+
+----type: Claim T13
+----text: parents' support is one factor which makes people succeed in their life
+----supporting Claim T13:
+
+--------Premise T16: Unlike a professional, parents always support children and give them much social skill so they can communicate well with others and have good habit in life
+--------Premise T15: they tend to provide the best knowledge and advice from their experience for children
+--------supporting Premise T15:
+------------Premise T14: parents are ones who loves their children most and always take care of their children
+
+--------no arguments attacks Premise T15
+
+
+----no arguments attacks Claim T13
+
+
+no arguments attacks MajorClaim T1
+

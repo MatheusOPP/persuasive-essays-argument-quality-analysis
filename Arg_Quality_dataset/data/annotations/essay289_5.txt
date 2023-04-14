@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T24
+text: people who get the most advantage from evaluation is students
+supporting Claim T24:
+
+----Premise T25: Students could study in class that have teachers who have experienced and greater performance
+----Premise T22: students could comprehend their subject easily
+----supporting Premise T22:
+--------Premise T21: teachers are always adapt the way they teach in order to make students easy to understand their subjects
+
+----no arguments attacks Premise T22
+
+----Premise T23: students, who study from great schools which have great performance teacher, graduate with great knowledge to survive in next steps of life
+
+no arguments attacks Claim T24
+

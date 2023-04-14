@@ -1,0 +1,54 @@
+Type: MajorClaim T6
+Text: for a teenager it is important to pay attention on their studies
+Supporting MajorClaim T6
+
+    Type: Claim T7
+    Text: Having job would affect their health, divert them from studies and take away one of the important phase from their life
+    Supporting Claim T7
+
+
+    No arguments attacks Claim T7
+
+    Type: Claim T8
+    Text: would affect their mental and physical health
+    Supporting Claim T8
+
+        Premise: They won't be able to get proper time for relaxation, sleep
+        Premise: jobs has various responsibilities like attendance, sometimes extra work and so on
+        Premise: This would result in stress, tension and tiredness
+
+    No arguments attacks Claim T8
+
+    Type: Claim T12
+    Text: If the student get involved himself in job in rest of the time, then it would cause an extra burden on them
+    Supporting Claim T12
+
+        Premise: He has to spend his most of time in school to get a good grades
+        Premise: A student has to do lots of studies in today's competitive world to prove himself
+
+    No arguments attacks Claim T12
+
+    Type: Claim T15
+    Text: jobs can divert students from their studies
+    Supporting Claim T15
+
+        Premise: If students started earning in earlier age in their life, then they get attracted towards money
+        Premise: They feel themselves independent and would prefer to work more for money
+        Premise: This would affect their studies, they loose their interest from studies
+        Premise: they drop out their studies so as to earn more money
+
+    No arguments attacks Claim T15
+
+    Type: Claim T21
+    Text: they should take advantage of life as much possible they can
+    Supporting Claim T21
+
+        Premise: He would miss various childhood activities such as hang out with friends, clubs and fun activities and social interaction with others
+        Premise: the main drawback of teenagers job is that, they miss out the fun of their childhood time
+        Premise: They have whole life to do job and prove themselves, but the childhood phase will never return in their life
+
+    No arguments attacks Claim T21
+
+
+No arguments attacks MajorClaim T6
+

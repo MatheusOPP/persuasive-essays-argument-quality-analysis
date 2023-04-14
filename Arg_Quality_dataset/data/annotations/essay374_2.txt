@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: the zoo also serve as a means of ecological protection
+supporting Claim T10:
+
+----Premise T7: Nowadays the process of globalisation is accompanied by the encroachment upon natural habitats, which consequently calls for the help of zoos
+----Premise T8: the ever-increasing huntings are having a heavy toll on rare and specious species
+----Premise T9: Only when zoos appear are such distinction-driven animals as: giraffe, panda, koala or leopard provided with their own inaccessible territory
+
+no arguments attacks Claim T10
+

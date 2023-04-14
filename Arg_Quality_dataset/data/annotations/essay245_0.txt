@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: communicating by e-mails or voice mails is better
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: communicating by e-mail is easy
+----supporting Claim T4:
+
+--------Premise T5: Many people have problems with calling a person that they are not acquainted with
+--------Premise T2: In this case it is not so difficult to write an e-mail or to leave a voice mail
+--------supporting Premise T2:
+------------Premise T3: even shy people feel themselves more confident
+
+--------no arguments attacks Premise T2
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T10
+----text: you can write an e-mail at any time of the day
+----supporting Claim T10:
+
+--------Premise T9: I work and study at the university and I don't have spare time during the day
+--------Premise T8: I get home at about midnight and I still need to answer some questions and to solve some routine problems
+--------Premise T7: for me it is better to leave a voice mail
+--------supporting Premise T7:
+------------Premise T6: I might not have time to call a person or to meet with him or her in an appropriate time
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T10
+
+----type: Claim T13
+----text: when you write an e-mail you have enough time to think carefully about what you are writing and how it would be better to express yourself
+----supporting Claim T13:
+
+--------Premise T11: you can change the word order or you can choose more appropriate style to sound more polite
+--------Premise T12: When you speak face-to-face you are not as able to control every word as you are when you write an e-mail
+
+----no arguments attacks Claim T13
+
+----type: Claim T14
+----text: there is no chance to disturb people by sending them an e-mail
+----supporting Claim T14:
+
+--------Premise T15: You should not worry about interrupting an important conversation or some other business
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

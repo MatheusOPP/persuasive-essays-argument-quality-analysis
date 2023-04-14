@@ -1,0 +1,8 @@
+Type: Claim T25
+Text: I can also have fun in indoor activities
+Supporting Claim T25
+
+
+Attacking Claim T25
+    Premise: this advantage cannot outweigh the attractions coming from outdoor activities
+

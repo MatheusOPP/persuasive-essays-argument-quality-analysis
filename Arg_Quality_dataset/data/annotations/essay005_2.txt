@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: living and studying overseas is an irreplaceable experience when it comes to learn standing on your own feet
+supporting Claim T4:
+
+----Premise T9: the one will learn living without depending on anyone else
+
+attacking Claim T4:
+----Premise T7: One who is living overseas will of course struggle with loneliness, living away from family and friends
+

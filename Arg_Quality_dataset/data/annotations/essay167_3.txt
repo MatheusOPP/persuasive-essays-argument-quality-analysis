@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: communication has become cheaper, faster and visual
+supporting Claim T14:
+
+----Premise T10: it is convenient
+----supporting Premise T10:
+--------Premise T11: you do not need to mile to the post office, but just click the mouse of your computer from the convenience of your arm chair in order to reach your friends, family members in any part of the world
+
+----no arguments attacks Premise T10
+
+----Premise T9: With the use of email our messages can be delivered to any person in any part of the world in few minutes
+----Premise T12: Internet facilities such as msn, skype made visual communication possible
+----supporting Premise T12:
+--------Premise T13: via skype people not just communicate with their family members and friends, but also make interviews for employment, enrolment into universities
+
+----no arguments attacks Premise T12
+
+----Premise T8: in a globalized world that we live computers made communications faster, visual and cheaper
+
+no arguments attacks Claim T14
+

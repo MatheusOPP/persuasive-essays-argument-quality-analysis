@@ -1,0 +1,12 @@
+Type: Claim T19
+Text: doing same task day and night just server to increase our psychological burden, connecting with different types of job is capable give us more colors to our life
+Supporting Claim T19
+
+    Premise: Different types of tasks during workday brings more challenges, making life colorful
+    Premise: As the saying of a Chinese writer, the color of life is rooted not in Japanese cherry blossom or Canadian maple leaf, but rather there always exists new things and challenge
+    Premise: New challenges from different tasks amounts far more than more works, it also means through dealing with it, I will obtain more knowledge and experience
+    Premise: As an engineering researcher, I will surely be disappointed for failure, and exited for new challenges
+    Premise: Just like a song, if I did not have challenge, life would be blue
+
+No arguments attacks Claim T19
+

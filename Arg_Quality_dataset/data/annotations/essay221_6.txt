@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T19
+text: It benefits to a certain country
+supporting Claim T19:
+
+----Premise T16: because of all weird, acute, and beautiful animals in the zoo, it can be a great tourist attraction
+----Premise T17: There are a lot of tourists who seek to see those animals closely
+----Premise T18: If the zoo has a large number of both national and foreign tourists, it will receive a great deal of money
+----Premise T20: That also make money flow, and then economics become better
+
+no arguments attacks Claim T19
+

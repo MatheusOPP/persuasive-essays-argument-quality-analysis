@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: people who can't accept others' criticism can't succeed in group working
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: the core of group working is "consensus"
+----supporting Claim T5:
+
+--------Premise T6: It's the idea that everyone’s opinion accounts
+--------Premise T3: It doesn't work if one member solely insists on his/her idea and doesn't take other member's criticism
+--------supporting Premise T3:
+------------Premise T2: the work belongs to every member, not a personal show for specific one member
+
+--------no arguments attacks Premise T3
+
+--------Premise T4: It's every member's duty to respect other's opinion
+--------Premise T7: In group works, group members gather together to have brain-storming discussion, think over every possible solutions and then finally reach an agreement
+
+----no arguments attacks Claim T5
+
+----type: Claim T11
+----text: Even if you are not working in a group, you still need to take others' criticism
+----supporting Claim T11:
+
+--------Premise T12: taking criticism is a virtue as you take someone's opinion that is against you
+--------Premise T13: Those who don't even take a word of criticism will eventually lose chances to get improved
+--------Premise T14: if you can't take any criticism, not only will you fail in cooperating with other people, but also get defeated in personal works
+--------Premise T15: As one Chinese idiom goes: "The good medicine tastes bitter“
+--------Premise T16: Criticism might be the most powerful solution to heal
+
+----attacking Claim T11:
+--------Premise T8: Criticism definitely hurts
+--------supporting Premise T8:
+------------Premise T9: it points out your drawbacks and forces you to confront them
+
+--------attacking Premise T8:
+------------Premise T10: criticism can help you detect those drawbacks and fix them if you are willing to take it
+
+
+----type: Claim T17
+----text: even if you are right, criticism is still helpful
+----supporting Claim T17:
+
+--------Premise T18: in this case it not only is a fixer, but it also serves as a practice to test you how much you know about your work
+--------Premise T19: Taking criticism doesn't necessary mean that you have to take it all
+--------Premise T20: You should have your own judgments too
+--------Premise T21: And it's kind of art to make the best use of criticism
+
+----no arguments attacks Claim T17
+
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,49 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: governments should help and encourage artists to continue their work
+supporting MajorClaim T1:
+
+----Claim T2: art is a very valuable object for every country and the talent in this area cannot be discovered everywhere
+----type: Claim T6
+----text: the governments should help arts
+----supporting Claim T6:
+
+--------Premise T7: their work crafts are very necessary to boost the tourist industry
+--------Premise T5: some countries depend on tourism as their main source of revenue
+--------Premise T3: art helps to improve the quality of our lives as well as attracting tourists
+--------supporting Premise T3:
+------------Premise T4: monuments that represent each city do not only illustrate the city's history and culture, but also make the city more beautiful and an attractive place for tourists
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T8
+----text: culture and history of a country can be reserved and assured by art
+----supporting Claim T8:
+
+--------Premise T9: sculptures and paintings in the museums and art galleries generally reflect the culture and civilization of every generation
+--------Premise T10: Young people are also able to get more knowledge about their country's history and culture by observing various work crafts
+
+----no arguments attacks Claim T8
+
+----type: Claim T11
+----text: talent in art is extremely precious and should not be wasted
+----supporting Claim T11:
+
+--------Premise T13: this type of talent has to be valued as other types of talents such as talent in science or literature
+--------supporting Premise T13:
+------------Premise T12: not many people are blessed in the talent of paintings and work crafts
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Claim T11
+
+
+no arguments attacks MajorClaim T1
+

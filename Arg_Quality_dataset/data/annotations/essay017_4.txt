@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: watching television programs makes us lazy
+supporting Claim T10:
+
+----Premise T12: we do not have time to spend for healthy activity such as going to a gym or doing other sports
+----Premise T13: This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable
+----Premise T11: We usually spend our times in front of television for at least three ours a day when we come back home after eight-hour working in the office
+
+no arguments attacks Claim T10
+

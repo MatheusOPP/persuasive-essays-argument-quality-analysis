@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: watching television programs makes us lazy
+Supporting Claim T10
+
+    Premise: we do not have time to spend for healthy activity such as going to a gym or doing other sports
+    Premise: This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable
+    Premise: We usually spend our times in front of television for at least three ours a day when we come back home after eight-hour working in the office
+
+No arguments attacks Claim T10
+

@@ -1,0 +1,9 @@
+Type: Claim T2
+Text: being without a teacher has shortcomings
+Supporting Claim T2
+
+    Premise: if someone faced so complicated confusion in his study and his many endeavors on making out it were miscarried, this might be ended in disappointment
+    Premise: for one who depends on only himself in learning, his improvement of ability, with regard to cooperation and express his opinion, is unpromising
+
+No arguments attacks Claim T2
+

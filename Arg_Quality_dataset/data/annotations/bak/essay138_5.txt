@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: traditional education has its advantages in face-to-face communication, mental inspiration and physical educations
+Supporting Claim T11
+
+    Premise: These make remarkable contributions in providing immediate feedbacks and cultivating pupils' personalities
+
+Attacking Claim T11
+    Premise: with the improvements in streaming and sensor technologies, remote education can eliminate the obstacles of distance and body contacts
+

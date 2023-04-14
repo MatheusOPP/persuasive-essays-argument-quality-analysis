@@ -1,0 +1,58 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is good for a teenager to do a part time job while he/she is still a student
+supporting MajorClaim T1:
+
+----type: Claim T15
+----text: students can learn lots of things from part time job, before starting their real job
+----supporting Claim T15:
+
+--------Premise T5: Students can learn about time management, money management and convince people by their words
+--------Premise T6: when I was in my high school I worked as a sales-man in a shop for a year
+--------supporting Premise T6:
+------------Premise T7: i had to manage my time efficiently
+------------supporting Premise T7:
+----------------Premise T8: As i had to spend some of my time in my job
+----------------Premise T10: This taught me how to manage time efficiently and do any job quickly and effectively
+
+------------no arguments attacks Premise T7
+
+------------Premise T9: I had to manage my boss as well as had to prepare my homework
+------------Premise T11: I learn money management
+------------supporting Premise T11:
+----------------Premise T12: When my boss was out of the shop, i had to manage the accounts section of the shop
+
+------------no arguments attacks Premise T11
+
+------------Premise T13: From this i learned, how to manage money correctly
+------------Premise T14: This experience taught me, doing part time job can help students to learn many things
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Claim T15
+
+----type: Claim T16
+----text: from part time jobs students can earn money, which can help their parents
+----supporting Claim T16:
+
+--------Premise T18: By tutoring them, i earned some money and bought me books with it
+--------Premise T19: after taking that part time job i stopped taking my pocket money form my parents
+--------Premise T17: part time job can help students earn money and which can help their parents financially
+
+----no arguments attacks Claim T16
+
+
+attacking MajorClaim T1:
+----type: Claim T3
+----text: it can destruct students from their study
+----supporting Claim T3:
+
+
+----attacking Claim T3:
+--------Premise T4: i did part time job in my high school and it did not hurt my academic result
+
+

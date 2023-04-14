@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: making college education free would cost too much
+supporting Claim T6:
+
+----Premise T7: It would divert public funds from other needs such as law enforcement, infrastructure and so forth
+----Premise T5: it would affect all taxpayers whether or not they benefit from the use of the funds
+----supporting Premise T5:
+--------Premise T9: it would cause to raise our taxes again and again to fund college education
+
+----no arguments attacks Premise T5
+
+----Premise T8: There are many other needs which should come first, such as providing health care to all American, or improving public schools
+
+no arguments attacks Claim T6
+

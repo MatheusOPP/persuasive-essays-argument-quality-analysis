@@ -1,0 +1,44 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I agree only to certain degree that in today's world, image serves as a more effective means of communication
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: it is undeniable that images in the absence of words can obviously claim the attraction of many
+----supporting Claim T3:
+
+--------Premise T8: images are also widely used in newspapers, magazines and advertisements
+--------Premise T7: the magnificent photograph captured by Kevin Carter, which portrayed a starving Sudanese child struck by extreme poverty has successfully highlighted the plight faced by the citizens in Sudan
+
+----no arguments attacks Claim T3
+
+----type: Claim T4
+----text: pictures can influence the way people think
+----supporting Claim T4:
+
+--------Premise T6: statistics show a slight reduction in the number of smokers, indicating that they realize the effects of the negative habit
+--------supporting Premise T6:
+------------Premise T5: nowadays horrendous images are displayed on the cigarette boxes to illustrate the consequences of smoking
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: written words are also vital in order to spread across certain messages
+----supporting Claim T9:
+
+--------Premise T10: With only pictures, everyone is left to their own interpretation on how they perceive the images
+--------Premise T11: this is different when words are used to explain what the illustration is about
+--------Premise T12: the primary way of educating students is also by this way
+--------Premise T13: Academic textbooks these days are laden with words besides pictures to guide the readers to comprehend better
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

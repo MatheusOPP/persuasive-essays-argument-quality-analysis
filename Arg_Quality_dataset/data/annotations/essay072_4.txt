@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: Sports activities can improve mental health
+supporting Claim T13:
+
+----Premise T12: When people exercise, the neuron cells in the brain release a chemical compound named Dopamine
+----Premise T9: good exercises can often successfully alleviating one's heavy burdens
+----supporting Premise T9:
+--------Premise T11: This hormone can delight one's mind, creating positive feelings
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T13
+

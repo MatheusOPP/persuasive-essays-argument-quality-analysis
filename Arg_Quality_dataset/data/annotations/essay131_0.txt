@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: this investment in field of the arts would be in the best interest of a society
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: the arts play a pivotal role in all-round development of a society
+----supporting Claim T5:
+
+--------Premise T6: No developed country could be named that music, painting, literature and other fields of arts are out of its government consideration
+--------Premise T7: Enriching people's life and enlightening their thoughts, the arts basically affect the enhancement of societies in many positive ways
+
+----no arguments attacks Claim T5
+
+----type: Claim T8
+----text: investing in art could bring employment opportunities and could end in return of capital occasionally
+----supporting Claim T8:
+
+--------Premise T9: The investment could be paid back through the values of the created works of art which as a matter of fact should be considered as national possessions
+
+----no arguments attacks Claim T8
+
+
+attacking MajorClaim T1:
+----Claim T3: not only could investing in art be considered as wasting money at any kind
+----type: Claim T10
+----text: governments are liable for providing societies with appropriate public services and adequate facilities in an efficient way
+----supporting Claim T10:
+
+--------Premise T11: no one should suffer from any sort of deficiency in field of health, education, transportation and communication
+
+----attacking Claim T10:
+--------Premise T4: There is also a burden on the government to highly concern about the people mental health initiatives which would be unconsciously or sensibly provided by the arts
+
+

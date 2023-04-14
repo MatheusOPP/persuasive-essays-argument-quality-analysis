@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T16
+text: non-academic subjects should be completely removed, I strongly disagree with that
+supporting MajorClaim T16:
+
+----Claim T2: non-academic subjects are as essential as academic subjects for a student’s development
+----type: Claim T7
+----text: school education should not only focus on the academic development of a student
+----supporting Claim T7:
+
+--------Premise T10: schools are responsible for developing their students into well-rounded people
+--------Premise T11: It is more important for a person to success in life than to success only academically
+--------Premise T9: Success in life should be the ultimate goal of a student, which requires more than academic knowledge, but also practical life skills such as cooking, good communication skills and teamwork spirit
+--------Premise T8: it is much more crucial to teach them how to be independent and live a good life
+
+----no arguments attacks Claim T7
+
+----type: Claim T6
+----text: Removing physical classes from school education will not only be harmful to young people’s health, it will also decrease their learning capability
+----supporting Claim T6:
+
+--------Premise T3: from the health point of view, schools should not only deliver academic subjects
+--------Premise T4: If physical education is removed from the syllabus, there will be considerable negative effects on students’ health
+--------Premise T5: after studying and sitting in the classroom for the whole morning, it is better for students to do some outdoor activities, such as stretching, jogging and playing ball games, in order to improve their learning ability during the afternoon classes
+
+----no arguments attacks Claim T6
+
+
+attacking MajorClaim T16:
+----type: Claim T12
+----text: students can learn practical skills after school hours from their parents
+----supporting Claim T12:
+
+
+----attacking Claim T12:
+--------Premise T13: it is not a good idea
+--------supporting Premise T13:
+------------Premise T14: most young people would rather watch TV or play computer games after school instead of learning life skills from their parents
+
+--------no arguments attacks Premise T13
+
+--------Premise T15: parents are usually too busy with their daily jobs to teach their children the life skills
+
+

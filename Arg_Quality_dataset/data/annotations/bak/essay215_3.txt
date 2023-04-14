@@ -1,0 +1,13 @@
+Type: Claim T5
+Text: having hobbies and doing physical activities is the best way to keep fit
+Supporting Claim T5
+
+    Premise: doing some sport and hobbies can prevent us from becoming too fat or short-sighted
+    Premise: My neighbor Tom once was a computer engineer in a big company
+    Premise: When he found out that he was too fat to find a girlfriend, he made up his mind to loose weight
+    Premise: He ate fast food everyday and never went out to exercise
+    Premise: After a moth, he is thinner and finds a girlfriend
+    Premise: He started to jog every morning
+
+No arguments attacks Claim T5
+

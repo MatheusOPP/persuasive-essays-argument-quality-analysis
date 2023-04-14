@@ -1,0 +1,10 @@
+Type: Claim T18
+Text: putting physical activities in early steps of human development would finally lead to mentally healthy society
+Supporting Claim T18
+
+    Premise: the better a person feels, the better his brain works
+    Premise: physically healthy people can contribute more both into economical and social development
+    Premise: it ends up with financially competitive country
+
+No arguments attacks Claim T18
+

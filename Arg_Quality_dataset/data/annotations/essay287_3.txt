@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: going to another country to learn language is a good environment to stimulate people to learn language
+supporting Claim T9:
+
+----Premise T6: everyone around me speaks foreign language, and then I have to improve myself to communicate with people
+----Premise T7: If I could not communicate with other people, I could not even buy food to sacrifice my hunger
+----Premise T8: This environment makes me want to develop myself to be able to communicate with people that speak foreign language
+
+no arguments attacks Claim T9
+

@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: international tourism can create negative impacts on the destination countries
+Supporting Claim T4
+
+    Premise: This was due to the lack of adequate controls by authorities and lead to a bad image of Thailand tourism
+    Premise: Take Thailand for example, in the Vietnam War, many American soldiers came to Thailand for a break and involved in sexual and drug activities, these huge demands caused many local businesses opened and expanded, even illegally involved in under-age prostitutes to maximize their profits
+    Premise: tourists from different cultures will probably cause changes to the cultural identity of the tourist destinations
+
+No arguments attacks Claim T4
+

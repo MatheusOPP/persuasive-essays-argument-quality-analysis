@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: Vacations are not only required by students but also by professionals and housekeepers
+supporting Claim T4:
+
+----Premise T3: it not only provide break to them from their regular commitment but also allows them to spend some time on themselves, heel stressful mind and boost desire of resuming to the regular schedule
+
+no arguments attacks Claim T4
+

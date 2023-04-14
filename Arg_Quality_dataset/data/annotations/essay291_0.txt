@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: college and university should be available for all students who want to pursue their goal
+supporting MajorClaim T1:
+
+----Claim T2: Students can have opportunity to learn, to practice, to gain more knowledge for their career and for their future
+----type: Claim T9
+----text: mediocre students should have opportunity to be trained in college and university
+----supporting Claim T9:
+
+--------Premise T12: With a good environment in college or university is encouraging students to study harder for a good future
+--------Premise T13: all students should have equal opportunity to study in higher education
+
+----attacking Claim T9:
+--------Premise T14: higher education take a lot of money and a lot of time
+--------supporting Premise T14:
+
+--------attacking Premise T14:
+------------Premise T10: moderate students should have a chance to try
+------------supporting Premise T10:
+----------------Premise T11: Everyone that has strongly ambition could pursue and success their goal even they are not classified as a good student because people can change
+
+------------no arguments attacks Premise T10
+
+
+
+
+attacking MajorClaim T1:
+----type: Claim T8
+----text: college and university should consider students to study with them only if they are good students
+----supporting Claim T8:
+
+--------Premise T4: studying in advance education take a huge of money
+--------Premise T5: College and university do not want people who not qualify for to waste their money in these expensive courses and waste their time
+--------Premise T6: only good students have potentials to success programs more that those who are not considered as good students
+--------Premise T7: mediocre students are not have a chance to gain these advance knowledge from college and university
+
+----no arguments attacks Claim T8
+
+

@@ -1,0 +1,42 @@
+Type: MajorClaim T1
+Text: I do really prefer to improve my ability of relating people and make more friends rather than studying hard in school
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: Relating well to people can bring plenty of merits to future job
+    Supporting Claim T2
+
+        Premise: Having a good ability of relate to people means you have a number of friends in a variety of fields, imagine when you are in trouble, you have a lot of people who have good relationship with you, so you can ask for your friends to help you solve this problem as soon as possible, even an esy phone call, instend of a series of complex solutions
+        Premise: friends is a treasure with respect to either our daylife or our career
+
+    No arguments attacks Claim T2
+
+    Type: Claim T7
+    Text: make a good relationship with them
+    Supporting Claim T7
+
+        Premise: If top-level managers want to make a project successful, have a good relationship with their subordinaries is the prerequisit for the managers' work complete successfully, managers should listen to their employees needs and complaints about this job, pay much patiant and care to them
+        Premise: no matter who you are a top-level managers of a company or a low-level employee of that company, relating well to people is also a importent issue
+
+    No arguments attacks Claim T7
+
+    Type: Claim T8
+    Text: if a low-level employee desire to enhance his position, it's fairly important to have a good relationship with their boss
+    Supporting Claim T8
+
+        Premise: only if the employee is considered excellent in his boss's eyes, he will be more possible to enhance position
+
+    No arguments attacks Claim T8
+
+
+Attacking MajorClaim T1
+    Type: Claim T10
+    Text: good specify knowledge is more crucial for future job
+    Supporting Claim T10
+
+        Premise: Studying harder in school, getting a good resume and absorbing lots of working knowledge, which can make these graduates more competitive than other applicants in one certain job
+        Premise: majority of people would choose the former
+
+    No arguments attacks Claim T10
+
+

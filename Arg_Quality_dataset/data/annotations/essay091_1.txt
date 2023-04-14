@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: a single international language serves an economic purpose
+supporting Claim T3:
+
+----Premise T5: without the availability of the same language, there might be a chance that misunderstanding and conflicts would ensue over business negotiations, impeding collaborations between them
+----Premise T4: As businessmen from different countries have access to the same language, they can communicate with each other more efficiently and deeply on trade, which can intensify the transnational cooperation
+----Premise T2: a single international language plays a pivotal role in global economic cooperation
+
+no arguments attacks Claim T3
+

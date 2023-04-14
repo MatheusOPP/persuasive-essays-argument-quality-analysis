@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: the city provides better communication
+Supporting Claim T12
+
+    Premise: The buses and trains are more frequent than in the countryside
+    Premise: the city has well-organised lines of transport
+
+No arguments attacks Claim T12
+

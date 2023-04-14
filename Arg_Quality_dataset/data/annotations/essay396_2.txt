@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: our standard of living also depend on another factor - spiritual life which is related closely with arts
+supporting Claim T9:
+
+----Premise T6: Arts include many forms and music as well as cinema are the most typical
+----Premise T7: These two art forms not only provide the public with entertainment but also contribute significantly to the economy
+----Premise T8: The income of film and music industries produce millions of dollars each year for the Goverment, for instance K-pop and Hollywood, and these industries can not survive without goverment's financial assistance
+
+no arguments attacks Claim T9
+

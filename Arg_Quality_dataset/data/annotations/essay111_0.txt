@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: primates should have the same rights as human beings
+supporting MajorClaim T1:
+
+----Claim T3: it seems to me that testing on animals has no clear result
+----type: Claim T4
+----text: There are several reasons why animal testing should be banned
+----supporting Claim T4:
+
+--------Premise T5: the costs outweigh the benefits
+--------Premise T6: Every year, cosmetic companies, farms or medical schools kill millions of animals to test their products, without any beneficial result
+--------Premise T7: Animal testing costs an enormous amount of money
+--------supporting Premise T7:
+------------Premise T8: they must be fed, cared for and treated with drugs or experimental substances
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: sacrificing animals is an expensive and painful activity
+----supporting Claim T9:
+
+--------Premise T12: In March 2003, a lab technician shot a video inside a lab, which revealed primates in cages without pain medication, for instance one baboon with a metal cylinder screwed into its head
+--------Premise T11: Recent studies point out that animals are neglected and treated poorly, which influences their reactions to drugs
+--------Premise T10: animals are kept in unnatural conditions
+
+----no arguments attacks Claim T9
+
+----type: Claim T14
+----text: human beings have no moral right to use animals in ways that do not benefit the individual
+----supporting Claim T14:
+
+--------Premise T15: it is not only inhumane and cruel to cause pain to animals, but also misleading
+--------supporting Premise T15:
+------------Premise T13: animals and people's response to a drug can be different
+
+--------no arguments attacks Premise T15
+
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

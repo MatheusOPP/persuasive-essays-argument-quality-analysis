@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: this development was a very positive one
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: Technology revolutionized the way we communicate
+----supporting Claim T3:
+
+--------Premise T5: nowadays, to keep in touch with loved ones in faraway places has become easy than ever
+--------Premise T4: it is almost possible to do everything without tete-a-tete
+--------Premise T6: By means of some software such as Skype, MSN, Whatsapp we can get in touch with everybody whenever we want
+--------Premise T7: in earlier times, people didn't leave for faraway places
+--------supporting Premise T7:
+------------Premise T8: they could easily get lost
+
+--------no arguments attacks Premise T7
+
+--------Premise T9: This is also one salient prove that the development of technology was a very positive
+
+----no arguments attacks Claim T3
+
+----type: Claim T10
+----text: Internet is a basic tool to keep in touch with old and make new friends
+----supporting Claim T10:
+
+--------Premise T12: According to statistics, 40% of people met even their life partners via Internet
+--------Premise T11: by means of some communication tools, it has become very easy to make new friends
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----type: Claim T15
+----text: the rate of divorces is increasing day by day
+----supporting Claim T15:
+
+--------Premise T14: by communicating via Internet or phone, we cannot express our ideas and feelings fully
+--------supporting Premise T14:
+------------Premise T13: during such conversations, some of our words can make a completely different sense
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T15
+
+

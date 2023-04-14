@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: there are also a significant number of people who are very successful in their fields without going to university
+supporting Claim T8:
+
+----Premise T9: Take for instance those who start their own business
+----Premise T10: These people depend solely on hard work and luck
+----Premise T11: for some of them it proved to be a profitable job
+----Premise T12: Michael Dell who is the founder and the CEO of Dell left college at 19
+----Premise T13: he started his computer company in his college dorm room
+----Premise T14: he used his earnings as well as his family's loan in order to progress to be who he is now
+
+no arguments attacks Claim T8
+

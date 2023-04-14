@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: Having children in the daily exercise routine from an early age will teach them the important value of having physical activity in their every day routine
+Supporting Claim T11
+
+    Premise: Children are bombarded with lectures about nutrition and physical activity; however, they will be more beneficed if that knowledge can be put in practice
+    Premise: they can stick with the routine and make the daily physical activities a good habit on their whole life
+
+No arguments attacks Claim T11
+

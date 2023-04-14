@@ -1,0 +1,11 @@
+Type: Claim T12
+Text: governments have to turn people' attention on public vehicles to reduce cars and motorbikes
+Supporting Claim T12
+
+    Premise: There is the possibility that improving roads and highways does not seem to reach the major cause of traffic congestion
+    Premise: It is quiet clear that traffic congestion is a serious problem in many big cities
+    Premise: there are a great number of vehicles flowing on roads
+    Premise: the policy would play a pivotal part in relieving traffic jam
+
+No arguments attacks Claim T12
+

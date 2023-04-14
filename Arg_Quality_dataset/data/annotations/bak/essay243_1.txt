@@ -1,0 +1,10 @@
+Type: Claim T2
+Text: e-mail has been a great way of communication
+Supporting Claim T2
+
+    Premise: You can talk to others from thousands mile
+    Premise: We will never have to worry if our mails will be sent to the right address
+    Premise: e-mail doesn't take too much time: just a click
+
+No arguments attacks Claim T2
+

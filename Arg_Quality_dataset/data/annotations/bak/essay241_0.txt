@@ -1,0 +1,40 @@
+Type: MajorClaim T1
+Text: life in a city is much better than life in the countryside
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: in the city there is much better education system
+    Supporting Claim T2
+
+        Premise: the schools and the universities have well equipped classes and the famous professors would like to work in such places
+
+    No arguments attacks Claim T2
+
+    Type: Claim T4
+    Text: city provides more work opportunities than the countryside
+    Supporting Claim T4
+
+        Premise: There are not only more jobs, but they are also well-paid
+
+    Attacking Claim T4
+        Premise: living in a city is more expensive
+
+    Type: Claim T8
+    Text: in the urban areas there are also more citizens what means, that the culture diversity is huge
+    Supporting Claim T8
+
+        Premise: Meeting and knowing new people's tradition is an unforgettable experience, which could influence on one's previous habits
+
+    No arguments attacks Claim T8
+
+
+Attacking MajorClaim T1
+    Type: Claim T13
+    Text: in the countryside there are many places to rest, because of its location
+    Supporting Claim T13
+
+        Premise: peaceful and close to the nature areas could help to avoid worries and sadness
+
+    No arguments attacks Claim T13
+
+

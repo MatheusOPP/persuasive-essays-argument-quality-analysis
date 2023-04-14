@@ -1,0 +1,36 @@
+Type: MajorClaim T1
+Text: English as an elegant language should be advocated in many fields to expand the global trade and communications
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: the prevalent of English brings a great number of benefits for people
+    Supporting Claim T2
+
+        Premise: it promotes the communication and interaction between different countries more conveniently and clearly
+        Premise: In the ancient time, the different languages and geography set barriers for people to exchange their goods and ideas
+        Premise: the innovation of plane and train solved the geographical barriers
+        Premise: If we can popularize the use of English, the language hinder will disappear as well
+        Premise: English is a beautiful language, which is more systematical and extensive than many other languages
+        Premise: Learning English can foster people's sentiment and nourish their literature and art
+
+    No arguments attacks Claim T2
+
+
+Attacking MajorClaim T1
+    Type: Claim T3
+    Text: the dominated status of English has destroyed culture diversity and many less-used languages become extinct
+    Supporting Claim T3
+
+        Premise: English is a sophisticated language
+        Premise: these languages have special significance for people who belong to them and using English to replace them is crudity
+
+    No arguments attacks Claim T3
+
+    Type: Claim T14
+    Text: we still need preserve other languages for sake of keeping the linguistic and cultural diversity
+    Supporting Claim T14
+
+
+    No arguments attacks Claim T14
+
+

@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: standardized tests are preferable
+Supporting Claim T5
+
+    Premise: they help teachers to fairly grade the students
+    Premise: exams could be the only way for teachers to see the real abilities of those students
+    Premise: the usage of standardized tests is the superior option for them
+
+No arguments attacks Claim T5
+

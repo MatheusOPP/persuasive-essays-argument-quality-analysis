@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Smoking in restaurants can give a bad example to the children
+supporting Claim T6:
+
+----Premise T7: restaurants are places that people usually come with their families
+----Premise T8: there will be children, grandparents, as well as pregnant women inside the restaurants
+----Premise T9: Children have a high potential to imitate what adults do
+----supporting Premise T9:
+--------Premise T10: they have really high curiosity towards something
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T6
+

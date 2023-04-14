@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: if a government wants to control crime in a community, it is important to manage their people's actions rather than gun used in violent crimes
+supporting Claim T10:
+
+----Premise T11: the root of violence is criminal mind not the weapon itself
+----supporting Premise T11:
+--------Premise T12: there will be law non-abiding people anywhere in the world, either polices or common citizens
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T10
+

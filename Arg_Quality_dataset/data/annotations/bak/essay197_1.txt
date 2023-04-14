@@ -1,0 +1,7 @@
+Type: Claim T1
+Text: there are good arguments in favour of this trend
+Supporting Claim T1
+
+
+No arguments attacks Claim T1
+

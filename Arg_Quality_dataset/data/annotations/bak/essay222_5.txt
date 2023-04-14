@@ -1,0 +1,9 @@
+Type: Claim T13
+Text: parents' support is one factor which makes people succeed in their life
+Supporting Claim T13
+
+    Premise: Unlike a professional, parents always support children and give them much social skill so they can communicate well with others and have good habit in life
+    Premise: they tend to provide the best knowledge and advice from their experience for children
+
+No arguments attacks Claim T13
+

@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: those people should make the financial investment in their own choice; not the government
+Supporting Claim T10
+
+    Premise: People who want to make more money, and live a better life than other people decide to take a college education
+    Premise: Not everyone wants to go to a college
+    Premise: it is a personal choice to go to a college
+
+No arguments attacks Claim T10
+

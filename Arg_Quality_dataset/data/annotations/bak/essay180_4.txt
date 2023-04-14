@@ -1,0 +1,11 @@
+Type: Claim T15
+Text: groups and organizations would lead people to take action or achieve their goal
+Supporting Claim T15
+
+    Premise: they lit the light for the poor and victims
+    Premise: there are various charities in the world
+    Premise: Tzu Chi, a non-profit Buddhism organization in Taiwan, is famous for contributing to the social and community services, and medical care
+    Premise: They bring hopes and inspire others with their generous spirit
+
+No arguments attacks Claim T15
+

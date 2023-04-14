@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: big cities offer more opportunities for one's career advancements and a more chances of higher income that small towns does
+supporting Claim T7:
+
+----Premise T9: economic power of a country is driven by it's big cities and the majority of wealth and finance is centered and controlled in big cities
+----Premise T8: higher income can be the basis of a happier, healthier life
+
+no arguments attacks Claim T7
+

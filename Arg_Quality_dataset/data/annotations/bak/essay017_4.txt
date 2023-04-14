@@ -1,0 +1,11 @@
+Type: Claim T5
+Text: In spite of enjoying watching television shows, it is really time consuming task
+Supporting Claim T5
+
+    Premise: Emergence of new television channels or shows are not surprising
+    Premise: We kill time by tracking these channels so at the end of the day we understand it is late for doing any other activities
+    Premise: This is a problem that suffers all of us everyday
+    Premise: there is no time for call to our parents or friends
+
+No arguments attacks Claim T5
+

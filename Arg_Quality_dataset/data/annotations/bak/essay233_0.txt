@@ -1,0 +1,33 @@
+Type: MajorClaim T1
+Text: ease to prepare food has improved people’s lives
+Supporting MajorClaim T1
+
+    Type: Claim T5
+    Text: being able to prepare a tasty food just putting it into the microwave or into the oven is awesome
+    Supporting Claim T5
+
+        Premise: they don’t have much time to spend in the kitchen
+        Premise: if an engineer needs to make a project, but he needs to deliver it tomorrow, he could save hours preparing a food with the microwave instead of cooking everything from scratch
+
+    No arguments attacks Claim T5
+
+    Type: Claim T9
+    Text: when someone wants to prepare a good food alone for some reason, some time ago he/she would need to be a very good cook to prepare that food, but nowadays is very easy to prepare a healthy and tasty food
+    Supporting Claim T9
+
+        Premise: if a guy wants to prepare a dinner to his girlfriend, he could just buy some food that comes with instructions
+        Premise: Normally you just need to put it into the oven and wait some time
+
+    No arguments attacks Claim T9
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: But people should be careful with what they eat
+    Supporting Claim T2
+
+        Premise: they should buy only food from well known brands
+
+    No arguments attacks Claim T2
+
+

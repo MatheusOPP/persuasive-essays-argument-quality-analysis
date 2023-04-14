@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: children will learn behavior from what they see on TV not from their parents
+supporting Claim T8:
+
+----Premise T10: Parents and even children do not want to communicate with each other instead of watching TV in their own room
+----Premise T9: with the rapid change of the standard of life, each family has three or four TV in each room is more common
+
+no arguments attacks Claim T8
+

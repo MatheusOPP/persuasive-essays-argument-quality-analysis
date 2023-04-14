@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: it is likely that many foods in big cities are not safe for people to eat or drink
+supporting Claim T12:
+
+----Premise T8: Recent investigations reveal that toxic foods are sold pervasively in today's market
+----Premise T9: overpopulation may make people suffer from infectious deseases, especially cough, sneezing and illness
+
+no arguments attacks Claim T12
+

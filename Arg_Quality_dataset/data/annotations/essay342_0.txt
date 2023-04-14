@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: schools and adults should put a sense of cooperation in children to make them becoming a useful adult whether in society or community
+supporting MajorClaim T1:
+
+----type: Claim T10
+----text: cooperation is also an essential quality for children, no matter in school activities or in communities
+----supporting Claim T10:
+
+--------Premise T11: in society, there is hardly anyone who could has big achievement by oneself
+--------supporting Premise T11:
+------------Premise T12: famous singers or movie stars, despite of their talent to make them successful, there are always a team to manage works or deal with things
+
+--------no arguments attacks Premise T11
+
+--------Premise T9: Having a good cooperating spirit helps kids to communicate and get along with others, which gives them more possibility to solve problems or to achieve a goal easily by working as a team
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----type: Claim T2
+----text: competitive child would have more motivation and perspective that leads them to success
+----supporting Claim T2:
+
+
+----attacking Claim T2:
+--------Premise T3: it would not help them much once they enter to society or company which required more about skill of team work
+
+----type: Claim T5
+----text: A strong competition sense helps children having urge to learn or to practice for being the best among peers, and this factor is initially arises from the schools and parents, to encourage children to get the highest scores through the grading system
+----supporting Claim T5:
+
+--------Premise T6: a competitive child is usually more motivated to pursue a goal or to face difficulties independently
+
+----attacking Claim T5:
+--------Premise T8: Being competitive leads them to success, but could also restrict them in many ways
+--------supporting Premise T8:
+------------Premise T4: it might be hard for a competitive person to deal or manage in a team work project
+
+--------no arguments attacks Premise T8
+
+
+

@@ -1,0 +1,59 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I personally disagree with this notion that these types of communication, telephones and email, made people less personal
+supporting MajorClaim T1:
+
+----Claim T2: Communication between people by using telephones and email made my life easier
+----type: Claim T8
+----text: telephones and email help people, who live far away from other people, to connect each other
+----supporting Claim T8:
+
+--------Premise T3: Unlike email, send message by using mail service could be lost and could be sent to wrong address
+--------Premise T4: I can using telephones and email to talk or write directly to people I want to connect with
+--------Premise T7: Telephones and email made me feel close to my parents
+--------supporting Premise T7:
+------------Premise T5: I can make a phone call or write email to my parents whenever I want
+------------supporting Premise T5:
+----------------Premise T6: It is not possible to have conversation in person with my parents, who live in my country
+
+------------no arguments attacks Premise T5
+
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T8
+
+----type: Claim T9
+----text: using telephones and email could express some important words better than face-to-face communication
+----supporting Claim T9:
+
+--------Premise T12: these types of communications make me feel personal
+--------supporting Premise T12:
+------------Premise T11: when I have a time to realize what had happened, I could explain the real thought that I want to express without emotion
+------------supporting Premise T11:
+----------------Premise T10: sometime when I argue with my friends, I cannot express my self to my friends at that moment
+
+------------no arguments attacks Premise T11
+
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T9
+
+----type: Claim T14
+----text: Telephones and email make me feel personal
+----supporting Claim T14:
+
+--------Premise T15: I could directly connect with people that I love
+--------Premise T16: I could express my personal thought through telephones and email
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

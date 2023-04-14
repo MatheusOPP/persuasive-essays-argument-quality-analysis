@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: dancing can represent to civilization of that culture
+supporting Claim T10:
+
+----Premise T11: I have seen many western movies that when a kingdom have visitor from another kingdom, king or queen would dance to show a splendid of their kingdom culture
+----Premise T12: The way of movement, the way that they costume and also a music while they dance
+----Premise T13: All this is a civilization of their culture
+
+no arguments attacks Claim T10
+

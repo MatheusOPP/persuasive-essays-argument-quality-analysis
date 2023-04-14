@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: If a professor doesn't get any researching works, he cannot give us the opportunity
+supporting Claim T10:
+
+----Premise T11: As for students, we can get what we want to know from textbooks, webs or teachers
+----Premise T12: we can only turn to our professors when we want to take part in a research and to get ourselves promoted
+
+no arguments attacks Claim T10
+

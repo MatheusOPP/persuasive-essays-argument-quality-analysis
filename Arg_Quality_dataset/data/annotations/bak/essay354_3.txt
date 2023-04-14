@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: sedentary lifestyle lead to many serious health problems
+Supporting Claim T4
+
+    Premise: The main reason why people are becoming so addicted to sitting at their homes even for the whole day is an advance technology
+    Premise: they had more outdoor activities
+    Premise: Nowadays people, especially inhabitants of cities, are spending most of their time on sitting in front of TV or other tools
+
+No arguments attacks Claim T4
+

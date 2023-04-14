@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: spending too much money for equipping the gyms or constructing football/basketball courts are really not necessary to encourage students to do sports
+Supporting Claim T4
+
+    Premise: What the university should do is informing the students the benefits of doing sport by hanging some posters in the campus, inviting some athletes to lecture for students and encourage them to spend some time for their body and health
+    Premise: my roommate, Mary, always wakes up 6 in the morning and spends 1 hour doing sport in the park which is near our dormitory
+    Premise: When she gets to the dorm, she is really full of energy and after taking a shower, she is ready to start a good day
+    Premise: she is doing exercise without spending a cent
+
+No arguments attacks Claim T4
+

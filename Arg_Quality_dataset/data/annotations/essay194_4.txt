@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: various zoos do not have the proper implements or policies that assure the quality of animal care
+supporting Claim T9:
+
+----Premise T10: I was shocked by the cruelty which animals were treated
+----Premise T11: I can not think of any staff memeber who did not have an improper behaviour towards the animlas in the zoo
+----Premise T12: They beat them up
+----supporting Premise T12:
+--------Premise T13: they did not wanted to eat their meals and then excused themselves saying that it was a way to train the animals
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T9
+

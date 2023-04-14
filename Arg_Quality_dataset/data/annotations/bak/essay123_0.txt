@@ -1,0 +1,26 @@
+Type: MajorClaim T1
+Text: teenagers need more attention and help in comparison with the higher ages
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: they are the best advisor for their children
+    Supporting Claim T2
+
+        Premise: parents and other adult relatives are more experienced towards children
+        Premise: if children listen to their advices they can prevent happening worst things
+        Premise: they can save value things in their life such as time and money, and enjoy they life with the best way
+
+    No arguments attacks Claim T2
+
+    Type: Claim T7
+    Text: parents and adults relatives are the best friends and consular for the teenagers
+    Supporting Claim T7
+
+        Premise: They cheat young ages
+        Premise: unfortunately nowadays there are some individuals who cheat the others for gaining more power and money
+
+    No arguments attacks Claim T7
+
+
+No arguments attacks MajorClaim T1
+

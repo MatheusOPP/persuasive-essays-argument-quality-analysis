@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: he can learn most useful idioms, proverbs and so many other things which the former person, person 'A', does not have access to
+supporting Claim T3:
+
+----Premise T6: it leads to better understanding of language essential skills
+----Premise T7: He also has access to the most up-to-date language
+----Premise T5: He may find native friends and may participate in groups where members are people from the foreign country
+----Premise T4: when a new learner wants to learn a new language in the country in which it is spoken, he has the opportunity to communicate with natives
+
+no arguments attacks Claim T3
+

@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is important for children to be taught with a secondary language as early as kindergarten
+supporting MajorClaim T1:
+
+----type: Claim T13
+----text: the advantages of early introduction of foreign language outweigh its disadvantages
+----supporting Claim T13:
+
+--------Premise T7: kids are amazing learners, and the best time to hone them is in their younger years
+--------Premise T11: the positive impact of this strategy is beneficial to both learners and teachers
+--------Premise T12: Teachers will not find it difficult to make students learn such new concept in their teenage years
+
+----attacking Claim T13:
+--------Premise T8: The introduction of foreign language will be new to them
+--------supporting Premise T8:
+
+--------attacking Premise T8:
+------------Premise T9: their curiosity will drive them to learn and comprehend
+------------Premise T10: grasping a new language will be natural to them
+
+
+
+attacking MajorClaim T1:
+----type: Claim T6
+----text: children might not be really comfortable with the use of a language other than their native tongue when they are in their kindergarten years
+----supporting Claim T6:
+
+--------Premise T5: Learning at school must be convenient for them if they speak in a way that they are used to
+--------Premise T3: teachers think that foreign language most likely leads to confusion for children who are yet to start learning
+--------Premise T4: the teacher should be well-trained in the use of this specific language, so quality education will be delivered
+
+----no arguments attacks Claim T6
+
+

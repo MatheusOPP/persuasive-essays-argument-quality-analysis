@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: making quick decisions leads to probable bad results
+supporting Claim T3:
+
+----Premise T5: if someone decided to quit his job without really thinking about the alternative, or a plan B, he could end up being unemployed, because of his speedy decision
+----Premise T4: making a quick decision means that it's not very thought out, and that it hasn't been checked from all its aspects
+
+no arguments attacks Claim T3
+

@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: we cannot always lean on our luck to be successful
+supporting Claim T18:
+
+----Premise T19: I don't want to disavow the role of luck in success, but as you know it hardly accompany us
+----Premise T14: it is wise advice which you have hard study to success on exam
+----supporting Premise T14:
+--------Premise T15: If you pick up any choice by chance you would fail the exam
+--------Premise T16: You cannot prepare for it without any study and Rely on your luck, even if you be a very lucky
+--------Premise T17: you prepare for TOEFL or other multiple-choice test which has four option to choose in every question
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T18
+

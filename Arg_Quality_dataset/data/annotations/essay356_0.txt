@@ -1,0 +1,49 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the prosperity of tourism can provide benefits for people on a global scale
+supporting MajorClaim T1:
+
+----type: Claim T11
+----text: flourishing tourism in a place can be very rewarding in terms of local economy
+----supporting Claim T11:
+
+--------Premise T8: Holiday makers flocking to other countries are not only bound to spend on tickets of attractions, but also pay for food, accommodation, transportation and entertainment
+--------Premise T9: Both local people and governments can make a large amount of money through these services, and more employment opportunities can be created as well
+--------Premise T10: the revenue earned form tourism can be used in turn to reduce pollution and protect the environment
+
+----no arguments attacks Claim T11
+
+----type: Claim T12
+----text: the increasing development of tourism is a boon to travelers as well
+----supporting Claim T12:
+
+--------Premise T13: The provision of direct airlines makes it possible for them to travel conveniently and comfortably
+--------Premise T14: With adequate local facilities and services available, they can spend more of their holidays having fun and relaxing
+--------Premise T15: both locals and tourists can experience more cultures than ever before, and they can be more open-minded to eliminate preconceptions and deepen mutual understanding among nations
+
+----no arguments attacks Claim T12
+
+
+attacking MajorClaim T1:
+----type: Claim T2
+----text: there are some inevitable problems
+----supporting Claim T2:
+
+
+----attacking Claim T2:
+--------Premise T3: they are outweighed by advantages and can be tackled if proper measures are taken
+
+----type: Claim T6
+----text: tourism can have a negative impact on the natural environment
+----supporting Claim T6:
+
+--------Premise T4: In order to meet the needs of tourists, local governments are likely to build more facilities and infrastructures around tourist attractions, which may result in the destruction of natural habitats
+--------Premise T5: Tourism also creates more pollution and waste, including growing emission of greenhouse gases, dumped leftovers and overuse of water, power and other kind of energy in luxurious hotels
+--------Premise T7: tourism puts great pressure on ecosystem and local resources, and it should not be encouraged
+
+----no arguments attacks Claim T6
+
+

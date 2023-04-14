@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: it does not have the same priority of library has
+Supporting Claim T8
+
+    Premise: only small part of students attend sport activities
+    Premise: in my university number of students who use the library is much more than students do sports activities
+
+Attacking Claim T8
+    Premise: sport is important
+

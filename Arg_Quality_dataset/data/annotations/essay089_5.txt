@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: they need land to build their houses on it
+supporting Claim T13:
+
+----Premise T11: people need shelters to protect themselves from mother nature such as wind and flood and wild animals
+----Premise T12: Dwelling is one of the most important human needs after food which is undeniable
+
+no arguments attacks Claim T13
+

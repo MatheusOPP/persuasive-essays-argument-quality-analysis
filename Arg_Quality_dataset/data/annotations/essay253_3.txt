@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: by bridging the theories with daily life events, students are given the chance to apply knowledge to their lives and develop their own ability of problem-solving
+supporting Claim T9:
+
+----Premise T10: This will address students' interests
+----supporting Premise T10:
+--------Premise T11: it's the assignment that needs real life participation
+
+----no arguments attacks Premise T10
+
+----Premise T12: in law class, students are informed their rights and duties and they are taught how they can apply law to different situations that might happen upon them
+----Premise T13: When any one of the situations occurs, they can think independently and figure out how to react
+
+no arguments attacks Claim T9
+

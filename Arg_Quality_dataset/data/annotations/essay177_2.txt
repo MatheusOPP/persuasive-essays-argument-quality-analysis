@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: Students may raise questions and they may have problems of understanding some specific topics or subjects
+supporting Claim T11:
+
+----Premise T10: when you don't have an instructor there to guide you, it is up to you to make sure that you understand and complete all course requirements
+----Premise T9: attending an education course at home requires persistence and patience
+----Premise T8: it may be a predicament when you face some problems in learning without any help
+
+no arguments attacks Claim T11
+

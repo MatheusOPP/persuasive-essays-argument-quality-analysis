@@ -1,0 +1,12 @@
+Type: Claim T4
+Text: Traditional skills and lifestyles play important role in modern society, in terms of healthcare, environmental protection and cultural inherit
+Supporting Claim T4
+
+    Premise: traditional ways of life is a great complimentary for modern life and highlight the importance of work life balance
+    Premise: it is more environmentally-friendly, which should be promoted to reduce the threat of climate change
+    Premise: those tradition-related things convey traditional culture and values
+    Premise: Protection of tradition can provide the possibility to better understand ancient culture and utilize them to tackle modern problems
+
+Attacking Claim T4
+    Premise: technology takes convenience to humankind
+

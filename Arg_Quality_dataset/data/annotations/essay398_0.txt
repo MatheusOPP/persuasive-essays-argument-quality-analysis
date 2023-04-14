@@ -1,0 +1,44 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: it is necessary for universities to respect the individual choice of subject due to the diversity of boys and girls, and we ca not forcedly put the same numbers of males and females into every subject
+supporting MajorClaim T2:
+
+----Claim T1: many different characters exist between male and female students
+----type: Claim T8
+----text: boys and girls have the diversity in psychological modes and individuality
+----supporting Claim T8:
+
+--------Premise T3: Most of male students tend to use their left brain to think and act, and they are more rational and logical than girls in many cases
+--------Premise T4: there are more male scientists and engineers in comparison with females around the world
+--------Premise T5: Many boys are interested in science and technology, while a number of girls like to learn literature, education and arts
+--------Premise T6: girls are more likely to prefer some jobs related to emotion and communication, such as teacher, singer and interpreter
+--------Premise T7: girls differ from boys in mind and behaviour to a large extent, and they both have better ability in the specific aspect
+
+----no arguments attacks Claim T8
+
+----type: Claim T10
+----text: it can have a negative affect on these students to require them to choose a subject in equal proportion of gender
+----supporting Claim T10:
+
+--------Premise T11: that does not conform to students' personality traits and mental development
+--------Premise T9: a girl, who is interested in literature, is arranged into an engineering department
+--------Premise T15: she is unlikely to focus on her subject
+--------Premise T16: this also can block the girl's future development and career prospect
+
+----no arguments attacks Claim T10
+
+----type: Claim T12
+----text: universities should encourage more girls to choose science subjects and more boys to study the humanities
+----supporting Claim T12:
+
+--------Premise T13: this could avoid imbalance of gender in some subjects
+--------Premise T14: It would affect students' mental health to study in the environment of single gender
+
+----no arguments attacks Claim T12
+
+
+no arguments attacks MajorClaim T2
+

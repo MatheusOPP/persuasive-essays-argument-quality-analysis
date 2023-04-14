@@ -1,0 +1,33 @@
+Type: MajorClaim T3
+Text: Modern technogy has impacted the traditional cultures in both negative and positive ways
+Supporting MajorClaim T3
+
+    Type: Claim T7
+    Text: Thanks to modern technology, our life has been improved with many gadgets
+    Supporting Claim T7
+
+        Premise: The invention of mobile phone and internet has changed our traditional ways of communicating as well as working, it has also been much less labourous than in the pass with the assistance of electrical machineries
+
+    No arguments attacks Claim T7
+
+    Type: Claim T6
+    Text: Many old traditionally cultural things have long gone as a result of modern technology
+    Supporting Claim T6
+
+        Premise: these newfangled practices has replaced many old traditional ones
+
+    No arguments attacks Claim T6
+
+    Type: Claim T8
+    Text: technology has also made some contributions to the maintenance and study of traditional cultures in some ways
+    Supporting Claim T8
+
+        Premise: Internet has aided to assess the young generations to the cultural identity of many nations from all around the world
+        Premise: With the help of advanced methods, many art masterpiece has been well restorated and well preserved
+        Premise: Modern devices also assist the scientists to study the ancient societies much more deeply, hence discovering more cultural traces
+
+    No arguments attacks Claim T8
+
+
+No arguments attacks MajorClaim T3
+

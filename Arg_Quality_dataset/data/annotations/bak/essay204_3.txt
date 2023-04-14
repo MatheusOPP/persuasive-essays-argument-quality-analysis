@@ -1,0 +1,12 @@
+Type: Claim T8
+Text: classroom learning provides other activities than studying
+Supporting Claim T8
+
+    Premise: During student's free time, they have a number of activities that they can join, such as playing sports, going to lab, or going to library
+    Premise: These activities lead to more interact with their friends
+    Premise: Connection with friends improves their IQ abilities
+    Premise: they have a chance to learn about their societies
+    Premise: the online course keeps the children at their home only
+
+No arguments attacks Claim T8
+

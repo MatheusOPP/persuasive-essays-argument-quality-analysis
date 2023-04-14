@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: a large shopping mall provides a location for residents to pursue during their leisure time
+supporting Claim T7:
+
+----Premise T4: Queens Center Mall, a shopping mall located in Queens borough of New York City, provides a wide vairtey of stores, products and services, from clothing to electronics and restaurants, that consumers can choose
+----Premise T5: it is one of the most productive malls in New York
+----Premise T6: I could find virtually every brand or store, including Macy's and JCPenney, when I visited there
+----Premise T3: the establishment of a large shopping center will provide the residents a more convenient place to go shopping
+
+no arguments attacks Claim T7
+

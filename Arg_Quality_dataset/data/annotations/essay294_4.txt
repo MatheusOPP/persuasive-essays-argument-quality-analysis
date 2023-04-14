@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: doing research could also improve the teaching quality
+supporting Claim T18:
+
+----Premise T19: With the help of research projects, professors could lead their students into the practical world from the classroom
+----Premise T20: They can easily teach students how to imply the knowledge in practice
+----Premise T21: I still remembered the experience of being an assistant in one of my professor's research project
+----Premise T22: By participating in it, I had opportunities to use theories on textbooks in real life experiments
+----Premise T23: The research project provides a more efficient way of teaching
+
+no arguments attacks Claim T18
+

@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: the idea that advertising is a positive part of life can be more supported
+supporting MajorClaim T2:
+
+----Claim T1: more good comes from advertising than bad
+----type: Claim T3
+----text: Advertisements are, therefore, very important for many businesses to increase sales and hence profits
+----supporting Claim T3:
+
+--------Premise T4: advertising is carried out with the main purpose of promoting different products and services or encouraging people to consume more
+
+----no arguments attacks Claim T3
+
+----type: Claim T5
+----text: to consumers, advertising can bring them many benefits
+----supporting Claim T5:
+
+--------Premise T7: they can compare them and then have a better decision in choosing their internet or mobile phone plans
+--------supporting Premise T7:
+------------Premise T6: customers of telecommunication services will have an idea about the current offers of different companies
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T5
+
+
+attacking MajorClaim T2:
+----Claim T8: a huge amount of different advertisements could be sent automatically by a system to personal phones or email addresses, this is generally known as spam, and causes discomfort or even annoyance to many people
+----type: Claim T10
+----text: advertising is believed by many, a financial burden to businesses
+----supporting Claim T10:
+
+--------Premise T9: advertising can be very expensive and not every advertising campaign can be done successfully and brings good results
+
+----no arguments attacks Claim T10
+
+

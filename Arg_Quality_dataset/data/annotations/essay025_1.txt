@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: a large factory can stimulate local economic growth and reduce the unemployment rate
+supporting Claim T2:
+
+----Premise T3: To manufacture goods, there must be the demand of laborers, from which the local residents can benefit
+----Premise T4: the factory is not isolated, other industries and business will be quickly established, resulting in economic growth of local area
+----supporting Premise T4:
+--------Premise T5: the estate industry will be boosted in order to satisfy the workers' accommodation need
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T2
+

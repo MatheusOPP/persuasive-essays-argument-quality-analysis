@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: introducing smoking ban in public places would greatly discourage people from engaging tobacco puffing
+Supporting Claim T9
+
+    Premise: further enforcement banned smoking in capital in Sri Lanka has reduced this consumption related diseases and deaths, as per the ministry of health
+    Premise: smoking restrictions has successfully daunted public from this bad puffing that put less strain on country's healthcare systems
+
+No arguments attacks Claim T9
+

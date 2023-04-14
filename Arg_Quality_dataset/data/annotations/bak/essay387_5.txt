@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: it is likely that many foods in big cities are not safe for people to eat or drink
+Supporting Claim T12
+
+    Premise: Recent investigations reveal that toxic foods are sold pervasively in today's market
+    Premise: overpopulation may make people suffer from infectious deseases, especially cough, sneezing and illness
+
+No arguments attacks Claim T12
+

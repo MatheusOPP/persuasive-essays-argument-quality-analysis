@@ -1,0 +1,26 @@
+Type: MajorClaim T2
+Text: it has been proven benefits people enjoy this arrangement
+Supporting MajorClaim T2
+
+    Type: Claim T6
+    Text: non-smoking public would be undoubtedly benefited by enforcing such restrain
+    Supporting Claim T6
+
+        Premise: Prior to 1980's public places in Sri Lanka, illustrates unpleasant situation where people smoked freely
+        Premise: Even in public transportation they engaged in this intolerant bad habit, some instances that lead to belligerent incidents
+        Premise: After enforcing restrictions the situation came to control and this act as benefit rendered to the public
+
+    No arguments attacks Claim T6
+
+    Type: Claim T9
+    Text: introducing smoking ban in public places would greatly discourage people from engaging tobacco puffing
+    Supporting Claim T9
+
+        Premise: further enforcement banned smoking in capital in Sri Lanka has reduced this consumption related diseases and deaths, as per the ministry of health
+        Premise: smoking restrictions has successfully daunted public from this bad puffing that put less strain on country's healthcare systems
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T2
+

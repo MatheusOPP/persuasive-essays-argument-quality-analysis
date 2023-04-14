@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: individuals born with talents have also a high chance to be successful
+supporting Claim T16:
+
+----Premise T18: The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph
+----supporting Premise T18:
+--------Premise T19: David Archuleta who was once a nobody has now taken up a large space in hearts of many
+
+----no arguments attacks Premise T18
+
+----Premise T17: This is especially true in sectors like entertainment and sports
+----Premise T15: people with natural talents are also most likely to excel in their life
+
+no arguments attacks Claim T16
+

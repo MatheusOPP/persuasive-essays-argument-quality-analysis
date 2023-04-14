@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: A good advertisement can convince people to believe that it is what they want, even though it is not the real needs of the society
+supporting Claim T7:
+
+----Premise T8: products usually look more gorgeous and with good quality in advertisement, people are more likely to buy goods impulsively without a second thought
+----Premise T6: there are always people purchase particular products swayed by advertising which makes it a trend to follow for other people who is unnecessarily need it
+
+no arguments attacks Claim T7
+

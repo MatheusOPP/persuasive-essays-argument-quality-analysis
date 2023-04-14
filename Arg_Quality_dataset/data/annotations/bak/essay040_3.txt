@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: students who take on a part time job are often more confident and independent than other ones
+Supporting Claim T8
+
+    Premise: By constant communicating with other colleagues daily in a company environment where their new ideas can be raised without hesitation, then students' confidence could be significantly gained
+    Premise: working conditions require students the independency in thinking, working, and solving problems, which is greatly helpful when the characteristic is applied to tackle subjects in their universities
+
+No arguments attacks Claim T8
+

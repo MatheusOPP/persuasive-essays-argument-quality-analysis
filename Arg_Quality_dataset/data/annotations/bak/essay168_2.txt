@@ -1,0 +1,11 @@
+Type: Claim T3
+Text: Doing all jobs at home don't make employees attempt to work like this
+Supporting Claim T3
+
+    Premise: Then again, the workers must try their best to finish the time limit
+    Premise: The directors manage employers and give them the deadline of projects
+    Premise: Each office has its rules that keep workers do their job as effectively as possible
+    Premise: Pressure is motivation
+
+No arguments attacks Claim T3
+

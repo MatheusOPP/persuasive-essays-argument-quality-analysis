@@ -1,0 +1,11 @@
+Type: Claim T5
+Text: Studying alone helps us to focus more in our lessons
+Supporting Claim T5
+
+    Premise: I am a type of person who cannot comprehend my subjects unless I am alone
+    Premise: I can prepare my schedules, guidelines, exercises and go over them all
+    Premise: we have a lot of subjects which require us to sit and study alone such as math, reading, and drawing
+    Premise: I can take advantage of every minute without wasting by studying alone
+
+No arguments attacks Claim T5
+

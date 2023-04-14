@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: females should be given equal opportunities as males
+supporting Claim T5:
+
+----Premise T6: The whole world aims for women empowerment
+----Premise T7: Right to education is a basic human right of both, males and females
+----Premise T8: When universities will accept them in equal number, both genders will be able to nurture their talent and a healthy competitive environment will develop
+
+no arguments attacks Claim T5
+

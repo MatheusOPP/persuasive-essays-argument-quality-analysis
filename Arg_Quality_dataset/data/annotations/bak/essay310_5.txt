@@ -1,0 +1,12 @@
+Type: Claim T15
+Text: people prone to work in two or three firms in a week
+Supporting Claim T15
+
+    Premise: the expenses have been increased
+    Premise: This fact pushes them to work faster and faster
+    Premise: If they work just in one organization they cannot earn enough money
+    Premise: The more money, the more chances
+    Premise: I am working in two organization to gain more salary
+
+No arguments attacks Claim T15
+

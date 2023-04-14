@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: people are likely to spend less time in cooking food
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

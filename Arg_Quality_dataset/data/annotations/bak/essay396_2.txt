@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: indispensable public services like hospital and school worth every penny investing
+Supporting Claim T3
+
+    Premise: Investing in hospitals helps improve people's health, also, in schools assists with raising our children's education level
+    Premise: if these facilities were not spent adequately, our standard of living would deteriorate
+
+No arguments attacks Claim T3
+

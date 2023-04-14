@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: it is important to take risks
+supporting Claim T12:
+
+----Premise T14: great success requires taking great risks
+----Premise T11: The more you take risks, the greater your successes will be
+----Premise T13: If you don’t take any risks, you will have an ordinary life with average successes
+----Premise T9: If you want to gain very high profits in investments, you should use great and very high amounts of money in very risky financial decisions and dealings in which you may lose much amount of money
+----Premise T10: If you want to achieve a remarkable success in an important exam, you should risk studying all the time and sacrificing your free time and your favorite hobbies
+
+no arguments attacks Claim T12
+

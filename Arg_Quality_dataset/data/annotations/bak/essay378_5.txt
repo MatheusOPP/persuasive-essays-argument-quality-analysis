@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: it was impossible for them to be a good teacher
+Supporting Claim T10
+
+    Premise: there is only limited time for them to teach their children
+    Premise: compared with teachers, parents do not have enough time to spend with their children
+
+No arguments attacks Claim T10
+

@@ -1,0 +1,11 @@
+Type: Claim T13
+Text: having hobbies and doing sports can refresh our mind
+Supporting Claim T13
+
+    Premise: at school, students have breaks every class so that they can relax for a few minutes and prepare for the next class
+    Premise: Humans are not robots; we can't keep working for twenty-four hours
+    Premise: Doing sports or hobbies for a short time can recharge our batteries
+
+Attacking Claim T13
+    Premise: doing something for a long time can be boring
+

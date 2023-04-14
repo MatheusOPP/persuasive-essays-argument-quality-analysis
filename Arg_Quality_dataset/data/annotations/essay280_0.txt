@@ -1,0 +1,61 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: studying many subjects is better that one
+supporting MajorClaim T1:
+
+----Claim T2: students can study in subjects that they interested in, they can gain knowledge more than one field and they will have more chance to choose their future
+----Claim T4: it makes students have more chance to gain knowledge to use in their lives and opportunity to choose their own future
+----type: Claim T8
+----text: requiring students to study in many subjects is good for them
+----supporting Claim T8:
+
+--------Premise T5: when students finished their high schools, they are confused about subjects that they are going to choose to study in universities
+--------supporting Premise T5:
+------------Premise T6: they interested in many subjects and they want to try them all
+
+--------no arguments attacks Premise T5
+
+--------Premise T7: pupil who want to study science are also like to learn music
+
+----no arguments attacks Claim T8
+
+----type: Claim T10
+----text: people who know a wide range of is better than people who know just one
+----supporting Claim T10:
+
+--------Premise T11: Students can gain more knowledge in every different subjects thy study
+--------supporting Premise T11:
+------------Premise T12: university students who study business are also know history of the world
+
+--------no arguments attacks Premise T11
+
+--------Premise T13: students not only gain knowledge but they also have more experience
+--------supporting Premise T13:
+------------Premise T14: they will meet new friends and teachers
+
+--------no arguments attacks Premise T13
+
+--------Premise T9: they all can share opinion and knowledge to one another
+
+----no arguments attacks Claim T10
+
+----type: Claim T15
+----text: students who graduated with a variety of courses during university and lots of experience are definitely have more opportunity to choose their future or career
+----supporting Claim T15:
+
+--------Premise T18: bachelors can earn lots of money by working in other fields due to their knowledge
+--------Premise T16: graduates can work in various kind of works which they can select a job they prefer
+--------supporting Premise T16:
+------------Premise T17: students will choose a career that they want including the job with high salary include
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Claim T15
+
+
+no arguments attacks MajorClaim T1
+

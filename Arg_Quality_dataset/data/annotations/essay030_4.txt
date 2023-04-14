@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: I don't think it is also fair for the government as the government has been paying a lot of money for their students' primary and secondary education
+supporting Claim T3:
+
+----Premise T4: It is better for them to use the money to pay for the other students' education so that all people in their country could receive the same education
+
+no arguments attacks Claim T3
+

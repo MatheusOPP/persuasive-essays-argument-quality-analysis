@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: The university should provide the best equipment needed for physical education students
+Supporting Claim T9
+
+    Premise: students choose their major based on their interests
+    Premise: their major in completely involved in physical activities
+    Premise: for an engineer or a medicine student I do not find it fair enough to equip gyms instead of their laboratories
+
+No arguments attacks Claim T9
+

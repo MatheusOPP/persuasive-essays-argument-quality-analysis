@@ -1,0 +1,10 @@
+Type: Claim T16
+Text: economic issues are global and critical as well thus can not be put aside
+Supporting Claim T16
+
+    Premise: if the economic is in a very bad situation, people would revolt instantly, while environmental problems seem to be more like chronic diseases that would not burst out right away
+
+Attacking Claim T16
+    Premise: the truth is that we've been encountering so many sighs and warnings of global climate anomalies and other environmental crisis right now
+    Premise: It would be unwise to still deny the truth and keep focusing on economic developments and unfortunately, usually the economic developments are even the causes of environmental damages
+

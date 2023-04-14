@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: The reduction in cost of medicines therefore shows the sign of humanity
+supporting Claim T2:
+
+----Premise T3: If people in poorer countries gain access to these drugs, their health situations may be better
+----Premise T6: With advanced technology, the developed world has achieved remarkable breakthroughs in making medicines, which can cure a variety of serious illnesses
+----Premise T5: The medical industry in developing countries is incapable of producing high-quality drugs
+----Premise T4: more lives will be saved by the use of effective medicines
+
+no arguments attacks Claim T2
+

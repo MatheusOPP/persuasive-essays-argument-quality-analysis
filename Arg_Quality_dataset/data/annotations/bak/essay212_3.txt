@@ -1,0 +1,15 @@
+Type: Claim T8
+Text: keeping own customs stably might cause discrimination
+Supporting Claim T8
+
+    Premise: When people insist to keep their own customs and refuse to accept the new one, they regard themselves as a special group in the new country
+    Premise: The local people may also regard them as a special group as well and separate them from the main-stream society
+    Premise: One example of this is that the Chinese immigrants in Indonesia in 1969
+    Premise: They formed Chinatown and kept Chinese language and customs in it
+    Premise: While the Indonesians stopped working at 4:00 pm and went home for rest, Chinese immigrants were still working
+    Premise: Their houses and private cars were buried by local people
+    Premise: being much richer than local people, they faced the discrimination
+    Premise: If the Chinese immigrants had followed the local customs and assimilated into Indonesia, they would not have been regards as a group of Chinese and discrimination might have been alleviated
+
+No arguments attacks Claim T8
+

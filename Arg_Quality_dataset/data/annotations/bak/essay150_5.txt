@@ -1,0 +1,9 @@
+Type: Claim T16
+Text: people enjoy watching TV
+Supporting Claim T16
+
+    Premise: they can learn many things such as learning a language by watching movies
+
+Attacking Claim T16
+    Premise: movies are not a good idea to learn a language for beginners
+

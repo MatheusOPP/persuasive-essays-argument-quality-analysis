@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: their unresponsiveness can be attributed to their attitude towards life
+supporting Claim T10:
+
+----Premise T11: that they are aware of their deteriorating health and lack of enthusiasm comes with their taste for monotony and safe ideology
+----Premise T13: Blatantly seen, success of most companies stems from young people, whose enterprising ideas that catch up with the world is regarded as wind of refreshment
+----Premise T12: This, by all means, is outweigh by youngsters' adventurousness and bravery
+
+no arguments attacks Claim T10
+

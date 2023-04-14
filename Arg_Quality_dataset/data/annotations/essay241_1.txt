@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: in the city there is much better education system
+supporting Claim T2:
+
+----Premise T3: the schools and the universities have well equipped classes and the famous professors would like to work in such places
+
+no arguments attacks Claim T2
+

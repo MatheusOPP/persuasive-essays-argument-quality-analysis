@@ -1,0 +1,11 @@
+Type: Claim T6
+Text: Aiding help poor countries in this situation solve their economical problems and run their own business
+Supporting Claim T6
+
+    Premise: republic of Korea used to be the poorest country even compared to others in Africa in 1960's
+    Premise: Now that it has became strong economy country aiding poor countries after 10 years of aid from other counties
+    Premise: To be out of poverty, it is fundamental to support basic industry related factors such as light, electricity, load, highways, natural resources, technology and buildings for companies
+    Premise: poor counties suffer from shortage of basic materials and facilities to start businesses and make it richer
+
+No arguments attacks Claim T6
+

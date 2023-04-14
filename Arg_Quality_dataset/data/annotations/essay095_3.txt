@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: news media help people broaden their knowledge
+supporting Claim T12:
+
+----Premise T15: This is particularly essential when the globalization process has been permeating into all areas of society
+----Premise T16: the fast growth of news media is helpful for people worldwide
+----Premise T13: there is a strong likelihood that today people are able to know the world better
+----supporting Premise T13:
+--------Premise T14: It is clearly seen that mass media provide people with a variety of global news on all fields, including political situation, economic change, global warming, and so forth
+
+----no arguments attacks Premise T13
+
+
+no arguments attacks Claim T12
+

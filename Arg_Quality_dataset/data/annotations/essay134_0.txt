@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: qualification is still the fundamental determinant of an employee's competency of their jobs
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: qualification should be the foremost measurement to determine the value of a employer
+----supporting Claim T3:
+
+--------Premise T4: It is of importance that workers should be well educated and trained to perform duties of their job
+--------Premise T5: people who work in professional fields such as medicals are required to have a university degree and years of experience
+--------Premise T6: Social skills seem to be less important as they cannot contribute to the success of a surgery
+
+----no arguments attacks Claim T3
+
+
+attacking MajorClaim T1:
+----Claim T2: the importance of social skills should not be neglected as those skills can help one to perform their job effectiveness and efficiency by facilitating interaction and communication with others
+----type: Claim T9
+----text: the importance of social skills have been recognized by increasing number of employers
+----supporting Claim T9:
+
+--------Premise T8: Excellent social skills can help employees maintain strong relationship with their clients which thus lead to a better customer satisfaction
+--------supporting Premise T8:
+------------Premise T7: organization have been transformed to customers oriented
+
+--------no arguments attacks Premise T8
+
+--------Premise T10: people nowadays are required to work as a team in their jobs frequently
+--------Premise T11: Interpersonal skill plays an essential role in helping colleagues to cooperate with each other, especially when conflicts arise
+--------Premise T12: Better social skills allow them to resolve disagreements in a much more harmony way
+
+----no arguments attacks Claim T9
+
+

@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: it is reasonable to lend a hand to our fellow citizens
+Supporting Claim T12
+
+    Premise: there is a high demand that the money should be spent in the place where it is collected
+    Premise: even within the most developed countries, there are still poor people who lack their basic needs
+    Premise: By solving the problems in the home country, it is beneficial for social stability and steady economic growth
+
+No arguments attacks Claim T12
+

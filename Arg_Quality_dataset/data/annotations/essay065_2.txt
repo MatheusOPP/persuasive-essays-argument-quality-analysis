@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: providing education and medical care is more essential and prioritized to the government
+supporting Claim T4:
+
+----Premise T5: Taking care of thousands of citizens who suffer from disease or illiteracy is more urgent and pragmatic than building theaters or sports stadiums
+----supporting Premise T5:
+--------Premise T6: an uneducated person may barely appreciate musicals, whereas a physical damaged person, resulting from the lack of medical treatment, may no longer participate in any sports games
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T4
+

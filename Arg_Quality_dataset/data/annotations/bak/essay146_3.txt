@@ -1,0 +1,37 @@
+Type: MajorClaim T4
+Text: students should find interesting subjects and acquire general knowledge to prepare higher education at tertiary education
+Supporting MajorClaim T4
+
+    Type: Claim T5
+    Text: students have to find one or more fields of study in which they are really interested
+    Supporting Claim T5
+
+        Premise: They should not decide their future major without trying a broad range of subjects, otherwise they might miss valuable encounter with the subject
+        Premise: a would-be mathematician student may be strongly intrigued by philosophy and make a success in the field
+
+    No arguments attacks Claim T5
+
+    Type: Claim T13
+    Text: high school students should learn broadly and prepare future learning at university
+    Supporting Claim T13
+
+        Premise: General education plays a significant role in specialized education
+        Premise: Science today, for example, is said to be more and more specialized, but in order to solve a problem scientists have to combine knowledge from chemistry to physics
+        Premise: textbooks used in higher education are labelled particular subjects, in fact they require basic understanding of other subjects
+        Premise: students should obtain knowledge from a variety of academic fields
+
+    No arguments attacks Claim T13
+
+    Type: Claim T14
+    Text: schools should be responsible for their future and protect them
+    Supporting Claim T14
+
+        Premise: This might result in limited choices in the future
+        Premise: They might avoid tough courses, but instead attend mainly Mickey Mouse courses and enjoy themselves too much
+        Premise: students have tendency to shun difficulties
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T4
+

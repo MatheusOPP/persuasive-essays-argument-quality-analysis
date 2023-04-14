@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: This is chiefly to shield oneself from being harmed by any intruders or robbers
+supporting Claim T3:
+
+
+attacking Claim T3:
+----Premise T4: privacies are lost with the use of these cameras
+----supporting Premise T4:
+
+----attacking Premise T4:
+--------Premise T5: safety should be put first in order to be safe
+
+

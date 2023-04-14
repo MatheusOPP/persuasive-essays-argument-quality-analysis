@@ -1,0 +1,13 @@
+Type: Claim T15
+Text: the school should put more emphasis on students instead of professors
+Supporting Claim T15
+
+    Premise: the most efficient way to improve the education is to guide the students to learn actively
+    Premise: By renewing some facilities in school so students will spend more time at school doing assignment
+    Premise: In my school, the classrooms in my university are old and kind of shabby
+    Premise: It's unpleasant to stay at school
+    Premise: I prefer spending money in a coffee shop to staying at school to finish my assignment
+    Premise: coffee shops are not always quiet, so my classmates and I often finish our work roughly
+
+No arguments attacks Claim T15
+

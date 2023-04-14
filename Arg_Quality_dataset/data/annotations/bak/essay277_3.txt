@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: when a student understands a fact and its consequences, he or she can encounter it more confidently
+Supporting Claim T10
+
+    Premise: these way students are teached to control their fears and concerns in facing facts
+    Premise: concerns and anxieties are very destructive in everybody's life
+    Premise: It can prevent person to progress and thrive in every position
+
+No arguments attacks Claim T10
+

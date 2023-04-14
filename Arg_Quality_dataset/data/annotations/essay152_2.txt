@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: We live in an era that technology is developing in the speed of light, steering the world toward a much more convenient place
+supporting Claim T5:
+
+----Premise T6: A clear-cut example that supports this idea is the invention of smart phones
+----supporting Premise T6:
+--------Premise T7: The strong navigation system installed on the phones has been rescued lives of many who left alone in remote areas like forests or deserts
+
+----attacking Premise T6:
+--------Premise T9: some people criticize social networks as tools that have ruined true relationships and friendships by reducing face-to-face communication
+--------supporting Premise T9:
+
+--------attacking Premise T9:
+------------Premise T8: social networks such as Facebook could foster the ties between friends and family members who are obligatorily far away from each other by keeping them in touch, the thing that was impossible less than 20 years ago
+
+
+
+no arguments attacks Claim T5
+

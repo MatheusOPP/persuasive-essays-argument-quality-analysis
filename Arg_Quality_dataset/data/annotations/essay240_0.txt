@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: some tough experiences people met before will be helpful in their life path
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: experiences of difficulties teach them how to keep a nice mood and have confidence all the time
+----supporting Claim T2:
+
+--------Premise T4: People who have such nice spirit usually know how to find the true love in their life instead of being seduced by greed as to lose themselves in the end
+--------Premise T3: hardship makes people realize how to cherish and compliment the common but wonderful little things happened in their life such as, a shining weather, a delicious breakfast and etc
+
+----no arguments attacks Claim T2
+
+----type: Claim T9
+----text: people who experienced lots of difficulties will be calmer when they are in troubles
+----supporting Claim T9:
+
+--------Premise T5: they are conscious of what to do and how to do when fierce crisis happens
+--------supporting Premise T5:
+------------Premise T6: they already have such experiences of overcoming some difficulties
+
+--------no arguments attacks Premise T5
+
+--------Premise T7: Those people are more likely to achieve their ambitions in their career
+--------supporting Premise T7:
+------------Premise T8: they are aware of how to lead people to reach success despite what kind of difficulties are getting in their way
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

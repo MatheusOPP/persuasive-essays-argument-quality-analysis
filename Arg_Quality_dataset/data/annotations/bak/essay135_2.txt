@@ -1,0 +1,12 @@
+Type: Claim T3
+Text: International aid is critical
+Supporting Claim T3
+
+    Premise: Many people, for example in some African countries, are living below the basic standards
+    Premise: They lack food, water or clothes which keep them warm, not to mention the education needs
+    Premise: What is worse, people who live in countries that are confronted with wars or natural disasters are facing even more severe issues such as security, homelessness or the pain of losing best friends or family members
+    Premise: people from other countries may be facing much more serious problems
+    Premise: those people are in desperate need of international support
+
+No arguments attacks Claim T3
+

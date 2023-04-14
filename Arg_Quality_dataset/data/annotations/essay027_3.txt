@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: developing countries should not totally depend on the financial support from powerful countries
+supporting Claim T7:
+
+----Premise T9: they rarely provide local residents with any technological aid and even cause contamination in some areas
+----Premise T8: some powerful countries provide financial support in order to acquire the right to exploit the local resources and target the local labour market
+
+no arguments attacks Claim T7
+

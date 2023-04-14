@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T22
+text: we should show people the truth in the stories
+supporting Claim T22:
+
+----Premise T23: if they can, they will be good people no matter how the story ends
+
+attacking Claim T22:
+----Premise T18: those good endings sometimes are helpful
+----supporting Premise T18:
+--------Premise T19: Some people may be encouraged to do good things
+
+----attacking Premise T18:
+--------Premise T20: this kind of behavior won’t last long
+--------supporting Premise T20:
+------------Premise T21: someday they will realize the truth
+
+--------no arguments attacks Premise T20
+
+
+

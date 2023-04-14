@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: time is the more valuable thing, which I have in my life
+supporting Claim T7:
+
+----Premise T2: By having my own business, I can manage my own time
+----Premise T3: could work whenever I want, or I do not need to give reasons to my boss for a delay
+----Premise T4: I can arrange time to travel when I would like
+----Premise T5: I can work long hours for earning more money
+----Premise T6: the most important reason for me to be self-employed is the sense of free
+
+no arguments attacks Claim T7
+

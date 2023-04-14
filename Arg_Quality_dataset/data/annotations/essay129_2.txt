@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: we have to be eager in our lives
+supporting Claim T6:
+
+----Premise T5: we need to save time for accomplishing some important tasks, and a fitting example of which can be found in my experience of missing exam
+----supporting Premise T5:
+--------Premise T7: I just failed to participate in the university entrance exam
+--------supporting Premise T7:
+------------Premise T8: I thought I had enough time for eating breakfast and transporting to the testing place; while I was stocked in a traffic jam and then missed the first test
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T6
+

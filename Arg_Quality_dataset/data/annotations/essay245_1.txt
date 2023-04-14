@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: communicating by e-mail is easy
+supporting Claim T4:
+
+----Premise T5: Many people have problems with calling a person that they are not acquainted with
+----Premise T2: In this case it is not so difficult to write an e-mail or to leave a voice mail
+----supporting Premise T2:
+--------Premise T3: even shy people feel themselves more confident
+
+----no arguments attacks Premise T2
+
+
+no arguments attacks Claim T4
+

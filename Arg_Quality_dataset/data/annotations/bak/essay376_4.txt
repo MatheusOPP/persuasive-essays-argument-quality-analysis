@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: it will be of economic benefit to pre-empt certain kinds of diseases
+Supporting Claim T10
+
+    Premise: such unpreventable illnesses as cancer or HIV will cost the victim a fortune, not to cure, but to lengthen his longevity for 1 or 2 more years
+    Premise: if humans tend to keep fit more regularly by participating in outdoor activities or using health-care product, obesity, myopia or other diseases that require expensive treatments will never stand a chance
+
+No arguments attacks Claim T10
+

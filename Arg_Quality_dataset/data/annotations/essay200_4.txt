@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: people are endangering other species' live
+supporting Claim T12:
+
+----Premise T16: the living area of other species narrowed
+----supporting Premise T16:
+--------Premise T15: people, suffering from the population pressure, are expanding their living area
+--------Premise T17: This narrowing of living region is pushing many creatures to the brink of extinction
+
+----no arguments attacks Premise T16
+
+----Premise T13: Hunting has been a fundamental activity of human for having food
+----Premise T14: Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct
+
+no arguments attacks Claim T12
+

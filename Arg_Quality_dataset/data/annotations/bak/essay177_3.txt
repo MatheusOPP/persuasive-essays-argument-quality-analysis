@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: Students may raise questions and they may have problems of understanding some specific topics or subjects
+Supporting Claim T11
+
+    Premise: when you don't have an instructor there to guide you, it is up to you to make sure that you understand and complete all course requirements
+    Premise: attending an education course at home requires persistence and patience
+    Premise: it may be a predicament when you face some problems in learning without any help
+
+No arguments attacks Claim T11
+

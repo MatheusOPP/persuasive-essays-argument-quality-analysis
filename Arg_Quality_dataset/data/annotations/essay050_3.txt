@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: music and other entertaining subjects should be optional
+supporting Claim T12:
+
+----Premise T13: Nowadays, time is the most valuable thing in life with increased pace
+----Premise T14: students are to develop their professional skills by learning occupation-related subjects, rather than playing on guitar or singing a song
+----Premise T15: students can not obtain supposed impacts, unless they get interested in it more seriously
+----Premise T16: music is the art which requires special attitude towards it
+----Premise T17: demand is not for musically orientated students, but for academically developed employees
+----Premise T11: it is clear that music can have many mentally enhancing effects on students
+
+no arguments attacks Claim T12
+

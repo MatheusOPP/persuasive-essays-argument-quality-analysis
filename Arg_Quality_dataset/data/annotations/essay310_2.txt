@@ -1,0 +1,11 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: Gaining more skills by study, having more than one job, and handling more tasks are the benefits of it which overweighs its disadvantages
+supporting Claim T4:
+
+
+no arguments attacks Claim T4
+

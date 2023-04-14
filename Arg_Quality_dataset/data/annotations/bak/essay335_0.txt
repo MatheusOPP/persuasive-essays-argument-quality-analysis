@@ -1,0 +1,38 @@
+Type: MajorClaim T1
+Text: IT discoveries are likely to have more disadvantages than benefits and people should know how to use their developments properly
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: All this inventions will try to take control of the Earth
+    Supporting Claim T2
+
+        Premise: Scientists believe that one day people will face their developments, for instance robots, and they will not succeed to control them
+
+    No arguments attacks Claim T2
+
+
+Attacking MajorClaim T1
+    Type: Claim T5
+    Text: nowadays technology is entering into our society really quick
+    Supporting Claim T5
+
+        Premise: scientists develop robots, which help people cope with their problems or just invent coffee machines, engines with integrated computers and etc
+        Premise: before centeries, there were not washing machines, which clean your clothes, while a person do another job
+
+    No arguments attacks Claim T5
+
+    Type: Claim T7
+    Text: connecting people by email is easy and fast
+    Supporting Claim T7
+
+
+    No arguments attacks Claim T7
+
+    Type: Claim T8
+    Text: World Wide Web offers humanity to access to information, which they want to know for less than 10 seconds
+    Supporting Claim T8
+
+
+    No arguments attacks Claim T8
+
+

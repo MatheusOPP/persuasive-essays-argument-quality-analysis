@@ -1,0 +1,7 @@
+Type: Claim T3
+Text: I’m facing the traffic congestion every day
+Supporting Claim T3
+
+
+No arguments attacks Claim T3
+

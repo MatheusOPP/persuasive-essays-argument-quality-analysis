@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: career promotion or getting some kind of credit from the administration of a company or organization are, likely, more enjoyable achievements than getting a high salary
+Supporting Claim T8
+
+    Premise: most of the satisfaction of a job comes to people from their professional achievements, skills and the position they reach
+    Premise: people, who work in monotonous jobs, where no achievements or a new positions can be reached feel themselves more dissatisfied, even though they have a very good salaries
+
+No arguments attacks Claim T8
+

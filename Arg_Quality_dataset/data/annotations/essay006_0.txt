@@ -1,0 +1,54 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: studying abroad has many advantages
+supporting MajorClaim T1:
+
+----Claim T3: Students gain a lot out of the experience personally, academically, and culturally
+----type: Claim T4
+----text: students who study outside their countries can get a lot of experience living in a foreign country
+----supporting Claim T4:
+
+--------Premise T7: Living in a new country requires a great amount of flexibility and adaptability in one's character
+--------Premise T9: they should be able to deal with the obstacles that they may encounter
+--------supporting Premise T9:
+------------Premise T8: students might face many challenges in the host country
+------------Premise T10: Overcoming problems teaches the students how to be more mature and self-independence
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T5
+----text: the new academic experience that the students can obtain at the institution where they are pursuing their studies
+----supporting Claim T5:
+
+--------Premise T11: they will get exposed to a different educational system
+--------Premise T12: They will meet new professors and new classmates which makes the academic experience different from that in their home country
+
+----no arguments attacks Claim T5
+
+----type: Claim T6
+----text: Most important is the cultural aspect of the experience
+----supporting Claim T6:
+
+--------Premise T13: While living in a foreign country, students can learn a lot about the culture of that country
+--------Premise T14: they can meet different people of the country
+--------Premise T15: They can learn about their way of thinking, their customs and traditions, and way of life
+--------Premise T16: Learning about others' cultures is so important
+--------supporting Premise T16:
+------------Premise T17: It contributes in building a new understanding in us of how we see the world
+------------Premise T18: It makes us more open, and willing to accept different ideas and thoughts
+------------Premise T19: it educates us about the world we are living in
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Claim T6
+
+
+no arguments attacks MajorClaim T1
+

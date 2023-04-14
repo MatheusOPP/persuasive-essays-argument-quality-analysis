@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: how to improve the disadvantages of building a factory would be more important than whether to build it
+Supporting Claim T9
+
+    Premise: it is inevitable that there will be more factories built with the development of our society
+    Premise: most problems can be avoidable if the factories put in real and great effort to manage their waste well
+
+No arguments attacks Claim T9
+

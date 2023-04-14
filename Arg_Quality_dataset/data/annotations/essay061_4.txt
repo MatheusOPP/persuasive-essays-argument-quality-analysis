@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Computers have made humans over-dependent
+supporting Claim T6:
+
+----Premise T17: Virus programs, privacy breach, leak of confidential documents, cyber attacks, identity theft, frauds etc. are some of its demerits, from a countless list
+----Premise T18: Computers expose children to vulgar materials
+----Premise T19: They have even invaded mental health of humans, for example, FAD (Facebook Addiction Disorder - excessive use of social networking website Facebook)
+----Premise T20: Computers have intruded our lives to the effect that a satellite can peep into our homes and privates lives
+----Premise T21: The recent case of Wikileaks, leaking confidential data is an example of how computers are harmful
+
+no arguments attacks Claim T6
+

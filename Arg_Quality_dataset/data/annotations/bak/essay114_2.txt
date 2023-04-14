@@ -1,0 +1,36 @@
+Type: MajorClaim T3
+Text: computers will continue to be used by teachers in the learning process, but they will never take their place
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: Teachers are not just teachers, they are also friends and conseilieurs
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: computers need to be operated by people
+    Supporting Claim T5
+
+        Premise: No one can argue that technological tools are must-haves for the classroom of today
+        Premise: lessons are more attractive and easier to understand when they are put on a Power Point presentation and then presented with a LCD Projector
+        Premise: scientists prove that every classroom needs trained staff to use these interactive and innovative ways of teaching
+        Premise: they are just tools for teachers and they cannot work properly without human's touch
+
+    No arguments attacks Claim T5
+
+    Type: Claim T10
+    Text: children need human interactions
+    Supporting Claim T10
+
+        Premise: No matter how advanced technology will be, it is clear that a computer will never be able to communicate with its pupils
+        Premise: As a recent interview with Josh Trumm – the founder of the 'Teachers Global Group'- reveals, human interactions will never be imitated by computers: 'This verbal and non-verbal communication between teachers and children is the first step towards a proper educatio
+        Premise: Without someone who can explain and understand their problems, pupils cannot actually learn'
+        Premise: only a teacher can feel and connect with pupils, be a friend and a model
+
+    No arguments attacks Claim T10
+
+
+No arguments attacks MajorClaim T3
+

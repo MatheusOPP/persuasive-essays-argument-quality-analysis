@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: it will be of economic benefit to pre-empt certain kinds of diseases
+supporting Claim T10:
+
+----Premise T8: such unpreventable illnesses as cancer or HIV will cost the victim a fortune, not to cure, but to lengthen his longevity for 1 or 2 more years
+----Premise T9: if humans tend to keep fit more regularly by participating in outdoor activities or using health-care product, obesity, myopia or other diseases that require expensive treatments will never stand a chance
+
+no arguments attacks Claim T10
+

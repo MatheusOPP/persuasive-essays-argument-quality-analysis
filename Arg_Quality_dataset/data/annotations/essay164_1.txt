@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: we can unleash uncomfortable in training classes by making new friends, joking in class, enjoying new knowledge
+supporting Claim T2:
+
+----Premise T4: in company we always have to deal with so many stressful situations such as negotiating with difficult customer, complaining from boss, etc
+----Premise T3: training time can provide employee interesting time outside working office to refresh their mind
+
+no arguments attacks Claim T2
+

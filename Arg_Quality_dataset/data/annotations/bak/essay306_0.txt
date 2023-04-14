@@ -1,0 +1,39 @@
+Type: MajorClaim T1
+Text: the convenience it brings is more
+Supporting MajorClaim T1
+
+    Type: Claim T5
+    Text: when it comes to the field of transportation, there is no doubt that the technology in automobile has made people's life simpler
+    Supporting Claim T5
+
+        Premise: With a private car, you can reach the destination in another city just sitting in the vehicle
+        Premise: if you would like to have a trip across the ocean, a plane can carry you there in only a few hours, which is hard to imagine in the ancient times
+
+    No arguments attacks Claim T5
+
+    Type: Claim T9
+    Text: technology also makes teaching simpler
+    Supporting Claim T9
+
+        Premise: In the past, teachers have to write what they want to convey to students on the chalkboard, resulting in a great waste of time and the fatigue of teachers
+        Premise: With the advent of iPads in e-learning, paper books become unnecessary, so does the blackboards
+
+    No arguments attacks Claim T9
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: technology may make people's life complicated in some aspects
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T15
+    Text: technology may make people's life complicated in some cases
+    Supporting Claim T15
+
+
+    No arguments attacks Claim T15
+
+

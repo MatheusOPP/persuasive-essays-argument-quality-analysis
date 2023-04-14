@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: high school students should take a course on basic economics
+supporting MajorClaim T2:
+
+----type: Claim T4
+----text: it can provide students a sense of direction in academy
+----supporting Claim T4:
+
+--------Premise T5: Basic economic class can help the students touch the surface of this field, let them to know what this subject mainly discuss
+--------Premise T6: That will help the students cultivate their own interest and a sense of career orientation
+--------Premise T7: students may study harder for their economic dreams
+
+----no arguments attacks Claim T4
+
+----type: Claim T11
+----text: students can also gain knowledge more practical and vivid
+----supporting Claim T11:
+
+--------Premise T10: there is also an intimate connection between economy and enterprises
+--------Premise T8: economy is always correlate with politics
+--------supporting Premise T8:
+------------Premise T9: students can study specialized knowledge along with some Politian status, which may open their vision toward the nation and don't get limited in the textbooks
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T11
+
+----type: Claim T12
+----text: the basic economic course can also help with the students when they go to college
+----supporting Claim T12:
+
+--------Premise T13: They may feel more readily to learn the knowledge in this field and save much time, with that they are able to study more efficiently and more deeply than other students
+--------Premise T3: That as well would provide the students with more confidence and let them become more compatible
+
+----no arguments attacks Claim T12
+
+
+attacking MajorClaim T2:
+----Claim T1: it will take some time on it
+

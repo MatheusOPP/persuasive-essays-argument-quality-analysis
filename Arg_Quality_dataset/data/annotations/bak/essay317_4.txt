@@ -1,0 +1,14 @@
+Type: MajorClaim T17
+Text: every experience in life whether it is good or bad always gives us something to learn and keep for life
+Supporting MajorClaim T17
+
+    Type: Claim T18
+    Text: Good experiences give us good memories and bad ones teach us lessons for life
+    Supporting Claim T18
+
+
+    No arguments attacks Claim T18
+
+
+No arguments attacks MajorClaim T17
+

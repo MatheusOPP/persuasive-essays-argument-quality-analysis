@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: Environment pollution one of the primary reasons why life in cities is becoming worse than ever before
+supporting Claim T7:
+
+----Premise T4: Exhaust from transportation, especially cars, and factories' tosix fumes can lead people to face with various respiratory deseases
+----Premise T5: water pollution makes people's health become more critical
+----supporting Premise T5:
+--------Premise T6: dangerous bacterias and germs in polluted water can go indirectly into people's bodies and create severe problems, which may result in death if the patients are not treated in time
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T7
+

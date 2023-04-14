@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: new technology has created some similar jobs all around the world
+supporting Claim T9:
+
+----Premise T10: Computer technology is a growing job in most of the countries, and students are being encouraged to study in this field
+----Premise T8: jobs that are related to technology are in demand in most of the countries
+----supporting Premise T8:
+--------Premise T7: many immigrants in Canada who have the degree in computer technology fields can easily go to Canadian universities and find jobs with good salaries
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T9
+

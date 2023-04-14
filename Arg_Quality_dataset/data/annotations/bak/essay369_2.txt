@@ -1,0 +1,11 @@
+Type: Claim T7
+Text: tourism plays an indispensable role in nurturing the economy in a way it is meant to be
+Supporting Claim T7
+
+    Premise: places of interest often locate in the wilderness areas, of which economy, before their appearance, haven't blossmed yet
+    Premise: Not until the investment of some companies do chains of hotels and services spring up
+    Premise: It will, by all means, attract considerable attention which goes hand in hand with the enormous income for the local residents
+    Premise: tourism helps divert the local economy to its right direction, which exploit the best out of its own potential
+
+No arguments attacks Claim T7
+

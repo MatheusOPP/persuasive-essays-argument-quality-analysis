@@ -1,0 +1,9 @@
+Type: Claim T15
+Text: students who graduated with a variety of courses during university and lots of experience are definitely have more opportunity to choose their future or career
+Supporting Claim T15
+
+    Premise: bachelors can earn lots of money by working in other fields due to their knowledge
+    Premise: graduates can work in various kind of works which they can select a job they prefer
+
+No arguments attacks Claim T15
+

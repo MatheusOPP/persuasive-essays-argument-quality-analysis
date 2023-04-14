@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: While many believe that petrol and diesel fuel should be charged with the highest taxation, I strongly disagree with this notion
+supporting MajorClaim T1:
+
+----type: Claim T8
+----text: people have to turn to cheaper alternatives, which might cause the abundance in goods and later on, economic crisis
+----supporting Claim T8:
+
+--------Premise T9: taxation on flamable resources might backfire by conducing to inflation
+--------Premise T7: the more costly petrol is, the higher the price of necessary product: rice, meat or even vegetable
+
+----no arguments attacks Claim T8
+
+----type: Claim T12
+----text: countries that import oil will be more dependent on the exporters, both politically and financially
+----supporting Claim T12:
+
+--------Premise T10: Suppose that the those countries cut down on its oil support, other nations will have to pay more as well as release beneficial policies for them
+--------Premise T11: America, for example, has recently drawn its intervention in Russian crisis only due to the influx of oil
+
+----no arguments attacks Claim T12
+
+
+attacking MajorClaim T1:
+----Claim T3: higher fuel and petrol cost has its own pros and cons
+----type: Claim T4
+----text: Taxation may have tackled the environmental issue simply by diverting people to public transportations such as trains, buses or ferries
+----supporting Claim T4:
+
+--------Premise T5: if petrol and fuel taxation are raised, people might hesitate choosing a personal automobile
+--------Premise T6: for those who have already afforded a car, there is a likelihood it is restraint from usage on long journeys or to crowded cities
+
+----no arguments attacks Claim T4
+
+

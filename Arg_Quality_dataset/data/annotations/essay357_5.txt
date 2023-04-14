@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: watching television is a very passive action and should not be promoted by increasing periods spent on it
+supporting Claim T14:
+
+----Premise T15: children who have had such activities that interrelate to creativity, cooperation, competition tend to perform significantly better in general terms
+----supporting Premise T15:
+--------Premise T13: such activities can equip a child necessary skill that is useful for his future career
+--------supporting Premise T13:
+------------Premise T12: a conducted experiment indicates out-performance in skills like differentiate types of plants or animals of a child that experienced various activities in nature to a child spent most of his time watching documentaries
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T14
+

@@ -1,0 +1,42 @@
+Type: MajorClaim T1
+Text: people who can't accept others' criticism can't succeed in group working
+Supporting MajorClaim T1
+
+    Type: Claim T5
+    Text: the core of group working is "consensus"
+    Supporting Claim T5
+
+        Premise: It's the idea that everyone’s opinion accounts
+        Premise: It doesn't work if one member solely insists on his/her idea and doesn't take other member's criticism
+        Premise: It's every member's duty to respect other's opinion
+        Premise: In group works, group members gather together to have brain-storming discussion, think over every possible solutions and then finally reach an agreement
+
+    No arguments attacks Claim T5
+
+    Type: Claim T11
+    Text: Even if you are not working in a group, you still need to take others' criticism
+    Supporting Claim T11
+
+        Premise: taking criticism is a virtue as you take someone's opinion that is against you
+        Premise: Those who don't even take a word of criticism will eventually lose chances to get improved
+        Premise: if you can't take any criticism, not only will you fail in cooperating with other people, but also get defeated in personal works
+        Premise: As one Chinese idiom goes: "The good medicine tastes bitter“
+        Premise: Criticism might be the most powerful solution to heal
+
+    Attacking Claim T11
+        Premise: Criticism definitely hurts
+
+    Type: Claim T17
+    Text: even if you are right, criticism is still helpful
+    Supporting Claim T17
+
+        Premise: in this case it not only is a fixer, but it also serves as a practice to test you how much you know about your work
+        Premise: Taking criticism doesn't necessary mean that you have to take it all
+        Premise: You should have your own judgments too
+        Premise: And it's kind of art to make the best use of criticism
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T1
+

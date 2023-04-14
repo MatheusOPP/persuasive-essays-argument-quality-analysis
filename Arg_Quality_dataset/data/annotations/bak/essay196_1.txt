@@ -1,0 +1,12 @@
+Type: Claim T2
+Text: learning by doing things develops our maturity
+Supporting Claim T2
+
+    Premise: When you do things by your self, you learn to depend on yourself
+    Premise: You will not be in need to refer to books or persons
+    Premise: if some one wants to learn how to be a leader, they have to experience this by being in a real situation of leading a team or a group, or even a situation
+    Premise: We can not be leaders by reading books or by listening to person talking about leading
+    Premise: The fact of doing things by ourselves can help us to get some experiences that would strong our maturity
+
+No arguments attacks Claim T2
+

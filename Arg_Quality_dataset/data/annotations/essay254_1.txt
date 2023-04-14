@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: environmental protection is far more urgent than economic developments
+supporting Claim T6:
+
+----Premise T3: Just like a man that needs a healthy body, all the living creatures as a whole needs a strong planet as well
+----Premise T4: Without Earth, whatever great civil constructions and economic achievements will end up in vain
+----supporting Premise T4:
+--------Premise T2: we will all perish as she's gone
+
+----no arguments attacks Premise T4
+
+----Premise T5: All the living creatures live together on our mother Earth and she is the only one
+
+no arguments attacks Claim T6
+

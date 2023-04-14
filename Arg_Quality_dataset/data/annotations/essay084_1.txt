@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: if the government provides those without work with a mobile phone, they will be able to find themselves an occupation in order to live and survive
+supporting Claim T4:
+
+----Premise T5: they can surf the The Star Onlines' work section to find a job that is suitable for them
+----Premise T6: With the help of the net, they can also do more research on the work that they have found apart from looking up on how they can prepare themselves for the job
+----Premise T7: the mobile phones can also be used to make calls with the companies in which they would like to work with
+----Premise T3: when people without jobs have hand phones that have access to the Internet, they will be able to browse the net for more job opportunities
+
+no arguments attacks Claim T4
+

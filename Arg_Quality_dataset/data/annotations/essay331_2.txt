@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: historic buildings make our lives more colorful, provide places for citizens to relax bodies and minds
+supporting Claim T12:
+
+----Premise T9: The city is occupied with an abundance of modern houses and and high buildings which make it crowded, and no rooms for people to relax themselves
+----Premise T10: the warmth of the materials, the heart pine, marble, or the old brick, all those old buildings features call back of our inner peace
+----Premise T11: Lying under the roof of a historic building or sitting on the desk fill with history are both easy ways to forget life's little annoyance and feel peaceful
+
+no arguments attacks Claim T12
+

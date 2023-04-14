@@ -1,0 +1,11 @@
+Type: Claim T12
+Text: in the area of trade, no one can deny that poorer countries are lagging behind richer countries due to shortage of money
+Supporting Claim T12
+
+    Premise: Trading are less active in poorer countries may also be caused by incomplete transportation infrastructure
+    Premise: residents in rural areas still depend on their own farm for food production
+    Premise: richer nations can provide financial service to poorer countries to encourage trading
+    Premise: The former can also give consultation on setting up a complete and efficient transportation infrastructure to support trading
+
+No arguments attacks Claim T12
+

@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: Visiting the zoo would help the students understand what they learn at school
+supporting Claim T10:
+
+----Premise T15: it will also help identify which animals could be dangerous
+----Premise T14: It offers a great opportunity to observe their reactions to different situations, such as weather, specie and genre interaction, defense behavior, or protection of their babies
+----Premise T13: In the zoo you can see an animal and their different variations, the male and the female or the baby and the adult
+----Premise T12: If you visit the zoo, you get to watch the animals, their customs, what they eat and how they eat it, as well as which characteristics the different species have
+----Premise T11: We can learn a lot from books and lectures, but there is an even better way to learn, that is visuals and personal experience
+----Premise T9: Animals, the different species, their habitats and behaviors are a subject of study at schools and universities
+
+no arguments attacks Claim T10
+

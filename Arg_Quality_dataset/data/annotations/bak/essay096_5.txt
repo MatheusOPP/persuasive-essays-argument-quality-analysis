@@ -1,0 +1,9 @@
+Type: Claim T14
+Text: when the background of the convicted is 'dug' deeper and is revealed to mass of anonymous people, his privacy is being jeopardized
+Supporting Claim T14
+
+    Premise: If finally he is proven innocent, he may feel embarrassed to face the public
+
+Attacking Claim T14
+    Premise: the crimes done by criminals should be brought to light and the public should be aware of it so that they will not become a victim as well
+

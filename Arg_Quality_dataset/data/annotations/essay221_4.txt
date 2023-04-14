@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: the zoo gives humans new knowledge
+supporting Claim T5:
+
+----Premise T6: the zoo is the important place for innate learning
+----Premise T7: The zoo also let students have a chance to learning biology practically
+----Premise T8: They are able to observe animals' behaviors and features
+----Premise T9: practical learning help students relax from a boring lecture class
+----Premise T10: researchers need the zoo to pick up some examples of animals for their researches
+----supporting Premise T10:
+--------Premise T11: it has diverse species of animals
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T5
+

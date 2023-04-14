@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: it's clear that computer has a positive effect on the children
+supporting Claim T9:
+
+----Premise T12: students who used to prepare Microsoft PowerPoint presentation for their school projects, get an edge over others at an early stage of their career
+----Premise T11: When children are allowed to play around with computer from a very early age, they get acquainted with the previously mentioned skills and become expert before facing professional world
+----Premise T10: computers enable people to prepare presentations, draw complex graphs and pictures, document thesis in a simple though efficient way
+
+no arguments attacks Claim T9
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: it is much convenience to take a subway or a bus
+supporting Claim T4:
+
+----Premise T6: with the stations increased people are willing to take a public transportation than drive on their own
+----supporting Premise T6:
+--------Premise T5: I live in a city which always have a jam in the morning and doesn't have enough parking lots for the cars
+
+----no arguments attacks Premise T6
+
+----Premise T3: the public transportation has improved
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: one who has studied and lived overseas will become more eligible for the job than his/her peers
+supporting Claim T5:
+
+----Premise T10: employers are mostly looking for people who have international and language skills
+----Premise T11: Becoming successful in this study will give the student an edge in job market
+
+no arguments attacks Claim T5
+

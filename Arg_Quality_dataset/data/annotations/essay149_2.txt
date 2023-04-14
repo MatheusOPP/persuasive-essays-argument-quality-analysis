@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: family members can help us in many other aspects
+supporting Claim T15:
+
+----Premise T16: when I did not know what major to choose when I attend university, my father told a lot about different majors
+----Premise T17: He shared his own experience with me, which helped me quite a lot
+----Premise T19: they can guide them toward the right direction
+----supporting Premise T19:
+--------Premise T18: Parents are quite experienced than their child
+
+----no arguments attacks Premise T19
+
+----Premise T20: parents can told their children as many as they can
+----Premise T21: What they want is help their child to make a progress
+
+no arguments attacks Claim T15
+

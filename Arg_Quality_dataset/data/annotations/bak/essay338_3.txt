@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: some people become geek, as too much of using email and messaging, without direct contacts
+Supporting Claim T7
+
+    Premise: using of these facilities has influenced netizens to keep themselves becoming unsociable
+    Premise: they do not do much social live interactions with others
+
+Attacking Claim T7
+    Premise: people have had own minded to keep connection with their friends as a good relationship, meet them and talk by face to face directly
+

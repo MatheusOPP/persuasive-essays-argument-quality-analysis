@@ -1,0 +1,8 @@
+Type: Claim T10
+Text: if a government wants to control crime in a community, it is important to manage their people's actions rather than gun used in violent crimes
+Supporting Claim T10
+
+    Premise: the root of violence is criminal mind not the weapon itself
+
+No arguments attacks Claim T10
+

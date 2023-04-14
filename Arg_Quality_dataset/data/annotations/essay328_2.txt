@@ -1,0 +1,26 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: By attending to the same school, students can learn how to view the opposite gender in classes as a friend or a classmate
+supporting Claim T3:
+
+----Premise T10: School is a small society for students, which prepares them for the future life
+----Premise T4: a boy would know how to speak with a girl in every situation and vice versa
+----Premise T5: They would know how to ask her in order to cooperate with his study, how communicate with girls in a group, etc
+----Premise T6: when they study together and help each other, they exercise the the real life as they age
+
+attacking Claim T3:
+----Premise T7: attending both girls and boys in a same school cause many disadvantages for them
+----supporting Premise T7:
+--------Premise T8: their thoughts deviate from the studies
+--------supporting Premise T8:
+------------Premise T9: outdoors relationships may expand and it may accompany with sexual relationship
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Premise T7
+
+

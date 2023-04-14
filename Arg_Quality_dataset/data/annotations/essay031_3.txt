@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: the methods to reduce the number of automobiles and to control car ownership and use should be immediately planned and implemented
+supporting Claim T8:
+
+----Premise T11: traffic congestion irritates drivers and as a result, it leads to an increase of traffic accidents
+----Premise T10: Once we get into the traffic jam, it forces us to waste our time for a while
+----Premise T9: an increase in the number of automobiles causes terrible traffic congestion
+
+no arguments attacks Claim T8
+

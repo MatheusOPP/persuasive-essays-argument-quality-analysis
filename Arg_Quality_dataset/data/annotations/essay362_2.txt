@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: old workers are not a patch on the younger ones for their unchanged paradigm
+supporting Claim T6:
+
+----Premise T3: The old were raised in poverty, probably caused by war, look at the world from a negative and pessimistic point of view
+----Premise T4: The misery is so ingrained in their mind that they refuse to change, or more precisely, to accept the existence of such modernity
+----Premise T5: most would rather choose to piece together parts of a machine than have it done by a robot for their disbelief of its efficiency and safety compared with human's capability
+
+no arguments attacks Claim T6
+

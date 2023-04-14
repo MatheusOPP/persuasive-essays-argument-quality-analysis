@@ -1,0 +1,44 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: students can acquire more benefits from the remote education
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: studying at home save the pupils enormous time and considerable expense
+----supporting Claim T4:
+
+--------Premise T5: Students who use distance-learning programs can cut down their commuting time, tuition fees, textbook fees and so forth just by an internet connection
+--------Premise T6: This especially makes a significant difference for the children who live in the far-off countryside and the children whose families are living below the poverty-line
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: long-distance education provides students the opportunity to access the immense knowledge resources and a variety of teaching approaches
+----supporting Claim T9:
+
+--------Premise T10: Pupils can obtain materials for their curricula just by one mouse click, such as science reports, study posts, documentary records, etc
+--------Premise T7: he can control the learning progress and make satisfactory achievement on this course
+--------supporting Premise T7:
+------------Premise T8: A student can even select a specific online course based on his own preference and time schedule
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----Claim T2: traditional education has some merits like feedbacks and inspirations that cannot be replaced in the near future
+----type: Claim T11
+----text: traditional education has its advantages in face-to-face communication, mental inspiration and physical educations
+----supporting Claim T11:
+
+--------Premise T12: These make remarkable contributions in providing immediate feedbacks and cultivating pupils' personalities
+
+----attacking Claim T11:
+--------Premise T13: with the improvements in streaming and sensor technologies, remote education can eliminate the obstacles of distance and body contacts
+
+

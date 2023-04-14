@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: government should give priorities to invest more money on the basic social welfares such as education and housing instead of subsidizing arts relative programs
+supporting MajorClaim T1:
+
+----Claim T4: those are the most essential ways enable to make people a decent life
+----type: Claim T5
+----text: Art is not the key determination of quality of life, but education is
+----supporting Claim T5:
+
+--------Premise T6: In order to make people better off, it is more urgent for governments to commit money to some fundamental help such as setting more scholarships in education section for all citizens
+--------supporting Premise T6:
+------------Premise T7: knowledge and wisdom is the guarantee of the enhancement of the quality of people's lives for a well-rounded social system
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Claim T5
+
+
+attacking MajorClaim T1:
+----Claim T3: art could play an active role in improving the quality of people's lives
+----type: Claim T8
+----text: art, to some extent, serve a valuable function about enriching one's daily lives
+----supporting Claim T8:
+
+--------Premise T9: it could bring release one's heavy burden of study pressure and refresh human bodies through a hard day from work
+
+----attacking Claim T8:
+--------Premise T10: it is unrealistic to pursuit of this high standard of life in many developing countries, in which the basic housing supply has still been a huge problem with plenty of lower income family have squeezed in a small tight room
+--------Premise T11: By comparison to these issues, the pursuit of art seems unimportant at all
+
+

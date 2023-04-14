@@ -1,0 +1,12 @@
+Type: Claim T8
+Text: athletes and singers deserve their current salary
+Supporting Claim T8
+
+    Premise: they have an exceptional ability that other people do not own
+    Premise: hardly anyone could play basketball as skillfully as Michael Jordan - a legendary former American player who won several times in the NBA championship
+    Premise: They also point out that these people have to undergo painstaking and industrious training, let alone participate in a great number of contests to be recognized and prove themselves
+    Premise: there are many singers and athletes, few of whom could rise to fame and victory ultimately
+    Premise: Overcoming all these obstacles, they should be paid a great deal of money for their extraordinary efforts
+
+No arguments attacks Claim T8
+

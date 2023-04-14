@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: Teachers have to manage to teach every topics by schedule
+supporting Claim T8:
+
+----Premise T6: there are certain period of time for teachers to teach
+----Premise T9: If teachers pay attention to specific students, their work might not finish on time, and this might make many student miss some field in topics that they should know
+----Premise T7: In these short time, it is not possible for teachers to pay attention to individual students in class
+----Premise T10: main task of teacher to give knowledge to students, and this role have to finish in time
+
+no arguments attacks Claim T8
+

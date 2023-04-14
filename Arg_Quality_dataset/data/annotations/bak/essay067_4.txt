@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: restrictions on exposure to adolescents should apply
+Supporting Claim T9
+
+    Premise: adolescents are not mature enough to avoid being led astray by these contents
+    Premise: some of the art work may contain negative implications such as insanity, violence, eroticism etc
+    Premise: in the case of adults being the audience, there's really nothing to hide – these negative things objectively exist on this planet and it is impossible for adults to be brain-washed only because of some pieces of creative art
+
+No arguments attacks Claim T9
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: living with parents is a wise choice for adults until they get a head start to their professional career with a reasonable income
+supporting Claim T2:
+
+----Premise T5: It can be a difficult task to pay for rent, food, utilities and other expenses to sustain yourself
+----supporting Premise T5:
+--------Premise T4: At younger age people are less likely to get a high paying job
+
+----no arguments attacks Premise T5
+
+----Premise T3: Living on your own is a huge financial commitment
+
+no arguments attacks Claim T2
+

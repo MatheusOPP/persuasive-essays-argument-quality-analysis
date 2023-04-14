@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: it is a good idea for children to past their first earlier life in the cities
+supporting Claim T3:
+
+----Premise T9: in my country the best schools, universities and institutes are located in cities, and todays education is one of the most important parts of our children's life
+----Premise T8: education is better in big cities in comparison with countrysides
+
+no arguments attacks Claim T3
+

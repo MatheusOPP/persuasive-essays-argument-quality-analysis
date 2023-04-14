@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: People are corrupting their ecosphere
+Supporting Claim T3
+
+    Premise: In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies
+    Premise: These wastes including household waste and industrial waste are so big that a "new" continent is now being formed in the sea from garbage
+    Premise: the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change
+
+No arguments attacks Claim T3
+

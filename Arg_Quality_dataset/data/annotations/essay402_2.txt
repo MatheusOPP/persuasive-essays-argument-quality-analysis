@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: playing sports will give good effects on children
+supporting Claim T15:
+
+----Premise T4: there are many benefit when children doing sport
+----supporting Premise T4:
+--------Premise T13: they can contribute positively to community
+--------supporting Premise T13:
+------------Premise T12: That will make children getting lots of friends
+
+--------no arguments attacks Premise T13
+
+--------Premise T9: children who always playing sport like football, they will be active as a person and learn to become team-player
+--------Premise T10: It will be good for children
+--------supporting Premise T10:
+------------Premise T11: indirectly they will learn how to socialize each other as a team
+
+--------no arguments attacks Premise T10
+
+--------Premise T14: playing sport makes children getting healthy and become children's well-being
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T15
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: they would prepare to encounter their life out of school to solve their problems better
+supporting Claim T4:
+
+----Premise T3: more information about facts would make students more familiar with the real life other that only their concepts
+----Premise T2: when students learn facts more in school, they would be ready for facing problems in their own life after their graduations
+
+no arguments attacks Claim T4
+

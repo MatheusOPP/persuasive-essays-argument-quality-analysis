@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: when we practice outdoors and indoors sports, many aspects are getting clearer
+supporting Claim T9:
+
+----Premise T10: when a person goes jogging everyday, eventually he can understand his own body through direct observation
+----Premise T11: the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically
+----Premise T12: almost all natural science discoveries were made by direct observation, which is a part of physical education
+
+no arguments attacks Claim T9
+

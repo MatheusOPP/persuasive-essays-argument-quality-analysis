@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: flourishing tourism in a place can be very rewarding in terms of local economy
+Supporting Claim T11
+
+    Premise: Holiday makers flocking to other countries are not only bound to spend on tickets of attractions, but also pay for food, accommodation, transportation and entertainment
+    Premise: Both local people and governments can make a large amount of money through these services, and more employment opportunities can be created as well
+    Premise: the revenue earned form tourism can be used in turn to reduce pollution and protect the environment
+
+No arguments attacks Claim T11
+

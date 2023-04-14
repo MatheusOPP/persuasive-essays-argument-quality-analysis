@@ -1,0 +1,21 @@
+Type: MajorClaim T1
+Text: the excellent knowledge of this job will be more significant
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: there is only one thing would be beneficial to company, and there is only one way to be an outstanding worker, that is possessing excellent knowledge of this job
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+
+Attacking MajorClaim T1
+    Type: Claim T3
+    Text: we can use the ability of adapting oneself in a new environment
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+

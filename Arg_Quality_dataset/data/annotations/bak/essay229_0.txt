@@ -1,0 +1,37 @@
+Type: MajorClaim T1
+Text: friendship is more important than mistake by a friend
+Supporting MajorClaim T1
+
+    Type: Claim T9
+    Text: mistake is more forgettable than friendship
+    Supporting Claim T9
+
+        Premise: my friend Lee made a mistake that he broke my precious gift
+        Premise: I forgot about it just after two days, and I felt at peace with him
+        Premise: If someone remembers mistake, he or she has a closed mind
+        Premise: a mistake does not last for a long time but a friendship lasts forever
+        Premise: Anybody does not remember mistakes
+        Premise: mistakes will be forgotten quickly
+
+    No arguments attacks Claim T9
+
+    Type: Claim T15
+    Text: Everybody makes mistake
+    Supporting Claim T15
+
+        Premise: if you end a friendship whenever your friend makes a mistake, there will be no friends around you
+        Premise: when the mistake friend made was not a big problem, we need to understand friend and forgive it
+        Premise: According to a research, 85% of people answered that a best gift is a friend
+
+    No arguments attacks Claim T15
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: mistake is terrible
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+

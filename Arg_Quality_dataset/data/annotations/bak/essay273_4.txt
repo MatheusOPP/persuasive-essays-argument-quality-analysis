@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: persons in big cities have more chance to get the better job than people living in small towns
+Supporting Claim T9
+
+    Premise: lots of companies placed in big cities and there are more job positions in there than small towns
+    Premise: In big cities educational facilities is quite better than small towns with more experienced and profession teachers
+    Premise: in this modern world education has a very important role in the human kind future life
+    Premise: Better education results better career and been well paid
+
+No arguments attacks Claim T9
+

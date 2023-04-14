@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: several vacations throughout the year will keep stress level of students low
+supporting Claim T5:
+
+----Premise T7: Many educational bodies schedule its small vacations after term exams so that student's get relief form exam pressure
+----Premise T8: research done by universities proves that student's performance improves if they get regular breaks from their learning, preparation and examination schedule
+----Premise T9: Many colleges in foreign countries provide vacations to students after each semester that facilitate student to entertain themselves as well as prepare for their next semester
+----Premise T10: several holidays aid these students to not only amuse themselves but also arrange fund and materials such as books and references material for their upcoming course
+
+no arguments attacks Claim T5
+

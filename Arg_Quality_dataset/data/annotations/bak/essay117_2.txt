@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: technology alone could save the environment
+Supporting Claim T5
+
+    Premise: now we have come so far ahead in technology that there is no going back
+    Premise: We cannot ask the people of the jet age to go back to the age of the bullock cart
+
+No arguments attacks Claim T5
+

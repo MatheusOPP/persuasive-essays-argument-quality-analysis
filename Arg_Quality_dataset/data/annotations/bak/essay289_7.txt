@@ -1,0 +1,10 @@
+Type: Claim T24
+Text: people who get the most advantage from evaluation is students
+Supporting Claim T24
+
+    Premise: Students could study in class that have teachers who have experienced and greater performance
+    Premise: students could comprehend their subject easily
+    Premise: students, who study from great schools which have great performance teacher, graduate with great knowledge to survive in next steps of life
+
+No arguments attacks Claim T24
+

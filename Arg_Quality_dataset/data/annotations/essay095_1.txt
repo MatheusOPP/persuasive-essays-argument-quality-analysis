@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: the progress of news media is an advantageous development
+supporting Claim T3:
+
+----Premise T6: It also positively affects the way people live in many other aspects
+----Premise T5: It enriches people's knowledge with worldwide information
+----Premise T4: It relaxes people with plentiful entertainment news
+
+no arguments attacks Claim T3
+

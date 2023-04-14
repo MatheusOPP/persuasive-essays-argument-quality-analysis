@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: capital punishment is certainly not the only option to control the amount of crimes, life imprisonment is just as effective by detaining the criminals in prison for the rest of their lives
+supporting Claim T9:
+
+----Premise T10: in terms of punishment, living a miserable life with restriction to the world outside and sustaining the feeling of guilt every day in a dark bounded room are much more obsessing than being killed right away
+
+no arguments attacks Claim T9
+

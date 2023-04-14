@@ -1,0 +1,12 @@
+Type: Claim T4
+Text: The most obvious merit is that tourism can vastly boost economic development in a particular state or region
+Supporting Claim T4
+
+    Premise: This takes place, not only through direct expenditure from tourists, but also because it provides direct and indirect jobs to the community, including retail, agriculture, and in the service industry
+    Premise: The increasing tax and the expansion of local markets for accommodation, luxury goods amongst others are also a result of a solid, well-regulated tourism programs
+    Premise: tourism provides a considerable number of direct and indirect jobs to the community, including retail, hotels, transport, agriculture, and in the service industry
+    Premise: This increase of job opportunities allows more people to make significant contribution to society through the purchasing of commodities by their growing incomes
+    Premise: this gives energy to the economic cycle, generating local economic prosperity in return
+
+No arguments attacks Claim T4
+

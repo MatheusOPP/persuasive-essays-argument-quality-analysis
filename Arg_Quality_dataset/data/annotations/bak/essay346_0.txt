@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: my term of a successful man is one who has certain achievements in life rather than the one with a high income
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

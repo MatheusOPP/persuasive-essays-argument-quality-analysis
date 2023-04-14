@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: They have a deep insight in it and could provide much support to their children
+supporting Claim T18:
+
+----Premise T17: they have accumulated a rich network in a certain industry
+----supporting Premise T17:
+--------Premise T16: parents have worked in tens of years
+
+----no arguments attacks Premise T17
+
+----Premise T12: they know which company has better welfare or provides better education
+----Premise T13: their friends in the same industry can even help to write recommendation letters to some certain companies
+----supporting Premise T13:
+--------Premise T14: It is undoubted that a good recommendation letter is extraordinary important in this competitive society
+--------Premise T15: When others are still struggling in preparing their resume, one with a good recommendation letter has already passed the first stage in the interviewing process
+
+----no arguments attacks Premise T13
+
+
+no arguments attacks Claim T18
+

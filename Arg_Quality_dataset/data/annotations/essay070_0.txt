@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is insufficient to increase the petrol price only to solve problems
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: it seems not easy to increase petrol price instantly
+----supporting Claim T5:
+
+--------Premise T6: governments have a macro-economic perspective to control price in various areas according to social demands
+--------Premise T7: pollutions are not just caused by the burning of oil, chemical pollutants, extra lights, also constitute considerable amount of pollution
+--------Premise T8: the improvements of work efficiency also attribute to the speed-up of working pace, resulting in traffic jams during rush-hours
+
+----attacking Claim T5:
+--------Premise T4: price control institution has been used in plenty of social areas, for example, in the farming products and in the real estate area
+--------supporting Premise T4:
+
+--------attacking Premise T4:
+------------Premise T3: whether it can work out for alleviating traffic and pollution pressure ought to be evaluated
+
+
+----type: Claim T9
+----text: several other solutions can be introduced to assist in reducing pollution and traffic problems
+----supporting Claim T9:
+
+--------Premise T10: authorities should spare no efforts in improving public transportation facilities, such as constructing more bus lines, in order to reducing the usage of private cars
+--------Premise T11: temporarily targets should be set, with regard to the limitations of pollutants in a certain period of time, for example, a season
+--------Premise T12: with supervisory institutions built to find and address problems
+--------Premise T13: cultivating a sense of environmental protection would also work out, though it might not be into effect immediately, but in the long run, it would be a wise choice
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

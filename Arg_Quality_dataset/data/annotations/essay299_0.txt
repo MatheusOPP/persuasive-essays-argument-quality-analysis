@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: its better that people learn foreign language in their own country
+supporting MajorClaim T1:
+
+----Claim T3: It is cost effective and there is a pool of opportunities available now to accomplish the same
+----type: Claim T7
+----text: it is not possible for everyone to visit a foreign country to learn a foreign language
+----supporting Claim T7:
+
+--------Premise T8: it requires large amount of money and legal formalities
+
+----no arguments attacks Claim T7
+
+----type: Claim T5
+----text: with the advent of globalization, one can easily find a teacher in their own country
+----supporting Claim T5:
+
+--------Premise T6: in Indian sub-continent there are large number of centers opened for getting trained in variety of languages like french, german etc
+
+----attacking Claim T5:
+--------Premise T4: In the earlier periods, it was not easy to find a teacher to learn a foreign languge
+
+----type: Claim T9
+----text: it is very easy to learn a foreign in our own country
+----supporting Claim T9:
+
+--------Premise T10: Students can choose any language from the set of languages available at a university
+--------Premise T11: colleges and universities have introduced foreign language course as a part of their curriculum
+--------Premise T12: highly qualified foreign language teachers are easily accessible in various schools and colleges
+
+----no arguments attacks Claim T9
+
+----type: Claim T14
+----text: technology has also played a great role in reducing the separation between learning a foreign languge in our own country
+----supporting Claim T14:
+
+--------Premise T13: A large number of foreign language courses are available online and there are various forums where people can discuss their problems on different foreign languages
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

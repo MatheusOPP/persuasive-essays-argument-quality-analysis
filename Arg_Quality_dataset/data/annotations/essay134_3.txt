@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: the importance of social skills have been recognized by increasing number of employers
+supporting Claim T9:
+
+----Premise T8: Excellent social skills can help employees maintain strong relationship with their clients which thus lead to a better customer satisfaction
+----supporting Premise T8:
+--------Premise T7: organization have been transformed to customers oriented
+
+----no arguments attacks Premise T8
+
+----Premise T10: people nowadays are required to work as a team in their jobs frequently
+----Premise T11: Interpersonal skill plays an essential role in helping colleagues to cooperate with each other, especially when conflicts arise
+----Premise T12: Better social skills allow them to resolve disagreements in a much more harmony way
+
+no arguments attacks Claim T9
+

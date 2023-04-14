@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: parents shouldn't put so much stress on children
+supporting Claim T17:
+
+----Premise T18: learning too many skills seems to be a burden for them
+
+attacking Claim T17:
+----Premise T19: it depends on how you value these learning activities to be like
+----supporting Premise T19:
+--------Premise T20: If parents push their 5 years old child to play piano 8 hours a day just like a professional performer, that might be too much
+
+----no arguments attacks Premise T19
+
+----Premise T22: it will not be such pressure on children
+----supporting Premise T22:
+--------Premise T21: In a child stage, music and art are more like an open door to introduce the art world than training area to acquire specific skills
+
+----no arguments attacks Premise T22
+
+

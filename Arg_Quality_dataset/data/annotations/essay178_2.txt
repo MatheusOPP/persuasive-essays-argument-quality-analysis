@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: it not only provides a place to shop but also offer people jobs
+supporting Claim T8:
+
+----Premise T9: There may be a great number of job vacancies in the need of opening the new stores in the shopping mall
+----Premise T10: It could be an opportunity for people who are looking for a part-time job or a full time job
+----Premise T11: Some students and retirees may work there in order to whiling away their free time and earning money
+
+no arguments attacks Claim T8
+

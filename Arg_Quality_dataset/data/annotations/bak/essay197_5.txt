@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: growing of cheap flights really have negative impact on environment
+Supporting Claim T8
+
+    Premise: more flights could mean bigger and busier airport that may be grown the air pollution for people who live and work close to it
+    Premise: the biggest concern is the effect on global warming
+
+No arguments attacks Claim T8
+

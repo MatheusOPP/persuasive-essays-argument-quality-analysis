@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: those people should make the financial investment in their own choice; not the government
+supporting Claim T10:
+
+----Premise T13: People who want to make more money, and live a better life than other people decide to take a college education
+----Premise T12: Not everyone wants to go to a college
+----Premise T11: it is a personal choice to go to a college
+
+no arguments attacks Claim T10
+

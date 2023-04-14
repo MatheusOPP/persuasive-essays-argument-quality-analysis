@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: when someone wants to prepare a good food alone for some reason, some time ago he/she would need to be a very good cook to prepare that food, but nowadays is very easy to prepare a healthy and tasty food
+Supporting Claim T9
+
+    Premise: if a guy wants to prepare a dinner to his girlfriend, he could just buy some food that comes with instructions
+    Premise: Normally you just need to put it into the oven and wait some time
+
+No arguments attacks Claim T9
+

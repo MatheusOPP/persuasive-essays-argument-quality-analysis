@@ -1,0 +1,40 @@
+Type: MajorClaim T2
+Text: museums and art galleries are necessary to be preserved for its importance of education and culture
+Supporting MajorClaim T2
+
+    Type: Claim T8
+    Text: the importance of museums and art galleries is plain in terms of education and culture
+    Supporting Claim T8
+
+        Premise: authentic exhibits cannot be completely displayed only by images and videos
+        Premise: It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it
+
+    No arguments attacks Claim T8
+
+    Type: Claim T9
+    Text: these buildings will not disappear unless people abandon their culture
+    Supporting Claim T9
+
+        Premise: museums and art galleries preserve some culture heritages
+
+    No arguments attacks Claim T9
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: modern technology has provided a more convenient and comfortable manner for people to watch exhibitions
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T5
+    Text: people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society
+    Supporting Claim T5
+
+        Premise: technology indeed simplifies people's life all the time
+
+    Attacking Claim T5
+        Premise: in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy
+
+

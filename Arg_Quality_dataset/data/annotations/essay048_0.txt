@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: online-teaching should be widely used among colleges and universities in terms of convenience and optimizing cost for educational institutions
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: educational institutions are able to optimize costs by increasing teacher-student ratios
+----supporting Claim T3:
+
+--------Premise T7: the presence of video conferencing allows a teacher to teach a greater number of students
+--------Premise T8: Thanks to the economical online-teaching, universities and colleges are able to offer grants for students who have outstanding academic achievements but are unable to attend schools because of financial constrains
+
+----no arguments attacks Claim T3
+
+----type: Claim T4
+----text: distance-learning brings significant convenience for students in every corner of the world
+----supporting Claim T4:
+
+--------Premise T5: In earlier times, students who were tired of commuting had to attend schools nearby, regardless of any differences in teaching facilities, teacher's qualifications or the school reputation
+--------Premise T6: Now, however, students are able to apply for online-courses provided by top-of-the-range universities and colleges worldwide
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T1:
+----type: Claim T9
+----text: attending lectures in person provides students an opportunity to communicate with teachers and other classmates
+----supporting Claim T9:
+
+--------Premise T10: They further point out that traditional teaching approaches involving discussion and cooperation among students play a significant role in campus life
+--------Premise T11: It is the real interactions and communications in class make education much more attractive
+
+----no arguments attacks Claim T9
+
+

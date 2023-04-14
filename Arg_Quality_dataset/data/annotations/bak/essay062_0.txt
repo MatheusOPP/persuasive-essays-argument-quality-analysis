@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: Universities must admit both in equal numbers, depending on their choices
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

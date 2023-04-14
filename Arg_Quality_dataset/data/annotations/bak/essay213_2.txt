@@ -1,0 +1,11 @@
+Type: Claim T8
+Text: if you want to get brilliant achievements such as going to college, acing your school's final tests, you should consider learning to work on your own
+Supporting Claim T8
+
+    Premise: in many important cases when team-working is not possible, the ability to work alone will help
+    Premise: The apperant example is that there are a lot of tests that do not allow team-working
+    Premise: Let's imagine that you perform really well when you can discuss the problems with other people, but you have no experience of working alone, standardized tests such as SAT, TOEFL may be your nightmares
+    Premise: Testing is a very important aspect of life, and still the majority of tests do not allow you to work in team
+
+No arguments attacks Claim T8
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: would affect their mental and physical health
+supporting Claim T8:
+
+----Premise T11: They won't be able to get proper time for relaxation, sleep
+----Premise T9: jobs has various responsibilities like attendance, sometimes extra work and so on
+----Premise T10: This would result in stress, tension and tiredness
+
+no arguments attacks Claim T8
+

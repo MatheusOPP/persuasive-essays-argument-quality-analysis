@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: the advertisement is not the only cause for people to buy
+Supporting Claim T9
+
+    Premise: buying habit is a very personal things for individuals
+    Premise: sometimes it depends on one's needs and ability of consumption
+    Premise: It is unlikely to buy things impulsively for adults who have concern of arranging disposable income
+    Premise: Most of them have to allocate the money if they doing other purchase
+
+No arguments attacks Claim T9
+

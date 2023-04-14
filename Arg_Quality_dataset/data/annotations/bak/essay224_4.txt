@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: the staff soon gets boring with their stable job in such a long time
+Supporting Claim T10
+
+    Premise: this situation will have an adverse impact on the enterprise
+    Premise: At a certain time, they may presume that a securing job is the most important and necessary
+    Premise: the bulk of them realize that high promotion and competition can assist them to improve their skills and horizons
+    Premise: Many people enjoy challenging them
+
+No arguments attacks Claim T10
+

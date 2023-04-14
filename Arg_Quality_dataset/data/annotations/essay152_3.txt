@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: the increase in the average age of human from 50 to around 75 years through last decades is a strong evidence to show how successful human was in medicine
+supporting Claim T14:
+
+----Premise T13: scientists could invent ways to lead drugs directly to the damaged organs of the body, which is a miraculous breakthrough
+----Premise T12: The advancement in drug delivery systems is another example that could save lives
+----Premise T11: even some disabled people with serious vertebral injuries can start doing physical activities like walking again thanks to the continuingly efforts of biomechanical engineers and neurologists
+----Premise T10: The phenomenal progress in medical science in the last decade was a huge achievement for human being to make the world a healthier and, thus, a happier place to live in
+
+no arguments attacks Claim T14
+

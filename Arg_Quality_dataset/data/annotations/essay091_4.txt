@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: a single international language may, to some extent, erode the cultural identity of a nation
+supporting Claim T11:
+
+----Premise T12: people may be impressed by the cultural values brought with the universal language, eroding a sense of national belong
+----supporting Premise T12:
+--------Premise T13: some Asians are seeking individualism, previously denied by many Asian countries
+--------supporting Premise T13:
+------------Premise T14: they have gradually identified with such values expressed in American movies, which are imported by the governments as a result of the proliferation of English
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T11
+

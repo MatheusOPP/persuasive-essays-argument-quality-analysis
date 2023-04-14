@@ -1,0 +1,38 @@
+Type: MajorClaim T2
+Text: it's better to have one or two close friends than to have a large number of casual acquaintances
+Supporting MajorClaim T2
+
+    Type: Claim T1
+    Text: it's much easier to have some casual acquaintances than have some close friends
+    Supporting Claim T1
+
+        Premise: Sometimes acquaintances are just acquaintances
+        Premise: We spend time together but we could never be friend
+        Premise: being a friend with someone is different from only being acquaintant
+
+    No arguments attacks Claim T1
+
+    Type: Claim T9
+    Text: close friends can easily understand each others feelings
+    Supporting Claim T9
+
+        Premise: acquaintances probably not able to understand you better than your friends
+        Premise: they wouldn't even spare time to consider your feelings
+        Premise: Everyone play the role of acquaintance and friend at the same time
+        Premise: Being friendly is a good way to treat a acquaintance but way not enough for a friend
+
+    No arguments attacks Claim T9
+
+    Type: Claim T17
+    Text: a friend is a person you care about
+    Supporting Claim T17
+
+        Premise: When my friend is sick, I would not only ask if he is okay like an acquaintance but do my best to make him get well as soon as possible
+        Premise: If my friend is going to the wrong direction in his life trail, I will try my best to pull him back, but not stand and stare like it's not of my business
+        Premise: my friend will do the same to me
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T2
+

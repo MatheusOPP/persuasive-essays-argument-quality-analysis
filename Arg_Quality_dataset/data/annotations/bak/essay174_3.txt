@@ -1,0 +1,11 @@
+Type: Claim T15
+Text: serious movie tell you how to see the world in a different way
+Supporting Claim T15
+
+    Premise: "Blood diamond", an adaptation of a real story in South Africa, focuses on the link between diamonds and conflict
+    Premise: Diamonds are not rare or a sign of true love; indeed, the hidden meaning of a diamond is a cruel reality
+    Premise: some of serious movies try to make you think about the dark sides of the world
+    Premise: After watching the movie, we may learn a lesson between jewels and death
+
+No arguments attacks Claim T15
+

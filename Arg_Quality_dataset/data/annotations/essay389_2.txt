@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: these children remain uneducated and will have the same fate as their parents
+supporting Claim T4:
+
+----Premise T5: In a developing country, not many can afford to send their children to school
+----Premise T6: There are government schools where tuition fees are practically free but they are not aplenty and mostly are situated in the cities
+----Premise T8: These children whose parents are either farmers or fishermen, can hardly eat three meals a day, let alone afford to pay for transportation to get to these schools everyday
+----Premise T7: They are not reachable by children who live in the mountains or islands
+
+no arguments attacks Claim T4
+

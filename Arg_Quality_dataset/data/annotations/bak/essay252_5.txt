@@ -1,0 +1,11 @@
+Type: Claim T12
+Text: even if children are not going to be great musicians or artists, learning music and art is still worthy
+Supporting Claim T12
+
+    Premise: They teach us how to appreciate beauty and express feelings in a creative way
+    Premise: music and art are life-long cultivation worthy of investing
+    Premise: They are essential to our spiritual life
+    Premise: it can nourish your temper and serve as a leisure
+
+No arguments attacks Claim T12
+

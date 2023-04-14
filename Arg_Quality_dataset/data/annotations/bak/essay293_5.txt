@@ -1,0 +1,21 @@
+Type: MajorClaim T19
+Text: I prefer the project members to work in person rather them by email
+Supporting MajorClaim T19
+
+    Type: Claim T20
+    Text: work in person will be more efficient
+    Supporting Claim T20
+
+
+    No arguments attacks Claim T20
+
+    Type: Claim T21
+    Text: we should realize that in a project, there are numerous coordination works are required, if each opinion is communicated via email, there will be hundreds or thousands of emails there that we know this is not a good experience
+    Supporting Claim T21
+
+
+    No arguments attacks Claim T21
+
+
+No arguments attacks MajorClaim T19
+

@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: this evaluation from students could improve schools' quality
+supporting Claim T20:
+
+----Premise T17: Teachers could augment their quality
+----Premise T18: When school gather teachers that have great performance, school are gaining higher quality
+----Premise T14: in many cooperation such as Microsoft that could produce many great products
+----supporting Premise T14:
+--------Premise T15: they have employees whose performance are very high
+
+----no arguments attacks Premise T14
+
+----Premise T16: Schools could produce intellectual students
+----supporting Premise T16:
+--------Premise T13: school have teachers who are always improve their quality from evaluation made by students
+
+----no arguments attacks Premise T16
+
+
+no arguments attacks Claim T20
+

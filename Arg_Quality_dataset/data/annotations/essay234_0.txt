@@ -1,0 +1,66 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: standardized tests are valuable option for educational system as long as it would help teachers to know if the students are really getting knowledge
+supporting MajorClaim T1:
+
+----Claim T3: these schools can qualitatively check if they are giving an appropriate education to their students
+----type: Claim T5
+----text: standardized tests are preferable
+----supporting Claim T5:
+
+--------Premise T19: they help teachers to fairly grade the students
+--------Premise T4: exams could be the only way for teachers to see the real abilities of those students
+--------supporting Premise T4:
+------------Premise T7: some students are not so active on the lessons, cause they are already familiar with the issue
+
+--------no arguments attacks Premise T4
+
+--------Premise T9: the usage of standardized tests is the superior option for them
+--------supporting Premise T9:
+------------Premise T8: many teachers rely only on the exam results while grading the class
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T5
+
+----type: Claim T12
+----text: schools should require students to take standardized tests, as long as this option helps to both sides
+----supporting Claim T12:
+
+--------Premise T13: standardized tests can be good chance for students to apply their knowledge on practice
+--------supporting Premise T13:
+------------Premise T10: they will never try to solve problems on their own
+------------supporting Premise T10:
+----------------Premise T6: some students may get used to simply rewriting solved problems from the blackboard
+
+------------no arguments attacks Premise T10
+
+
+--------no arguments attacks Premise T13
+
+--------Premise T11: standardized tests offer them such chance
+
+----no arguments attacks Claim T12
+
+----type: Claim T14
+----text: requirement to take standardized tests is the right choice
+----supporting Claim T14:
+
+--------Premise T15: in this case teachers can compare the level of knowledge of different students
+--------Premise T16: In any class there will be students who will show low academic performance, so teachers could work with them more intensively
+--------Premise T17: standardized tests are required over those who don’t
+--------supporting Premise T17:
+------------Premise T18: if the teacher would know the level of each student he would fairly share his time to all of them
+
+--------no arguments attacks Premise T17
+
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

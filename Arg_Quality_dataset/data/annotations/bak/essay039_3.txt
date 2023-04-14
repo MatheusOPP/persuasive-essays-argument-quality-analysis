@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: a great deal of sophisticated technology can be invented
+Supporting Claim T10
+
+    Premise: As astronauts need to travel to outer space which does not have any oxygen to breathe in, scientists are compelled to do research on the oxygen tanks
+    Premise: Oxygen tanks, for instance, are proved useful not only in outer space but also underwater
+    Premise: spaceships, communication satellites and space pens also contribute a lot to the society
+
+No arguments attacks Claim T10
+

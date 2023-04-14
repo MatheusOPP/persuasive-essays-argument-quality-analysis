@@ -1,0 +1,37 @@
+Type: MajorClaim T1
+Text: newspapers and magazines will be history with the time
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: internet presents the information about the current affair so fast and the accessibility to the historical news
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T7
+    Text: digital media will rule over paper and magazines
+    Supporting Claim T7
+
+        Premise: A very important responsibility of media is to publish information about the current affairs as quickly as possible specially when there is a crisis
+        Premise: when the aircraft MH 370 went missing, everyone wanted to know the details about this tragic incident
+        Premise: The friends and families of passengers and crews were impatient to know the truth
+        Premise: In such situations, newspapers and magazines can not respond as fast as digital media
+        Premise: Instead of waiting for next publication, people can get trustworthy information about the current incidents from internet within an hour or two
+
+    No arguments attacks Claim T7
+
+    Type: Claim T13
+    Text: People often want to access news from past for various reasons like to prepare for research, satisfy interest, etc
+    Supporting Claim T13
+
+        Premise: one research fellow may want to know how a small village named Oramaki in Japan was suffering after Second World War
+        Premise: It is very difficult to get this sort of information from past in newspapers and magazines as one has to know before where to look at
+        Premise: internet provides efficient search facility where one can search the topic and get the details
+        Premise: This feature of digital media is not supported by newspapers and magazines
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T1
+

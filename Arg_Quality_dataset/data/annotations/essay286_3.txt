@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: studying in university taught me to be more prudent person to solve problems
+supporting Claim T15:
+
+----Premise T9: in math class, the way that we learnt to find an answer by doing step by step
+----Premise T10: Start with find cause of problem and the way to do research to solve the problem
+----Premise T11: I could adapt this method to use my real life
+----Premise T12: When I want to go to somewhere, I try to find the way to reach to destination
+----Premise T13: Which ways are shortest and which ways are less consume my time
+----Premise T14: I could find a better way to solve problems
+
+no arguments attacks Claim T15
+

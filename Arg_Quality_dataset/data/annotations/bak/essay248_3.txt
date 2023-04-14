@@ -1,0 +1,13 @@
+Type: Claim T11
+Text: they could thus support much more to their children, such as domain knowledge and industry-related information
+Supporting Claim T11
+
+    Premise: as parents are involved in the same environmen
+    Premise: my father is a software programmer, and he indeed teaches me a lot in programming and some computer knowledge
+    Premise: Whenever I met a difficulty, I would reach him for consulting
+    Premise: I could save enormous time in finding solution
+    Premise: This truly makes me more competitive than my colleagues
+    Premise: If I worked in the different field from my father, I would have faced much difficulty than I do now
+
+No arguments attacks Claim T11
+

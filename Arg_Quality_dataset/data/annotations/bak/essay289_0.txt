@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: students should be asked to evaluate their teachers
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

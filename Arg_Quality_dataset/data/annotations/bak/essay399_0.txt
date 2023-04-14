@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: this is a worrying tread which has negative impact on children
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

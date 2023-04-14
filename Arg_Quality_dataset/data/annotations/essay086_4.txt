@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: they can exchange their knowledge, they can learn different cultures
+supporting Claim T6:
+
+----Premise T15: Via internet they can have connection with the other children all around the world
+
+no arguments attacks Claim T6
+

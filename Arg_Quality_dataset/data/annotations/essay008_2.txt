@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: if countries, especially the developing countries, are determined to take off, one of the key points governments should set on agenda is to educate more qualified future citizens through elementary education
+supporting Claim T4:
+
+----Premise T5: a lack of well-established primary education goes hand in hand with a high rate of illiteracy, and this interplay seriously compromises a country's future development
+----Premise T7: government should guarantee that all people have equal and convenient access to it
+----Premise T6: elementary education, like the base of a architecture, is the fundamental requirement to be a qualified citizen in today's society
+
+no arguments attacks Claim T4
+

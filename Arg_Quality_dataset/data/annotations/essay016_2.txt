@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: doing this various testing is a hazard of human's future and next generation
+supporting Claim T5:
+
+----Premise T4: animals are friendly and vital for people
+----supporting Premise T4:
+--------Premise T6: if there are no animals in the world, the balance of nature will broke down, and we, human, will die out as well
+
+----no arguments attacks Premise T4
+
+----Premise T7: The animal experiments accelerate the vanishing of some categories of animals
+
+no arguments attacks Claim T5
+

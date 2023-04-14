@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: Advertisement is the most effective way to create a well-known product
+Supporting Claim T7
+
+    Premise: the more an advertisement of a product takes place in mass media, the more popular the product becomes
+    Premise: Consumers tend to purchase the most known product when it comes to picking one out of two different brands of the same product
+
+No arguments attacks Claim T7
+

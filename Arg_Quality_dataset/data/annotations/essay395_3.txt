@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: such tax payments are unfair for them
+supporting Claim T10:
+
+----Premise T11: it is irrational to require them to pay for the taxes they do not use
+
+attacking Claim T10:
+----Premise T12: we also pay for the public services that we even do not experience a chance to employ like police or fire brigade
+----Premise T13: We certainly do not hope for a reduction for these sorts of taxes
+

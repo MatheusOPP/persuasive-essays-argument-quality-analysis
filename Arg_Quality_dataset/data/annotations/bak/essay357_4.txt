@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: teacher cannot be switched with some unconscious screens
+Supporting Claim T5
+
+    Premise: Yet, monitors are unable to replace the appearance of educators
+    Premise: classic teaching methods has been scientifically proven and utilized as the best mode of educate a child
+
+Attacking Claim T5
+    Premise: Technology and its advance, to some degrees, have influenced the educational industry positively
+

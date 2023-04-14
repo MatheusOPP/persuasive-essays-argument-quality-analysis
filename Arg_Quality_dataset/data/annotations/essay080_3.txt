@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: zoos provide the public with good entertainment and also help to ensure the balance of the ecology
+supporting Claim T9:
+
+----Premise T14: zoos are needed to keep the nature balanced
+----supporting Premise T14:
+--------Premise T12: zoos play an important role in reserving many breeds of animal and preventing them from being missing from life
+--------supporting Premise T12:
+------------Premise T13: in zoos, animals are kept in enclosures which simulate their own habitats and also endangered animals are being protected from their predators or hunters
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Premise T14
+
+----Premise T10: Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world
+----Premise T11: Zoos provide educational information about the lives of different animals to the public
+
+no arguments attacks Claim T9
+

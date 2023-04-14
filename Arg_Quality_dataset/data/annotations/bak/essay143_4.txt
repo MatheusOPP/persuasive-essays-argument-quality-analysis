@@ -1,0 +1,12 @@
+Type: Claim T10
+Text: it is not necessary for successful people to take risks
+Supporting Claim T10
+
+    Premise: those athletes try to have distinctive performance by taking risks of taking drugs are failed to succeed
+    Premise: The same reason why they succeed is that they all have the predominated abilities in sports realm
+    Premise: the sports stars do not have to take some drugs to win a game or show their extraordinary skills
+    Premise: a successful person should be able to dismantle the hurdles prohibiting him to success
+    Premise: it depends on the capability of one to decide whether he can succeed or not
+
+No arguments attacks Claim T10
+

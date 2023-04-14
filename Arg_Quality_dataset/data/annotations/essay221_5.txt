@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: the zoo preserves a large number of rare animals and provides them safe habitats
+supporting Claim T12:
+
+----Premise T13: In the zoo, there is not so harmful as a forest
+----Premise T14: They, fed by zookeepers, do not need to find food themselves
+----Premise T15: we can do artificial insemenation to maintain nearly extinct wildlife
+
+no arguments attacks Claim T12
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: some students might learn better at home on their own, for instance, by reading the textbook
+supporting Claim T5:
+
+----Premise T8: they are able to save precious study time and dive into the course syllabus independently
+----supporting Premise T8:
+--------Premise T7: By letting students choose not to attend class you give them the opportunity to escape bad teaching
+
+----no arguments attacks Premise T8
+
+----Premise T6: This problem occurs especially if the lecturer is lethargic
+
+no arguments attacks Claim T5
+

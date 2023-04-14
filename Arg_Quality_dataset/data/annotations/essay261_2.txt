@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: art and music would broaden student's horizon and therefore make them thoughtful
+supporting Claim T7:
+
+----Premise T4: It is well known that the art and music are not bound by country border, and they are something that is shared by the people from every parts of this world and is symbols of various cultures
+----Premise T5: learning art and music enables students to appreciate the fruits of eminent artists and musicians and to feel the fascination of different cultures
+----supporting Premise T5:
+--------Premise T6: students are able to feel the greatest music masterpiece in Euopren as the symphony of destiny-Beethoven's most notable workpiece is played
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T7
+

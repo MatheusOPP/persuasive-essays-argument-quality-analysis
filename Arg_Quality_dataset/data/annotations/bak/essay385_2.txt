@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: there are some reason why the level of bloody increases significantly in the communities
+Supporting Claim T11
+
+    Premise: the number of unemployment rate has risen to 15 percent in several globalized and non-globalized countries
+    Premise: cost of living in the big city is extremely expensive, so this problem impresses some people who live under the poverty line to do anything to pay their basic needs
+
+No arguments attacks Claim T11
+

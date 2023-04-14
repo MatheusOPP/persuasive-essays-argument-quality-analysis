@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: telephones and email help people, who live far away from other people, to connect each other
+supporting Claim T8:
+
+----Premise T3: Unlike email, send message by using mail service could be lost and could be sent to wrong address
+----Premise T4: I can using telephones and email to talk or write directly to people I want to connect with
+----Premise T7: Telephones and email made me feel close to my parents
+----supporting Premise T7:
+--------Premise T5: I can make a phone call or write email to my parents whenever I want
+--------supporting Premise T5:
+------------Premise T6: It is not possible to have conversation in person with my parents, who live in my country
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Premise T7
+
+
+no arguments attacks Claim T8
+

@@ -1,0 +1,41 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: no one else is better than our parents in terms of teachers
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: parents are our teachers from the very early time in our life
+----supporting Claim T4:
+
+--------Premise T3: As we were born, parents taught us from the very little things such as how to smile, how to walk to the ordinary routines such as eating
+--------Premise T2: when we grow bigger, they teach us many fairy tales and several important ethic lessons that affect us till the end of our lives
+
+----no arguments attacks Claim T4
+
+----type: Claim T5
+----text: we will never forget what our parents have taught us
+----supporting Claim T5:
+
+--------Premise T6: we use it every day
+--------Premise T7: I believe I will never forget what my parents told me about how to be grateful to other people who help me
+--------Premise T9: we spend most of our time at home with our families than it at school
+--------Premise T10: when we leave school, maybe we will forget parts of the lessons we learn at school if we do not experience them in life
+--------Premise T8: at school we study bigger things about sciences and languages, but after school we learn from our parents
+
+----no arguments attacks Claim T5
+
+----type: Claim T11
+----text: even when we grow older, get married and then have our own families with spouses and children, parents always keep watching us and help us to realize which is right and which is wrong in life
+----supporting Claim T11:
+
+--------Premise T13: my older brother has got married and lived independently for two years but when he faces difficulties in his work or his life, he comes back to meet our parents and ask for advice
+--------Premise T12: parents love their sons or daughters unconditionally
+
+----no arguments attacks Claim T11
+
+
+no arguments attacks MajorClaim T1
+

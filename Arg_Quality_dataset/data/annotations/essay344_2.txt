@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: Proficiency brings perfectness in terms of art work
+supporting Claim T10:
+
+----Premise T4: the modern artists who implement their creative thinking onto high value creation are paid with immense sum by the art collector
+----Premise T5: the high sum which modern artists receive is related to the quality instead of the quantity and their rare talent
+----supporting Premise T5:
+--------Premise T6: a 15 centimeter Buddha temple made by hand is granted times in comparison with factory production
+
+----no arguments attacks Premise T5
+
+----Premise T7: modern artists also devote themselves find a unique concept in which ordinary people cannot do, such making impossible become possible
+----supporting Premise T7:
+--------Premise T8: Pieter Padang, Minion creator, has brilliant idea to alter part of song lyric "I swear" become "underwear" when the Minion sing in Despicable Me
+--------Premise T9: He granted huge sums for such idea
+
+----no arguments attacks Premise T7
+
+
+no arguments attacks Claim T10
+

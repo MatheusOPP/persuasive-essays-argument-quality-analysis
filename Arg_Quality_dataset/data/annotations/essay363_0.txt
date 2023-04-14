@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: using machines is advantageous
+supporting MajorClaim T1:
+
+----Claim T2: machines make work easy and smooth
+----type: Claim T3
+----text: The negative effects on health can be put on the back seat
+----supporting Claim T3:
+
+--------Premise T4: there are many other ways to exercise and stay healthy
+
+----no arguments attacks Claim T3
+
+----type: Claim T12
+----text: using machines makes daily tasks less time consuming and less cumbersome
+----supporting Claim T12:
+
+--------Premise T11: The work of chopping, blending, grating, kneading has become so easy that people can not imagine their lives without this simple machine at their homes
+--------Premise T14: Take the example of use of food processors in kitchens
+--------Premise T13: usage of machines makes work easier and less time is consumed for doing similar amount of work
+
+----no arguments attacks Claim T12
+
+
+attacking MajorClaim T1:
+----type: Claim T5
+----text: the usage of machines is harmful for health of humans
+----supporting Claim T5:
+
+--------Premise T6: machines decrease the work done by people
+--------Premise T7: in many institutions staircases are replaced by lifts now a days
+--------Premise T8: People opt for elevators instead of climbing one or two flight of stairs
+--------Premise T9: It is confirmed in a number of researches that daily usage of elevators in workplaces promotes obesity
+--------Premise T10: this example clearly shows the linkage between using machines and adverse health effects
+
+----no arguments attacks Claim T5
+
+

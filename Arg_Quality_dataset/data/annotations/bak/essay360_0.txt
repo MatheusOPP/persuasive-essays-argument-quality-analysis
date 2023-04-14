@@ -1,0 +1,33 @@
+Type: MajorClaim T3
+Text: this is not necessarily the case for those celebrities who are ambitious in their jobs
+Supporting MajorClaim T3
+
+    Type: Claim T11
+    Text: other celebrities do set up role models to young people because of their visible accomplishments
+    Supporting Claim T11
+
+        Premise: this kind of self-made celebrity can inspire children to develop their talents through application and perseverance
+        Premise: other celebrities such as musician also have achieved great success in their career
+
+    No arguments attacks Claim T11
+
+
+Attacking MajorClaim T3
+    Type: Claim T1
+    Text: some celebrities misguide young people by showing their external wealth and appearance
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+    Type: Claim T4
+    Text: the attention of young people may become focused on chasing the dream of celebrity status
+    Supporting Claim T4
+
+        Premise: If they continue to behave in such a way, it will create a misleading image to young people who may think that extraordinary life can be achieved without hard work
+        Premise: some movie starts enjoy wearing luxury brand clothes and showing their expensive life style in front of the media, thereby gaining the public attention
+        Premise: some celebrities tend to show off their images in front of the public
+
+    No arguments attacks Claim T4
+
+

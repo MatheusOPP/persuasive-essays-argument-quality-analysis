@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: standardized tests are preferable
+supporting Claim T5:
+
+----Premise T19: they help teachers to fairly grade the students
+----Premise T4: exams could be the only way for teachers to see the real abilities of those students
+----supporting Premise T4:
+--------Premise T7: some students are not so active on the lessons, cause they are already familiar with the issue
+
+----no arguments attacks Premise T4
+
+----Premise T9: the usage of standardized tests is the superior option for them
+----supporting Premise T9:
+--------Premise T8: many teachers rely only on the exam results while grading the class
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T5
+

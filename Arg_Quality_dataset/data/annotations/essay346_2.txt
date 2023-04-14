@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: a man can only achieve his accomplishment through hard-working, dedication and passion
+supporting Claim T7:
+
+----Premise T4: A person's great prosperity does not state that he has gained it ethically by himself
+----Premise T8: Whether it is a personal or a social achievement, that man is laudable
+
+attacking Claim T7:
+----Premise T5: Money is undeniably pivotal
+----supporting Premise T5:
+
+----attacking Premise T5:
+--------Premise T6: ways of earning it is also various
+
+

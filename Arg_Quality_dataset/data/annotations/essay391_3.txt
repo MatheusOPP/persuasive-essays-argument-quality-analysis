@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: the growing number of mobiles games will impact their mental development
+supporting Claim T11:
+
+----Premise T8: there many game applications available online and many of them are quite aggressive in nature
+----Premise T10: frequent conflicts may occur during communication
+----supporting Premise T10:
+--------Premise T9: In these games, children are rewarded to help their characters to kill or shoot monsters or characters controlled by other players, and this many lead to development of aggressive feelings, thoughts and behaviors
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T11
+

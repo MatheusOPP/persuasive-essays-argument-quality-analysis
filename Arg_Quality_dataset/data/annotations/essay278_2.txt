@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: sports are necessary for students to acquire their energy and health
+supporting Claim T4:
+
+----Premise T8: besides the good body shape, sports have very vital effects on human's healthfulness
+----Premise T5: I decided to go to gym to recuperate and it responded very well
+----supporting Premise T5:
+--------Premise T7: last month I had very difficult exam that I forced to study for one week back to back
+--------Premise T6: After that exam, I felt depressed and exhausted
+
+----no arguments attacks Premise T5
+
+----Premise T9: our body and moral health depend to physical activities directly
+
+no arguments attacks Claim T4
+

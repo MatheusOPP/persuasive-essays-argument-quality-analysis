@@ -1,0 +1,11 @@
+Type: Claim T13
+Text: there are many programs on TV or movies that are harmful to children in metal and physical health
+Supporting Claim T13
+
+    Premise: according to some statistics, there are more and more children have violent tendency, and the reports attribute this to TV programs and movies
+    Premise: they are likely to imitate the behaviors on TV out of their curiosity
+    Premise: Recently, more and more children smoke
+    Premise: sometimes programs on TV are full of violence and sex which are harmful to children
+
+No arguments attacks Claim T13
+

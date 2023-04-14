@@ -1,0 +1,49 @@
+Type: MajorClaim T3
+Text: people are satisfied with the internet and sometimes even thanks it
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: it helps us in studying, doing business and exploring the world
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: With valuable information it provides, people can enjoy their lives much more
+    Supporting Claim T5
+
+
+    No arguments attacks Claim T5
+
+    Type: Claim T8
+    Text: everybody would like to know what is going on around the world in their everyday lives
+    Supporting Claim T8
+
+        Premise: Sometimes, they want an information that can help them in daily life which the internet can provide all of these to people
+        Premise: a businessman who has no time to watch a television or read a newspaper can receive news and check stock markets easily via the internet
+
+    No arguments attacks Claim T8
+
+    Type: Claim T12
+    Text: people can gain more knowledge by using the internet, the most useful technology in the world
+    Supporting Claim T12
+
+        Premise: Many people such as students can take online courses to study at home or they can watch beneficial videos which also teach them knowledge
+        Premise: Not only students but also everyone could get more information and knowledge
+
+    No arguments attacks Claim T12
+
+    Type: Claim T16
+    Text: The internet makes the world becomes smaller which is a good thing
+    Supporting Claim T16
+
+        Premise: people who have no time or have financial problems could travel around the world by using the internet
+        Premise: They can see lots of picture and videos of many interesting places
+        Premise: people can learn other countries's culture and tradition which makes them have more knowledge about that nations
+
+    No arguments attacks Claim T16
+
+
+No arguments attacks MajorClaim T3
+

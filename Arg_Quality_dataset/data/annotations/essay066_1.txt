@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: In terms of time and space, technology makes it more efficient and effective to promote the traditional skills and ways of life
+supporting Claim T3:
+
+----Premise T5: In the past, only when people went to the local place could they experience the specific traditional lifestyles
+----Premise T6: This means individuals who were engaged in work and therefore could not spare time to travel or restricted by traffic conditions had to miss the chance to appreciate the traditional skills
+----Premise T4: with the access to the Internet, one of the greatest innovations in modern society, humankind can acquire the traditional techniques displayed online anytime, anywhere
+
+no arguments attacks Claim T3
+

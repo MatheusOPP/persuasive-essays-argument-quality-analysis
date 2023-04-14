@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: aiding poor countries has positive effects, overweighing its side-effects for the several reasons
+supporting MajorClaim T1:
+
+----Claim T3: there are abovementioned three key points of positive effects of aid; supporting poor countries to make its economy strong and building humane concepts to people, keeping strong global economy
+----type: Claim T6
+----text: Aiding help poor countries in this situation solve their economical problems and run their own business
+----supporting Claim T6:
+
+--------Premise T9: republic of Korea used to be the poorest country even compared to others in Africa in 1960's
+--------Premise T10: Now that it has became strong economy country aiding poor countries after 10 years of aid from other counties
+--------Premise T8: To be out of poverty, it is fundamental to support basic industry related factors such as light, electricity, load, highways, natural resources, technology and buildings for companies
+--------Premise T7: poor counties suffer from shortage of basic materials and facilities to start businesses and make it richer
+
+----no arguments attacks Claim T6
+
+----type: Claim T11
+----text: aiding campaign gives a chance to considerate about poor people
+----supporting Claim T11:
+
+--------Premise T12: If people in rich countries ponder poor people suffering from poverty and diseases, they would never take their abundance for granted
+--------Premise T13: It not only raises the notice the meaning of harmony and love, but also be a good chance to learn humane doctrine of globalization
+
+----no arguments attacks Claim T11
+
+----type: Claim T14
+----text: the campaigns might include practical benefits
+----supporting Claim T14:
+
+--------Premise T15: In globalized world, the economies of several countries are in a big network and must influence on each others
+--------Premise T16: When America mortgage loan system went bad, several economies of European and Asian countries fluctuated, even any countries had to be gotten international supports to block its bankrupt
+
+----no arguments attacks Claim T14
+
+
+attacking MajorClaim T1:
+----Claim T4: just giving aid to impoverished countries could be manipulated by big power countries
+----Claim T5: a great amount of materials and money have poor countries being corrupted and politically dependent on other countries
+

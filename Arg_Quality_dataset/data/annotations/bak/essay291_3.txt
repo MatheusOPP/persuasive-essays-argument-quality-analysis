@@ -1,0 +1,11 @@
+Type: Claim T8
+Text: college and university should consider students to study with them only if they are good students
+Supporting Claim T8
+
+    Premise: studying in advance education take a huge of money
+    Premise: College and university do not want people who not qualify for to waste their money in these expensive courses and waste their time
+    Premise: only good students have potentials to success programs more that those who are not considered as good students
+    Premise: mediocre students are not have a chance to gain these advance knowledge from college and university
+
+No arguments attacks Claim T8
+

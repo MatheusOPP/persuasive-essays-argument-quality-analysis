@@ -1,0 +1,41 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: pets are our friends as well as certain human beings are
+supporting Claim T11:
+
+----Premise T12: Similarly to friends, indeed, they are always with us and they are there if we feel alone
+----Premise T3: We can talk to them
+----supporting Premise T3:
+--------Premise T2: they listen to us, more than some people will ever do
+--------supporting Premise T2:
+------------Premise T4: When I was 14 years old, my uncle passed away and I felt like everything was no longer important
+------------Premise T5: Talking to my friends was frustrating
+------------supporting Premise T5:
+----------------Premise T6: none of them have ever felt that way
+
+------------no arguments attacks Premise T5
+
+------------Premise T8: my dog was near me and it seemed to me that only him could understand my deeply feelings
+------------supporting Premise T8:
+----------------Premise T7: I was all alone at home for a long time
+
+------------no arguments attacks Premise T8
+
+
+--------attacking Premise T2:
+------------Premise T9: pets aren't able to speak with us
+------------supporting Premise T9:
+
+------------attacking Premise T9:
+----------------Premise T10: we can nonetheless count on them
+
+
+
+----no arguments attacks Premise T3
+
+
+no arguments attacks Claim T11
+

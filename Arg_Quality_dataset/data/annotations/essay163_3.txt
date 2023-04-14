@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: living in big cities means more exposure to stimulation, like all kinds of information
+supporting Claim T9:
+
+----Premise T10: If one can efficiently acquire the information, then, there might come along more opportunities for him to achieve his goals
+----Premise T11: there are various advertisements here an there, whether on the leaflets or on the big screen showing things of all sorts in commercial zones
+----Premise T12: If one is seeking a job right in the city or planing somewhere to travel, or just wants to buy a product in a dependable store, he might refer to what he has seen or heard from the advertisements to make a relatively wise choice
+
+no arguments attacks Claim T9
+

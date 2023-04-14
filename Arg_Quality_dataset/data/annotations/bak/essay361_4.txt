@@ -1,0 +1,14 @@
+Type: MajorClaim T11
+Text: if students were allowed to freely watch TV without any proper controls by parents or teachers then it would produce more negative effects on children
+Supporting MajorClaim T11
+
+    Type: Claim T12
+    Text: demerits of watching TV outweigh its merits
+    Supporting Claim T12
+
+
+    No arguments attacks Claim T12
+
+
+No arguments attacks MajorClaim T11
+

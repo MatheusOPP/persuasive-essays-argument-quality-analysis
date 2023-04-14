@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: classroom learning provides other activities than studying
+supporting Claim T8:
+
+----Premise T9: During student's free time, they have a number of activities that they can join, such as playing sports, going to lab, or going to library
+----Premise T10: These activities lead to more interact with their friends
+----Premise T11: Connection with friends improves their IQ abilities
+----Premise T12: they have a chance to learn about their societies
+----Premise T13: the online course keeps the children at their home only
+
+no arguments attacks Claim T8
+

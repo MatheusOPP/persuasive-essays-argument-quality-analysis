@@ -1,0 +1,23 @@
+Type: MajorClaim T22
+Text: e-mail is the greatest way for major people to use
+Supporting MajorClaim T22
+
+    Type: Claim T23
+    Text: Its convenience saves our time
+    Supporting Claim T23
+
+
+    No arguments attacks Claim T23
+
+    Type: Claim T9
+    Text: writing e-mail helps people express honestly
+    Supporting Claim T9
+
+        Premise: the face-to-face conversations make them feel stupid
+        Premise: e-mail will be a good tool to help me speak out
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T22
+

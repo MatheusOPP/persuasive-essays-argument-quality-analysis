@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: people should concern more about their living environment than job
+supporting Claim T6:
+
+----Premise T7: for most of us, job is only a tool to maintain our lives
+----Premise T8: Few people can feel happiness from their job
+----supporting Premise T8:
+--------Premise T9: they have to continue to work more than 30 years
+--------Premise T10: Workers in the FOXCONN factory, which is the main manufacture of APPLE Company, just repeat one action more than 8 hours every day
+--------Premise T11: These labor works cannot provide workers with a lot of happiness
+--------supporting Premise T11:
+------------Premise T12: they feel tired and frustrated after long hour work
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T6
+

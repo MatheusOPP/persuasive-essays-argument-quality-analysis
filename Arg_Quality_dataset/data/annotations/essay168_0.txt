@@ -1,0 +1,59 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: There will have many disadvantages if the workers work at home
+supporting MajorClaim T1:
+
+----Claim T2: Mitigating process, no interaction and pressure are these things people should examine when they want to work at home
+----type: Claim T3
+----text: Doing all jobs at home don't make employees attempt to work like this
+----supporting Claim T3:
+
+--------Premise T6: Then again, the workers must try their best to finish the time limit
+--------Premise T5: The directors manage employers and give them the deadline of projects
+--------Premise T4: Each office has its rules that keep workers do their job as effectively as possible
+--------Premise T7: Pressure is motivation
+
+----no arguments attacks Claim T3
+
+----type: Claim T13
+----text: Computers and modems bring works to home but these still have many things distract their mind
+----supporting Claim T13:
+
+--------Premise T8: Facebook or Yahoo have been the entertaining websites, however, they are the reasons why people cannot concentrate on their job
+--------Premise T9: The dos and don't at office play important role to prevent these things from workers
+--------Premise T11: the project cannot being done
+--------supporting Premise T11:
+------------Premise T10: doing all jobs alone makes employees fall asleep easily
+
+--------no arguments attacks Premise T11
+
+--------Premise T12: The best condition might not be good for people
+
+----no arguments attacks Claim T13
+
+----type: Claim T14
+----text: Interaction has been an advantage for workers at offices
+----supporting Claim T14:
+
+--------Premise T19: Interaction is a factor increasing working quality
+--------Premise T15: Discussing and debating Projects together increase working ability
+--------supporting Premise T15:
+------------Premise T16: all we know that the target can be reached fast thanks to working of many people
+
+--------no arguments attacks Premise T15
+
+--------Premise T18: they will have more and more friends and relationships
+--------supporting Premise T18:
+------------Premise T17: interaction help employees improve their communicational skills
+
+--------no arguments attacks Premise T18
+
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: richer nations can contribute by delegating doctors and nurses to these power nations as well as donate money to build hospitals
+supporting Claim T4:
+
+----Premise T7: poorer nations are lack of hospitals to fulfill the demand of the patients
+----Premise T6: High population in poorer countries due to lack of family planning caused the proportion of doctors unbalance to the quantity of resident
+----Premise T5: in the area of health, poorer nations normally have less quantity of doctors and nurses compared to richer nations
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: Everybody makes mistake
+supporting Claim T15:
+
+----Premise T14: if you end a friendship whenever your friend makes a mistake, there will be no friends around you
+----Premise T11: when the mistake friend made was not a big problem, we need to understand friend and forgive it
+----supporting Premise T11:
+--------Premise T10: a friend is a gift of our life
+
+----no arguments attacks Premise T11
+
+----Premise T12: According to a research, 85% of people answered that a best gift is a friend
+
+no arguments attacks Claim T15
+

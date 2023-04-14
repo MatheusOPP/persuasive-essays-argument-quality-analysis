@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: communication by letters, email, or telephone can enable them to talk without scruple, which is also one of the most important parts in communication
+supporting Claim T18:
+
+----Premise T19: It is conceivable that before we talk, it is necessary for us to be imprudent about our words
+
+attacking Claim T18:
+----Premise T20: Talking without scruple is not the indispensable part in communication; in contrast, it is usually detrimental to us
+

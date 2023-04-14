@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: only money and glamour look are not enough for a person to be recognized anymore, it is importance that they have to have achievements in order to be a muse to youngsters
+supporting Claim T9:
+
+----Premise T11: to become a star and an inspiration for people, a person need to have real talent to compete with other candidates
+----supporting Premise T11:
+--------Premise T10: We are giving chances to many teenagers to show their intelligence in different talent shows, for example; The Voice, X Factor or Next Top Models etc
+
+----no arguments attacks Premise T11
+
+----Premise T8: not many people can exist in the celebrities' world without any talents or achievements
+
+no arguments attacks Claim T9
+

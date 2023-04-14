@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: Taxation may have tackled the environmental issue simply by diverting people to public transportations such as trains, buses or ferries
+Supporting Claim T4
+
+    Premise: if petrol and fuel taxation are raised, people might hesitate choosing a personal automobile
+    Premise: for those who have already afforded a car, there is a likelihood it is restraint from usage on long journeys or to crowded cities
+
+No arguments attacks Claim T4
+

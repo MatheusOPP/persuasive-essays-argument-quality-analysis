@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: computer impacts children on a positive note
+supporting Claim T4:
+
+----Premise T7: students preparing for delivering speech on a certain topic can browse through internet to learn each and every minute details of the subject matter
+----Premise T8: It's hard to get everything at a same place unless children are not familiar with computers
+----Premise T5: through computer children can access internet to gather knowledge on the subjects they are studying or they are interested about
+----supporting Premise T5:
+--------Premise T6: The best thing about internet is the availability of information in the form of text, image or video related to almost everything
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T4
+

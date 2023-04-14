@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: other people visit museums are the most boring expirience of a trip
+supporting Claim T9:
+
+----Premise T10: My cousin Pedro literaly hates to visit museums but he really enjoyed his visit to the famous London - Madame Tussaud museum, it was kind of art entertainment but also that visit helped him to understand the artist works, and in addition he started to respect and admire other types of arts that offers in other museums
+
+no arguments attacks Claim T9
+

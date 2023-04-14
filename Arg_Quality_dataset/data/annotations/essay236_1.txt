@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: he or she could push him/herself forward all the time
+supporting Claim T3:
+
+----Premise T4: He or she should always keep the passion in her field
+----Premise T5: A professor means a researcher or an expert of a specific science subject
+----Premise T6: he or she can do better in teaching works
+----Premise T7: the most impressive professor during my studying in university is Mr. Yang who keeps in researching and reading
+----Premise T8: He is also the one who gave us inspiration and taught us the way to study more efficient by ourselves
+----Premise T9: All of my classmates gave him a rank of AAA, the excellent teacher
+
+no arguments attacks Claim T3
+

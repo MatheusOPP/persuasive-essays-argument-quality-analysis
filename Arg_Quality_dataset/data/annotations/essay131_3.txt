@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: investing in art could bring employment opportunities and could end in return of capital occasionally
+supporting Claim T8:
+
+----Premise T9: The investment could be paid back through the values of the created works of art which as a matter of fact should be considered as national possessions
+
+no arguments attacks Claim T8
+

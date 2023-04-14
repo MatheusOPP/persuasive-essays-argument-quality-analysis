@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: the tax reduction for parents of children studying in private schools would lead to a waste of public capital
+Supporting Claim T8
+
+    Premise: the government would have to recruit a greater workforce in order to handle this sophisticated issue
+    Premise: the government would also pay the salary for the excessive officials, and this would result in insufficient investments in other crucial public sectors such as education or health care
+
+No arguments attacks Claim T8
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: an international sporting event also helps fans release patriotic emotions in a safe way
+supporting Claim T13:
+
+----Premise T21: Everythings is created by patriotic emotions of Chinese who wanted to bring a beautiful China to the world
+----Premise T20: They were welcomed by each Chinese hospitality, beauty in each cities
+----Premise T19: foreigners came here always received the support of friendly volunteers who were young students
+----Premise T18: In Olympic Beijing 2008, Chinese tried thier best to bring the world a spectacular image about their country
+----Premise T17: They will try to create a beautiful image about their land and people
+----Premise T16: all fans know that a sport event will attract the attention of whole the world and a lot of public media
+----Premise T15: Regardless of the competition between teams, their emotions are always released in a safe way due to the sole passion of the sport
+----Premise T14: When they garther together to encourage their team, they will show their patriotic emotions
+
+no arguments attacks Claim T13
+

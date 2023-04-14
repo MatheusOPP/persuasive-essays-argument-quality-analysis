@@ -1,0 +1,13 @@
+Type: Claim T9
+Text: mistake is more forgettable than friendship
+Supporting Claim T9
+
+    Premise: my friend Lee made a mistake that he broke my precious gift
+    Premise: I forgot about it just after two days, and I felt at peace with him
+    Premise: If someone remembers mistake, he or she has a closed mind
+    Premise: a mistake does not last for a long time but a friendship lasts forever
+    Premise: Anybody does not remember mistakes
+    Premise: mistakes will be forgotten quickly
+
+No arguments attacks Claim T9
+

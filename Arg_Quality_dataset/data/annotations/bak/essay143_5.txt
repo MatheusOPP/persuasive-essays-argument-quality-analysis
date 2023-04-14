@@ -1,0 +1,9 @@
+Type: Claim T16
+Text: doing something new is necessary for people to success
+Supporting Claim T16
+
+    Premise: they can become different from others, which is also a widely accepted idea for success
+    Premise: Try something new can indeed make people become special
+
+No arguments attacks Claim T16
+

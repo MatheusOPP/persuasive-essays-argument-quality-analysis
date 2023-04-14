@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: being present at classes seems a wiser option
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: being present at classes provide students with opportunity of communicating with other students that is beneficial for understanding new material by reviewing them throughout the free times in college
+----supporting Claim T2:
+
+--------Premise T4: if they do not attend classes they cannot use the help of others for assisting them to comprehend difficult problems
+--------Premise T3: they can help each other for learning materials better
+
+----no arguments attacks Claim T2
+
+----type: Claim T5
+----text: by the help of teachers, students can understand ideas faster and easier
+----supporting Claim T5:
+
+--------Premise T6: teachers explain them thoroughly in the class and after that give them a lot of examples to clarify the points
+--------Premise T7: In this way attending classes not only wastes their time but also facilitates their understanding process that takes them less time for comprehending materials in comparison with self-study
+
+----no arguments attacks Claim T5
+
+----type: Claim T11
+----text: appearing in class makes students more conscientious
+----supporting Claim T11:
+
+--------Premise T8: they have to obey class’s disciplines and they practice to be more perseverance in the process of doing their assignments
+--------Premise T10: they may miss some important parts in virtue of the chaotic and incoherent study
+--------supporting Premise T10:
+------------Premise T9: the ones who choose to study at home do not have any discipline for their studies and cannot force themselves to study in particular times
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Claim T11
+
+----Claim T13: teachers have a conspicuous role in assisting students for learning materials that being present at classes is a requisite for benefiting it
+----Claim T14: attending to classes makes students more attentive and have them to do their studies on time that this attitude lead them to success
+
+no arguments attacks MajorClaim T1
+

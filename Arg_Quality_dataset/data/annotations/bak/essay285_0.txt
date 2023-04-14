@@ -1,0 +1,48 @@
+Type: MajorClaim T1
+Text: I completely disagree with this statement that we should replace normal course with online course
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: it should not replace classroom learning
+    Supporting Claim T2
+
+        Premise: learning in classroom are not only learning academic skills but also learning social skills, and learning how to solve problem in real situation
+        Premise: Learning in classroom could provide more information to study
+
+    No arguments attacks Claim T2
+
+    Type: Claim T9
+    Text: learning in classroom could provide more information and make students more comprehend in subjects that they had learnt
+    Supporting Claim T9
+
+        Premise: in classroom have many equipment to demonstrate real example
+        Premise: in biology class, learning anatomy by operating fog have many benefits
+        Premise: Learner could learn how to use tools and see actual organs of fog
+        Premise: online class just only study in textbook not learnin real situation
+
+    No arguments attacks Claim T9
+
+    Type: Claim T10
+    Text: online class could not provide knowledge about social skills
+    Supporting Claim T10
+
+        Premise: In a classroom, teacher could give assignment to student to work as a group
+        Premise: This could help students to learn how to deal with people, how to collaborate with people in their group
+        Premise: This important skill cannot be gotten in online classes
+
+    No arguments attacks Claim T10
+
+    Type: Claim T18
+    Text: learning in classroom, student could have healthier life
+    Supporting Claim T18
+
+        Premise: in school can provide exercise class which train student to move their body
+        Premise: Classroom have specialist trainer to teach students to it right way
+        Premise: If student do it by themselves, they might be hurt themselves
+        Premise: This make students have healthier life which online class cannot provide
+
+    No arguments attacks Claim T18
+
+
+No arguments attacks MajorClaim T1
+

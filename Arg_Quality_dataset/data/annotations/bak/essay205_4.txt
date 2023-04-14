@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: some students might learn better at home on their own, for instance, by reading the textbook
+Supporting Claim T5
+
+    Premise: they are able to save precious study time and dive into the course syllabus independently
+    Premise: This problem occurs especially if the lecturer is lethargic
+
+No arguments attacks Claim T5
+

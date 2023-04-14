@@ -1,0 +1,11 @@
+Type: Claim T18
+Text: investing in libraries has a long-time result
+Supporting Claim T18
+
+    Premise: a library can buy a lot of new books or they can buy more computers
+    Premise: Most of the library facilities are stable and you can use them for a long time
+    Premise: in the far future, they become more valuable
+    Premise: most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time
+
+No arguments attacks Claim T18
+

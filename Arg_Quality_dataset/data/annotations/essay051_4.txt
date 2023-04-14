@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income
+supporting Claim T14:
+
+----Premise T11: universities support is vital for libraries
+----supporting Premise T11:
+--------Premise T12: Most libraries are free not for students also for public
+--------Premise T13: usually libraries do not have income
+
+----no arguments attacks Premise T11
+
+----Premise T15: sport activities have a good income
+----supporting Premise T15:
+--------Premise T17: they have this chance to sell their important matches tickets
+--------Premise T16: every sport has different matches and for each match they have a lot sponsors
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T14
+

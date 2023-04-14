@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: the usage of machines is harmful for health of humans
+supporting Claim T5:
+
+----Premise T6: machines decrease the work done by people
+----Premise T7: in many institutions staircases are replaced by lifts now a days
+----Premise T8: People opt for elevators instead of climbing one or two flight of stairs
+----Premise T9: It is confirmed in a number of researches that daily usage of elevators in workplaces promotes obesity
+----Premise T10: this example clearly shows the linkage between using machines and adverse health effects
+
+no arguments attacks Claim T5
+

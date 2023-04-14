@@ -1,0 +1,33 @@
+Type: MajorClaim T2
+Text: there have to be some alterations before IT has more serious impact on each individual's life
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: its effect on the users' independence and prositution should not be out of concern
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T8
+    Text: IT seems to have turned its users to its slaves
+    Supporting Claim T8
+
+        Premise: staying inside with computer and mobile phone will always be the first alternative
+        Premise: In the past, there used to be World Wide Web or e-mail, but the cyber world now varies form games, online TV shows to means of communication, and probably still keeps going
+        Premise: Such irrisistible temptations drift people from the real world to the unreal ones, resulting in their dependence on technical equipment
+
+    No arguments attacks Claim T8
+
+    Type: Claim T10
+    Text: rarely do people go out of their comfot zone, provided with snack and air conditioner, to assemble with others in flesh
+    Supporting Claim T10
+
+        Premise: The existence of Skype, Viber or Yahoo has notably reduced even the longest distance into one click
+        Premise: their action will make a beeline for obesity, short-sighted, diabetes and other heart-related problems
+
+    No arguments attacks Claim T10
+
+
+No arguments attacks MajorClaim T2
+

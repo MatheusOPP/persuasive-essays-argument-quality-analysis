@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: college and university should consider students to study with them only if they are good students
+supporting Claim T8:
+
+----Premise T4: studying in advance education take a huge of money
+----Premise T5: College and university do not want people who not qualify for to waste their money in these expensive courses and waste their time
+----Premise T6: only good students have potentials to success programs more that those who are not considered as good students
+----Premise T7: mediocre students are not have a chance to gain these advance knowledge from college and university
+
+no arguments attacks Claim T8
+

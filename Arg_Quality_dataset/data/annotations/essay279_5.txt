@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: people can gain more knowledge by using the internet, the most useful technology in the world
+supporting Claim T12:
+
+----Premise T9: Many people such as students can take online courses to study at home or they can watch beneficial videos which also teach them knowledge
+----Premise T10: Not only students but also everyone could get more information and knowledge
+----supporting Premise T10:
+--------Premise T11: people who have problems with their health can search for more information about it
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T12
+

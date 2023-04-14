@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: committing to our goal helps creating personal worth
+supporting Claim T6:
+
+----Premise T4: I realized the true potential of my body and mind as I decided to train myself hard
+----Premise T5: Even if I were not to win this medal, I acknowledged the great amount of my endeavor as I could keep my tired legs running
+
+no arguments attacks Claim T6
+

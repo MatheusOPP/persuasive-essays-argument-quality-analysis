@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: time management is another brilliant benefit of group-studying
+Supporting Claim T11
+
+    Premise: Group-studying causes some kind of internal obligation to manage the time, inasmuch as we always care about other people and we do not want to waste their time
+    Premise: When the students study with their friends, they should have schedule to use their time in an effective manner
+
+No arguments attacks Claim T11
+

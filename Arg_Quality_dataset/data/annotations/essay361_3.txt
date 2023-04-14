@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: watching TV for a continuously long hours can adversely impact children health
+supporting Claim T10:
+
+----Premise T7: they can get poor eyesight in early ages of childhood, and also develop back pain
+----Premise T8: Sometimes, students watch restrictive programs not allowed for their ages and this can have major psychological consequences
+----Premise T9: Many times, students get addictive to their favorite programs like Cartoon channels, or baseball and easily get distracted from study during exam period and this can seriously impact their grades
+
+no arguments attacks Claim T10
+

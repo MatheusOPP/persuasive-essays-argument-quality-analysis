@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: the zoo should be considered as a means of education with regard to providing real and vivid materials for learners
+supporting Claim T4:
+
+----Premise T2: With zoos, pupils will have a chance of observing the habit and unique instinct of, for instance, a lion or a crocodile
+----Premise T5: it is of university students' benefits to do biological research based on practical statistics and live recordings, which otherwise would not be at hand
+----Premise T3: zoos conduce to the acquisition of knowledge at various levels
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: written words are also vital in order to spread across certain messages
+supporting Claim T9:
+
+----Premise T10: With only pictures, everyone is left to their own interpretation on how they perceive the images
+----Premise T11: this is different when words are used to explain what the illustration is about
+----Premise T12: the primary way of educating students is also by this way
+----Premise T13: Academic textbooks these days are laden with words besides pictures to guide the readers to comprehend better
+
+no arguments attacks Claim T9
+

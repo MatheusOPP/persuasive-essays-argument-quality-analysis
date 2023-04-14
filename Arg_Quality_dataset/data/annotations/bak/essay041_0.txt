@@ -1,0 +1,25 @@
+Type: MajorClaim T9
+Text: students can learn outside the textbook and classroom with a real working experiences that can be a great opportunity for future job consideration whereas organizations earn much more as they can not only save time and money but also be enlightened by what young people have to say
+Supporting MajorClaim T9
+
+    Type: Claim T2
+    Text: students can learn invaluable experiences through the period of time working for the institutions they are assigned to
+    Supporting Claim T2
+
+        Premise: the internship, although without pay, can give them the experiences that money cannot buy
+
+    No arguments attacks Claim T2
+
+    Type: Claim T1
+    Text: companies save time and resources for searching new staffs and organizing an orientation
+    Supporting Claim T1
+
+        Premise: the younger generations can help them generate new ideas as the students are not bound to restricted workload and they tend to have greater imagination, which can be essentially helpful when they are making a new advertisement or slogan
+        Premise: they can start looking for potential employees and begin the training
+        Premise: As for the companies, the unpaid interns can no doubt save some money
+
+    No arguments attacks Claim T1
+
+
+No arguments attacks MajorClaim T9
+

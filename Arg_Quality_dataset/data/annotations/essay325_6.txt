@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T19
+text: Employees will obtain reward from hard-work pursuing excellent knowledge
+supporting Claim T19:
+
+----Premise T15: Through our whole study life, undergraduate and graduate, we keep learning with the purpose of exerting these knowledge and experience on our job, just like an old Chinese scholar said, the essence of study is utilizing it
+----Premise T16: After we get a job, the destination of we keep accumulating and collecting knowledge is rooted not in fawn on our manager with the ability to adapt this kind of business culture, but in making us excellent and totally master this job
+----Premise T17: we will be rewarded with pride
+----Premise T18: we can obtain reward from out excellent knowledge
+
+no arguments attacks Claim T19
+

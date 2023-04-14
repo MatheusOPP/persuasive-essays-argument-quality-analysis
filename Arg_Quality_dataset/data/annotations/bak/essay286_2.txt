@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: These experiences taught me to change my life to be a better person
+Supporting Claim T3
+
+    Premise: I could find a better way to solve problems
+    Premise: these experiences could make me to make plan for my future life
+    Premise: experiences could shape me to be more aware about my health
+
+No arguments attacks Claim T3
+

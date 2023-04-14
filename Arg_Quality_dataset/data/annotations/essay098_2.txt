@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: when children take jobs, they tend to be more responsibl
+supporting Claim T6:
+
+----Premise T7: whether they can earn money or not will depend on their effectiveness and attitudes in working
+----Premise T8: To keep their jobs, children will have to try their best to finish their duties
+----supporting Premise T8:
+--------Premise T9: if a child works as a shop assistant, he will have to keep an eye on good and products, calculate prices correctly and take responsibilities for any lost
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T6
+

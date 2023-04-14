@@ -1,0 +1,12 @@
+Type: Claim T8
+Text: Building more accommodating constructions meets people's basic need
+Supporting Claim T8
+
+    Premise: People cannot live a harmonious life if citizens do not have a decent place to live in
+    Premise: If the price of housing grows continuously, a comfortable place to live in will be a luxury to the middle class and the low class
+    Premise: ordinary people, especially the younger generation, will fall into a certain pattern - work, pay bills for housing, work; and I am sure that it will increase people's dissatisfaction of the government
+    Premise: when they are working, the fair of losing their accommodation always lingers, which will limit their efficiency
+    Premise: government should spend money on people to rescue them from this
+
+No arguments attacks Claim T8
+

@@ -1,0 +1,40 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: teenagers need more attention and help in comparison with the higher ages
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: they are the best advisor for their children
+----supporting Claim T2:
+
+--------Premise T3: parents and other adult relatives are more experienced towards children
+--------Premise T4: if children listen to their advices they can prevent happening worst things
+--------supporting Premise T4:
+------------Premise T5: They have experienced a large numbers of stuffs during their life
+
+--------no arguments attacks Premise T4
+
+--------Premise T6: they can save value things in their life such as time and money, and enjoy they life with the best way
+
+----no arguments attacks Claim T2
+
+----type: Claim T7
+----text: parents and adults relatives are the best friends and consular for the teenagers
+----supporting Claim T7:
+
+--------Premise T9: They cheat young ages
+--------supporting Premise T9:
+------------Premise T10: they believe they are immature and they can trap them easily
+
+--------no arguments attacks Premise T9
+
+--------Premise T8: unfortunately nowadays there are some individuals who cheat the others for gaining more power and money
+
+----no arguments attacks Claim T7
+
+
+no arguments attacks MajorClaim T1
+

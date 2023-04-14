@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: you will be more likely to accomplish your purpose by concentrating on what you do well
+supporting Claim T8:
+
+----Premise T3: the more time you spend on what you do well, the more likely to achieve something great you will be
+----supporting Premise T3:
+--------Premise T4: Albert Einstein, one of the most competent physicians in history, devoted most of his life to develop theory in physics and finally established special and general relativity
+--------Premise T5: he hardly cared about something else
+--------Premise T6: It is said that, surprisingly, he never tried to distinguish a hand soup and a facial soup
+--------supporting Premise T6:
+------------Premise T7: using two different soups properly was quite annoying
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Premise T3
+
+----Premise T9: Focusing what you are good at helps you attain your goal
+
+no arguments attacks Claim T8
+

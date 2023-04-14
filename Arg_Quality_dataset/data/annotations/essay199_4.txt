@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: we are building our personalities when we study alone
+supporting Claim T10:
+
+----Premise T11: answering our homework alone encourages us to be more responsible and independent
+----Premise T12: it motivates us to be accurate in our work in the future
+----Premise T13: when I fix my study plan with a specific time and finish it on time, it improves my ability in the future to become more precise and careful
+
+no arguments attacks Claim T10
+

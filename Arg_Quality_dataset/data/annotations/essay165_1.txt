@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: sometimes the students in the university can learn better from other sources outside the class room
+supporting Claim T2:
+
+----Premise T6: she rarely went to class but spent most time to understand confusing topic
+----supporting Premise T6:
+--------Premise T7: she got very good grade when she was graduation
+--------Premise T5: She learned quickly and understood everything in class so fast
+--------Premise T4: I have a close friend who was in the same department with me in the university
+
+----no arguments attacks Premise T6
+
+----Premise T3: Student can also study by themselves in the library and focus on only the topic they do not understand
+
+no arguments attacks Claim T2
+

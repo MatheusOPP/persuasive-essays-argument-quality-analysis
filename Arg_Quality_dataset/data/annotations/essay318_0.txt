@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: no additional payment should be charged on them
+supporting MajorClaim T1:
+
+----Claim T3: "rush hours" are usually not the direct consequence of drivers
+----type: Claim T4
+----text: charging them extra fee might seems to be out of the jurisdiction
+----supporting Claim T4:
+
+--------Premise T8: it is out of drivers' control
+--------supporting Premise T8:
+------------Premise T7: traffic jam is a natural phenomenon that nobody is able to shun or ban
+
+--------no arguments attacks Premise T8
+
+--------Premise T9: Wars are notorious, but you can't blame the soldiers who are justing fight for their countries
+--------Premise T5: Capitalism enfranchised people's right to own properties, and consequently, their rights to use them
+--------Premise T6: Driving cars during the rush hours might is bound to polluting cities's environment, but laws protect drivers to do so
+
+----no arguments attacks Claim T4
+
+----type: Claim T10
+----text: Charging drivers one more fee makes no sense and is ridiculous
+----supporting Claim T10:
+
+--------Premise T11: charging them too much fee adds a lot to their burden and is actually jeopardizing their rights
+--------supporting Premise T11:
+------------Premise T13: Majority of the families buy cars simply for a safer and easier conveyance
+------------Premise T12: Buying a car spends hundreds of thousand; paying for all sorts of fee takes another several-these are all ready too much for most of the families to bear
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Claim T10
+
+----type: Claim T16
+----text: charging drivers fees regardless of the causes of the problems could be ridiculous and even unlawful
+----supporting Claim T16:
+
+--------Premise T14: Sometimes traffic jam occur only due to the malfunction of a traffic light, or unreasonable organization of roadways
+--------Premise T15: the one who should be charged for a fine is the city planner, not drivers
+
+----no arguments attacks Claim T16
+
+----Claim T17: Rather than passively forcing drivers to pay another fee, government should instead, be more active on advocating the use of more efficient and environmental-friendly energy or planning out more reasonable and convenient layout that allow people to reach their destinations with less oil
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,9 @@
+Type: Claim T13
+Text: studying art and music is also the appropriate outlets of stress and superb ways to relax
+Supporting Claim T13
+
+    Premise: with the improvement of life rhythm, people have currently suffered too much pressure from their studies or jobs, and these pressure are likely to destroy one person if he cannot find a way to emancipate himself
+    Premise: Art and music are, of course most accessible tools for modern people to liberate themselves from the extremely stressful life
+
+No arguments attacks Claim T13
+

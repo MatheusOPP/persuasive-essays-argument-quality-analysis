@@ -1,0 +1,14 @@
+Type: MajorClaim T2
+Text: living in a higher pace is better
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: the advantages of this are qualitatively greater than that of the opposite
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+
+No arguments attacks MajorClaim T2
+

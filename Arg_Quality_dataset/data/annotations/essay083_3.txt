@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it
+supporting Claim T9:
+
+----Premise T10: while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power
+----Premise T11: This waste is many times more lethal to our environment than any of the other hazardous material
+
+no arguments attacks Claim T9
+

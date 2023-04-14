@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: governments should allocate more budget on prevention from illness and providing health education is the welfare of the society
+Supporting Claim T6
+
+    Premise: there is nothing more important than health in a human's life and the happiness and welfare come with health
+    Premise: the marketing campaign of Ministry of Health in Turkey which aimed smoking problem among the youth increased the well-being of those who quit smoking and adapted a better lifestyle after the campaign
+    Premise: a government's role should be providing means that lead its citizens to learn how to prevent from potential illness that can cause misery in people's lives
+
+No arguments attacks Claim T6
+

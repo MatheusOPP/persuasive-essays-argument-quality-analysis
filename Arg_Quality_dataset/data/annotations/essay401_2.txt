@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: The second reason why I believe that fatherood is as important as motherhood is the dynamics of the relationships today
+supporting Claim T8:
+
+----Premise T10: having and raising children should not be different than any other daily activity
+----Premise T9: all of the couple duties are performed equally and interchangeably by individuals
+----Premise T6: we are living in a society that puts a significant importance to gender equality in every aspect of the life, including relationships
+----supporting Premise T6:
+--------Premise T7: a family formed by a woman with a housewife role who looks after the home and takes care of children and a man who brings money home can not be seen anymore in today's society
+
+----no arguments attacks Premise T6
+
+
+no arguments attacks Claim T8
+

@@ -1,0 +1,41 @@
+Type: MajorClaim T1
+Text: governments should help and encourage artists to continue their work
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: art is a very valuable object for every country and the talent in this area cannot be discovered everywhere
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T6
+    Text: the governments should help arts
+    Supporting Claim T6
+
+        Premise: their work crafts are very necessary to boost the tourist industry
+        Premise: some countries depend on tourism as their main source of revenue
+        Premise: art helps to improve the quality of our lives as well as attracting tourists
+
+    No arguments attacks Claim T6
+
+    Type: Claim T8
+    Text: culture and history of a country can be reserved and assured by art
+    Supporting Claim T8
+
+        Premise: sculptures and paintings in the museums and art galleries generally reflect the culture and civilization of every generation
+        Premise: Young people are also able to get more knowledge about their country's history and culture by observing various work crafts
+
+    No arguments attacks Claim T8
+
+    Type: Claim T11
+    Text: talent in art is extremely precious and should not be wasted
+    Supporting Claim T11
+
+        Premise: this type of talent has to be valued as other types of talents such as talent in science or literature
+
+    No arguments attacks Claim T11
+
+
+No arguments attacks MajorClaim T1
+

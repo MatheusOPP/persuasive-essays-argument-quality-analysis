@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: boys and girls have the diversity in psychological modes and individuality
+supporting Claim T8:
+
+----Premise T3: Most of male students tend to use their left brain to think and act, and they are more rational and logical than girls in many cases
+----Premise T4: there are more male scientists and engineers in comparison with females around the world
+----Premise T5: Many boys are interested in science and technology, while a number of girls like to learn literature, education and arts
+----Premise T6: girls are more likely to prefer some jobs related to emotion and communication, such as teacher, singer and interpreter
+----Premise T7: girls differ from boys in mind and behaviour to a large extent, and they both have better ability in the specific aspect
+
+no arguments attacks Claim T8
+

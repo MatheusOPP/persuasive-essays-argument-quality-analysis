@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: Some experiences could teach me the way to take care of myself
+supporting Claim T17:
+
+----Premise T21: I can have a good health
+----supporting Premise T21:
+--------Premise T20: This food are not have chemical
+
+----no arguments attacks Premise T21
+
+----Premise T19: I am always buy a quality food such as organic food
+----supporting Premise T19:
+--------Premise T18: reading and listening the news about choosing a good diet are the way to keep myself are more healthy
+
+----no arguments attacks Premise T19
+
+----Premise T16: This experience teach me to aware my health
+
+no arguments attacks Claim T17
+

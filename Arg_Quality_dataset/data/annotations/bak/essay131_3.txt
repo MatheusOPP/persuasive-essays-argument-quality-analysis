@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: the arts play a pivotal role in all-round development of a society
+Supporting Claim T5
+
+    Premise: No developed country could be named that music, painting, literature and other fields of arts are out of its government consideration
+    Premise: Enriching people's life and enlightening their thoughts, the arts basically affect the enhancement of societies in many positive ways
+
+No arguments attacks Claim T5
+

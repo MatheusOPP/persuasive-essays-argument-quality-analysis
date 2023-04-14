@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: fashion trends have a more essential role to play in people's lives than personal dressing styles
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: following fashion trends enables people to keep up with the world's latest transformations, which is of vital importance if we consider the fact that people are living in a global village today
+----supporting Claim T4:
+
+--------Premise T5: When individuals keep the habit of grasping the world's cutting-edge fashion information, they are gradually changing their attitudes to viewing the world, which means they are more open to accept diverse voices from people around the world
+--------Premise T7: they might fall behind shortly
+--------supporting Premise T7:
+------------Premise T6: if they stuck to their own fashion styles, disregarding the world's top fashion designers' achievements, they would stay conservative in their own worlds
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: Without following fashion trends, such people would have a hard time choosing and matching clothes, let alone forming their own dressing styles
+----supporting Claim T9:
+
+--------Premise T8: people with inadequate aesthetic knowledge or poor originality develop their own senses of fashion when treasuring the latest fashion information
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----Claim T3: creative design talents can value their own dressing ideas, developing their own fashion styles as they like
+----type: Claim T12
+----text: the world would look monotonous
+----supporting Claim T12:
+
+--------Premise T11: Individuals purchase their clothes according to the latest fashion trends, which may result in the phenomenon that people would wear the same style of clothes
+--------Premise T10: following fashion trends constantly may undermine individuals' personalities
+
+----no arguments attacks Claim T12
+
+

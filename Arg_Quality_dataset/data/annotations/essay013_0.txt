@@ -1,0 +1,55 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: technology makes children even more creative
+supporting MajorClaim T1:
+
+----type: Claim T13
+----text: instead of interfering children's creativity, technology actually encourages children to learn and to create
+----supporting Claim T13:
+
+--------Premise T8: when they come across a high-tech product like a cellphone, they will be obsessed with its mysterious functions and eager to know how it works
+--------supporting Premise T8:
+------------Premise T9: Children are curious about everything around them
+
+--------no arguments attacks Premise T8
+
+--------Premise T10: Bill Gates was attracted by the original huge computer, then he did everything he could to understand how it worked
+--------Premise T11: After he had figured out all the stuff, he then began to promote the computer
+--------Premise T12: In the end, he successfully invented a computer that was easy to use and lightweight
+--------Premise T6: technology inspires children to create new things
+
+----no arguments attacks Claim T13
+
+----type: Claim T18
+----text: The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things
+----supporting Claim T18:
+
+--------Premise T17: Knowledge is the base of creativity
+--------Premise T15: they will be able to learn about different cultures and different ways of thinking
+--------supporting Premise T15:
+------------Premise T16: with highly advanced technology, children are able to get information from foreign countries and even communicate with foreign friends
+
+--------no arguments attacks Premise T15
+
+--------Premise T14: In the past, children were only able to see things from one perspective
+--------Premise T7: technology widen children's knowledge
+
+----no arguments attacks Claim T18
+
+
+attacking MajorClaim T1:
+----Claim T2: technology may have some negative effects on children
+----type: Claim T3
+----text: technology may have negative effects on children
+----supporting Claim T3:
+
+--------Premise T4: Technology has made life too easy for most children
+--------Premise T5: In comfortable conditions, children may be satisfied with the world around them and refuse to make a change
+
+----attacking Claim T3:
+--------Premise T20: with the development of technology, increasingly more young people become obsessed with high-tech products
+
+

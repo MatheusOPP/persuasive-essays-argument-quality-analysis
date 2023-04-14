@@ -1,0 +1,8 @@
+Type: Claim T20
+Text: Some work cannot tolerate any mistakes at all
+Supporting Claim T20
+
+    Premise: in official missions like the work done by NASA, a tiny mistake can be catastrophic
+
+No arguments attacks Claim T20
+

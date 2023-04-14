@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: nobody has the right to take another human life
+Supporting Claim T9
+
+    Premise: the rights of life are the basic and vital rights of a human being
+    Premise: If you kill a criminal, you become a criminal
+    Premise: if we think that killing is the best way to solve the problem, it is neither unethical nor immoral
+    Premise: crimes seem to increase due to the capital punishment
+
+No arguments attacks Claim T9
+

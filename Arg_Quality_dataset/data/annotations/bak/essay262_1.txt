@@ -1,0 +1,42 @@
+Type: MajorClaim T2
+Text: challenges for this generation are more complicated and diverse than the past generation, whether in career or in self-identification
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: it is no doubt that until the next generation, there will be whole new challenges waiting for the next youngsters
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T11
+    Text: under globalization and industrial integration, the work-related challenges for this generation are getting more complicated and challenging
+    Supporting Claim T11
+
+        Premise: In the past, focusing on one skill was enough to deal with the problems
+        Premise: every industry was rather small in size and simple to manage
+        Premise: as those industries expand and become internationalized, people are required to equip with multiple skills to answer those challenges
+
+    No arguments attacks Claim T11
+
+    Type: Claim T13
+    Text: young people in this generation are exposed to more creative ideas and rather think individually
+    Supporting Claim T13
+
+        Premise: They have to make decisions between so many possibilities and they are responsible for taking the consequences
+        Premise: It is fortunate that they can struggle with these sweet worries and these worries are indeed never easy for them
+        Premise: They are eager for finding who they are and what they really want
+
+    No arguments attacks Claim T13
+
+    Type: Claim T14
+    Text: this generation is encountering the self-recognition issue which could not be experienced by the previous generation
+    Supporting Claim T14
+
+        Premise: The past generation was given less freedom and was usually asked to follow the paths their parents had prepared for them
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T2
+

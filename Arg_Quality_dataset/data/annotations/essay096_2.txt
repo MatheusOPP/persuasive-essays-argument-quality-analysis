@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: it would be easier for the juries to make a decision if they know about the past information about the criminal
+supporting Claim T4:
+
+----Premise T5: knowing their background very well will enable the juries to analyze the crime before coming up with a judgment
+----supporting Premise T5:
+--------Premise T6: take a person who has not murdered anyone but is suddenly found to be guilty
+--------Premise T7: The juries will be able to know weather the individual committed the crime intentionally or due to circumstances by knowing the facts about the person
+
+----no arguments attacks Premise T5
+
+----Premise T8: punishment can be given in accordance to the condition
+
+no arguments attacks Claim T4
+

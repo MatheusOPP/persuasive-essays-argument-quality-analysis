@@ -1,0 +1,10 @@
+Type: Claim T16
+Text: we become motivated to learn other things by doing them
+Supporting Claim T16
+
+    Premise: With the time, Reading about things or listening to people talking about could become more and more boring
+    Premise: Learning by doing things gives us more and more pleasure especially if we success in learning perfectly this things
+    Premise: we find more motivation to continuing on learning by doing things
+
+No arguments attacks Claim T16
+

@@ -1,0 +1,10 @@
+Type: Claim T16
+Text: there is an advantage of traditional school - socialization- establishes relationship with classmates
+Supporting Claim T16
+
+    Premise: students may learn how to cooperate with classmates from teamwork
+    Premise: Studying alone at home might deprive us of these significant and valuable opportunities
+
+Attacking Claim T16
+    Premise: We can learn a lot from programs at home
+

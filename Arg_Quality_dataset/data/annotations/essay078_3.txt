@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: taking environmental consequences seriously can enhance working efficiencies
+supporting Claim T14:
+
+----Premise T12: it may spur its economic development
+----supporting Premise T12:
+--------Premise T13: If a firm is environmentally conscious, it may have to make optimal use of its resources to improve its production lines and equipment, which can boost productivity
+
+----no arguments attacks Premise T12
+
+----Premise T15: without the requirement of environmental preservation, the firm would still consume a vast amount of energy which constitutes a large part of its operational costs, being a hurdle to the economic development
+
+no arguments attacks Claim T14
+

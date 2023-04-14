@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: such high salaries can also guarantee and support the athlete's great performances
+supporting Claim T8:
+
+----Premise T9: Most of us only see the luxurious side of a rich athlete and ignore how may difficulties they've gone through and how much cost they've thrown into investing themselves
+----Premise T10: They shall reap within their high salaries
+----Premise T11: if they are not paid high enough in order to conform to their performances, there might not be such brilliant performances for us to be amazed
+
+no arguments attacks Claim T8
+

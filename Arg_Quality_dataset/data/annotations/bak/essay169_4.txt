@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: professor should concern about preparing class
+Supporting Claim T10
+
+    Premise: only under specific circumstance, when students master all of the systematic knowledge, can they accomplish research
+    Premise: This is requires professors provide high quality courses
+
+No arguments attacks Claim T10
+

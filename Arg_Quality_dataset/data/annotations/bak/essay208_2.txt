@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: it can provide students a sense of direction in academy
+Supporting Claim T4
+
+    Premise: Basic economic class can help the students touch the surface of this field, let them to know what this subject mainly discuss
+    Premise: That will help the students cultivate their own interest and a sense of career orientation
+    Premise: students may study harder for their economic dreams
+
+No arguments attacks Claim T4
+

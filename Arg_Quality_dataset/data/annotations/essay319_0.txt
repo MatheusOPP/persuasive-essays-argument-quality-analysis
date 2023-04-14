@@ -1,0 +1,70 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: it is better for parents to encourage them to take part-time jobs
+supporting MajorClaim T2:
+
+----Claim T3: taking the part-time job can let students experience the real adult life and know more about it
+----type: Claim T5
+----text: they can teach students many things about adult life
+----supporting Claim T5:
+
+--------Premise T7: when students do part-time jobs, they can work with many kinds of people, and most of whom are adults
+--------Premise T6: there are a few opportunities for students to know how to live adult life in the university
+--------supporting Premise T6:
+------------Premise T4: most people they contact with are also students
+
+--------no arguments attacks Premise T6
+
+--------Premise T11: thanks to the information her new friends has provided; now she is more confidence about her future adult life
+--------supporting Premise T11:
+------------Premise T10: Lisa thought in adult life, work is the core; but after she knows these friends, she changes her mind that the true core for the adult life is responsibility but not work
+
+--------no arguments attacks Premise T11
+
+--------Premise T9: Through part-time job, she makes friends with different kinds of people and they let her know the different aspects of adult life
+--------Premise T8: My friend Lisa, who is doing part-time job now, tells me that it is fabulous to take it
+
+----no arguments attacks Claim T5
+
+----type: Claim T14
+----text: we need part-time job to teach us how hard the real adult life can be
+----supporting Claim T14:
+
+--------Premise T13: it is very difficult for us to really know how tense the adult life can be
+--------supporting Premise T13:
+------------Premise T12: we do not experience it
+
+--------no arguments attacks Premise T13
+
+--------Premise T17: parents always tell students that the adult life is much tenser than school life
+
+----no arguments attacks Claim T14
+
+----type: Claim T16
+----text: the part-time job can make people understand future life better
+----supporting Claim T16:
+
+--------Premise T15: some questionnaires indicate that if students have taken part-time jobs, they will make the best use of their time to prepare their future and more importantly; they will not expect too much for their future than students who have not taken the part-time job
+
+----no arguments attacks Claim T16
+
+
+attacking MajorClaim T2:
+----type: Claim T18
+----text: the part-time job will effect student' study
+----supporting Claim T18:
+
+
+----attacking Claim T18:
+--------Premise T20: it will not effect on their study
+--------supporting Premise T20:
+------------Premise T19: most students will do the part-time job in their holiday
+------------Premise T21: Compared with playing computers every day, doing part-time jobs is the best choice for students to spend their holiday
+
+--------no arguments attacks Premise T20
+
+
+

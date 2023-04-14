@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: it's clear that computer has a positive effect on the children
+Supporting Claim T9
+
+    Premise: students who used to prepare Microsoft PowerPoint presentation for their school projects, get an edge over others at an early stage of their career
+    Premise: When children are allowed to play around with computer from a very early age, they get acquainted with the previously mentioned skills and become expert before facing professional world
+    Premise: computers enable people to prepare presentations, draw complex graphs and pictures, document thesis in a simple though efficient way
+
+No arguments attacks Claim T9
+

@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: In order to help visitors to learn more about the exhibits, museums hold various activities which make visitors be part of what they are seeing
+Supporting Claim T12
+
+    Premise: at American Museum of Natural History, you can make a bone-by-bone reproduction of the museum's stegosaurus
+    Premise: at Museum of Art in New York, you can look at 17th century instruments while listening to their music
+    Premise: While if you "visit" the museum online, you may not able to get this kind of experience
+
+No arguments attacks Claim T12
+

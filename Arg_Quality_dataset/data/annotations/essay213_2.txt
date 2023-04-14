@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: the ability to work alone will help you increase your ability to work with other people
+supporting Claim T9:
+
+----Premise T10: Working in team does not mean that you do not have to come up with your ideas
+----Premise T11: Everybody in a team must have his/her own opinion first, then discuss them with other members
+----Premise T12: When we work in team, we still think individually
+----supporting Premise T12:
+--------Premise T13: our brain are not connected but separate
+
+----no arguments attacks Premise T12
+
+----Premise T14: When everyone in a team can come up with his/her own ideas, working in team will definitely more effective
+
+no arguments attacks Claim T9
+

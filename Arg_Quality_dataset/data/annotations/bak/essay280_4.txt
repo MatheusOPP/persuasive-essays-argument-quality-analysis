@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: requiring students to study in many subjects is good for them
+Supporting Claim T8
+
+    Premise: when students finished their high schools, they are confused about subjects that they are going to choose to study in universities
+    Premise: pupil who want to study science are also like to learn music
+
+No arguments attacks Claim T8
+

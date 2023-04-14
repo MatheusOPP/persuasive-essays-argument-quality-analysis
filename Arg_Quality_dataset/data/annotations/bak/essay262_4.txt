@@ -1,0 +1,10 @@
+Type: Claim T13
+Text: young people in this generation are exposed to more creative ideas and rather think individually
+Supporting Claim T13
+
+    Premise: They have to make decisions between so many possibilities and they are responsible for taking the consequences
+    Premise: It is fortunate that they can struggle with these sweet worries and these worries are indeed never easy for them
+    Premise: They are eager for finding who they are and what they really want
+
+No arguments attacks Claim T13
+

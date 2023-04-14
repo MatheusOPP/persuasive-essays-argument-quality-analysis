@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: working at home is worse and less efficient than working in the office
+supporting MajorClaim T1:
+
+----type: Claim T8
+----text: while working in the office, people can interact with their colleges instantly
+----supporting Claim T8:
+
+--------Premise T5: They can either get help from colleges or discuss about the work together
+--------Premise T4: Think about the big project that a group is working on, if any group member has new idea about the project, he/she can assemble his/her colleges right away and discuss
+--------Premise T6: It's more efficient and straight-forward than talking in the phone
+--------Premise T7: if one’s computer or Internet has any breakdown, he/she can call the MIS staff to fix
+
+----no arguments attacks Claim T8
+
+----type: Claim T9
+----text: working at home has many disadvantages that will no doubt lower the efficiency of works
+----supporting Claim T9:
+
+--------Premise T10: people are easily distracted while working at home
+--------supporting Premise T10:
+------------Premise T11: It's hard to concentrate on work if people can grab the TV remote or some junk foods right away
+
+--------no arguments attacks Premise T10
+
+--------Premise T12: while people are working at home, there will be no one supervising them, thus raises the chance of loafing
+--------Premise T13: people who work at home are more likely to miss the important events happening in the office, like some announcements from the boss
+
+----no arguments attacks Claim T9
+
+----Claim T3: It not only has the advantage of working with colleges but also it provides a real working atmosphere that can never be grasped if people choose to work at home
+
+no arguments attacks MajorClaim T1
+

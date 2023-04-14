@@ -1,0 +1,73 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: any great success need great work not great luck
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: famous people are usually diligent people not lucky people
+----supporting Claim T6:
+
+--------Premise T8: when you work hard you decrease portion of chance in your success
+--------Premise T7: Hard work make you a professional man/woman which are powerful in his or her job
+--------Premise T9: in football game it is said that penalty-kick need good chance to be goal
+--------supporting Premise T9:
+------------Premise T10: Statically the chance of being goal is fifty-fifty
+
+--------attacking Premise T9:
+------------Premise T11: But I think Ronaldo make a goal from a penalty-kick with more possibility than me
+------------Premise T12: It is not for which Ronaldo is more fortune than me
+------------supporting Premise T12:
+----------------Premise T13: Definitely it is for which he have more practice and exercise than me
+----------------Premise T5: it is not for which he is luckier than me
+----------------supporting Premise T5:
+--------------------Premise T4: He do a lot of exercise in football field every day
+
+----------------no arguments attacks Premise T5
+
+
+------------no arguments attacks Premise T12
+
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T18
+----text: we cannot always lean on our luck to be successful
+----supporting Claim T18:
+
+--------Premise T19: I don't want to disavow the role of luck in success, but as you know it hardly accompany us
+--------Premise T14: it is wise advice which you have hard study to success on exam
+--------supporting Premise T14:
+------------Premise T15: If you pick up any choice by chance you would fail the exam
+------------Premise T16: You cannot prepare for it without any study and Rely on your luck, even if you be a very lucky
+------------Premise T17: you prepare for TOEFL or other multiple-choice test which has four option to choose in every question
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T18
+
+----type: Claim T20
+----text: The most fortunate people in the word cannot manufacture an automobile or build a high tower just by her or his chance
+----supporting Claim T20:
+
+--------Premise T23: such people do work hard and have great experiences because of their hard works
+--------Premise T22: These plans is done by someone who is mastered in his/her work
+--------Premise T21: you have to work hard to learn and to get a lot of information before doing a project in good way
+
+----no arguments attacks Claim T20
+
+
+attacking MajorClaim T1:
+----type: Claim T2
+----text: luck is one factor in reaching goal
+----supporting Claim T2:
+
+
+----attacking Claim T2:
+--------Premise T3: its impact is extraneous and we must not reckon on luck in our plans
+
+

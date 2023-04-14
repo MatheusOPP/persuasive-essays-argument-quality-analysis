@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: it is harmful for us to use mobile phones frequently
+Supporting Claim T6
+
+    Premise: spending too much time on mobiles phones many exert an adverse effect on our social skills
+    Premise: continuous use of mobile phones may also damage children's eyesight and physical posture
+
+No arguments attacks Claim T6
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: The centre for research in agriculture can help my co-citizens to better exploit these land
+supporting Claim T4:
+
+----Premise T3: Most of these lands are left without any treatment
+----Premise T2: my country has a lot of land which is useful for the agriculture
+
+no arguments attacks Claim T4
+

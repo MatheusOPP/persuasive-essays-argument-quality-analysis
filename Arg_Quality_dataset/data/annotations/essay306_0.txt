@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the convenience it brings is more
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: when it comes to the field of transportation, there is no doubt that the technology in automobile has made people's life simpler
+----supporting Claim T5:
+
+--------Premise T3: With a private car, you can reach the destination in another city just sitting in the vehicle
+--------Premise T4: if you would like to have a trip across the ocean, a plane can carry you there in only a few hours, which is hard to imagine in the ancient times
+
+----no arguments attacks Claim T5
+
+----type: Claim T9
+----text: technology also makes teaching simpler
+----supporting Claim T9:
+
+--------Premise T6: In the past, teachers have to write what they want to convey to students on the chalkboard, resulting in a great waste of time and the fatigue of teachers
+--------Premise T7: With the advent of iPads in e-learning, paper books become unnecessary, so does the blackboards
+--------supporting Premise T7:
+------------Premise T8: all the knowledge and information are stored in the iPads, with a single click, and they would appear right before your eyes at once
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----Claim T2: technology may make people's life complicated in some aspects
+----Claim T15: technology may make people's life complicated in some cases
+----type: Claim T14
+----text: technology may make people's life more complicated
+----supporting Claim T14:
+
+--------Premise T10: the cell phone, which used to be simply a tool to deliver messages to your contacts in a distance, now are playing a role more than just a phone in social communications
+--------Premise T11: folks have to check their Facebooks, Twitters, and Forums accounts every minute, which add too much pressure to them
+--------Premise T12: games on their phone exert a tremendous fascination on teenagers, leading to a large problem that they got addicted to their phones
+--------Premise T13: making their life more complicated and tired
+
+----no arguments attacks Claim T14
+
+

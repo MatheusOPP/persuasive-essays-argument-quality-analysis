@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: being unique can create your own value which can never be taken by others
+supporting Claim T12:
+
+----Premise T13: once you are special and unique, pursuing success is a matter of actively creating the fashion rather than passively waiting for other people to recognize and appreciate you
+----Premise T8: Take the most popular and prestigious technology company- Apple- for example
+----supporting Premise T8:
+--------Premise T10: It is the uniqueness of Apple design that creates its own value
+--------Premise T9: The reason why it gains such a tremendous success is because it achieves some brilliant qualities that can never be caught up by other competitors
+--------Premise T11: It has its operating systems that can run smoother than any other companies and its design always wins the popularity among consumers
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T12
+

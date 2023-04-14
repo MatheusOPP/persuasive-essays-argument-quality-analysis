@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: the city which I enjoy the most is a combination of history and modernity
+supporting Claim T18:
+
+----Premise T19: the preservation of old buildings is a one-way street
+----Premise T17: There is no chance to renovate to save a history site once it's gone
+----Premise T20: This reality brings us to light the importance of locating and saving old buildings of historic significance
+
+no arguments attacks Claim T18
+

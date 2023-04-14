@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: these sports events are not essential in other issues such as politics or other international affairs
+supporting Claim T5:
+
+----Premise T4: if the general atmosphere during the show is peaceful and fraternal, the reality is different
+----Premise T6: After the Olympics games are finished, everything came back to normal and all the game competition is forgotten by the majority
+----Premise T7: recently, Putin was pleased to open the last winter Olympic games and gather international countries, but actually it has been just facade and Putin didn't listen international warning after he conquered the Crimea
+
+no arguments attacks Claim T5
+

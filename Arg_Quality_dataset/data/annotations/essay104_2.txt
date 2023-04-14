@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: the Internet will become an indispensable part in academic training
+supporting Claim T10:
+
+----Premise T12: Have you ever imagined what it would be like to stay at home and attend a lecture by a famous speaker in Finland simultaneously
+----Premise T11: This fairy tale turns out to be true thanks to technical and internet advances
+
+no arguments attacks Claim T10
+

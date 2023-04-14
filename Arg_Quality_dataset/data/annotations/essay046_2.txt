@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: a university should provide access to information, rather than offer selected courses that are suitable for employers' taste
+supporting Claim T7:
+
+----Premise T9: It is, therefore, not necessary for a certain course or type of training to be offered to the students by a university, but instead, these must be made available when needed
+----Premise T8: universities are regarded as institutions where abundant educational resources gather
+
+no arguments attacks Claim T7
+

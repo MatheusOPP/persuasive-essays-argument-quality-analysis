@@ -1,0 +1,11 @@
+Type: Claim T3
+Text: in childhood most people are happier than in adulthood
+Supporting Claim T3
+
+    Premise: They do not have to worry about bills, jobs, how would their life be in the future
+    Premise: They just worry about two things: to have fun, learn and be happy
+    Premise: when I was young I just came home from school and then I would took my bike or soccer ball and go out and play with my friends in my neighborhood
+    Premise: I did not have to worry about costs and other things, I just had fun and learned
+
+No arguments attacks Claim T3
+

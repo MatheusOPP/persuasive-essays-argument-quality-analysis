@@ -1,0 +1,11 @@
+Type: Claim T3
+Text: it would be a good implication by the government to generate electricity from other available sources
+Supporting Claim T3
+
+    Premise: the major source of energy today is water
+    Premise: during summer there will be a lot of power cut in the developing countries such as India
+    Premise: If the government encourage the use of nuclear, solar or wind energy there might not be any problem in distributing the required amount electricity
+    Premise: there is a lot of water shortage to generate electricity many countries still rely only on this source
+
+No arguments attacks Claim T3
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: species extinction is quite natural according to the theory of evolution
+supporting Claim T6:
+
+----Premise T7: The environment on the Earth has been transformed many times since the first species came into being
+----Premise T8: A great number of plants and animals died out
+----supporting Premise T8:
+--------Premise T9: they were unable to fit into the new environment
+
+----no arguments attacks Premise T8
+
+----Premise T10: the process of extinction of some species is irrevocable and we can do nothing about it
+
+no arguments attacks Claim T6
+

@@ -1,0 +1,7 @@
+Type: Claim T2
+Text: It is very crucial for learning
+Supporting Claim T2
+
+
+No arguments attacks Claim T2
+

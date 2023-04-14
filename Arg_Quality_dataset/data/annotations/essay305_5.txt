@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: going to classes are sometimes waste of the time
+supporting Claim T11:
+
+----Premise T3: some lecturers in our university read the same text in the reference books for that particular course module
+----Premise T4: they didn't explain the contents in order to understand by the students
+----Premise T12: It was waste of the time
+
+no arguments attacks Claim T11
+

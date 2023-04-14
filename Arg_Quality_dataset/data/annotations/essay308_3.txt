@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: I want to live here
+supporting Claim T13:
+
+----Premise T12: I love the traffic system in here
+----supporting Premise T12:
+--------Premise T9: Last week, I went to the city center to meet my friends
+--------Premise T10: The traffic in the city was too crowed
+--------Premise T11: I have to wait for an hour to go to my friend house
+--------Premise T8: we can move easily to anywhere
+--------supporting Premise T8:
+------------Premise T7: We have large streets but few cars
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T13
+

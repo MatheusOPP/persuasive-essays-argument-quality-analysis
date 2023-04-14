@@ -1,0 +1,8 @@
+Type: Claim T13
+Text: the university student may don't reach a high if the university allow student to participate in the class no matter whether they pass the test or not
+Supporting Claim T13
+
+
+Attacking Claim T13
+    Premise: the benefit of free to access to the classes eclipse the issue of lower points
+

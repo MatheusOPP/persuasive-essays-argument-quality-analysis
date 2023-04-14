@@ -1,0 +1,48 @@
+Type: MajorClaim T3
+Text: The whole world is dependent on computers, without which, the world will go back hundreds of years
+Supporting MajorClaim T3
+
+    Type: Claim T2
+    Text: computers have provided security and sophistication
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T4
+    Text: Computers provide speed, increase efficiency, accuracy, precision, help to increase productivity and other countless benefits are provided by it
+    Supporting Claim T4
+
+        Premise: In the modern world, computers are used everywhere
+        Premise: Right from flying planes to sending a small document, computers are needed
+        Premise: They are used in space programs, wars, hospitals, schools and so on
+        Premise: Computers have made human life more easy, convenient and lightning fast
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: future prospects of computers are very bright
+    Supporting Claim T5
+
+        Premise: From a computer as big as a room, it has now been minimized to the size of a palm
+        Premise: Nanotechnology is working to make computers to the order of microscopic levels
+        Premise: Research on making computerized drone soldiers (unmanned computer controlled) is going on
+        Premise: There is no end to the evolution of computers
+
+    No arguments attacks Claim T5
+
+
+Attacking MajorClaim T3
+    Type: Claim T6
+    Text: Computers have made humans over-dependent
+    Supporting Claim T6
+
+        Premise: Virus programs, privacy breach, leak of confidential documents, cyber attacks, identity theft, frauds etc. are some of its demerits, from a countless list
+        Premise: Computers expose children to vulgar materials
+        Premise: They have even invaded mental health of humans, for example, FAD (Facebook Addiction Disorder - excessive use of social networking website Facebook)
+        Premise: Computers have intruded our lives to the effect that a satellite can peep into our homes and privates lives
+        Premise: The recent case of Wikileaks, leaking confidential data is an example of how computers are harmful
+
+    No arguments attacks Claim T6
+
+

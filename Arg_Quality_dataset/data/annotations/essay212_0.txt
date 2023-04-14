@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I would follow the new customs, if I migrated to another country
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: it will be easier for people to assimilate into a new country, if they follow the new customs
+----supporting Claim T3:
+
+--------Premise T7: people understand the culture, and then they adapt to the new country
+--------supporting Premise T7:
+------------Premise T6: if one wore in white and went to common Viharas to observe a rather longer-than-usual, full-length Buddhist sutra in Buddha's Birthday in India, he or she would learn something about Indian religion and culture
+
+--------no arguments attacks Premise T7
+
+--------Premise T4: When people migrate to a new country, they are likely to suffer the culture shock, because of the difference between two cultures
+--------Premise T5: The custom is just a form of the culture and following the custom is a good way to know more about this culture
+
+----no arguments attacks Claim T3
+
+----type: Claim T8
+----text: keeping own customs stably might cause discrimination
+----supporting Claim T8:
+
+--------Premise T9: When people insist to keep their own customs and refuse to accept the new one, they regard themselves as a special group in the new country
+--------Premise T10: The local people may also regard them as a special group as well and separate them from the main-stream society
+--------Premise T11: One example of this is that the Chinese immigrants in Indonesia in 1969
+--------Premise T12: They formed Chinatown and kept Chinese language and customs in it
+--------Premise T13: While the Indonesians stopped working at 4:00 pm and went home for rest, Chinese immigrants were still working
+--------Premise T15: Their houses and private cars were buried by local people
+--------supporting Premise T15:
+------------Premise T16: the locals were jealous of Chinese people, who had so much wealth, which should have been theirs
+
+--------no arguments attacks Premise T15
+
+--------Premise T14: being much richer than local people, they faced the discrimination
+--------Premise T17: If the Chinese immigrants had followed the local customs and assimilated into Indonesia, they would not have been regards as a group of Chinese and discrimination might have been alleviated
+
+----no arguments attacks Claim T8
+
+
+no arguments attacks MajorClaim T1
+

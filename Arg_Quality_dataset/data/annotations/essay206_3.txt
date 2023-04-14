@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: it is obvious that living in small towns is healthier than in big cities
+supporting Claim T13:
+
+----Premise T9: One of the conditions that helps us to be healthy is good weather and less population that exist in a small town
+----Premise T10: in a small town there are less crowded and less traffic
+----Premise T11: Living in a place with less pollution such as air pollution or sound pollution helps us to have a healthier life and one of the main consequences is less stress and more happiness
+----Premise T12: in a small town foods and materials we need are healthier than in big cities and there are fresh foods and fruits
+----Premise T8: the first advantage of living in a small town is a healthy life that we can obtain due to many items
+
+no arguments attacks Claim T13
+

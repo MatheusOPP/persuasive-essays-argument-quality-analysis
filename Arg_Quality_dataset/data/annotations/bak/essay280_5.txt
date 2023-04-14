@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: people who know a wide range of is better than people who know just one
+Supporting Claim T10
+
+    Premise: Students can gain more knowledge in every different subjects thy study
+    Premise: students not only gain knowledge but they also have more experience
+    Premise: they all can share opinion and knowledge to one another
+
+No arguments attacks Claim T10
+

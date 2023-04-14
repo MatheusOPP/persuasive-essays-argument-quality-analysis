@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: the environment our grandparents live is more comfortable than today
+supporting Claim T15:
+
+----Premise T11: the environment today is serious damaged
+----Premise T13: Everyday, I walk on hard roads, breath in polluted air, and live in a limited space
+----Premise T14: it has been proved that living in this kind of condition will result in some mental diseases
+----Premise T12: Looking out the windows, what I see isn't sky, trees or mountains, but is coldly high buildings
+
+no arguments attacks Claim T15
+

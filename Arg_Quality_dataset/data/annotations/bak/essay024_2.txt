@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: using computer constantly has bad influence on children's eyes
+Supporting Claim T3
+
+    Premise: When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted
+
+No arguments attacks Claim T3
+

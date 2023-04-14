@@ -1,0 +1,9 @@
+Type: Claim T15
+Text: students can learn lots of things from part time job, before starting their real job
+Supporting Claim T15
+
+    Premise: Students can learn about time management, money management and convince people by their words
+    Premise: when I was in my high school I worked as a sales-man in a shop for a year
+
+No arguments attacks Claim T15
+

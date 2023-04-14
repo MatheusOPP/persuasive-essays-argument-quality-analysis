@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: learning by doing things is more exciting than learning by reading about things or listening to people talking about
+supporting Claim T8:
+
+----Premise T9: There are a lot of things in life that should be learnt by doing them
+----Premise T10: Reading about things or listening to people talking about can rarely submit the same sensation or the same excitement to some one who wants to learn about the same thing
+----Premise T11: People who want to learn how to swim have to go to the beach or to the swimpool and laid themselves in the water to feel and know what is swimming
+----Premise T12: Nor listening to people or reading about can teach them swimming
+
+no arguments attacks Claim T8
+

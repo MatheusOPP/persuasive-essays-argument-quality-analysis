@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: I prefer traditional learning classes
+supporting MajorClaim T3:
+
+----type: Claim T4
+----text: the participant with the others like classmates or professors is still an important factor in studying
+----supporting Claim T4:
+
+--------Premise T6: the discussion class results in expanded children vision and their respect to others roommate's ideas
+--------supporting Premise T6:
+------------Premise T5: Working in group leads to more discussion and more opinion among the class
+
+--------no arguments attacks Premise T6
+
+--------Premise T7: Unlike the distance learning that children have few opportunities to discuss with their friends
+
+----no arguments attacks Claim T4
+
+----type: Claim T8
+----text: classroom learning provides other activities than studying
+----supporting Claim T8:
+
+--------Premise T9: During student's free time, they have a number of activities that they can join, such as playing sports, going to lab, or going to library
+--------Premise T10: These activities lead to more interact with their friends
+--------Premise T11: Connection with friends improves their IQ abilities
+--------Premise T12: they have a chance to learn about their societies
+--------Premise T13: the online course keeps the children at their home only
+
+----no arguments attacks Claim T8
+
+----type: Claim T14
+----text: in school, there are professors that guided you during you had a problem or needed an advice
+----supporting Claim T14:
+
+--------Premise T15: The professor provides good answers to you
+--------Premise T16: They do not mind helping you, and they never leave you alone when you got a problem
+--------Premise T17: in distance learning, these aspects of the professor had reduced their important
+--------Premise T18: The professor has been assigned to teach only
+--------Premise T19: there will be a long response from the teachers when children ask them a question
+
+----no arguments attacks Claim T14
+
+
+attacking MajorClaim T3:
+----Claim T1: online classes have many advantages
+

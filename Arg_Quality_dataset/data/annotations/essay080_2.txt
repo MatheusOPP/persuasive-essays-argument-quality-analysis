@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: keeping animals in captivity is wrong
+supporting Claim T3:
+
+----Premise T4: animals should be considered non-human persons and they should have the right of having freedom
+----Premise T5: This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures
+----supporting Premise T5:
+--------Premise T6: many zoos, especially the ones in developing countries, do not provide care and attention which their animals require
+
+----no arguments attacks Premise T5
+
+----Premise T7: The animals are often undernourished and do not have sufficient quality and quantity of medical treatment
+----Premise T8: sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe
+
+no arguments attacks Claim T3
+

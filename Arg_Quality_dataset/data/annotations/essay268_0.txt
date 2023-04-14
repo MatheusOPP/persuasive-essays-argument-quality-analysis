@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: I don't think that equal amount of money should be spent on academic issues like libraries and laboratories and physical or social activities
+supporting MajorClaim T3:
+
+----type: Claim T4
+----text: spending too much money for equipping the gyms or constructing football/basketball courts are really not necessary to encourage students to do sports
+----supporting Claim T4:
+
+--------Premise T8: What the university should do is informing the students the benefits of doing sport by hanging some posters in the campus, inviting some athletes to lecture for students and encourage them to spend some time for their body and health
+--------Premise T5: my roommate, Mary, always wakes up 6 in the morning and spends 1 hour doing sport in the park which is near our dormitory
+--------Premise T6: When she gets to the dorm, she is really full of energy and after taking a shower, she is ready to start a good day
+--------Premise T7: she is doing exercise without spending a cent
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: The university should provide the best equipment needed for physical education students
+----supporting Claim T9:
+
+--------Premise T10: students choose their major based on their interests
+--------Premise T11: their major in completely involved in physical activities
+--------Premise T12: for an engineer or a medicine student I do not find it fair enough to equip gyms instead of their laboratories
+--------supporting Premise T12:
+------------Premise T13: it really make the students enthusiastic to use innovative technology to learn and maybe find new things in their field
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T9
+
+----type: Claim T16
+----text: spending money on social activities looks like wasting money
+----supporting Claim T16:
+
+--------Premise T14: For students who want to gather with their friends or want to go out to meet new people, university programs are the last place they would choose
+--------Premise T15: when I and my friends want to spend time with each other, we prefer to go out of university to the places where we do not want to be disturbed by any familiar people
+
+----no arguments attacks Claim T16
+
+
+attacking MajorClaim T3:
+----Claim T2: I do not deny the importance of doing sports in the success of university students
+

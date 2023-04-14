@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: All inventions and experiments are based on many unfortunate observations
+supporting Claim T10:
+
+----Premise T6: No known scientist has success in first attempt
+----Premise T7: Scientists try and test many specimens before they get they want
+----Premise T9: all the initial experiments would be difficult and frustrating for him but he searched for more options and learnt new findings with each experiment even when he was failing in his attempts and finally found break through
+----supporting Premise T9:
+--------Premise T8: Thomas Edison tested around 10000 bulbs before inventing Light bulb
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T10
+

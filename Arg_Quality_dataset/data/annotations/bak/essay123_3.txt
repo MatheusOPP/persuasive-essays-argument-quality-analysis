@@ -1,0 +1,7 @@
+Type: MajorClaim T11
+Text: it is a good idea to ask parents and adult relatives to give a piece of advice
+Supporting MajorClaim T11
+
+
+No arguments attacks MajorClaim T11
+

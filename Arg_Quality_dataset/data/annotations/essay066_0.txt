@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: technology plays a key role in promoting traditional techniques and lifestyles
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: In terms of time and space, technology makes it more efficient and effective to promote the traditional skills and ways of life
+----supporting Claim T3:
+
+--------Premise T5: In the past, only when people went to the local place could they experience the specific traditional lifestyles
+--------Premise T6: This means individuals who were engaged in work and therefore could not spare time to travel or restricted by traffic conditions had to miss the chance to appreciate the traditional skills
+--------Premise T4: with the access to the Internet, one of the greatest innovations in modern society, humankind can acquire the traditional techniques displayed online anytime, anywhere
+
+----no arguments attacks Claim T3
+
+----type: Claim T7
+----text: technology enriches the way of displaying traditional cultural heritage, making it more vivid and appealing
+----supporting Claim T7:
+
+--------Premise T2: China has successfully promoted traditional techniques in the Shanghai World Expo, using a variety of state-of-the-art technological methods, such as robots and LED screens
+--------Premise T8: many tourists around the world marveled at the perfect synthesis of the modern technology and the traditional culture
+
+----no arguments attacks Claim T7
+
+
+attacking MajorClaim T1:
+----type: Claim T9
+----text: some people are concerned that technology may have a detrimental effect on the traditional lifestyles
+----supporting Claim T9:
+
+--------Premise T10: especially youngsters, are crazier about fresh and advanced things, such as digital products, thus becoming indifferent to traditional techniques
+
+----no arguments attacks Claim T9
+
+

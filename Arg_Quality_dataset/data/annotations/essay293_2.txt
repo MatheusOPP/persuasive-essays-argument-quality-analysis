@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: discussion face to face in a meeting is much better than by emails
+supporting Claim T3:
+
+----Premise T4: team members may have different views and they need to reach a union opinion efficiently
+----Premise T5: An experiment conducted by the Beijing University asked two groups of people to discuss the budget of an activity
+----Premise T6: The first group was asked to discuss in person, while the second group was asked to discuss by email
+----Premise T7: the 1st group used 30 minutes to reach the agreement on the budget, while it takes 30 hours for the later one
+----Premise T8: The similar experiment done by other scientist show the same result that people can reach an agreement quickly if they could talk to each other
+
+no arguments attacks Claim T3
+

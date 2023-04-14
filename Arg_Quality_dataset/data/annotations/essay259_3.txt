@@ -1,0 +1,11 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: It not only has the advantage of working with colleges but also it provides a real working atmosphere that can never be grasped if people choose to work at home
+supporting Claim T3:
+
+
+no arguments attacks Claim T3
+

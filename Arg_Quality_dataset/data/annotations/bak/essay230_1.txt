@@ -1,0 +1,9 @@
+Type: Claim T2
+Text: it is an oppertunity to learn how to deal with money
+Supporting Claim T2
+
+    Premise: I finally realized that I should learn to make a plan before I spend my money, and that did influence me in my life now
+    Premise: when children get a job, they are able to earn money by themselves, instead of getting pocket money from their parents
+
+No arguments attacks Claim T2
+

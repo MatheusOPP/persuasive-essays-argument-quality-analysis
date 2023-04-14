@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: government's big budget on universities may attract more excellent intellectuals and researchers into the country and enjoy a higher reputation worldwide
+supporting Claim T8:
+
+----Premise T9: Researches into humanities and art still need large amount of money
+----Premise T11: The high technology and new ideas applied into practice may not only lead a country to flourish but also elevate its status in the international community
+----Premise T10: for higher education, which represent the cutting edge of a country's academic achievements, act as the vanguard in economic and social advance
+
+attacking Claim T8:
+----Premise T12: Some may argue that universities can support themselve well by donation or invention
+

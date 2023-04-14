@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: other prefer to be surrounded by a large number of friends
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

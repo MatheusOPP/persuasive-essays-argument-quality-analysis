@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: it will be easier for people to assimilate into a new country, if they follow the new customs
+Supporting Claim T3
+
+    Premise: people understand the culture, and then they adapt to the new country
+    Premise: When people migrate to a new country, they are likely to suffer the culture shock, because of the difference between two cultures
+    Premise: The custom is just a form of the culture and following the custom is a good way to know more about this culture
+
+No arguments attacks Claim T3
+

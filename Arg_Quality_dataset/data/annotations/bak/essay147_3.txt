@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: games become unnecessary for people when their careers begin
+Supporting Claim T4
+
+    Premise: they cannot spend enough time and effort to their favorite games as they did in 15 or 20 years ago
+    Premise: in my country, except for a minor part of professional athletes, the majority of people stop playing games seriously as soon as they find a decent job
+    Premise: They often feel that such games become more troublesome than enjoyable for their daily lives
+
+Attacking Claim T4
+    Premise: Someone may argue that games help adults relax and become more balanced in life
+

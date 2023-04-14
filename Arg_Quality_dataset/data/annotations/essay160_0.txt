@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: it should taken into consideration the situation and conditions, that forces to a person to be a criminal
+supporting MajorClaim T2:
+
+----type: Claim T3
+----text: if there will be a fixed punishment for each type of crime then it will lead to increase the crime
+----supporting Claim T3:
+
+--------Premise T4: the punishment will be clear in the mind of professional criminals and they will not feel fear while committing a crime
+
+----no arguments attacks Claim T3
+
+----type: Claim T6
+----text: it is necessary to have a look behind crime
+----supporting Claim T6:
+
+--------Premise T5: laws and rules are there for people
+--------Premise T12: a women steals feed for her child should be treated same as a women, who steals for her drug addiction
+--------Premise T7: The person who committed crime first time and the professional criminals should not be imprisoned at same place
+
+----no arguments attacks Claim T6
+
+
+attacking MajorClaim T2:
+----type: Claim T11
+----text: fixed punishment will reduce the space between poor and rich people and everyone will understand the importance of each other
+----supporting Claim T11:
+
+--------Premise T10: sometimes we see that a poor person who do not have much money for hiring a good lawyer they get imprisoned even without committing a crime and when they come back to the society they become a professional criminal
+
+----no arguments attacks Claim T11
+
+----type: Claim T8
+----text: fixed punishment will reduce the time taken by judges to give their judgement and it will be effective economically for the Government
+----supporting Claim T8:
+
+--------Premise T9: Everyone should be treated equally
+
+----no arguments attacks Claim T8
+
+

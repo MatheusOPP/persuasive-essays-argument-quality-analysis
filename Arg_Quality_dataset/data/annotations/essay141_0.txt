@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I agree that face-to-face communication is better
+supporting MajorClaim T1:
+
+----Claim T3: the advantages of this are qualitatively greater than that of the opposite
+----type: Claim T11
+----text: we can commence to agree that communicating with someone in person is the best way
+----supporting Claim T11:
+
+--------Premise T7: He once complained a service of a restaurant
+--------Premise T8: Without exaggeration, he directly went to the boss and told the boss that something wrong occurred on the meal--a fly concealed in it
+--------Premise T9: Afterward, my uncle acquired a new service thanks to face-to face communication
+--------Premise T10: If he just wrote something to complain on the website or by telephone, I do not think this problem would be thought important
+--------Premise T6: Sometimes, face-to face communication can lead us to convince or complain someone successfully, and a fitting example can be found from my uncle
+--------Premise T5: communicating in person can be more convincing
+
+----no arguments attacks Claim T11
+
+----type: Claim T17
+----text: we are capable of stating that it is important to talk to people face-to-face
+----supporting Claim T17:
+
+--------Premise T15: I just shocked and did not know what happened
+--------Premise T16: I realized that his facebook account was stolen
+--------Premise T13: I had received some harmful words on facebook from my best friend, Eric
+--------Premise T14: He said that I was totally failed in building a good friendship and he did not want to be one of my friends anymore
+--------Premise T12: it is easy to be deceived without face-to face communication
+
+----no arguments attacks Claim T17
+
+
+attacking MajorClaim T1:
+----type: Claim T18
+----text: communication by letters, email, or telephone can enable them to talk without scruple, which is also one of the most important parts in communication
+----supporting Claim T18:
+
+--------Premise T19: It is conceivable that before we talk, it is necessary for us to be imprudent about our words
+
+----attacking Claim T18:
+--------Premise T20: Talking without scruple is not the indispensable part in communication; in contrast, it is usually detrimental to us
+
+

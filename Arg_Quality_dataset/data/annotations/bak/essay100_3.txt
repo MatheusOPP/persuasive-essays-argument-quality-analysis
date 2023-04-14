@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer
+Supporting Claim T4
+
+    Premise: Without proper training and knowledge, it would be impossible for them to perform their best in their careers
+    Premise: Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners
+    Premise: This can benefit them in future when they intend to open up their own companies or hospitals
+
+No arguments attacks Claim T4
+

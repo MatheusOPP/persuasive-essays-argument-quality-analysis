@@ -1,0 +1,55 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is not the good idea for teenagers to have job while they are still students
+supporting MajorClaim T1:
+
+----Claim T4: Having jobs would affect the health of the student
+----Claim T5: It divert their mind from studies and would take away their childhood phase from their life
+----Claim T7: Having job would affect their health, divert them from studies and take away one of the important phase from their life
+----type: Claim T8
+----text: would affect their mental and physical health
+----supporting Claim T8:
+
+--------Premise T11: They won't be able to get proper time for relaxation, sleep
+--------Premise T9: jobs has various responsibilities like attendance, sometimes extra work and so on
+--------Premise T10: This would result in stress, tension and tiredness
+
+----no arguments attacks Claim T8
+
+----type: Claim T12
+----text: If the student get involved himself in job in rest of the time, then it would cause an extra burden on them
+----supporting Claim T12:
+
+--------Premise T13: He has to spend his most of time in school to get a good grades
+--------Premise T14: A student has to do lots of studies in today's competitive world to prove himself
+
+----no arguments attacks Claim T12
+
+----type: Claim T15
+----text: jobs can divert students from their studies
+----supporting Claim T15:
+
+--------Premise T16: If students started earning in earlier age in their life, then they get attracted towards money
+--------Premise T17: They feel themselves independent and would prefer to work more for money
+--------Premise T18: This would affect their studies, they loose their interest from studies
+--------Premise T19: they drop out their studies so as to earn more money
+
+----no arguments attacks Claim T15
+
+----type: Claim T21
+----text: they should take advantage of life as much possible they can
+----supporting Claim T21:
+
+--------Premise T23: He would miss various childhood activities such as hang out with friends, clubs and fun activities and social interaction with others
+--------Premise T20: the main drawback of teenagers job is that, they miss out the fun of their childhood time
+--------Premise T22: They have whole life to do job and prove themselves, but the childhood phase will never return in their life
+
+----no arguments attacks Claim T21
+
+
+attacking MajorClaim T1:
+----Claim T3: many argue that it provide good working experience
+

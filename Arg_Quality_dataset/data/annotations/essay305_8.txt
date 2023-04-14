@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: few brilliant lecturers deliver more informative lectures
+supporting Claim T20:
+
+
+attacking Claim T20:
+----Premise T21: some are boring the students in the class and wasting the students' time
+

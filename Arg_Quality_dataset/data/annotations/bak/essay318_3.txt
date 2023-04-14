@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: charging them extra fee might seems to be out of the jurisdiction
+Supporting Claim T4
+
+    Premise: it is out of drivers' control
+    Premise: Wars are notorious, but you can't blame the soldiers who are justing fight for their countries
+    Premise: Capitalism enfranchised people's right to own properties, and consequently, their rights to use them
+    Premise: Driving cars during the rush hours might is bound to polluting cities's environment, but laws protect drivers to do so
+
+No arguments attacks Claim T4
+

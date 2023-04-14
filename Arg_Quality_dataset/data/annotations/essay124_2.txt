@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: there is no argument and punishment for them
+supporting Claim T6:
+
+----Premise T4: children are free whatever they want to do, they are not restricted and their limitation are really rare
+----supporting Premise T4:
+--------Premise T5: they are in the age of growth and they are allowed whatever they want to do to experience new stuffs
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T6
+

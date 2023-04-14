@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: Internet is a basic tool to keep in touch with old and make new friends
+Supporting Claim T10
+
+    Premise: According to statistics, 40% of people met even their life partners via Internet
+    Premise: by means of some communication tools, it has become very easy to make new friends
+
+No arguments attacks Claim T10
+

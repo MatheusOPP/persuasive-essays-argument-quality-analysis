@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: some people become geek, as too much of using email and messaging, without direct contacts
+supporting Claim T7:
+
+----Premise T9: using of these facilities has influenced netizens to keep themselves becoming unsociable
+----Premise T5: they do not do much social live interactions with others
+----supporting Premise T5:
+--------Premise T6: It caused they were swept away by virtual atmosphere
+
+----no arguments attacks Premise T5
+
+
+attacking Claim T7:
+----Premise T8: people have had own minded to keep connection with their friends as a good relationship, meet them and talk by face to face directly
+

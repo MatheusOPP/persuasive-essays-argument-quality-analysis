@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: the government should be accountable for citizens' health care and education to keep society safe and stable
+supporting Claim T4:
+
+----Premise T7: citizens enjoy the right to live in a harmonious and stable environment, which should be enabled by the government, the leader of the society
+----Premise T5: without sufficient guidance of teachers, these citizens might misbehave or even commit crimes, posing a threat to other citizens' security
+----Premise T2: such people might fail to get cured in time, thus influencing their working efficiency, which would destabilize the production of the industry
+----supporting Premise T2:
+--------Premise T3: If citizens had no access to health care and education, their physical health and psychological soundness would be at risk
+
+----no arguments attacks Premise T2
+
+----Premise T6: it is the government that should be obligated to fund the health care and education for citizens
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,48 @@
+Type: MajorClaim T2
+Text: staying longer with parents is a better choice
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: living with parents longer brings about memories with parents, less cost, and advice from parents
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T5
+    Text: undergoing with parents is worthwhile
+    Supporting Claim T5
+
+        Premise: All memories become priceless treasure as time passes by
+        Premise: If he lives with his parents for longer time, they have more chances to share the feelings, exercise, and travel together
+        Premise: When having a job, it is of low possibilities to work in his hometown
+        Premise: The young adult has to try to create memories with his dad and mom in the early age
+        Premise: the young adult can have more experience with his parents
+
+    No arguments attacks Claim T5
+
+    Type: Claim T20
+    Text: taking advice from parents, the young adult can go through obstacles easily
+    Supporting Claim T20
+
+        Premise: If the parents do not help him immediately, he would have to suffer more pain
+        Premise: They are the people who are most familiar with him can give a suitable advice and lead him to the right way
+        Premise: When in dilemma, the parents can comfort him and give him a big hand
+        Premise: the young adult needs father and mother's suggestions
+
+    No arguments attacks Claim T20
+
+    Type: Claim T13
+    Text: the parents can save money, if their children live with them longer
+    Supporting Claim T13
+
+        Premise: living at home costs less than living outside
+        Premise: he may have to rent a house and the rental would become a burden for parents
+        Premise: another daily expense is also the considerable outgoings
+        Premise: Spending much money may not result in what the parents expect their children to be
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T2
+

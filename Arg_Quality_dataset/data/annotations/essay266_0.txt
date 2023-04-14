@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the advertising is not the main cause of unhealthy eating habits
+supporting MajorClaim T1:
+
+----Claim T3: advertising might lead to healthier eating customs due to the growing awareness of living under a better lifestyle
+----type: Claim T11
+----text: advertising is not entirely decisive on personal eating habit
+----supporting Claim T11:
+
+--------Premise T5: The key to forming a healthy eating pattern lies in people's concept of wholesome diets and self-control
+--------Premise T9: As long as people are clear about how to maintain a healthy body and they persistently keep track of their eating habits, they can successfully prevent themselves from those temptations
+--------Premise T10: It will be not persuasive if people just blame the advertising sector of a fast-food company for making them so fat and not reassess their own behaviors
+
+----attacking Claim T11:
+--------Premise T6: advertising always makes the products so tempting, regardless of whether they might bring negative effects on the human body
+--------supporting Premise T6:
+------------Premise T7: advertising is not the only information source for people
+------------supporting Premise T7:
+----------------Premise T8: People can still acquire different viewpoints about foods from other sources, like news or magazines
+
+------------no arguments attacks Premise T7
+
+
+--------no arguments attacks Premise T6
+
+
+----type: Claim T12
+----text: advertising may even bring healthier eating habits to the people
+----supporting Claim T12:
+
+--------Premise T13: in the era when people are becoming conscious of a healthier lifestyle, some companies are actually aiming at this rising trend and start to promote healthy foods
+--------Premise T14: Think about the recently popular organic foods that are claimed to grow in an environment without pesticide and those crude foods in which less salt or less sugar are added
+--------Premise T15: These are the main traits that advertising is hitting on and the overall results are good
+--------Premise T16: the advertising industry bolsters people's awareness of having a healthy lifestyle
+
+----no arguments attacks Claim T12
+
+----Claim T4: There are the build-up of the concept about healthy eating habits and self-control that really matter
+
+no arguments attacks MajorClaim T1
+

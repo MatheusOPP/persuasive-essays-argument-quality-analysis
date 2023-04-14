@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: the production and labour cost of each kilogram of the agriculture products dramatically decreased
+supporting Claim T5:
+
+----Premise T3: applying the advanced fertilizers in combine with the automatic reaping resources increase farmers' economic profit
+----supporting Premise T3:
+--------Premise T4: artificial fertilizers catalyze the capacity of each inch of farmland in order to churn out the crops, and automatic machinery enhances the work efficiency of the harvest
+
+----no arguments attacks Premise T3
+
+
+no arguments attacks Claim T5
+

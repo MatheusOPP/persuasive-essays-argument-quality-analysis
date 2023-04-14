@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: the attention of young people may become focused on chasing the dream of celebrity status
+supporting Claim T4:
+
+----Premise T7: If they continue to behave in such a way, it will create a misleading image to young people who may think that extraordinary life can be achieved without hard work
+----Premise T6: some movie starts enjoy wearing luxury brand clothes and showing their expensive life style in front of the media, thereby gaining the public attention
+----Premise T5: some celebrities tend to show off their images in front of the public
+
+no arguments attacks Claim T4
+

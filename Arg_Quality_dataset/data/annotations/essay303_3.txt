@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: living your life at a slower pace increases your happiness
+supporting Claim T11:
+
+----Premise T9: If you are always facing excessive stress you cannot care for your beloved's
+----Premise T10: If you do not hurry yourself you can take more time for your family and friends
+----Premise T13: a friend of mine lives at a slow pace and is really satisfied about it
+----supporting Premise T13:
+--------Premise T14: he can enjoy his family and cultivate his friendships
+
+----no arguments attacks Premise T13
+
+----Premise T12: Caring for your social environment will increase your happiness and also reduce your stress level
+
+no arguments attacks Claim T11
+

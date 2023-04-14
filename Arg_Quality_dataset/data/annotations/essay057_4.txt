@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: Like the media, artists should also be given the freedom to express their ideas freely
+supporting Claim T12:
+
+----Premise T13: Frank Zappa once said, "Mind is like a parachute, it doesn't work if its not open“
+----Premise T14: Restrictions would just curb the innovative ideas of the artists and would limit their brains
+
+no arguments attacks Claim T12
+

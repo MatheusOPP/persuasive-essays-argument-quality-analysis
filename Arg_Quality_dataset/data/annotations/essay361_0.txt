@@ -1,0 +1,33 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: by allowing students to watch TV at both school and house can adversely impact on their overall growth
+supporting MajorClaim T1:
+
+----Claim T2: If children spend too much time in front of TV, it will negatively impact their health and study
+----type: Claim T10
+----text: watching TV for a continuously long hours can adversely impact children health
+----supporting Claim T10:
+
+--------Premise T7: they can get poor eyesight in early ages of childhood, and also develop back pain
+--------Premise T8: Sometimes, students watch restrictive programs not allowed for their ages and this can have major psychological consequences
+--------Premise T9: Many times, students get addictive to their favorite programs like Cartoon channels, or baseball and easily get distracted from study during exam period and this can seriously impact their grades
+
+----no arguments attacks Claim T10
+
+----Claim T12: demerits of watching TV outweigh its merits
+
+attacking MajorClaim T1:
+----type: Claim T5
+----text: By watching TV, children can develop skills in extra-curriculum activities
+----supporting Claim T5:
+
+--------Premise T3: There are international and local news channels like BBC, CNBC, Etv Gujarati, Etv Marathi etc to keep individuals updated about latest happenings
+--------Premise T6: TV is one of the prime source of data and information
+--------Premise T4: Cooking programs teach about how to make new dishes and similarly, sports events like cricket, football can teach leadership skills, team building skills, communication skills and many more that can help students in their future jobs
+
+----no arguments attacks Claim T5
+
+

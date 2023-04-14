@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: people are experiencing serious medical problems
+supporting Claim T9:
+
+----Premise T10: the environment of the modern world polluted very significantly from greenhouse gas emissions and other gasses
+----supporting Premise T10:
+--------Premise T11: Many people, for example, are suffering from allergy because of these gasses
+
+----no arguments attacks Premise T10
+
+----Premise T12: foods with a low quality such as fast foods, junk foods and any genetically modified ones are influencing to our health very negatively
+----Premise T13: life becoming more stressful due to some recent problems such as traffic gam, traffic accidents and others
+
+no arguments attacks Claim T9
+

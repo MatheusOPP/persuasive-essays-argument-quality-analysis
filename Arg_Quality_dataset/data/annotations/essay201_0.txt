@@ -1,0 +1,55 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: I still hold the environment protection for long-term interest
+supporting MajorClaim T2:
+
+----type: Claim T3
+----text: conservation is more urgent now than at any time in history
+----supporting Claim T3:
+
+--------Premise T12: the ecosystem is in its worst condition ever and if we didn't take harsh measures now, we never will
+--------Premise T11: If we continue discharging carbon dioxide with non-environmentally friendly cars, nations like Japan will be submerged and weather patterns could change, causing flooding, drought, and an increasing amount of damaging storms
+--------supporting Premise T11:
+------------Premise T10: rising sea levels, caused by global warming, have reached a level that is threatening human's life in many countries
+
+--------no arguments attacks Premise T11
+
+--------Premise T9: According to a statistic conducted by the International Animal Preserving Association, we have only ten percent of the animals that have ever existed, which means that the biodiversity of our home is grievously endangered
+
+----no arguments attacks Claim T3
+
+----type: Claim T4
+----text: supporting environment protection will benefit the company eventually
+----supporting Claim T4:
+
+--------Premise T7: sponsoring conservation is a more efficient method of advertising
+--------supporting Premise T7:
+------------Premise T6: an increasing amount of people pay more attention to conservation
+------------Premise T8: Just imagine if the project your company is sponsoring effectively improves the environment, then your company would be known as an environmentally-friendly company and benefit from it in this consumer-oriented society
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T5
+----text: conservation leads us to a higher standard of living
+----supporting Claim T5:
+
+--------Premise T15: Biodiversity and a more beautiful nature are not only the results of abetter environment but also are the necessities of photography and other types of art
+
+----attacking Claim T5:
+--------Premise T13: art is one of the best ways of entertaining human beings
+--------supporting Premise T13:
+
+--------attacking Premise T13:
+------------Premise T14: with exhaust fumes and acid rain, we do not have the energy and enthusiasm to appreciate the paintings or photographs
+
+
+
+attacking MajorClaim T2:
+----Claim T1: supporting art will benefit the human beings and the company in short-term interest
+

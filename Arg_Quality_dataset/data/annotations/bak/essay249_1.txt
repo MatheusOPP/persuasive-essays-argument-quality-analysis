@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: Watching TV for a long time without doing homework is one of major headaches that most of children have brought to their parents
+Supporting Claim T3
+
+    Premise: children generally have weak self-control, and thus they lose their time easily
+    Premise: I, therefore, did extremely bad at school due to the lack of studying
+
+No arguments attacks Claim T3
+

@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: there are some advantages of leaving school to find a job
+Supporting Claim T3
+
+
+Attacking Claim T3
+    Premise: studying at school is always the best choice for children's future
+    Premise: There are many ways that can train children to learn independent and social skills instead of getting a job
+

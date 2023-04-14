@@ -1,0 +1,12 @@
+Type: Claim T13
+Text: those who believe in hard work are clear about their goals and know about their final destination
+Supporting Claim T13
+
+    Premise: They carefully organize the process of achieving their targets and continue to evaluate their progress until they reach the final goal
+    Premise: If you believe in luck, you would be clueless about where you are heading
+    Premise: a friend of mine, who had severe financial constraints, had the habit of buying lottery tickets thinking that one day he would win a lottery
+    Premise: He was living in an illusion that he can solve his financial issues with this lottery
+    Premise: up to this day his luck has not appeared and problems have got further worsened
+
+No arguments attacks Claim T13
+

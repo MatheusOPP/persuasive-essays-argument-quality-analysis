@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: there are some cultures such as making foods which are unicq in each culture, and technology cannot affect them
+supporting Claim T11:
+
+
+attacking Claim T11:
+----Premise T12: many countries such as Canada, the USA, and British have many restaurants which serve many foods form different countries and cultures
+----Premise T13: cooks can find many new food recipes easily on the Internet
+----Premise T14: two days ago, I went to a Canadian restaurant, and I ate noodle, sushi, which are Chinese foods, and Greek salad
+

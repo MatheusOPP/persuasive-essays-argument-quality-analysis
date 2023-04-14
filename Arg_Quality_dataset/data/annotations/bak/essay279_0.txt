@@ -1,0 +1,14 @@
+Type: MajorClaim T2
+Text: the internet provides a lot of valuable information
+Supporting MajorClaim T2
+
+    Type: Claim T1
+    Text: the internet gives daily necessary information, people can gain knowledge and they can explore the world
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+
+No arguments attacks MajorClaim T2
+

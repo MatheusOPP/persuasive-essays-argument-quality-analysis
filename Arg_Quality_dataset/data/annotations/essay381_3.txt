@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: Those are possibly the strongest evidences to determine a society suffering a high level of violence
+supporting Claim T9:
+
+----Premise T10: people and police in those ones usually deal with dangerous diverse crime's categories such as theft, robbery, murder, rape, vandalism, arson
+----supporting Premise T10:
+--------Premise T11: police force carries guns only in high crime societies
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T9
+

@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: children from poorer families are prone to have bad habits such as: crime, thievery and thuggery
+Supporting Claim T7
+
+    Premise: most of the terroristic groups try to attract uneducated people
+    Premise: they can be proselytized into bad isms
+    Premise: people with lower level of education have more proneness to be attracted in such isms
+
+No arguments attacks Claim T7
+

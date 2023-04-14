@@ -1,0 +1,50 @@
+Type: MajorClaim T2
+Text: one should not give up
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: Anyone who wants to achieve the goal should acknowledge that his effort and experience from suffering helps him understand his true potential and increase his strength, and ultimately, it will prompt him to be ready for overcoming the greater challenge in his life
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: committing to our goal helps creating personal worth
+    Supporting Claim T6
+
+        Premise: I realized the true potential of my body and mind as I decided to train myself hard
+        Premise: Even if I were not to win this medal, I acknowledged the great amount of my endeavor as I could keep my tired legs running
+
+    No arguments attacks Claim T6
+
+    Type: Claim T11
+    Text: one who learns the great difficulty will become stronger
+    Supporting Claim T11
+
+        Premise: I remembered how I was suffered in the first round when I was last person who touched the line
+        Premise: I did not give up, and believed that I would be better in the next round
+        Premise: I had been a loser for a thousand time before the first winning, and suffering from losing in each competition makes me stronger
+
+    No arguments attacks Claim T11
+
+    Type: Claim T17
+    Text: the true reward is to have the dignity
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+    Type: Claim T12
+    Text: the responsibility is worthy of carrying
+    Supporting Claim T12
+
+        Premise: When the distance is longer and harder to achieve, a runner who can go beyond his limit will proud of himself
+        Premise: He can feel the sweetness of triumph
+
+    Attacking Claim T12
+        Premise: we, as an average people, might feel that the responsibility to our goal is too heavy to carry on
+
+
+No arguments attacks MajorClaim T2
+

@@ -1,0 +1,44 @@
+Type: MajorClaim T2
+Text: providing those who are jobless with mobile phones that are accessible to internet is not a proper and the best way to trim down the rate of unemployment
+Supporting MajorClaim T2
+
+    Type: Claim T9
+    Text: the money can be used for other intentions rather than giving hand phones to the unemployed
+    Supporting Claim T9
+
+        Premise: the money can be used to build more amenities for the public or given to the poor so that they can use it to help them earn a living
+        Premise: the money instead of being used to supply the electronic gadget can be used for other useful purposes for the country
+        Premise: supplying hand phones to the unemployed is a waste of the taxpayers' money
+
+    No arguments attacks Claim T9
+
+    Type: Claim T12
+    Text: when hand phones are provided for free, many would want to take advantage of this opportunity
+    Supporting Claim T12
+
+        Premise: the public's money is spent worthlessly
+        Premise: It will not be surprising that in order to obtain a mobile phone, they make themselves jobless
+
+    No arguments attacks Claim T12
+
+    Type: Claim T16
+    Text: till now, there are no surveys or evidences that prove this method in effective in reducing the rate of unemployment
+    Supporting Claim T16
+
+
+    No arguments attacks Claim T16
+
+
+Attacking MajorClaim T2
+    Type: Claim T4
+    Text: if the government provides those without work with a mobile phone, they will be able to find themselves an occupation in order to live and survive
+    Supporting Claim T4
+
+        Premise: they can surf the The Star Onlines' work section to find a job that is suitable for them
+        Premise: With the help of the net, they can also do more research on the work that they have found apart from looking up on how they can prepare themselves for the job
+        Premise: the mobile phones can also be used to make calls with the companies in which they would like to work with
+        Premise: when people without jobs have hand phones that have access to the Internet, they will be able to browse the net for more job opportunities
+
+    No arguments attacks Claim T4
+
+

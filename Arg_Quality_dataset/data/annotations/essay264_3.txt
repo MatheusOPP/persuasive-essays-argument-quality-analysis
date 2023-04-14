@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: These experiences can only be obtained by trying new things and can’t be always found in books
+supporting Claim T7:
+
+----Premise T8: There are always interesting and useful experiences that successful people can learn them only by trying new things
+----Premise T4: if you want to know how to act effectively when communicating with people, you can try something new like salesmanship in various stores and places
+----Premise T6: you will learn how to behave people in different situations and jobs in the future
+----supporting Premise T6:
+--------Premise T5: By selling goods or other commodities you will face different people with different behaviors and personalities
+
+----no arguments attacks Premise T6
+
+
+no arguments attacks Claim T7
+

@@ -1,0 +1,42 @@
+Type: MajorClaim T2
+Text: the guns should be strictly limited and the government should enforce a series of laws to prevent our societies from violence
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: considering the rise in accident rates, violent crime rates and suicide rates
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: most violent crimes are related to the abuse of guns, especially in some countries where guns are available for people
+    Supporting Claim T4
+
+        Premise: some terrorists are able to possess more advanced weapons than the police, which makes citizens always live in danger
+        Premise: in American, young adults and even juveniles can get access to guns, which leads to the tragedies of school gun shooting
+        Premise: guns will create a violent society if the trend continues
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: the fewer guns possessed, the fewer accidents would happened, our surroundings would be safer with lower accident rates
+    Supporting Claim T8
+
+        Premise: we hear some news from time to time that someone was hurt by accident during the hunting
+
+    Attacking Claim T8
+        Premise: The accidents cannot be completely avoided although only those who have gun licenses can purchase guns
+
+    Type: Claim T11
+    Text: the possession of guns can also raise the rates of suicide
+    Supporting Claim T11
+
+        Premise: In the US, firearms remain the most common method of suicide, accounting for about 50 per cent
+        Premise: there is an increasing trend of adolescent suicides and suicides among those age 75 and over
+
+    No arguments attacks Claim T11
+
+
+No arguments attacks MajorClaim T2
+

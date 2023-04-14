@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: juveniles who possess mobile phones have great tendencies to become materialistic
+supporting Claim T9:
+
+----Premise T11: they would need their parents to support them financially for what they want
+----supporting Premise T11:
+--------Premise T12: most of these juveniles are students
+
+----no arguments attacks Premise T11
+
+----Premise T10: They would not only purchase a phone because of its functionality but also for its brand
+----Premise T13: An illustration of this unfortunate trend can be seen almost everywhere these days, wherein most teens at an early age own phones which are worth twice the salary of their parents
+----Premise T14: these do not come at a significant and inexpensive cost
+
+no arguments attacks Claim T9
+

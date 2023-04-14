@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: in some of them the animals are not very well taken care of and they do not have good and clean facilities
+Supporting Claim T3
+
+
+Attacking Claim T3
+    Premise: This is mostly true but does not relate to the purpose of zoos
+

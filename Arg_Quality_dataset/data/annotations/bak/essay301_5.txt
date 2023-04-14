@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: the responsibility is worthy of carrying
+Supporting Claim T12
+
+    Premise: When the distance is longer and harder to achieve, a runner who can go beyond his limit will proud of himself
+    Premise: He can feel the sweetness of triumph
+
+Attacking Claim T12
+    Premise: we, as an average people, might feel that the responsibility to our goal is too heavy to carry on
+

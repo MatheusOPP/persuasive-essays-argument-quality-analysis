@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: flourishing tourism in a place can be very rewarding in terms of local economy
+supporting Claim T11:
+
+----Premise T8: Holiday makers flocking to other countries are not only bound to spend on tickets of attractions, but also pay for food, accommodation, transportation and entertainment
+----Premise T9: Both local people and governments can make a large amount of money through these services, and more employment opportunities can be created as well
+----Premise T10: the revenue earned form tourism can be used in turn to reduce pollution and protect the environment
+
+no arguments attacks Claim T11
+

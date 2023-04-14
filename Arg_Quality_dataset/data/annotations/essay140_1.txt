@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: judging student's skills and abilities should only be based on their academic qualifications and talents rather than gender in particular
+supporting Claim T2:
+
+----Premise T3: both male and female students are equally competitive to each other and deserve to produce impressive results in various field of education
+----Premise T4: In India, for example, female students are more often likely to grab more number of top scorer positions in every year higher secondary school examinations
+
+no arguments attacks Claim T2
+

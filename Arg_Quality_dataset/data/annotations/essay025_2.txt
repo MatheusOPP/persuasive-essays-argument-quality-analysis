@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: The main disadvantage is contamination
+supporting Claim T8:
+
+----Premise T6: It is true that some area are suffering the dire consequences caused by overdeveloping the industry, such as water pollution, overcrowded traffic and medical problems
+----supporting Premise T6:
+--------Premise T7: in some industrial cities, a large proportion of the workers are suffering various breathing problems, such as asthma which can be caused by waste ashes and certain chemical substances
+
+----no arguments attacks Premise T6
+
+
+no arguments attacks Claim T8
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: the issue of affordability has become crucial to the students
+supporting Claim T6:
+
+----Premise T8: In today’s world education is getting expensive, and people are tending to apply for self-finance education in order to get the admission
+----Premise T7: University is more likely to become a money making business
+----Premise T9: the scholars are facing a lot of difficulties apart from their high requirements of previous education, they has a lot to face the other difficulties and burden while getting admission such as accommodation, food, traveling, clothing, etc
+
+no arguments attacks Claim T6
+

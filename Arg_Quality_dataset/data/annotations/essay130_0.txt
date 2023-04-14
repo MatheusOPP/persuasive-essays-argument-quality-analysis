@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: through proper management and regulation, a booming tourist industry is an excellent source of economic growth and wealth for rural and urban areas
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: The most obvious merit is that tourism can vastly boost economic development in a particular state or region
+----supporting Claim T4:
+
+--------Premise T5: This takes place, not only through direct expenditure from tourists, but also because it provides direct and indirect jobs to the community, including retail, agriculture, and in the service industry
+--------Premise T6: The increasing tax and the expansion of local markets for accommodation, luxury goods amongst others are also a result of a solid, well-regulated tourism programs
+--------Premise T7: tourism provides a considerable number of direct and indirect jobs to the community, including retail, hotels, transport, agriculture, and in the service industry
+--------Premise T8: This increase of job opportunities allows more people to make significant contribution to society through the purchasing of commodities by their growing incomes
+--------Premise T9: this gives energy to the economic cycle, generating local economic prosperity in return
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T1:
+----type: Claim T10
+----text: Some people may oppose these, citing the environmental and cultural destruction caused by tourism
+----supporting Claim T10:
+
+
+----attacking Claim T10:
+--------Premise T11: compared to the tourism industry, other alternatives, like resource extraction and manufacture, are far worse destroyers
+--------supporting Premise T11:
+------------Premise T12: paper mills pour hundreds and thousands of tons of contamination into rivers, causing severe water pollution
+
+--------no arguments attacks Premise T11
+
+--------Premise T13: the dramatic majority of tourist, particularly those who tend to spending a wealth of time and money locating and visiting rustic villages, are well educated
+--------Premise T14: It is illogical to believe that these rational folks will not conduct themselves decently if required to do so
+
+

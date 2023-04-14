@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: a person should look back at the past, mainly by means of custom handcraft or antique lifestyle, to progress
+supporting Claim T9:
+
+----Premise T7: Understanding why, and how our predecessors survived through thick and thin will probably be invaluable lessons for us today
+----Premise T8: study form their mistakes helps us accomplish our goal with smooth sailing
+
+no arguments attacks Claim T9
+

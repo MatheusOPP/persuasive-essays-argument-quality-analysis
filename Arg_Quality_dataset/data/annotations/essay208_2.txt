@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: it can provide students a sense of direction in academy
+supporting Claim T4:
+
+----Premise T5: Basic economic class can help the students touch the surface of this field, let them to know what this subject mainly discuss
+----Premise T6: That will help the students cultivate their own interest and a sense of career orientation
+----Premise T7: students may study harder for their economic dreams
+
+no arguments attacks Claim T4
+

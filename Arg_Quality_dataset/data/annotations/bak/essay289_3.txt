@@ -1,0 +1,47 @@
+Type: MajorClaim T4
+Text: there are benefits to ask students to evaluate their teachers
+Supporting MajorClaim T4
+
+    Type: Claim T5
+    Text: schools are also improve their quality
+    Supporting Claim T5
+
+        Premise: they have high performance teachers
+        Premise: students are easy to understand their subjects
+
+    No arguments attacks Claim T5
+
+    Type: Claim T8
+    Text: evaluating from students could improve teachers' performance
+    Supporting Claim T8
+
+        Premise: teachers could improve themselves by speaking slower to make sure that students could get all information that they want to give
+        Premise: evaluation made by students is similar to feedback from customer that business owners need to know in order to improve their product
+        Premise: Evaluating teachers made by students could improve teachers' performance
+
+    No arguments attacks Claim T8
+
+    Type: Claim T20
+    Text: this evaluation from students could improve schools' quality
+    Supporting Claim T20
+
+        Premise: Teachers could augment their quality
+        Premise: When school gather teachers that have great performance, school are gaining higher quality
+        Premise: in many cooperation such as Microsoft that could produce many great products
+        Premise: Schools could produce intellectual students
+
+    No arguments attacks Claim T20
+
+    Type: Claim T24
+    Text: people who get the most advantage from evaluation is students
+    Supporting Claim T24
+
+        Premise: Students could study in class that have teachers who have experienced and greater performance
+        Premise: students could comprehend their subject easily
+        Premise: students, who study from great schools which have great performance teacher, graduate with great knowledge to survive in next steps of life
+
+    No arguments attacks Claim T24
+
+
+No arguments attacks MajorClaim T4
+

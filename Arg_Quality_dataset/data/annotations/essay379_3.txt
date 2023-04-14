@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: if we are passionate about what we are working, we are likely to achieve success easily in that field
+supporting Claim T11:
+
+----Premise T8: There are plenty of people, who are now really successful, have started working in challenging as well as competitive fields as singers, dancers and painters
+----Premise T9: important factors in choosing a job such as level of happiness, satisfaction of jobs, personal relationships, professional skills, working environment, managers and colleagues should not be underestimated
+----Premise T10: some people choose a career due to their desire to help others and contribute positively to their countries and societies
+
+no arguments attacks Claim T11
+

@@ -1,0 +1,25 @@
+Type: MajorClaim T2
+Text: I'm totally convinced that the prevalent usage of English brings benefits to people and countries all around
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: No one can deny the huge benefits of the trend that English is being accepted universally
+    Supporting Claim T3
+
+        Premise: communication between countries and cultures become convenient
+        Premise: researchers, especially those who work on high-tech, would have wider range of references if they are good at English
+
+    No arguments attacks Claim T3
+
+
+Attacking MajorClaim T2
+    Type: Claim T13
+    Text: the culture heritage and nation identity vanish
+    Supporting Claim T13
+
+        Premise: English is making lesser-known languages disappear ever year
+
+    Attacking Claim T13
+        Premise: this is really short-sighted, ignoring the rapid development of native economy and society
+
+

@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: smoking in a restaurant is a harmful and disrespectable behavior
+Supporting Claim T3
+
+    Premise: It spoils the smoker's reputation and threats other people's health
+
+No arguments attacks Claim T3
+

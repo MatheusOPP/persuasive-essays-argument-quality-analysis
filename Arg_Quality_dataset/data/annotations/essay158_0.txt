@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: all of the old building which contribute to our sense of culture should be conserved
+supporting MajorClaim T1:
+
+----Claim T3: old buildings process the most outstanding feature of areas which contain them
+----type: Claim T9
+----text: managers of cities can earn more money from the attraction provided by old buildings and that amount can be spent on their conservation
+----supporting Claim T9:
+
+--------Premise T7: Old buildings are an essential part of history
+--------Premise T8: Tourist often decide to discover the culture of a country when they visit through those old buildings
+
+----no arguments attacks Claim T9
+
+----type: Claim T11
+----text: Old buildings should be used as the culture museums and provide accommodation with more convenient for people who live there
+----supporting Claim T11:
+
+--------Premise T10: the preservation of old buildings is also a ways to conserve our culture and everyone can learn much from them
+
+----no arguments attacks Claim T11
+
+----Claim T12: Many cities have development strategies as a city contains both unique and modern beauty, and that preservation help to finish half of work
+
+attacking MajorClaim T1:
+----type: Claim T4
+----text: governments can construct more accommodation instead of preserving old buildings
+----supporting Claim T4:
+
+--------Premise T6: As a result of the rapid urbanization process, in which rural people must go to urban centers to look for job opportunities, the question of the preservation of old buildings has become more pressing
+--------Premise T5: the preservation is very expensive because all components of old buildings have historical values
+
+----no arguments attacks Claim T4
+
+

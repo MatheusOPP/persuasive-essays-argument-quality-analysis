@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: it plays and important role economically
+supporting Claim T10:
+
+----Premise T14: Advertising also helps to keep prices at reasonable levels, creates a fair environment for commercial competition
+----supporting Premise T14:
+--------Premise T15: Otherwise the market may be monopolistic, and the price as well as the choice will not be so selective
+
+----no arguments attacks Premise T14
+
+----Premise T12: They introduce new products, and provide various choices, not to mention they are often visually enjoyable
+----supporting Premise T12:
+--------Premise T11: they aim to grab your attention
+
+----no arguments attacks Premise T12
+
+
+attacking Claim T10:
+----Premise T13: advertisements can be falseful and exaggerated
+

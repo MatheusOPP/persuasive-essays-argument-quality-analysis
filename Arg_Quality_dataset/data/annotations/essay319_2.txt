@@ -1,0 +1,26 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: they can teach students many things about adult life
+supporting Claim T5:
+
+----Premise T7: when students do part-time jobs, they can work with many kinds of people, and most of whom are adults
+----Premise T6: there are a few opportunities for students to know how to live adult life in the university
+----supporting Premise T6:
+--------Premise T4: most people they contact with are also students
+
+----no arguments attacks Premise T6
+
+----Premise T11: thanks to the information her new friends has provided; now she is more confidence about her future adult life
+----supporting Premise T11:
+--------Premise T10: Lisa thought in adult life, work is the core; but after she knows these friends, she changes her mind that the true core for the adult life is responsibility but not work
+
+----no arguments attacks Premise T11
+
+----Premise T9: Through part-time job, she makes friends with different kinds of people and they let her know the different aspects of adult life
+----Premise T8: My friend Lisa, who is doing part-time job now, tells me that it is fabulous to take it
+
+no arguments attacks Claim T5
+

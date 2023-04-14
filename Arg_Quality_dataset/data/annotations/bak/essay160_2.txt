@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: it is necessary to have a look behind crime
+Supporting Claim T6
+
+    Premise: laws and rules are there for people
+    Premise: a women steals feed for her child should be treated same as a women, who steals for her drug addiction
+    Premise: The person who committed crime first time and the professional criminals should not be imprisoned at same place
+
+No arguments attacks Claim T6
+

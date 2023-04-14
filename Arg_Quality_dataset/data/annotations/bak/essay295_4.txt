@@ -1,0 +1,11 @@
+Type: Claim T15
+Text: the learning with a teacher is more efficient than by myself
+Supporting Claim T15
+
+    Premise: We can accomplish our assignments with little help of a teacher within less time than do it by ourself
+    Premise: the teachers play important role in leading us to right direction
+    Premise: This gives us opportunity to rise our educational level to an exited degree
+    Premise: knowledge may be thereby better improved and strengthened
+
+No arguments attacks Claim T15
+

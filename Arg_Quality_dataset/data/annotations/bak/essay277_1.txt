@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: they would prepare to encounter their life out of school to solve their problems better
+Supporting Claim T4
+
+    Premise: more information about facts would make students more familiar with the real life other that only their concepts
+    Premise: when students learn facts more in school, they would be ready for facing problems in their own life after their graduations
+
+No arguments attacks Claim T4
+

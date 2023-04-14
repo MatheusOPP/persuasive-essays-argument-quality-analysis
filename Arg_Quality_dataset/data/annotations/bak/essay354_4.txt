@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: people are experiencing serious medical problems
+Supporting Claim T9
+
+    Premise: the environment of the modern world polluted very significantly from greenhouse gas emissions and other gasses
+    Premise: foods with a low quality such as fast foods, junk foods and any genetically modified ones are influencing to our health very negatively
+    Premise: life becoming more stressful due to some recent problems such as traffic gam, traffic accidents and others
+
+No arguments attacks Claim T9
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: future prospects of computers are very bright
+supporting Claim T5:
+
+----Premise T13: From a computer as big as a room, it has now been minimized to the size of a palm
+----Premise T14: Nanotechnology is working to make computers to the order of microscopic levels
+----Premise T15: Research on making computerized drone soldiers (unmanned computer controlled) is going on
+----Premise T16: There is no end to the evolution of computers
+
+no arguments attacks Claim T5
+

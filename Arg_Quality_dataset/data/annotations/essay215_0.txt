@@ -1,0 +1,58 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: Having one's own hobbies and doing physical activities can bring us a lot of benefits
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: having hobbies and doing physical activities is the best way to keep fit
+----supporting Claim T5:
+
+--------Premise T6: doing some sport and hobbies can prevent us from becoming too fat or short-sighted
+--------supporting Premise T6:
+------------Premise T7: Looking at the computer screen all day long can make us daze
+
+--------no arguments attacks Premise T6
+
+--------Premise T8: My neighbor Tom once was a computer engineer in a big company
+--------Premise T10: When he found out that he was too fat to find a girlfriend, he made up his mind to loose weight
+--------Premise T9: He ate fast food everyday and never went out to exercise
+--------Premise T12: After a moth, he is thinner and finds a girlfriend
+--------Premise T11: He started to jog every morning
+
+----no arguments attacks Claim T5
+
+----type: Claim T13
+----text: having hobbies and doing sports can refresh our mind
+----supporting Claim T13:
+
+--------Premise T15: at school, students have breaks every class so that they can relax for a few minutes and prepare for the next class
+--------Premise T16: Humans are not robots; we can't keep working for twenty-four hours
+--------Premise T17: Doing sports or hobbies for a short time can recharge our batteries
+
+----attacking Claim T13:
+--------Premise T14: doing something for a long time can be boring
+
+----type: Claim T18
+----text: we should develop at least one personal hobby, not to show off, but express our emotion when we feel depressed or pressured
+----supporting Claim T18:
+
+--------Premise T19: Playing musical instrument is a good way, I can play classical guitar
+--------Premise T20: When I meet difficulties in studies, I will take my guitar and play the song Green Sleeves
+--------Premise T21: It makes me feel better and gives me the confidence
+
+----no arguments attacks Claim T18
+
+
+attacking MajorClaim T1:
+----type: Claim T2
+----text: it may take us a lot of times to develop our personal hobbies
+----supporting Claim T2:
+
+--------Premise T4: doing so can bring us a healthy body, a refreshed mind and a way to release pressure and sadness
+
+----no arguments attacks Claim T2
+
+

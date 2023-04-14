@@ -1,0 +1,9 @@
+Type: Claim T14
+Text: the campaigns might include practical benefits
+Supporting Claim T14
+
+    Premise: In globalized world, the economies of several countries are in a big network and must influence on each others
+    Premise: When America mortgage loan system went bad, several economies of European and Asian countries fluctuated, even any countries had to be gotten international supports to block its bankrupt
+
+No arguments attacks Claim T14
+

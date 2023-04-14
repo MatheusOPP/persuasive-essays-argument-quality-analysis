@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: our standard of living also depend on another factor - spiritual life which is related closely with arts
+Supporting Claim T9
+
+    Premise: Arts include many forms and music as well as cinema are the most typical
+    Premise: These two art forms not only provide the public with entertainment but also contribute significantly to the economy
+    Premise: The income of film and music industries produce millions of dollars each year for the Goverment, for instance K-pop and Hollywood, and these industries can not survive without goverment's financial assistance
+
+No arguments attacks Claim T9
+

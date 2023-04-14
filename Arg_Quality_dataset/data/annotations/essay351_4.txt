@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: career promotion or getting some kind of credit from the administration of a company or organization are, likely, more enjoyable achievements than getting a high salary
+supporting Claim T8:
+
+----Premise T9: most of the satisfaction of a job comes to people from their professional achievements, skills and the position they reach
+----Premise T10: people, who work in monotonous jobs, where no achievements or a new positions can be reached feel themselves more dissatisfied, even though they have a very good salaries
+
+no arguments attacks Claim T8
+

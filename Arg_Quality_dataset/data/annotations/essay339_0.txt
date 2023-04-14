@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: people should create a sense of co-operation in their children to make them feel more accomplished in life
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: they shall have an art of managing different situations of life with the help of a team
+----supporting Claim T6:
+
+--------Premise T7: those who wants to create a sense of co-operation in their children is a symbol that they want to make them sensible enough in their lives ahead
+
+----attacking Claim T6:
+--------Premise T5: they will not be having a pace and an eager to get on the top as the competitors do
+
+----Claim T9: co-operative child will have a potential of structuring and implementing new and innovative ideas with the help of a team
+
+attacking MajorClaim T1:
+----type: Claim T3
+----text: Competitive children are more likely to be confident enough to handle the situations independently
+----supporting Claim T3:
+
+--------Premise T4: This factor will lead them to be successful in their lives ahead
+
+----attacking Claim T3:
+--------Premise T2: MNCs are mainly focusing on a team work, and a person with the competitive mind would be having a difficulty in managing the situation with the team
+
+

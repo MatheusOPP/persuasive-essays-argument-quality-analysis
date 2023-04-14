@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: they have a lot of time in their hand to enjoy this stage of their life
+supporting Claim T8:
+
+----Premise T7: they do not have to educate and they do not have to work
+----Premise T9: I made a large number of friends in this age, and I almost traveled to all cities of my county when I was in kindergarten
+----Premise T10: I got familiar with different kind of animals and plants in this age
+
+no arguments attacks Claim T8
+

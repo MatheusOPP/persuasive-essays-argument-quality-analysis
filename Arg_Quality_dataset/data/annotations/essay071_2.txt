@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: publicizing brand image or a particular product of mass media could boost sales for companies
+supporting Claim T4:
+
+----Premise T7: it could simulate household spending and therefore promote the economic development of the whole country
+----Premise T8: A recent study shows that after launching an advertising campaign, the sales revenue would increase by 40%, which is the very fact to verify its positive influences on economic
+
+no arguments attacks Claim T4
+

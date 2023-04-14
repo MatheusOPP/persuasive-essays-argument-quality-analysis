@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: school memories are one of the best memories in a person's life
+supporting Claim T11:
+
+----Premise T10: childhood is the period where people go to school and learn
+----Premise T12: There you learn, to find your first love, to make new long-lasting friendships and of-course you will have a lot of fun
+----supporting Premise T12:
+--------Premise T13: my father's best moments in his life are in his school years
+--------Premise T14: he is still in-touch with some of his classmates and sometimes they get together and share their childhood memories
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T11
+

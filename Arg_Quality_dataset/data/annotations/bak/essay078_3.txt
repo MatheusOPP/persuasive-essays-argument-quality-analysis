@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: the booming economy can be closely linked to the preservation of the environment
+Supporting Claim T9
+
+    Premise: With people raising their awareness of the green economy, the products free of pollutants are increasingly prevalent among clients, which means eco-friendly businesses can make a favorable impression on customers today, triggering sales
+    Premise: electronic bicycles powered by clean energy resources have been well received among people in recent years
+
+No arguments attacks Claim T9
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: in order for the jury to come up with an objective decision not depending on the past experience, the court should provide with details relevant to a particular case only
+supporting Claim T4:
+
+----Premise T5: a defendant with number of past crimes has more chance to be found guilty compared to a person with no or lighter criminal record
+----Premise T6: Innocent suspects, eventually, can face unfair juridical decision and pay twice for their previous inadequate actions
+
+no arguments attacks Claim T4
+

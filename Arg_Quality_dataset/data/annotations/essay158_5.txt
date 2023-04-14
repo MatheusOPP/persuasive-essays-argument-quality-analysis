@@ -1,0 +1,11 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: Many cities have development strategies as a city contains both unique and modern beauty, and that preservation help to finish half of work
+supporting Claim T12:
+
+
+no arguments attacks Claim T12
+

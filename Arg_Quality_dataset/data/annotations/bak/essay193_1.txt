@@ -1,0 +1,10 @@
+Type: Claim T2
+Text: The use of public transportation is the best way to conserve natural resources gradually run out
+Supporting Claim T2
+
+    Premise: Cars depend on oil and gasoline to move
+    Premise: If people use too many private cars, the oil and gasoline nonrenewable will run out quickly
+    Premise: Instead of using many private cars, people can use public transportation, such as bus, train, subway, each one can get far more people and less oil and gasoline are used up per person
+
+No arguments attacks Claim T2
+

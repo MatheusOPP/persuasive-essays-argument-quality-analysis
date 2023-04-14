@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: less misunderstanding leads to less conflicts and fights, and enhance the communication amongst the team members
+Supporting Claim T12
+
+    Premise: if the same words are expressed in talking, the counterparty will feel more relaxed
+    Premise: people who receives the email may feel nervous or maybe feel offended by the words in writing
+    Premise: work in person can indirectly improve the quality and the efficiency of the project
+
+No arguments attacks Claim T12
+

@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: the basic economic course can also help with the students when they go to college
+Supporting Claim T12
+
+    Premise: They may feel more readily to learn the knowledge in this field and save much time, with that they are able to study more efficiently and more deeply than other students
+    Premise: That as well would provide the students with more confidence and let them become more compatible
+
+No arguments attacks Claim T12
+

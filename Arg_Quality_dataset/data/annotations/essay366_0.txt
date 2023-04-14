@@ -1,0 +1,32 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: following celebrities can be dangerous for the youth
+supporting MajorClaim T1:
+
+----Claim T3: This has an overall effect on personality and future of an individual
+----type: Claim T7
+----text: following celebrities blindly affects the health of adolescents
+----supporting Claim T7:
+
+--------Premise T4: Many young people indulge themselves in drugs and start smoking at an early age
+--------Premise T5: in a survey carried out in a university, it was asked to students that why did they start smoking, then around forty percent of individuals answered that they wanted to look like their favorite screen actor while smoking cigarettes
+--------Premise T6: imitating celebrities has a negative influence on health of young individuals
+
+----no arguments attacks Claim T7
+
+----type: Claim T11
+----text: these glamorous celebrities have a poor effect on the conduct of young people
+----supporting Claim T11:
+
+--------Premise T8: Adolescents follow not only the make up and attire of their favorite stars but also their behavior
+--------Premise T9: recently in a poll conducted by an American magazine it was found that most of the parents and teachers complain that teenagers use derogatory words and abusive language at home and at schools
+--------Premise T10: when youth follows celebrities it affects personality of young people in a bad way
+
+----no arguments attacks Claim T11
+
+
+no arguments attacks MajorClaim T1
+

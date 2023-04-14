@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: communication is very important
+supporting Claim T12:
+
+----Premise T13: People have different habit in daily life, such as tidy the blanket in the morning
+----Premise T14: One might think this is a piece of cake while other would consider it as immense project
+----Premise T15: If one requested to move out just because his roommate do not tidy up the blanket in the morning might be crying over split milk
+----Premise T11: Through communication, bonded are build and we could have better understanding of each others
+----Premise T16: it would clear up the misinterpretation
+----Premise T10: communication is as well making a good roommate
+
+no arguments attacks Claim T12
+

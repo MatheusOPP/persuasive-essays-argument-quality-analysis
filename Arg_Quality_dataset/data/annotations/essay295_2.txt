@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: learning with a teacher is that you can ask about problems related your studies
+supporting Claim T10:
+
+----Premise T6: when we encounter difficulty in our study which we can not make out, that asking the difficulty from our teacher is propitious way for us to solve it instantly
+----Premise T7: professors and teachers have much experience and knowledge, and are so dextrous with letting students understand their study
+----Premise T8: They know something which are not incorporated in such materials as books and webpages
+----Premise T9: I, in my class, often communicate with my teacher to find a coordinated answer to a my faced problem, and my classmates are so accustomed to communicating with the teacher
+
+no arguments attacks Claim T10
+

@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: the ability to work alone will help you increase your ability to work with other people
+Supporting Claim T9
+
+    Premise: Working in team does not mean that you do not have to come up with your ideas
+    Premise: Everybody in a team must have his/her own opinion first, then discuss them with other members
+    Premise: When we work in team, we still think individually
+    Premise: When everyone in a team can come up with his/her own ideas, working in team will definitely more effective
+
+No arguments attacks Claim T9
+

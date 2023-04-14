@@ -1,0 +1,9 @@
+Type: Claim T1
+Text: the people from older generation may claim they had better life
+Supporting Claim T1
+
+    Premise: there were stronger bonds between family members and friends
+
+Attacking Claim T1
+    Premise: they judge the contemporary age through a personal prejudice
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: we should develop at least one personal hobby, not to show off, but express our emotion when we feel depressed or pressured
+supporting Claim T18:
+
+----Premise T19: Playing musical instrument is a good way, I can play classical guitar
+----Premise T20: When I meet difficulties in studies, I will take my guitar and play the song Green Sleeves
+----Premise T21: It makes me feel better and gives me the confidence
+
+no arguments attacks Claim T18
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: traditional education has its advantages in face-to-face communication, mental inspiration and physical educations
+supporting Claim T11:
+
+----Premise T12: These make remarkable contributions in providing immediate feedbacks and cultivating pupils' personalities
+
+attacking Claim T11:
+----Premise T13: with the improvements in streaming and sensor technologies, remote education can eliminate the obstacles of distance and body contacts
+

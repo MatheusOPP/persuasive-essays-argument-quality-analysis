@@ -1,0 +1,53 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: parents and educators should attach more importance to traditional games
+supporting MajorClaim T1:
+
+----Claim T3: Only through traditional games can children be ensured a positive and healthy skills learning process
+----type: Claim T7
+----text: traditional games are still indispensible in children's learning process, even much more essential than modern games, especially in modern society
+----supporting Claim T7:
+
+--------Premise T8: One primary merit of traditional games is that they foster children's communication skills
+--------supporting Premise T8:
+------------Premise T10: communicating with a variety of people will not be an issue for these children any more
+------------supporting Premise T10:
+----------------Premise T9: Unlike most modern games which focus on the interactions between children and machines, traditional games provide a relaxing and enjoyable atmosphere where children can chat, laugh and cooperate face to face
+
+------------no arguments attacks Premise T10
+
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T7
+
+----type: Claim T11
+----text: it is the educational functions traditional games hold that keep them alive today
+----supporting Claim T11:
+
+--------Premise T14: there is a risk that children may be exposed to unhealthy contents, such as violence or pornography, arranged in the games by such companies to secure financial survival
+--------supporting Premise T14:
+------------Premise T13: modern games are developed by game companies for the purpose of profits
+
+--------no arguments attacks Premise T14
+
+--------Premise T12: these traditional games were elaborately devised by educators and have been proven effective in improving children's skills on different aspects in previous teaching practices
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----type: Claim T4
+----text: modern games may be, to some extent, beneficial for children to foster some skills, such as computer skills or the capacity to keep up with the latest trend
+----supporting Claim T4:
+
+--------Premise T5: children have to be proficient at computers and the Internet if they want to join online games, which, in fact, helps children acquire a particularly powerful skill at work in future
+--------Premise T6: children have the chance to experience the state-of-the-art technology, raising their awareness of innovation rather than stay conservative
+
+----no arguments attacks Claim T4
+
+

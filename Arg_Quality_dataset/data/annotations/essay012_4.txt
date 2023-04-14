@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: Another technological innovations which help people around the world is related to medical equipments
+supporting Claim T14:
+
+----Premise T13: Biomedical engineers could make a significant effect on increasing life expectancy the world
+----Premise T12: one of their inventions was related to artificial heart valves which can be count as a turning point in heart surgeries
+----Premise T11: In the past time doctors used pig heart's valve to implant, but the patient could not be alive more than 3 years after the replacement
+----Premise T10: But now, biomedical engineers can make artificial heart valves which works well and doctors can implant them easily
+
+no arguments attacks Claim T14
+

@@ -1,0 +1,54 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: in this occasion the government is not granted to hand in
+supporting MajorClaim T1:
+
+----Claim T3: art price is about taste
+----type: Claim T10
+----text: Proficiency brings perfectness in terms of art work
+----supporting Claim T10:
+
+--------Premise T4: the modern artists who implement their creative thinking onto high value creation are paid with immense sum by the art collector
+--------Premise T5: the high sum which modern artists receive is related to the quality instead of the quantity and their rare talent
+--------supporting Premise T5:
+------------Premise T6: a 15 centimeter Buddha temple made by hand is granted times in comparison with factory production
+
+--------no arguments attacks Premise T5
+
+--------Premise T7: modern artists also devote themselves find a unique concept in which ordinary people cannot do, such making impossible become possible
+--------supporting Premise T7:
+------------Premise T8: Pieter Padang, Minion creator, has brilliant idea to alter part of song lyric "I swear" become "underwear" when the Minion sing in Despicable Me
+------------Premise T9: He granted huge sums for such idea
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T10
+
+----type: Claim T13
+----text: government cannot equalize the price of creation of modern artist
+----supporting Claim T13:
+
+--------Premise T14: there is no certain parameter to value it
+--------supporting Premise T14:
+------------Premise T15: art value is about taste
+
+--------no arguments attacks Premise T14
+
+--------Premise T16: labor working in the merchandise factory receive coin of dollar even they make a hundred of 15 cm Buddha temples a day
+--------Premise T12: a musician playing "I swear" several times receives different earnings that Padang got
+--------supporting Premise T12:
+------------Premise T11: the musician re-plays the song without any creation
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T13
+
+----Claim T17: the huge sums of modern artists receives related to their struggle in the field of art, while the term of struggle might different with other field of job
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: innovative works makes people realize things in a peaceful way and peep into their own conscience
+supporting Claim T7:
+
+----Premise T11: creativity also gives aesthetic charm
+----Premise T8: It helps to raise issues and criticize the wrong doings of the governments
+----supporting Premise T8:
+--------Premise T9: Bangladeshi writer Taslima Nasrin was accused of acting against the government, just because she raised a social issue
+--------Premise T10: This type of approach is a hurdle in promoting creative minds
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T7
+

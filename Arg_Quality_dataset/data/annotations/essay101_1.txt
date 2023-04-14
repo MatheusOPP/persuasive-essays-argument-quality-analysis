@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: most of them will be forced to take up careers which are poles apart from what they had studied for
+supporting Claim T4:
+
+----Premise T3: if senior workers dominate the working sector, there will be lesser job opportunities for the fresh graduates
+----Premise T5: a medical graduate might find it very disheartened when he had to spend around five precious years studying medicine and at the end of the day, he will have to take up another profession rather than doctor due to the insufficient job opportunities available
+----Premise T6: due to the lack of genuine passion on the work which was not of their option, there is a greater possibility for their performance standard to dwindle at their workplace
+
+no arguments attacks Claim T4
+

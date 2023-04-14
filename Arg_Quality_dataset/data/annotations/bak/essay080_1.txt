@@ -1,0 +1,7 @@
+Type: Claim T2
+Text: both of the arguments have strong supports
+Supporting Claim T2
+
+
+No arguments attacks Claim T2
+

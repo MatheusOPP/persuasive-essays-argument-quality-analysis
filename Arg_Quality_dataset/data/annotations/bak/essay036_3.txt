@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: most violent crimes are related to the abuse of guns, especially in some countries where guns are available for people
+Supporting Claim T4
+
+    Premise: some terrorists are able to possess more advanced weapons than the police, which makes citizens always live in danger
+    Premise: in American, young adults and even juveniles can get access to guns, which leads to the tragedies of school gun shooting
+    Premise: guns will create a violent society if the trend continues
+
+No arguments attacks Claim T4
+

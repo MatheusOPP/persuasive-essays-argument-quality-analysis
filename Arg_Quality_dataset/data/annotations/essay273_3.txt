@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: People in big cities have many options to enjoy their life and spend their times with their friends in social places in contrary to people living in small towns who have few choices and at most cases one bar or one cinema to socialize with their friends
+supporting Claim T5:
+
+----Premise T6: There are lots of social places in big cities like restaurants, museums, bars, sporting clubs, cinemas, theatre and etc
+
+no arguments attacks Claim T5
+

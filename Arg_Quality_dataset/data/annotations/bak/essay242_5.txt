@@ -1,0 +1,14 @@
+Type: MajorClaim T23
+Text: it is far better to protect our living environment rather than focus on job or work
+Supporting MajorClaim T23
+
+    Type: Claim T24
+    Text: the goal people is for good livers
+    Supporting Claim T24
+
+
+    No arguments attacks Claim T24
+
+
+No arguments attacks MajorClaim T23
+

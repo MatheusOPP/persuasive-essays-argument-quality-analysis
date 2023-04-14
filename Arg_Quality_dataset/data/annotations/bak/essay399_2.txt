@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: This gives children the idea that it is not necessary to study hard at school for a better career and earning a living
+Supporting Claim T3
+
+    Premise: The first impression of the celebrities seems that they are rich while not having to work hard
+    Premise: they will not value other people's hard work and take everything for granted
+
+No arguments attacks Claim T3
+

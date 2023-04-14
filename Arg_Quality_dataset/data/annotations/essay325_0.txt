@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the excellent knowledge of this job will be more significant
+supporting MajorClaim T1:
+
+----Claim T2: there is only one thing would be beneficial to company, and there is only one way to be an outstanding worker, that is possessing excellent knowledge of this job
+----Claim T5: it can not only benefit our employers, but also ourselves will be rewarded
+----type: Claim T13
+----text: The company will benefit from every worker of excellent knowledge
+----supporting Claim T13:
+
+--------Premise T11: The core and most profitable technology of an IT company is invented by a worker with excellent computer knowledge, not a worker with outstanding communicating skill
+--------Premise T12: The high reputation and popularity of a company is earned by some brilliant workers in public relation department with excellent skill to propagate this company
+--------Premise T14: the company will earn more money and reputation from these workers with excellent knowledge
+
+----no arguments attacks Claim T13
+
+----type: Claim T19
+----text: Employees will obtain reward from hard-work pursuing excellent knowledge
+----supporting Claim T19:
+
+--------Premise T15: Through our whole study life, undergraduate and graduate, we keep learning with the purpose of exerting these knowledge and experience on our job, just like an old Chinese scholar said, the essence of study is utilizing it
+--------Premise T16: After we get a job, the destination of we keep accumulating and collecting knowledge is rooted not in fawn on our manager with the ability to adapt this kind of business culture, but in making us excellent and totally master this job
+--------Premise T17: we will be rewarded with pride
+--------Premise T18: we can obtain reward from out excellent knowledge
+
+----no arguments attacks Claim T19
+
+
+attacking MajorClaim T1:
+----Claim T3: we can use the ability of adapting oneself in a new environment
+----type: Claim T9
+----text: the ability to adapt oneself to the new environment has been proven to be part of job
+----supporting Claim T9:
+
+--------Premise T6: This ability is helpful in communicating with other workmates, cooperating with other workers needs this ability, too
+
+----attacking Claim T9:
+--------Premise T7: working alone is a longer-term job than communicating
+--------supporting Premise T7:
+------------Premise T8: the excellent knowledge of this job will be benefit till one leave
+
+--------attacking Premise T7:
+------------Premise T10: the ability of adapting oneself to a new environment may be necessary for a fresh worker
+
+
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: tourism has clearly improved lives in the tourist country
+supporting Claim T3:
+
+----Premise T6: These demands trigger related business in the surrounding settings which in turn create many jobs for local people improve infrastructure and living standard
+----Premise T5: Take Cambodia for example, a large number of visitors coming to visit the Angkowat ancient temple need services like restaurants, hotels, souvenir shops and other stores
+----Premise T4: international tourism promotes many aspects of the destination country’s economy in order to serve various demands of tourists
+
+no arguments attacks Claim T3
+

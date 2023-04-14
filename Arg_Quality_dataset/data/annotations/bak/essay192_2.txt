@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: staying in contact with a large number of friends gives the opportunity to learn more from the others' experiences
+Supporting Claim T3
+
+    Premise: among a large number of people there could be someone who practices a particular sport, or plays an instrument or likes traveling very much and from their experiences you can be attracted to try something new that you had never considered before
+
+No arguments attacks Claim T3
+

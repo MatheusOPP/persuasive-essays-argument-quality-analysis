@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: Universities giving both genders equal opportunities, will prepare them for future challenges and will help in the long run
+Supporting Claim T9
+
+    Premise: Co-education helps both genders to gel well with each other
+    Premise: It helps them how to behave and cooperate and work together
+
+No arguments attacks Claim T9
+

@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: it is not about the function or quality of the commodities themselves but really the promotion of the good feeling of possessing the product
+supporting Claim T3:
+
+----Premise T9: the quality obviously is not relatively important
+----supporting Premise T9:
+--------Premise T8: having these products shows their status
+
+----no arguments attacks Premise T9
+
+----Premise T6: By casting famous singers in their television advertisement, motorcycles or clothes for example, sales increase significantly
+----supporting Premise T6:
+--------Premise T7: youngsters, as the target consumers, love celebrities
+
+----no arguments attacks Premise T6
+
+----Premise T5: huge cooperation hire celebrities as the face of their product
+----Premise T4: To boost their sales and win over customers, companies pour a great amount of money into advertising
+
+no arguments attacks Claim T3
+

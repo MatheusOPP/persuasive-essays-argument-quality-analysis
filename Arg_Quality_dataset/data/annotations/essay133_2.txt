@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos”.
+          
+Type: Claim T8
+Text: this modern device has been a major hindrance to some people
+Supporting Claim T8:
+
+----Premise T7: the idea that computers could be a help has been neglected
+
+No arguments attacks Claim T8
+

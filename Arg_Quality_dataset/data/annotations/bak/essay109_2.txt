@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: television companies import foreign programmes from time to time and audiences might accept their ideas which maybe otherwise not welcomed to local culture
+Supporting Claim T6
+
+    Premise: A few years ago there was a Japanese game show which involved throwing cream cakes to the loser
+    Premise: This is actually very environmentally unfriendly
+
+No arguments attacks Claim T6
+

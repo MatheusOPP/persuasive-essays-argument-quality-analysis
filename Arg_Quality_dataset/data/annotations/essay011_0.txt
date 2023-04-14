@@ -1,0 +1,56 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the physical education part should not be outweighed
+supporting MajorClaim T1:
+
+----Claim T2: Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country
+----type: Claim T4
+----text: if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation
+----supporting Claim T4:
+
+--------Premise T8: there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better
+--------Premise T7: The more we practice, the better we feel
+--------Premise T6: There is a direct linkage between people's health and the frequency of doing physical exercises
+--------Premise T5: healthy body is basis for healthy soul
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: when we practice outdoors and indoors sports, many aspects are getting clearer
+----supporting Claim T9:
+
+--------Premise T10: when a person goes jogging everyday, eventually he can understand his own body through direct observation
+--------Premise T11: the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically
+--------Premise T12: almost all natural science discoveries were made by direct observation, which is a part of physical education
+
+----no arguments attacks Claim T9
+
+----type: Claim T13
+----text: financial sustainability of a region mostly depends on how healthy the population is
+----supporting Claim T13:
+
+--------Premise T14: the money invested into physical education program can save allocations into healthcare
+--------supporting Premise T14:
+------------Premise T15: the nation is comparatively healthy
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T13
+
+----type: Claim T18
+----text: putting physical activities in early steps of human development would finally lead to mentally healthy society
+----supporting Claim T18:
+
+--------Premise T17: the better a person feels, the better his brain works
+--------Premise T16: physically healthy people can contribute more both into economical and social development
+--------Premise T19: it ends up with financially competitive country
+
+----no arguments attacks Claim T18
+
+
+no arguments attacks MajorClaim T1
+

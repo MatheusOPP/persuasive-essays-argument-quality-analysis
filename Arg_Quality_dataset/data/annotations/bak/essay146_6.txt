@@ -1,0 +1,10 @@
+Type: Claim T14
+Text: schools should be responsible for their future and protect them
+Supporting Claim T14
+
+    Premise: This might result in limited choices in the future
+    Premise: They might avoid tough courses, but instead attend mainly Mickey Mouse courses and enjoy themselves too much
+    Premise: students have tendency to shun difficulties
+
+No arguments attacks Claim T14
+

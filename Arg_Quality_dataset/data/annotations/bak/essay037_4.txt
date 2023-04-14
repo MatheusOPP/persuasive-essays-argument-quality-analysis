@@ -1,0 +1,15 @@
+Type: Claim T13
+Text: an international sporting event also helps fans release patriotic emotions in a safe way
+Supporting Claim T13
+
+    Premise: Everythings is created by patriotic emotions of Chinese who wanted to bring a beautiful China to the world
+    Premise: They were welcomed by each Chinese hospitality, beauty in each cities
+    Premise: foreigners came here always received the support of friendly volunteers who were young students
+    Premise: In Olympic Beijing 2008, Chinese tried thier best to bring the world a spectacular image about their country
+    Premise: They will try to create a beautiful image about their land and people
+    Premise: all fans know that a sport event will attract the attention of whole the world and a lot of public media
+    Premise: Regardless of the competition between teams, their emotions are always released in a safe way due to the sole passion of the sport
+    Premise: When they garther together to encourage their team, they will show their patriotic emotions
+
+No arguments attacks Claim T13
+

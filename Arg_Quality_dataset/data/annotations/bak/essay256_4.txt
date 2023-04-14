@@ -1,0 +1,11 @@
+Type: Claim T7
+Text: class attendances are regarded as critical as examination performances
+Supporting Claim T7
+
+    Premise: Attending class is the most persuasive way for the students to show respect to the professor as well as themselves
+    Premise: it's students' basic responsibility to attend class
+    Premise: Many professors grade their students with class attendances
+    Premise: Those who even achieve high scores on exams could fail if they didn't show up in the classes
+
+No arguments attacks Claim T7
+

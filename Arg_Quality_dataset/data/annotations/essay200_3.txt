@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: people are draining the Earth's natural resources
+supporting Claim T7:
+
+----Premise T9: nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people
+----supporting Premise T9:
+--------Premise T8: These resources such as oil, coal are vital for human activity
+
+----no arguments attacks Premise T9
+
+----Premise T10: Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted
+----Premise T11: At that time, human activity will be seriously affected due to the dependence on these resources
+
+no arguments attacks Claim T7
+

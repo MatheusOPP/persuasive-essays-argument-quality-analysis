@@ -1,0 +1,38 @@
+Type: MajorClaim T1
+Text: tackling down environmental problems is of the first priority rather than economic developments
+Supporting MajorClaim T1
+
+    Type: Claim T6
+    Text: environmental protection is far more urgent than economic developments
+    Supporting Claim T6
+
+        Premise: Just like a man that needs a healthy body, all the living creatures as a whole needs a strong planet as well
+        Premise: Without Earth, whatever great civil constructions and economic achievements will end up in vain
+        Premise: All the living creatures live together on our mother Earth and she is the only one
+
+    No arguments attacks Claim T6
+
+    Type: Claim T13
+    Text: the influence on environmental problems are boarder and more profound than economic issues
+    Supporting Claim T13
+
+        Premise: Environmental problems are global rather than local, which means that no countries can be spared from these problems
+        Premise: Take global warming for example, when the temperature increases, the whole globe is affected, suffering the hotter weather together
+        Premise: The melting ice mountain not only jeopardizes habitats of animals living in the polar region, but its effects of the rising sea level also endangers the residents living in the small island near the equator
+        Premise: Environmental issues can not be divided by nationality
+
+    No arguments attacks Claim T13
+
+
+Attacking MajorClaim T1
+    Type: Claim T16
+    Text: economic issues are global and critical as well thus can not be put aside
+    Supporting Claim T16
+
+        Premise: if the economic is in a very bad situation, people would revolt instantly, while environmental problems seem to be more like chronic diseases that would not burst out right away
+
+    Attacking Claim T16
+        Premise: the truth is that we've been encountering so many sighs and warnings of global climate anomalies and other environmental crisis right now
+        Premise: It would be unwise to still deny the truth and keep focusing on economic developments and unfortunately, usually the economic developments are even the causes of environmental damages
+
+

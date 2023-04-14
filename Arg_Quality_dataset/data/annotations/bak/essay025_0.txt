@@ -1,0 +1,33 @@
+Type: MajorClaim T1
+Text: the advantages of building a factory will outweigh its disadvantages, if we tackle the environmental problems brought by factories
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: a large factory can stimulate local economic growth and reduce the unemployment rate
+    Supporting Claim T2
+
+        Premise: To manufacture goods, there must be the demand of laborers, from which the local residents can benefit
+        Premise: the factory is not isolated, other industries and business will be quickly established, resulting in economic growth of local area
+
+    No arguments attacks Claim T2
+
+    Type: Claim T9
+    Text: how to improve the disadvantages of building a factory would be more important than whether to build it
+    Supporting Claim T9
+
+        Premise: it is inevitable that there will be more factories built with the development of our society
+        Premise: most problems can be avoidable if the factories put in real and great effort to manage their waste well
+
+    No arguments attacks Claim T9
+
+
+Attacking MajorClaim T1
+    Type: Claim T8
+    Text: The main disadvantage is contamination
+    Supporting Claim T8
+
+        Premise: It is true that some area are suffering the dire consequences caused by overdeveloping the industry, such as water pollution, overcrowded traffic and medical problems
+
+    No arguments attacks Claim T8
+
+

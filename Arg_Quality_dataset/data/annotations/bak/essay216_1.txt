@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: we all know that upgrading public transportation will surely aggravate the pollution and accidents
+Supporting Claim T3
+
+    Premise: the sound emanates from the engines can worsen our hearing
+    Premise: The buses, cars and trains regularly emit a noxious gas which causes lots of fatal diseases such as lung cancer and pneumonia
+    Premise: there are many accidents happening on the roads
+
+No arguments attacks Claim T3
+

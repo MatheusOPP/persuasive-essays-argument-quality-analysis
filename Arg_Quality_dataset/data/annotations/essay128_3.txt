@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: this type of opportunities can raise future geniuses
+supporting Claim T10:
+
+----Premise T9: When schools can give such kind of opportunity the students are likely do their best and succeed in their future lives which is one of the point most people get education
+----Premise T11: he or she can explore in an area she/he has an aptitude
+
+no arguments attacks Claim T10
+

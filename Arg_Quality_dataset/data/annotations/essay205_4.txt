@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: being free to stay away from classes improves flexibility and therefore quality of student life
+supporting Claim T9:
+
+----Premise T10: Sometimes the wild party on Thursday night is too good to end already at midnight only because of a lecture on Friday in the morning
+----Premise T11: With a liberal policy students are able to postpone the learning to the afternoon which gives a feeling of freedom and improves time efficiency
+----Premise T12: Research has shown that the more satisfied the students are with those life aspects, the better they perform in academic areas
+
+no arguments attacks Claim T9
+

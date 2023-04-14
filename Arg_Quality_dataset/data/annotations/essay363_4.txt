@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: using machines makes daily tasks less time consuming and less cumbersome
+supporting Claim T12:
+
+----Premise T11: The work of chopping, blending, grating, kneading has become so easy that people can not imagine their lives without this simple machine at their homes
+----Premise T14: Take the example of use of food processors in kitchens
+----Premise T13: usage of machines makes work easier and less time is consumed for doing similar amount of work
+
+no arguments attacks Claim T12
+

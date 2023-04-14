@@ -1,0 +1,14 @@
+Type: MajorClaim T8
+Text: all companies, factories and businesses should be monitored by governments and executive, and they do not have to let do anything they want just due to making profit
+Supporting MajorClaim T8
+
+    Type: Claim T9
+    Text: They can hit both the environment and human's life easily
+    Supporting Claim T9
+
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T8
+

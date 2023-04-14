@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: computers need to be operated by people
+supporting Claim T5:
+
+----Premise T9: No one can argue that technological tools are must-haves for the classroom of today
+----Premise T8: lessons are more attractive and easier to understand when they are put on a Power Point presentation and then presented with a LCD Projector
+----Premise T7: scientists prove that every classroom needs trained staff to use these interactive and innovative ways of teaching
+----Premise T6: they are just tools for teachers and they cannot work properly without human's touch
+
+no arguments attacks Claim T5
+

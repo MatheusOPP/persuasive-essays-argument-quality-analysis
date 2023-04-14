@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: There is also another obvious advantage of living in a big city considering the chance of receiving better education of our offspring
+supporting Claim T13:
+
+----Premise T15: Our children thus will have a better chance of pursuing high-quality education which is very important for their future development
+----supporting Premise T15:
+--------Premise T14: Schools in big cities may receive more funds from whether the local comities or the government, which may make them more equipped with advanced teaching facilities and attract more excellent teachers
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T13
+

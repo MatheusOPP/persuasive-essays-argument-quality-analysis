@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: almost of us live in the environment of groups
+supporting Claim T4:
+
+----Premise T9: After graduating from schools, employees might go to business associations for various business resources and benefits
+----Premise T8: As university students, it is likely for them to join student organization of their major in order to expand their experiences or communicate with others
+----Premise T7: By making teamwork, the children in schools may learn to how to get along with others
+----Premise T6: We begin taking part in groups or organizations during the early days of life, and especially most people continue their social participation in all through life
+
+no arguments attacks Claim T4
+

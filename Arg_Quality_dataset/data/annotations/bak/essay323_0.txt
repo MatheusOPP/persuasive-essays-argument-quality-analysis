@@ -1,0 +1,37 @@
+Type: MajorClaim T1
+Text: no one else is better than our parents in terms of teachers
+Supporting MajorClaim T1
+
+    Type: Claim T4
+    Text: parents are our teachers from the very early time in our life
+    Supporting Claim T4
+
+        Premise: As we were born, parents taught us from the very little things such as how to smile, how to walk to the ordinary routines such as eating
+        Premise: when we grow bigger, they teach us many fairy tales and several important ethic lessons that affect us till the end of our lives
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: we will never forget what our parents have taught us
+    Supporting Claim T5
+
+        Premise: we use it every day
+        Premise: I believe I will never forget what my parents told me about how to be grateful to other people who help me
+        Premise: we spend most of our time at home with our families than it at school
+        Premise: when we leave school, maybe we will forget parts of the lessons we learn at school if we do not experience them in life
+        Premise: at school we study bigger things about sciences and languages, but after school we learn from our parents
+
+    No arguments attacks Claim T5
+
+    Type: Claim T11
+    Text: even when we grow older, get married and then have our own families with spouses and children, parents always keep watching us and help us to realize which is right and which is wrong in life
+    Supporting Claim T11
+
+        Premise: my older brother has got married and lived independently for two years but when he faces difficulties in his work or his life, he comes back to meet our parents and ask for advice
+        Premise: parents love their sons or daughters unconditionally
+
+    No arguments attacks Claim T11
+
+
+No arguments attacks MajorClaim T1
+

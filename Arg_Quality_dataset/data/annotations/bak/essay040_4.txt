@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: doing extra jobs helps student with money for their accommodation
+Supporting Claim T11
+
+    Premise: high studying tuition, added with raising accommodation expenses are becoming a huge burden to students
+    Premise: With the money they earn from extra jobs, which normally is not much, those difficulties could be partially solved
+
+No arguments attacks Claim T11
+

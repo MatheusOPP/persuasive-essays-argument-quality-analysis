@@ -1,0 +1,10 @@
+Type: Claim T19
+Text: choosing a job similar to one's parents' is not always a correct decision
+Supporting Claim T19
+
+    Premise: the condition of job market is completely different
+    Premise: there is no way to predict any job can be popular for 30 years or more
+
+Attacking Claim T19
+    Premise: when it comes to the trend, no one can predict it correctly
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T23
+text: experiences are also change to plan for my future life
+supporting Claim T23:
+
+----Premise T25: I start changing myself from spending many thing that I want to saving money for my entire life
+----supporting Premise T25:
+--------Premise T24: I read about saving money for my retire is a good plan for my life
+--------Premise T22: This experience change me to concern about making plan for my future life
+
+----no arguments attacks Premise T25
+
+
+no arguments attacks Claim T23
+

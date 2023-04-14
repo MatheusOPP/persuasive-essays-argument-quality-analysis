@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: nowadays technology is entering into our society really quick
+supporting Claim T5:
+
+----Premise T6: scientists develop robots, which help people cope with their problems or just invent coffee machines, engines with integrated computers and etc
+----Premise T4: before centeries, there were not washing machines, which clean your clothes, while a person do another job
+
+no arguments attacks Claim T5
+

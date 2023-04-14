@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: Working or traveling for some time, after high school, can help them to find their field of interest
+Supporting Claim T8
+
+    Premise: It will also help them to learn professional setup by working
+    Premise: Financially, students can save a little money to support their university education by doing a job
+    Premise: Some students even utilize this time for preparation of their desired university course
+
+No arguments attacks Claim T8
+

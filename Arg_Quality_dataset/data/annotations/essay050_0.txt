@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: An integration of music into learning process bound to be successful when it is not compulsory
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: many university authorities provide music lessons for their students
+----supporting Claim T3:
+
+--------Premise T4: they live and study in a harmony with music
+--------Premise T5: It is obvious that music has a great power which can positively influence on human being and its psychology
+--------Premise T6: students, who spend a great deal of their time studying different academic subjects should have an opportunity to cope with the stress gained during school time
+--------Premise T7: music can be a useful and interesting solution
+--------Premise T8: if musical activity involves many participants, there will be co-operation and developed team work in the group, which is, of course, beneficial in their future life
+--------Premise T9: students with a quite poor academic background can show themselves in the music
+--------Premise T10: the calm atmosphere in the class might be created
+
+----no arguments attacks Claim T3
+
+----type: Claim T12
+----text: music and other entertaining subjects should be optional
+----supporting Claim T12:
+
+--------Premise T13: Nowadays, time is the most valuable thing in life with increased pace
+--------Premise T14: students are to develop their professional skills by learning occupation-related subjects, rather than playing on guitar or singing a song
+--------Premise T15: students can not obtain supposed impacts, unless they get interested in it more seriously
+--------Premise T16: music is the art which requires special attitude towards it
+--------Premise T17: demand is not for musically orientated students, but for academically developed employees
+--------Premise T11: it is clear that music can have many mentally enhancing effects on students
+
+----no arguments attacks Claim T12
+
+
+attacking MajorClaim T1:
+----Claim T2: music can help an individual to shape its character
+

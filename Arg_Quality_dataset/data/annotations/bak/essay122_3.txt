@@ -1,0 +1,35 @@
+Type: MajorClaim T5
+Text: the new high school will be a great addition for my environment
+Supporting MajorClaim T5
+
+    Type: Claim T7
+    Text: this new construction has a lot of advantages like new connections between students from different communities, also the new educational equipment will increase the students' enthusiasm toward studying
+    Supporting Claim T7
+
+
+    No arguments attacks Claim T7
+
+    Type: Claim T8
+    Text: the new high school will bring a lots of opportunities for student concerned in education
+    Supporting Claim T8
+
+        Premise: the students can't study well during the classes
+        Premise: They will study with new breath and great enthusiasm in new school
+        Premise: Their old high school is pretty old and need in new educational materials, repairing of the place for sport activities
+
+    No arguments attacks Claim T8
+
+    Type: Claim T13
+    Text: the new high school will be a place for new connections between the student of different communities and districts of the city
+    Supporting Claim T13
+
+        Premise: After classes students and not only the students will get together in building of high school, participate in different competitions
+        Premise: during the football match the students of different high schools will come and after the competition they will keep in touch
+        Premise: This will increase the social connections of the students
+
+    Attacking Claim T13
+        Premise: The only disadvantage is the noisiness of the competitions
+
+
+No arguments attacks MajorClaim T5
+

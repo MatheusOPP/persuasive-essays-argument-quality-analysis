@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: When you are exposed to an environment where everybody talks to you in the new language you want to learn and expects you express words from the same language, you are forced to learn it as soon and good as possible
+supporting Claim T9:
+
+----Premise T8: There are lots of evidences show that communication is the most important factor in learning a new language
+----Premise T15: if I wanted to learn a new language and had enough money to afford the travel, I would definitely make the second choice
+
+no arguments attacks Claim T9
+

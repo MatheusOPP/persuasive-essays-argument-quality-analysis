@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is the best way for teenage children to take a part-time job to prepare their adult life
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: it is an oppertunity to learn how to deal with money
+----supporting Claim T2:
+
+--------Premise T6: I finally realized that I should learn to make a plan before I spend my money, and that did influence me in my life now
+--------supporting Premise T6:
+------------Premise T3: when I was 16, I found a job during summer vacation and earned some money by own
+------------Premise T4: At the beginning of the semester, I was told to buy a text book
+------------Premise T5: I spent most of my salary hanging out with my friend
+
+--------no arguments attacks Premise T6
+
+--------Premise T7: when children get a job, they are able to earn money by themselves, instead of getting pocket money from their parents
+
+----no arguments attacks Claim T2
+
+----type: Claim T8
+----text: by taking a part-time job, they certainly have to be responsible for anything they have done
+----supporting Claim T8:
+
+--------Premise T9: if a student get a job in a company but he is frequently late for work, the company may reduce his payment or even fire him
+--------Premise T10: To compare with the school life, they might suffer only a small punishment at school
+--------Premise T11: Under the circumstances, he will learn that he has to obey the rule and take responsibility for their work
+
+----no arguments attacks Claim T8
+
+----Claim T12: to help their children to adapt adult life, parents should let them experience it as much as they can
+
+no arguments attacks MajorClaim T1
+

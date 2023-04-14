@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: To improve education, spending more money to raise professors' salary is inappropriate
+supporting Claim T16:
+
+----Premise T17: the ultimate purpose is to change, to motivate students to be better
+----Premise T18: High-salary instructors don't teach students harder because they earn more money
+----Premise T19: There won't be any effect if school does so
+----Premise T23: if the policy of raising salary was supported, the demonstration would not happen
+----supporting Premise T23:
+--------Premise T20: There was news about raising professors' salary in my country
+--------Premise T21: This event provoked a demonstration composing of students mostly
+--------Premise T22: The proposal of the demonstration was eliminating the raising salaries
+
+----no arguments attacks Premise T23
+
+
+no arguments attacks Claim T16
+

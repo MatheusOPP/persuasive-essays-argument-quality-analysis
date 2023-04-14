@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: fiction books pay more attention to details
+supporting Claim T4:
+
+----Premise T5: we can know characters, places, and times of a novel very well during reading it
+----Premise T6: Most of the novels describe not only main characters but also other people in the novels, where each scene is happening
+----Premise T7: after I read animal farms which is a story of Russian revolution, I could understand the leaders and different segments of the Russian people
+----Premise T8: a movie just gives us a very small review of its stories and characters
+
+no arguments attacks Claim T4
+

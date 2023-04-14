@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: certain facilities are beneficial to students
+supporting Claim T6:
+
+----Premise T8: They can concentrate on the subjects with a tranquil ambience; also, there are a lot of references for students to utilize
+----Premise T9: With this convenient and versatile facility, students can improve their learning condition
+----Premise T7: library is a good place for students to study or research
+----Premise T5: the more advanced facilities we have, the more chances we can increase our knowledge
+
+no arguments attacks Claim T6
+

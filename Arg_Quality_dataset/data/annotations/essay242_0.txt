@@ -1,0 +1,71 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: living environment is more important than job for most of us
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: people should concern more about their living environment than job
+----supporting Claim T6:
+
+--------Premise T7: for most of us, job is only a tool to maintain our lives
+--------Premise T8: Few people can feel happiness from their job
+--------supporting Premise T8:
+------------Premise T9: they have to continue to work more than 30 years
+------------Premise T10: Workers in the FOXCONN factory, which is the main manufacture of APPLE Company, just repeat one action more than 8 hours every day
+------------Premise T11: These labor works cannot provide workers with a lot of happiness
+------------supporting Premise T11:
+----------------Premise T12: they feel tired and frustrated after long hour work
+
+------------no arguments attacks Premise T11
+
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T13
+----text: beautiful environment is one of basic physiological needs, which are the most fundamental requirements for people
+----supporting Claim T13:
+
+--------Premise T14: Without beautiful environment, people are not able to feel happiness and will fell anxiety
+--------Premise T15: Nowadays, the fast development of economy is gradually destroying our environment very quickly
+--------Premise T16: Factories released a huge amount of wasters into river and soil
+--------Premise T17: In order to build city and factory, people destroy huge forests
+--------Premise T18: In China, some residents who live in nearby some toxic factories became sick
+--------supporting Premise T18:
+------------Premise T19: these factories release a lot of toxic water and wasters into environment around people
+
+--------no arguments attacks Premise T18
+
+
+----attacking Claim T13:
+--------Premise T20: local residents benefits from an increasing number of jobs which are provided by those factories
+--------supporting Premise T20:
+
+--------attacking Premise T20:
+------------Premise T21: they cannot feel happiness from high-paying job
+------------supporting Premise T21:
+----------------Premise T22: most of them suffer from cancer or other diseases
+
+------------no arguments attacks Premise T21
+
+
+
+----Claim T24: the goal people is for good livers
+
+attacking MajorClaim T1:
+----type: Claim T2
+----text: job can bring us happiness
+----supporting Claim T2:
+
+--------Premise T3: People can receive a sense of values and respected from job
+--------Premise T4: If people receive respect from others, they will feel achievement and self-confidence
+
+----no arguments attacks Claim T2
+
+----Claim T5: job can provide money to us
+

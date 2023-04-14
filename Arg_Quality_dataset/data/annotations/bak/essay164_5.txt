@@ -1,0 +1,15 @@
+Type: MajorClaim T16
+Text: training can be effective in encouraging further good work
+Supporting MajorClaim T16
+
+    Type: Claim T14
+    Text: providing professional training as a reward for good work has many advantages
+    Supporting Claim T14
+
+        Premise: Training can help employees refresh their mind as well as make them happy, focus on work
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T16
+

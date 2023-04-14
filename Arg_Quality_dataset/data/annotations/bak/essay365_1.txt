@@ -1,0 +1,11 @@
+Type: Claim T5
+Text: public transport is a key factor to minimize the number of vehicles on the street
+Supporting Claim T5
+
+    Premise: Buses and trains have been phased in the streets for quite a long time and have proven themselves the best candidates among all options
+    Premise: a bus can carry no less than 30 people, while a train can carry as much as nine or even ten times of that number
+    Premise: Not to mention the fact that highway train is operated underground, which leaves the street above with buses and non-fuel-based vehicles
+    Premise: they will lessen the crowded image in most cities nowadays
+
+No arguments attacks Claim T5
+

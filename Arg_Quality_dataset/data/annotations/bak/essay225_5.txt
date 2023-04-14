@@ -1,0 +1,14 @@
+Type: MajorClaim T16
+Text: Childhood, in several aspects, is the happiest period of our lives
+Supporting MajorClaim T16
+
+    Type: Claim T17
+    Text: It's not only because of the nature of childhood and children, but also the way our lives are changed when we are adults
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T16
+

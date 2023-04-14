@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: schools should spend money on hiring prestigious teachers
+supporting Claim T16:
+
+----Premise T17: they can impart their students well
+
+attacking Claim T16:
+----Premise T18: A student is good or not do not depend on whether he has a good teacher but is decided by his effort on study
+----Premise T19: It is useless to hire a super famous teacher to teach those who behaviors as sluggards
+

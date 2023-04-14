@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: by doing what you are good at, you will be better at it
+supporting Claim T16:
+
+----Premise T12: I used to be good at math when I was in junior high school
+----supporting Premise T12:
+--------Premise T15: I could not only get higher scores in math test but also solve the university-level problems
+--------supporting Premise T15:
+------------Premise T14: I became to absorb myself to try more advanced level of math problems
+------------supporting Premise T14:
+----------------Premise T13: I was really satisfied with the fact that I could do preferably
+
+------------no arguments attacks Premise T14
+
+
+--------no arguments attacks Premise T15
+
+
+----no arguments attacks Premise T12
+
+----Premise T10: When you're doing something well, you will feel more satisfied and more interested in it
+----Premise T11: you will motivate yourself to do more
+----Premise T17: If you keep doing what you already do well, you can be better good at it
+
+no arguments attacks Claim T16
+

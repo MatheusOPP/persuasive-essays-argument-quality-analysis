@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: particular coverage of heinous crimes may further traumatize the victims of crimes
+supporting Claim T10:
+
+----Premise T8: they have already suffered greatly for what they have experienced
+----Premise T9: Without their consent, this could only add to theses innocent people's mental suffering and they may do some extreme actions
+
+no arguments attacks Claim T10
+

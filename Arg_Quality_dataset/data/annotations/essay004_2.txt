@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: international tourism can create negative impacts on the destination countries
+supporting Claim T4:
+
+----Premise T8: This was due to the lack of adequate controls by authorities and lead to a bad image of Thailand tourism
+----Premise T7: Take Thailand for example, in the Vietnam War, many American soldiers came to Thailand for a break and involved in sexual and drug activities, these huge demands caused many local businesses opened and expanded, even illegally involved in under-age prostitutes to maximize their profits
+----Premise T6: tourists from different cultures will probably cause changes to the cultural identity of the tourist destinations
+
+no arguments attacks Claim T4
+

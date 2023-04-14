@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: smoking does no good to the smoker himself
+supporting Claim T20:
+
+----Premise T16: Not only does it aggravate his health, making him more subject to respiratory diseases, but also it damages his public image and reputation
+----Premise T18: This is especially true when the smoker is a popular political figure or an entertainmening celebrity
+----supporting Premise T18:
+--------Premise T17: most people see smoking in restaurants as an impolite human behavior
+
+----no arguments attacks Premise T18
+
+----Premise T19: the public are likely to believe that the smoker lacks basic civility and should not be encouraged to be a public leader
+
+no arguments attacks Claim T20
+

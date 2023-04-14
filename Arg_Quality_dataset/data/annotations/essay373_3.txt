@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: with some of serious criminals, capital punishment is an easy way out
+supporting Claim T15:
+
+----Premise T14: Criminals should be punished for their misdeeds
+----Premise T12: If they kill someone and end their life by dead without paying for their sins, it is so easy for them
+----Premise T13: They do not undergo any pain or misery
+----Premise T21: some industries such as mining, oil and gas extraction, reclamation, etc, needs many labors
+----Premise T20: Why do not punish them by doing something meaningful for the country- it is better
+----Premise T19: rehabilitation and education is also a better way in order to prevent or minimize offensive acts
+
+no arguments attacks Claim T15
+

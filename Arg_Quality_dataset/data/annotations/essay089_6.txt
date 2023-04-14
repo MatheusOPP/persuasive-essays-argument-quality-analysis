@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: some lands should be assigned to industry
+supporting Claim T14:
+
+----Premise T15: human need some crucial things to continue their life, and most of them are industrial such as medicine
+----Premise T16: Todays life has some difficulty which become comfortable with the help of industry
+
+no arguments attacks Claim T14
+

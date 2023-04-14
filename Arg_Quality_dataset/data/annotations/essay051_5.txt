@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: investing in libraries has a long-time result
+supporting Claim T18:
+
+----Premise T19: a library can buy a lot of new books or they can buy more computers
+----Premise T20: Most of the library facilities are stable and you can use them for a long time
+----Premise T21: in the far future, they become more valuable
+----Premise T22: most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time
+
+no arguments attacks Claim T18
+

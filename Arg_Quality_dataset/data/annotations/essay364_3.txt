@@ -1,0 +1,28 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: in some cases that traditional way can not replace by a new technology
+supporting Claim T14:
+
+----Premise T9: Lot of people like to use traditional things because if their quality and durability
+----supporting Premise T9:
+--------Premise T10: vases are made by hand would be used more
+
+----no arguments attacks Premise T9
+
+----Premise T11: there are plenty of works that using traditional way is unique method
+----supporting Premise T11:
+--------Premise T12: making cone hats from leaves have to use hand
+--------supporting Premise T12:
+------------Premise T13: Not only because there is no machine for the work, but also it looks more beautiful when it is made by hand, so resulting in greater value economy
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T14
+

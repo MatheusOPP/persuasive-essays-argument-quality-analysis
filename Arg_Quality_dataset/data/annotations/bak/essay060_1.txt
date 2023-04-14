@@ -1,0 +1,45 @@
+Type: MajorClaim T2
+Text: a break should be necessarily allowed to young minds between their high school and university studies
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: the sole purpose of education is to nurture a young mind and not thrust studies on them
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: a break will give students some time to refresh their systems, by traveling or following their hobbies
+    Supporting Claim T4
+
+        Premise: A relaxation of one year to young minds will give them a quintessential change
+        Premise: A continuous study pressure for over 10 years makes the mind saturated and like a robot, to follow instructions
+        Premise: when students start their university studies after a break, they will feel fresh and full of energy to take the new challenge
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: Working or traveling for some time, after high school, can help them to find their field of interest
+    Supporting Claim T8
+
+        Premise: It will also help them to learn professional setup by working
+        Premise: Financially, students can save a little money to support their university education by doing a job
+        Premise: Some students even utilize this time for preparation of their desired university course
+
+    No arguments attacks Claim T8
+
+
+Attacking MajorClaim T2
+    Type: Claim T12
+    Text: A break can disturb the focus of students and prove detrimental
+    Supporting Claim T12
+
+        Premise: When students work during these breaks, the feel of money gives them an illusion that such salary is enough for them and they go in a utopia
+        Premise: Students can also indulge in smoking or drinking during this time
+
+    Attacking Claim T12
+        Premise: A break gives students more benefits than harms
+        Premise: It varies from individual to individual, how they utilize that period
+
+

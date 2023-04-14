@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: the main function of a university remains as the provision of knowledge and access to resources
+supporting MajorClaim T2:
+
+----type: Claim T7
+----text: a university should provide access to information, rather than offer selected courses that are suitable for employers' taste
+----supporting Claim T7:
+
+--------Premise T9: It is, therefore, not necessary for a certain course or type of training to be offered to the students by a university, but instead, these must be made available when needed
+--------Premise T8: universities are regarded as institutions where abundant educational resources gather
+
+----no arguments attacks Claim T7
+
+----type: Claim T3
+----text: A university, in common sense, is a medium for conveying or providing access to knowledge
+----supporting Claim T3:
+
+--------Premise T4: students are the ones universities should really cater for, not the employers
+--------supporting Premise T4:
+------------Premise T6: students are the ones here to seek knowledge
+
+--------no arguments attacks Premise T4
+
+--------Premise T5: High school graduates choose to further educate themselves in universities because of all different reasons: a degree that's more widely accepted, gain knowledge and insight into an industry, or simply deepen their research interests in a certain field
+
+----no arguments attacks Claim T3
+
+
+no arguments attacks MajorClaim T2
+

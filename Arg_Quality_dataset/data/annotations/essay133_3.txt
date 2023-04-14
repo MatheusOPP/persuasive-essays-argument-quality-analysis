@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos”.
+          
+Type: Claim T11
+Text: using computer can make people easier to complete their work
+Supporting Claim T11:
+
+----Premise T10: Communication by feature-computer such as email and internet help busy businessmen to make deal with relation even in different country
+----Premise T12: Businessmen, for example, use computer device to presentation or communication with their colleagues
+
+No arguments attacks Claim T11
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: providing training will make employees happy with their current job
+supporting Claim T9:
+
+----Premise T10: it help them improve their professional business knowledge
+----Premise T12: they will finish their jobs with excellent result
+----supporting Premise T12:
+--------Premise T11: Having professional training help employees gain more confidence in their business
+
+----no arguments attacks Premise T12
+
+----Premise T13: excellent working result will make them very happy as well as their boss
+
+no arguments attacks Claim T9
+

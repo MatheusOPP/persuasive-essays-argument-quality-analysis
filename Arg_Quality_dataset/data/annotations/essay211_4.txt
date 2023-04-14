@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: students can learn practical skills after school hours from their parents
+supporting Claim T12:
+
+
+attacking Claim T12:
+----Premise T13: it is not a good idea
+----supporting Premise T13:
+--------Premise T14: most young people would rather watch TV or play computer games after school instead of learning life skills from their parents
+
+----no arguments attacks Premise T13
+
+----Premise T15: parents are usually too busy with their daily jobs to teach their children the life skills
+

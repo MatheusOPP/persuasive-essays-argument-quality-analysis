@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: world sports events strongly participate in eventually pulling back people towards friendship and peace
+Supporting Claim T3
+
+    Premise: during times of war, people living in badly affected countries can forget about the gloomy environment and maintain a link with the rest of the world by listening to international sports event
+
+No arguments attacks Claim T3
+

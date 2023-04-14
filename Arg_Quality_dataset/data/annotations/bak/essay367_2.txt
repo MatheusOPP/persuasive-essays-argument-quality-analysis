@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: the issue stimulates the stakeholders from many places to think what kind of preparations they should take for stabilising the economic growth and the quality life of people
+Supporting Claim T5
+
+    Premise: The proportion of women is rising year by year in many parts of the world recently
+
+No arguments attacks Claim T5
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: If these companies were obliged to pay to clean up the air pollution, they would at least make an effort to reduce the amount of air pollution they cause
+supporting Claim T4:
+
+----Premise T7: While these companies make a huge amount of money from their businesses, most of them are not considering to take precautions to reduce the amount of air pollution
+----Premise T6: The waste products and harmful gases produced by these factories cause a significant amount of air pollution
+----Premise T5: in most industrialized countries, there is a number of companies that holds heavy factories in their constitutions
+
+no arguments attacks Claim T4
+

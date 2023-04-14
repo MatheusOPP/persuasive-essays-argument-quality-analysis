@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: outstanding academic students are eligible for university due to their intellectual advantage
+supporting Claim T7:
+
+----Premise T8: such abstract or complicated informatin, easily absorbed by those students, may prove as a matter of pressure for those who lack equivalent skills
+----Premise T9: it is undeniable that one deserves what he has done
+----Premise T10: University is like a gift presented to those who have gone to great length to attain
+
+no arguments attacks Claim T7
+

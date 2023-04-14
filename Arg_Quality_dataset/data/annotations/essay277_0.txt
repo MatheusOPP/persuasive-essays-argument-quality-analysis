@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: learning facts has more subsequent advantages for students' future lives
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: they would prepare to encounter their life out of school to solve their problems better
+----supporting Claim T4:
+
+--------Premise T3: more information about facts would make students more familiar with the real life other that only their concepts
+--------Premise T2: when students learn facts more in school, they would be ready for facing problems in their own life after their graduations
+
+----no arguments attacks Claim T4
+
+----type: Claim T6
+----text: it would improve students' social behavior
+----supporting Claim T6:
+
+--------Premise T5: if they deal more with facts, they can realize social situations effectively and so improve their social communication in everyday life
+--------supporting Premise T5:
+------------Premise T8: They should understand objects more that concepts to obtain the ability of analyzing matters well
+
+--------no arguments attacks Premise T5
+
+--------Premise T7: If students only rely on concepts and ideas theorically, they would not realize human's mind very well
+
+----no arguments attacks Claim T6
+
+----Claim T14: Students would improve their social positions and encounter their problems in positive ways and also intend in the more confidence manner and etc
+----type: Claim T10
+----text: when a student understands a fact and its consequences, he or she can encounter it more confidently
+----supporting Claim T10:
+
+--------Premise T12: these way students are teached to control their fears and concerns in facing facts
+--------Premise T11: concerns and anxieties are very destructive in everybody's life
+--------Premise T9: It can prevent person to progress and thrive in every position
+
+----no arguments attacks Claim T10
+
+
+no arguments attacks MajorClaim T1
+

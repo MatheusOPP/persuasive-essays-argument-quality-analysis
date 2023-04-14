@@ -1,0 +1,66 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T7
+text: professors should spend more time on preparing courses than research
+supporting MajorClaim T7:
+
+----Claim T2: Only by developing students, can we have a better academic field
+----Claim T5: the research takes up too much teaching time
+----type: Claim T10
+----text: professor should concern about preparing class
+----supporting Claim T10:
+
+--------Premise T26: only under specific circumstance, when students master all of the systematic knowledge, can they accomplish research
+--------Premise T27: This is requires professors provide high quality courses
+
+----no arguments attacks Claim T10
+
+----type: Claim T11
+----text: professors should pay more attention on how to teach students rather than conduct research
+----supporting Claim T11:
+
+--------Premise T15: professors should provide well-preparation courses to convey the state-of-art knowledge for college and university students
+--------Premise T14: The reason why people enter a university is that they want to learn cutting-edged technologies
+--------Premise T13: If professors spend a lot of time on research, he will cut the time on preparing courses is reduced, which may decrease the quality of classes
+--------Premise T8: professors should assist students to acquire knowledge
+--------Premise T12: The professors’ duty is to nurture students, and prepare excellent courses
+
+----no arguments attacks Claim T11
+
+----type: Claim T20
+----text: spending more time to nurture excellent students is more consequential to professors, rather than research
+----supporting Claim T20:
+
+--------Premise T17: Students are unsatisfied with the unprepared course, and the enrollment of universities may decline
+--------Premise T18: Many students would not choose these kinds of universities to study
+--------Premise T16: if professors are busy in doing research, ignoring preparing appropriate courses for students, it would ruin the reputation of universities
+--------Premise T28: It is adverse to the whole academic field
+--------supporting Premise T28:
+------------Premise T19: hardly can professors find assistants to help with projects
+
+--------no arguments attacks Premise T28
+
+
+----no arguments attacks Claim T20
+
+
+attacking MajorClaim T7:
+----type: Claim T9
+----text: professors could teach students through research and projects
+----supporting Claim T9:
+
+--------Premise T21: Some students enjoy taking part in some research
+--------Premise T22: Through to use the equipment and invent their own work, they may get more experience in the process of research
+--------supporting Premise T22:
+------------Premise T23: electronic students always invent new machines such as robots, MP3 and remote control car
+------------Premise T24: They can manage the electric theory in practical skills
+------------Premise T25: And some students will be rewarded by investing new inventions
+
+--------no arguments attacks Premise T22
+
+
+----no arguments attacks Claim T9
+
+

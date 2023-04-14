@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: nowadays technology is entering into our society really quick
+Supporting Claim T5
+
+    Premise: scientists develop robots, which help people cope with their problems or just invent coffee machines, engines with integrated computers and etc
+    Premise: before centeries, there were not washing machines, which clean your clothes, while a person do another job
+
+No arguments attacks Claim T5
+

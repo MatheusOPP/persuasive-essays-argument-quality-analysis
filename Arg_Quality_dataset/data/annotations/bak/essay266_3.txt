@@ -1,0 +1,11 @@
+Type: Claim T11
+Text: advertising is not entirely decisive on personal eating habit
+Supporting Claim T11
+
+    Premise: The key to forming a healthy eating pattern lies in people's concept of wholesome diets and self-control
+    Premise: As long as people are clear about how to maintain a healthy body and they persistently keep track of their eating habits, they can successfully prevent themselves from those temptations
+    Premise: It will be not persuasive if people just blame the advertising sector of a fast-food company for making them so fat and not reassess their own behaviors
+
+Attacking Claim T11
+    Premise: advertising always makes the products so tempting, regardless of whether they might bring negative effects on the human body
+

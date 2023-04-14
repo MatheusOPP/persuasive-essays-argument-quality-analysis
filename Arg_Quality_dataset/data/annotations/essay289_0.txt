@@ -1,0 +1,72 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: students should be asked to evaluate their teachers
+supporting MajorClaim T1:
+
+----Claim T3: teachers could improve their performance
+----type: Claim T5
+----text: schools are also improve their quality
+----supporting Claim T5:
+
+--------Premise T6: they have high performance teachers
+--------Premise T7: students are easy to understand their subjects
+
+----no arguments attacks Claim T5
+
+----type: Claim T8
+----text: evaluating from students could improve teachers' performance
+----supporting Claim T8:
+
+--------Premise T12: teachers could improve themselves by speaking slower to make sure that students could get all information that they want to give
+--------supporting Premise T12:
+------------Premise T11: Students might complain about their teachers spoke too fast that students could not catch up on information
+
+--------no arguments attacks Premise T12
+
+--------Premise T10: evaluation made by students is similar to feedback from customer that business owners need to know in order to improve their product
+--------Premise T9: Evaluating teachers made by students could improve teachers' performance
+
+----no arguments attacks Claim T8
+
+----type: Claim T20
+----text: this evaluation from students could improve schools' quality
+----supporting Claim T20:
+
+--------Premise T17: Teachers could augment their quality
+--------Premise T18: When school gather teachers that have great performance, school are gaining higher quality
+--------Premise T14: in many cooperation such as Microsoft that could produce many great products
+--------supporting Premise T14:
+------------Premise T15: they have employees whose performance are very high
+
+--------no arguments attacks Premise T14
+
+--------Premise T16: Schools could produce intellectual students
+--------supporting Premise T16:
+------------Premise T13: school have teachers who are always improve their quality from evaluation made by students
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Claim T20
+
+----type: Claim T24
+----text: people who get the most advantage from evaluation is students
+----supporting Claim T24:
+
+--------Premise T25: Students could study in class that have teachers who have experienced and greater performance
+--------Premise T22: students could comprehend their subject easily
+--------supporting Premise T22:
+------------Premise T21: teachers are always adapt the way they teach in order to make students easy to understand their subjects
+
+--------no arguments attacks Premise T22
+
+--------Premise T23: students, who study from great schools which have great performance teacher, graduate with great knowledge to survive in next steps of life
+
+----no arguments attacks Claim T24
+
+
+no arguments attacks MajorClaim T1
+

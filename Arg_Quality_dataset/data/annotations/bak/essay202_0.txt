@@ -1,0 +1,44 @@
+Type: MajorClaim T5
+Text: a good co-worker needs to have three most important characteristics such as cooperation, trustworthiness, and fellowship
+Supporting MajorClaim T5
+
+    Type: Claim T7
+    Text: The co-workers need to trust each other
+    Supporting Claim T7
+
+        Premise: They should not act on suspicion
+        Premise: This is a very important aspect in the work environment
+        Premise: I came across a situation once such that one of my subordinates used to suspect his co-worker for carrying tales to me
+        Premise: To a certain extent his suspicion was valid as his co-worker made several attempts to highlight the drawbacks of him
+        Premise: I never encourage tale carriers as a principle and therefore his co-worker gave up talking ill against him with me
+        Premise: But this mistrust continued and created very unpleasant situations for everybody in my department
+
+    No arguments attacks Claim T7
+
+    Type: Claim T16
+    Text: if the co-workers do not corporate with each other that would be devastating in a work environment
+    Supporting Claim T16
+
+        Premise: The co-workers should be cooperative with one another
+        Premise: If they do not cooperate, there will be lots of disputes
+        Premise: he always left office sharp on time without giving any consideration whether the work has been finished or not
+        Premise: Most of the time, I had to do his work in order to protect him from getting caught to the supervisor who was a very authoritative person
+        Premise: one day I wanted to be off early because I had to take my mother to the doctor
+        Premise: When I requested my co-worker to give a helping hand to finish my work early, he turned down my request giving a silly excuse
+        Premise: From that day onwards I did not offer him any support and finally he was transferred from our department to a distant location as a punishment for his irresponsibility
+
+    No arguments attacks Claim T16
+
+    Type: Claim T1
+    Text: the co-workers should believe in fellowship
+    Supporting Claim T1
+
+        Premise: This helps them to enjoy their work life while building up very strong personal relationships
+        Premise: you spend most of your day at office
+        Premise: If you have a good company in office, it is certainly a blessing
+
+    No arguments attacks Claim T1
+
+
+No arguments attacks MajorClaim T5
+

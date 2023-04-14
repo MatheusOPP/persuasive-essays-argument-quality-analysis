@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: another way that is perfectly work for everyone to reduce the stress is exercise
+supporting Claim T6:
+
+----Premise T7: after work, I always do exercise, and jogging is my favorite sport
+----Premise T8: I feel that after working out, I am easily to fall asleep
+----Premise T9: Exercising not only reduce my stress but also make me get a good health
+
+no arguments attacks Claim T6
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: evaluating from students could improve teachers' performance
+supporting Claim T8:
+
+----Premise T12: teachers could improve themselves by speaking slower to make sure that students could get all information that they want to give
+----supporting Premise T12:
+--------Premise T11: Students might complain about their teachers spoke too fast that students could not catch up on information
+
+----no arguments attacks Premise T12
+
+----Premise T10: evaluation made by students is similar to feedback from customer that business owners need to know in order to improve their product
+----Premise T9: Evaluating teachers made by students could improve teachers' performance
+
+no arguments attacks Claim T8
+

@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: school teachers are more qualified than parents in the field of education
+Supporting Claim T6
+
+    Premise: to be able to obtain the teacher certificates, people need years of training at their normal schools to learn theoretical knowledge
+    Premise: in comparison to teachers, parents tend to have less knowledge to teach their children's subjects such as mathematics and physics
+
+No arguments attacks Claim T6
+

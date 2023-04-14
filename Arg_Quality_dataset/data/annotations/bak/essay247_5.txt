@@ -1,0 +1,11 @@
+Type: Claim T22
+Text: people who own a vehicle have greater access to more places and will see more of the world
+Supporting Claim T22
+
+    Premise: If people do not own cars they are likely to stay in their hometown or village most of their life
+    Premise: They are mainly using public transport and are thus limited in accessing certain areas
+    Premise: There are still places in nearly every country in the world that cannot be reached by public transportation and can only be visited by car
+    Premise: the automobile allows people to travel more often and thus get to know the world
+
+No arguments attacks Claim T22
+

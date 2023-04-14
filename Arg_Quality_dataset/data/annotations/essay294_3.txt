@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: professors should fully use the research-friendly environment provided by universities
+supporting Claim T17:
+
+----Premise T14: It is very common to see state-of-the-art laboratories in the campus
+----Premise T13: there is really no reason to discourage professors from using those advantages
+----supporting Premise T13:
+--------Premise T12: you could not find another place with so much talent people gathering together
+
+----no arguments attacks Premise T13
+
+----Premise T15: We all know that Einstein developed the theory of general relativity when he was a professor in HU Berlin
+----Premise T16: Universities positively contribute the professors' success
+
+no arguments attacks Claim T17
+

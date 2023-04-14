@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: A number of measures should be taken to address these concerns
+supporting Claim T10:
+
+----Premise T11: exams should match the content and activities of the learning environment
+----Premise T12: Exam task should be varied to give fair opportunities to candidates with different types of skills
+----Premise T13: Other types of assessment should also be considered, assignment writing, for example, to assess independent learning and research skills, or group projects, to measure teamwork ability
+
+no arguments attacks Claim T10
+

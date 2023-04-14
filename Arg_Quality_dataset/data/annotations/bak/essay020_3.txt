@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: If these companies were obliged to pay to clean up the air pollution, they would at least make an effort to reduce the amount of air pollution they cause
+Supporting Claim T4
+
+    Premise: While these companies make a huge amount of money from their businesses, most of them are not considering to take precautions to reduce the amount of air pollution
+    Premise: The waste products and harmful gases produced by these factories cause a significant amount of air pollution
+    Premise: in most industrialized countries, there is a number of companies that holds heavy factories in their constitutions
+
+No arguments attacks Claim T4
+

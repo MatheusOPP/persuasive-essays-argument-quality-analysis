@@ -1,0 +1,17 @@
+Type: MajorClaim T3
+Text: we cannot deny the threat from email and text messaging to the status of written language because their obvious popularity
+Supporting MajorClaim T3
+
+    Type: Claim T10
+    Text: The popularity of email and text messaging, as a result, leads to the losing of written language's position
+    Supporting Claim T10
+
+        Premise: language in writing is not in its original form
+        Premise: it is more dangerous that youngsters sometimes use such new languages in their studying, writing assignments
+        Premise: If that tendency continues at a rapid pace, written language may face up to a real problem about its stand
+
+    No arguments attacks Claim T10
+
+
+No arguments attacks MajorClaim T3
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: They should increase more routes to make people transport more easily
+supporting Claim T13:
+
+----Premise T14: it is waste of time
+----supporting Premise T14:
+--------Premise T17: if a place I intend to go is not in the route of buses, I still have to take a bus that does not bring me to my destination but go to the center station first to exchange to another bus
+
+----no arguments attacks Premise T14
+
+----Premise T15: the buses provide merely two routes in this community
+----Premise T16: It is absolutely a major problem
+
+no arguments attacks Claim T13
+

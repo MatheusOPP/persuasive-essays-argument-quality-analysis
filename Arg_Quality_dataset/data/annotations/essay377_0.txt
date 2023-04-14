@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: it should be made available for a wide range of learners
+supporting MajorClaim T2:
+
+----type: Claim T6
+----text: outstanding academic students are eligible for university due to their intellectual advantage
+----supporting Claim T6:
+
+--------Premise T4: such abstract or complicated informatin, easily absorbed by those students, may prove as a matter of pressure for those who lack equivalent skills
+--------Premise T5: one deserves what he has done
+--------Premise T7: University is like a gift presented to those who have gone to great length to attain
+
+----no arguments attacks Claim T6
+
+----type: Claim T8
+----text: it should be up for grabs for a majority of young people, who wish to pursue their passion as well as develop comprehensively
+----supporting Claim T8:
+
+--------Premise T9: university is not just about academic studies but also a place to nurture artistic talent and develop soft skills
+
+----no arguments attacks Claim T8
+
+----type: Claim T10
+----text: there is a tendency for social vices to rise if university is to be restricted to only the best people
+----supporting Claim T10:
+
+--------Premise T11: Apart from the disheartened ones, many devoiding of neccessary preparations are likely to be recipes for failure when applying for jobs, mostly the white-collar ones
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T2:
+----type: Claim T3
+----text: university restriction has both pros and cons
+----supporting Claim T3:
+
+
+----attacking Claim T3:
+--------Premise T1: it will yield more negative results than positive ones
+
+

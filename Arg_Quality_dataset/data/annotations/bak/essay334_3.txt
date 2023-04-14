@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: machines can bring many benefits
+Supporting Claim T10
+
+    Premise: machines are more effective than human
+    Premise: using machines can save company's money
+
+No arguments attacks Claim T10
+

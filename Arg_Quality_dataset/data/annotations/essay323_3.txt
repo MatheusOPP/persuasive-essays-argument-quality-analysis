@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: even when we grow older, get married and then have our own families with spouses and children, parents always keep watching us and help us to realize which is right and which is wrong in life
+supporting Claim T11:
+
+----Premise T13: my older brother has got married and lived independently for two years but when he faces difficulties in his work or his life, he comes back to meet our parents and ask for advice
+----Premise T12: parents love their sons or daughters unconditionally
+
+no arguments attacks Claim T11
+

@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: This, contrary to some ideas, is a positive progress in human society
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: Women nowadays are much more active, they may be successful businessmen, they join the political world, they become scientists and so on
+----supporting Claim T3:
+
+--------Premise T4: the "weaker" gender as often be thought has enough right as well as ability to contribute to the development of human beings just like any other men, not to mention they even perform better in some fields
+--------Premise T5: Gone are the days when women could do nothing rather than stick to boring house work and take care of children
+--------Premise T6: the fairness between males and females is inevitable in such a developed society
+
+----no arguments attacks Claim T3
+
+----type: Claim T7
+----text: the revolution in females' right has brought about many benefits not only to themselves but society as well
+----supporting Claim T7:
+
+--------Premise T8: The financial burden of families, for instance, has decreased significantly with both the wives and the husbands working to earn money
+--------Premise T9: women have the outstanding instinct to take up some careers like healthcare or human resource management due to their patience and elaboration
+
+----no arguments attacks Claim T7
+
+
+attacking MajorClaim T1:
+----type: Claim T10
+----text: such changes do lead to some negative results like an upward trend in divorce rate
+----supporting Claim T10:
+
+--------Premise T11: women find it difficult to balance their work and their traditional role as the wives
+--------Premise T12: children might enjoy less care from parents as they are both busy with their work
+
+----no arguments attacks Claim T10
+
+

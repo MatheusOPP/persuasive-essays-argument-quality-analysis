@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is much more gratifying to stay side by side and cheer up the team at the stadium rather than just to stay at home and watch the match alone
+supporting MajorClaim T1:
+
+----Claim T4: It can be unforgettable moments in your life
+----type: Claim T5
+----text: watching a live football game is an exceptional experience
+----supporting Claim T5:
+
+--------Premise T15: You can cherish your experience for a long time
+--------Premise T12: You can watch it at home, but "easy come, easy go", you will quickly forget it, like a movie
+--------Premise T16: it can be an exclusive experience
+--------Premise T17: If it is a crucial win to acclaim a trophy, you will be "on site" to witness and celebrate the victory
+
+----attacking Claim T5:
+--------Premise T13: The tickets to get in the stadium may be a little expensive
+--------supporting Premise T13:
+
+--------attacking Premise T13:
+------------Premise T14: you will gain much more entertainment value from the game
+
+
+----type: Claim T6
+----text: attending a live football match is very fulfilling
+----supporting Claim T6:
+
+--------Premise T7: Before the match starts, thousands of fans gathering outside of the stadium with team flags, colorful outfits, sound of trumpets and rattles
+--------Premise T8: As the game kicks off, the atmosphere inside the stadium is even more exciting
+--------Premise T9: You are watching football stars play the game with your own eyes and sharing your feelings with about 40,000 people at the stadium, such an excitement you can never have when you are watching it at home
+--------Premise T10: Everybody yells and sings together, the stadium is like bursted out whenever a goal is scored
+--------Premise T11: See, you will be bored if you are watching it alone
+
+----no arguments attacks Claim T6
+
+
+attacking MajorClaim T1:
+----Claim T3: watch a football match on television it is comfortable and pleasing
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: having friend that speaks another language is help people to professional in that language faster
+supporting Claim T10:
+
+----Premise T11: English school in outside my home country, there are many people that come from different places and from different languages
+----Premise T12: The only language that I could talk to make friends is English language
+----Premise T13: I could talk with my friend without worrying about speaking wrong
+----Premise T14: This reason makes me have a progress in foreign language faster
+
+no arguments attacks Claim T10
+

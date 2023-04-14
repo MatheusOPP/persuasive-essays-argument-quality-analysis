@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: if we don't have a good stress management skill, it may lead to some critical problems
+supporting Claim T3:
+
+----Premise T6: it is widely thought that we experience stress any time, which comes across unexpectedly that frustrates our goals
+----Premise T4: Stress, our body's way of responding to any kind of demand, can be caused by both good and bad experiences
+----Premise T5: Stress may be a positive mobilization to drive for success
+
+no arguments attacks Claim T3
+

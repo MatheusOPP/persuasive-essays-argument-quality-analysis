@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T1
+text: with the advent of internet and online paying systems, you can do many thing at your home easily
+supporting Claim T1:
+
+----Premise T9: Not only with the help of sending email, but also using credit cards to pay all necessary fees online
+----Premise T7: Today, students can apply for foreign universities much easier than before
+----Premise T6: Another important aspect on technology is transferring money
+
+no arguments attacks Claim T1
+

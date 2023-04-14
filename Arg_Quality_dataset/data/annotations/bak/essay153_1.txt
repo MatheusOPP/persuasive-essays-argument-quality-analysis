@@ -1,0 +1,26 @@
+Type: MajorClaim T2
+Text: students understanding the money management techniques will have more positive effects than negative impact
+Supporting MajorClaim T2
+
+    Type: Claim T5
+    Text: teenage students need to understand the money management basics
+    Supporting Claim T5
+
+        Premise: when secondary school students attain the age of undergoing graduation, students ought to stay in hostels or with friends and away from family, during such situations when money management is taught at an early age students will have increased sense of responsibility and confidence
+        Premise: while I was a kid my father used to maintain expense log for the month, I was asked to do the same for my keep track of my pocket money expenses, during my future course of life this became a practice and helped me in planning my expenses
+
+    No arguments attacks Claim T5
+
+    Type: Claim T9
+    Text: having exposed to money management at a high school level will help them in prioritizing the financial commitments efficiently
+    Supporting Claim T9
+
+        Premise: for a student coming from middle class buying a gaming console may not be the need of the hour
+        Premise: buying a gaming console may not be a big deal for a student from an affluent financial background
+        Premise: if financial management is taught at an early age, students will have better sense of understanding of their family financial background and status, students coming up with unrealistic whims and fancies are minimized
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T2
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: parents and adults relatives are the best friends and consular for the teenagers
+supporting Claim T7:
+
+----Premise T9: They cheat young ages
+----supporting Premise T9:
+--------Premise T10: they believe they are immature and they can trap them easily
+
+----no arguments attacks Premise T9
+
+----Premise T8: unfortunately nowadays there are some individuals who cheat the others for gaining more power and money
+
+no arguments attacks Claim T7
+

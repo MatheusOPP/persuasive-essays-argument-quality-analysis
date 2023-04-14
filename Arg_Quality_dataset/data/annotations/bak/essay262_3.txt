@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: under globalization and industrial integration, the work-related challenges for this generation are getting more complicated and challenging
+Supporting Claim T11
+
+    Premise: In the past, focusing on one skill was enough to deal with the problems
+    Premise: every industry was rather small in size and simple to manage
+    Premise: as those industries expand and become internationalized, people are required to equip with multiple skills to answer those challenges
+
+No arguments attacks Claim T11
+

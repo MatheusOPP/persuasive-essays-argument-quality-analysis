@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: serious movie tell you how to see the world in a different way
+supporting Claim T15:
+
+----Premise T13: "Blood diamond", an adaptation of a real story in South Africa, focuses on the link between diamonds and conflict
+----Premise T2: Diamonds are not rare or a sign of true love; indeed, the hidden meaning of a diamond is a cruel reality
+----Premise T12: some of serious movies try to make you think about the dark sides of the world
+----Premise T14: After watching the movie, we may learn a lesson between jewels and death
+
+no arguments attacks Claim T15
+

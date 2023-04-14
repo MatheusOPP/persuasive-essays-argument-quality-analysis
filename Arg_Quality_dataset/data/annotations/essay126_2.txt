@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: close friends can easily understand each others feelings
+supporting Claim T9:
+
+----Premise T10: acquaintances probably not able to understand you better than your friends
+----Premise T11: they wouldn't even spare time to consider your feelings
+----Premise T12: Everyone play the role of acquaintance and friend at the same time
+----Premise T13: Being friendly is a good way to treat a acquaintance but way not enough for a friend
+
+no arguments attacks Claim T9
+

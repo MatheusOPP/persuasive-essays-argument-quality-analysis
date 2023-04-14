@@ -1,0 +1,26 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: pets are useful for a variety of things
+supporting Claim T20:
+
+----Premise T13: nowadays the pet therapy is becoming more popular than before
+----Premise T14: Researchers have discovered that pets can bring benefits in a huge amount of illnesses
+----Premise T17: without them they could not go around all alone
+----supporting Premise T17:
+--------Premise T15: There are dogs who lead blind people around the city
+
+----no arguments attacks Premise T17
+
+----Premise T16: pets are important for depressed people as well
+----supporting Premise T16:
+--------Premise T18: their presence make them feel better
+
+----no arguments attacks Premise T16
+
+----Premise T19: there are dogs who are educated in order to find out criminals or to use their sense of smell to find drugs
+
+no arguments attacks Claim T20
+

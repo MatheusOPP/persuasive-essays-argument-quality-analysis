@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: These experiences taught me to change my life to be a better person
+supporting Claim T3:
+
+----Premise T4: I could find a better way to solve problems
+----Premise T6: these experiences could make me to make plan for my future life
+----Premise T5: experiences could shape me to be more aware about my health
+
+no arguments attacks Claim T3
+

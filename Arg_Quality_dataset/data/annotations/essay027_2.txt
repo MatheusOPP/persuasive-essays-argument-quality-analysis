@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: if the developed countries are unwilling to share their successful experience in education, the developing countries will remain undeveloped, even though they gain a great deal of economic support
+supporting Claim T6:
+
+----Premise T3: the critical method to improve the condition of poor countries is to help them build up a complete educational system instead of financial aid
+----Premise T4: education is an essential part in development
+----supporting Premise T4:
+--------Premise T5: most developing countries are lack of educational resources, such as experienced teachers, evaluation systems and teaching facilities, which is usually neglected by local authorities
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T6
+

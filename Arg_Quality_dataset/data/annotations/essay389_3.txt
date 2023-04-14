@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: the benefits of education can make a man, a society and a developed country
+supporting Claim T14:
+
+----Premise T12: A well-informed man can act sensibly and make sound judgment
+----Premise T13: a skillful man contributes favorably and is valuable to the society
+----Premise T10: Supplementary education provides him with useful knowledge and information
+----Premise T11: A further specific education can teach an individual with skills enough to make a living and be self-sufficient
+----Premise T9: Basic education teaches one child to read and write
+
+no arguments attacks Claim T14
+

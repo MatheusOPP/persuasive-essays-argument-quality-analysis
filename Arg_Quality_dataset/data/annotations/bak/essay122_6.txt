@@ -1,0 +1,11 @@
+Type: Claim T13
+Text: the new high school will be a place for new connections between the student of different communities and districts of the city
+Supporting Claim T13
+
+    Premise: After classes students and not only the students will get together in building of high school, participate in different competitions
+    Premise: during the football match the students of different high schools will come and after the competition they will keep in touch
+    Premise: This will increase the social connections of the students
+
+Attacking Claim T13
+    Premise: The only disadvantage is the noisiness of the competitions
+

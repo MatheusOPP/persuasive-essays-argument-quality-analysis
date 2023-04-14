@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: cooperation is also an essential quality for children, no matter in school activities or in communities
+supporting Claim T10:
+
+----Premise T11: in society, there is hardly anyone who could has big achievement by oneself
+----supporting Premise T11:
+--------Premise T12: famous singers or movie stars, despite of their talent to make them successful, there are always a team to manage works or deal with things
+
+----no arguments attacks Premise T11
+
+----Premise T9: Having a good cooperating spirit helps kids to communicate and get along with others, which gives them more possibility to solve problems or to achieve a goal easily by working as a team
+
+no arguments attacks Claim T10
+

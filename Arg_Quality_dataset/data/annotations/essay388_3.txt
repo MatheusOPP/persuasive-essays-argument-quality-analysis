@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: stringent gun control does not decrease violence and crime
+supporting Claim T7:
+
+----Premise T8: most gun violence is committed with guns obtained illegally
+----Premise T9: People who are intent to commit crime and control cities through gang violence and other means will find a way to continue to use guns, regardless of gun control
+
+no arguments attacks Claim T7
+

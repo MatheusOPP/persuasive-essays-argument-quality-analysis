@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: requiring students to study in many subjects is good for them
+supporting Claim T8:
+
+----Premise T5: when students finished their high schools, they are confused about subjects that they are going to choose to study in universities
+----supporting Premise T5:
+--------Premise T6: they interested in many subjects and they want to try them all
+
+----no arguments attacks Premise T5
+
+----Premise T7: pupil who want to study science are also like to learn music
+
+no arguments attacks Claim T8
+

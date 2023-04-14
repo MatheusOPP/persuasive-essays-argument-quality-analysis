@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: excessive violence would offer misleading information to the public and exert detrimental influence to the society as well
+Supporting Claim T5
+
+    Premise: It is recently reported in the news that a seventeen-year-old boy killed all his family members, one sister and two parents out of hatred and jealousy
+    Premise: In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure
+
+Attacking Claim T5
+    Premise: Violence, as one of the facts in the real world, certainly has to be reported
+

@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: we should convey corresponding policies and knowledge to the public and society
+Supporting Claim T5
+
+    Premise: the government and firms could have significant influences on environmental awareness of people
+    Premise: It is necessary for every citizen to have the awareness and knowledge of environment protection
+    Premise: the government controls many influential media, such as TV stations and newspapers, which can provide plenty of environmental knowledge and related policies to citizens
+
+No arguments attacks Claim T5
+

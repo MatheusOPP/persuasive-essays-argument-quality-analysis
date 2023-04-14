@@ -1,0 +1,10 @@
+Type: Claim T16
+Text: The internet makes the world becomes smaller which is a good thing
+Supporting Claim T16
+
+    Premise: people who have no time or have financial problems could travel around the world by using the internet
+    Premise: They can see lots of picture and videos of many interesting places
+    Premise: people can learn other countries's culture and tradition which makes them have more knowledge about that nations
+
+No arguments attacks Claim T16
+

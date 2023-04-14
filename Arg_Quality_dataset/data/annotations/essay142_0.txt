@@ -1,0 +1,56 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: the advanced medical care brings with it more benefits than disadvantages
+supporting MajorClaim T3:
+
+----type: Claim T2
+----text: the improvement of medical care makes a better life for all people
+----supporting Claim T2:
+
+--------Premise T10: young people will be happy as their parents, grandparents are healthy
+--------Premise T9: a community with the elderly who have a good health has a major role to play in a sustainable development of a society
+
+----no arguments attacks Claim T2
+
+----type: Claim T4
+----text: The main advantage of high-tech medical care is that people are better taken care so that they have a good health
+----supporting Claim T4:
+
+--------Premise T5: They can contribute effectively to the development of the economy
+--------supporting Premise T5:
+------------Premise T6: healthy workers can create more productivity
+
+--------no arguments attacks Premise T5
+
+--------Premise T8: this saves an amount of time as well as cost
+--------supporting Premise T8:
+------------Premise T7: they do not have to spend more time in health checking or treatment
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T4
+
+----Claim T17: It helps people build a sustainable society where people can live a happy life when they are old
+
+attacking MajorClaim T3:
+----Claim T1: the increase in life expectancy has some pressure on the Medicare system
+----type: Claim T11
+----text: the increase in life expectancy puts a high pressure on the economic system
+----supporting Claim T11:
+
+--------Premise T12: more pension have to spend for Medicare instead of investing in other sectors of the economic system
+
+----attacking Claim T11:
+--------Premise T14: they are worth to have good care
+--------supporting Premise T14:
+------------Premise T13: the capital that spend on taking care the elderly is contributed by these people during their working time
+------------Premise T15: They have given their effort to the society so that young people, the governments have a responsibility to improve the Medicare system
+
+--------no arguments attacks Premise T14
+
+
+

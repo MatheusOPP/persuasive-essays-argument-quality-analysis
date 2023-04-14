@@ -1,0 +1,53 @@
+Type: MajorClaim T3
+Text: young age is the perfect time for children to learn music and art
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: Music and art can accompany a spirit as long as they are given the chance to enter his/her life
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+    Type: Claim T12
+    Text: even if children are not going to be great musicians or artists, learning music and art is still worthy
+    Supporting Claim T12
+
+        Premise: They teach us how to appreciate beauty and express feelings in a creative way
+        Premise: music and art are life-long cultivation worthy of investing
+        Premise: They are essential to our spiritual life
+        Premise: it can nourish your temper and serve as a leisure
+
+    No arguments attacks Claim T12
+
+    Type: Claim T7
+    Text: it's very suitable for children to develop senses of music and art when they are young
+    Supporting Claim T7
+
+        Premise: Children absorb things quickly and they bear exact the ability needed in music and art-imagination
+        Premise: Music and art are not like math or language which has more strict rules
+        Premise: Children are privileged to have these abilities
+        Premise: Even if their performances are just some simple drawings and melodies, music and art still bring out children's joy of flying in imagination
+
+    No arguments attacks Claim T7
+
+    Type: Claim T23
+    Text: they are indeed valuable to people not only in their young stage, but in every stage
+    Supporting Claim T23
+
+
+    No arguments attacks Claim T23
+
+
+Attacking MajorClaim T3
+    Type: Claim T17
+    Text: parents shouldn't put so much stress on children
+    Supporting Claim T17
+
+        Premise: learning too many skills seems to be a burden for them
+
+    Attacking Claim T17
+        Premise: it depends on how you value these learning activities to be like
+        Premise: it will not be such pressure on children
+
+

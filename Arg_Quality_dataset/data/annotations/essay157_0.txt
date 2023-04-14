@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: information is power
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: by using different sources of information we can guarantee its reliability
+----supporting Claim T2:
+
+--------Premise T3: Some people may disinform you on purpose, that's why it is rather unwise to make conclusions before you are confident of the information
+--------Premise T4: Russian news announced that the war between Osetia and Georgia had been initiated by Georgia, however, european news announced that it was initiated by Russia
+--------Premise T5: After a while the situation became clear, but before that a lot of people had already condemned the actions of Russia
+
+----no arguments attacks Claim T2
+
+----type: Claim T7
+----text: you have to look through different sources before you manage to find some reliable facts
+----supporting Claim T7:
+
+--------Premise T12: it is very important to know facts about some events or problem, not only estimations
+--------supporting Premise T12:
+------------Premise T13: it can help you to make your own conclusion or estimate
+
+--------no arguments attacks Premise T12
+
+--------Premise T8: It is possible to make a wrong decision
+--------Premise T9: you have just used someone's personal opinion as a source of information, but it was actually wrong
+--------Premise T10: several years ago in Moscow salt became two times more expensive only in one week, because people thought that soon there would be no salt in the shops
+--------Premise T11: The gossip-based information dramatically influenced the prices and only after official announcement the "salt-panic" was over
+
+----no arguments attacks Claim T7
+
+
+no arguments attacks MajorClaim T1
+

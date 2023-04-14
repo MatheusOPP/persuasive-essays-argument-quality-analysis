@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: the convicted will also receive a fair action
+supporting Claim T11:
+
+----Premise T9: exposing them to the past records of the criminal can give them more room to think rationally and finally put the pieces together in order to produce a more meaningful decision
+----supporting Premise T9:
+--------Premise T12: juries are a group of people who have no or less knowledge regarding law
+
+----no arguments attacks Premise T9
+
+----Premise T10: the juries will have a sense of relief that they have come up with better conclusion based on plenty of evidences
+----Premise T13: a fair trial can be achieved
+
+no arguments attacks Claim T11
+

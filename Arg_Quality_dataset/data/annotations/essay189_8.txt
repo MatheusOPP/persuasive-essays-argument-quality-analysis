@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T21
+text: they should take advantage of life as much possible they can
+supporting Claim T21:
+
+----Premise T23: He would miss various childhood activities such as hang out with friends, clubs and fun activities and social interaction with others
+----Premise T20: the main drawback of teenagers job is that, they miss out the fun of their childhood time
+----Premise T22: They have whole life to do job and prove themselves, but the childhood phase will never return in their life
+
+no arguments attacks Claim T21
+

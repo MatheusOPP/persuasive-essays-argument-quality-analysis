@@ -1,0 +1,15 @@
+Type: MajorClaim T2
+Text: people choose to become vegetarians for health and religious concern rather than the benefits of animals
+Supporting MajorClaim T2
+
+    Type: Claim T11
+    Text: it is vital to follow one's own religious practices which can bring the enlightenment in mind
+    Supporting Claim T11
+
+        Premise: eating their meat mean you eat the flesh of your parent sentient beings
+
+    No arguments attacks Claim T11
+
+
+No arguments attacks MajorClaim T2
+

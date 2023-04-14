@@ -1,0 +1,7 @@
+Type: MajorClaim T2
+Text: the tourism sector is desirable for its important socioeconomic advantages
+Supporting MajorClaim T2
+
+
+No arguments attacks MajorClaim T2
+

@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: communicating by e-mail is easy
+Supporting Claim T4
+
+    Premise: Many people have problems with calling a person that they are not acquainted with
+    Premise: In this case it is not so difficult to write an e-mail or to leave a voice mail
+
+No arguments attacks Claim T4
+

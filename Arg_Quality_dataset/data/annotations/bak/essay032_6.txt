@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: aiding campaign gives a chance to considerate about poor people
+Supporting Claim T11
+
+    Premise: If people in rich countries ponder poor people suffering from poverty and diseases, they would never take their abundance for granted
+    Premise: It not only raises the notice the meaning of harmony and love, but also be a good chance to learn humane doctrine of globalization
+
+No arguments attacks Claim T11
+

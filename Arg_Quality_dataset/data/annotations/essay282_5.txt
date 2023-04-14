@@ -1,0 +1,11 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: And everyone should find the time to do more and more to feel better physically and in everyone mind
+supporting Claim T17:
+
+
+no arguments attacks Claim T17
+

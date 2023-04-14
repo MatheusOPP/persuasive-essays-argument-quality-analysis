@@ -1,0 +1,11 @@
+Type: Claim T3
+Text: keeping animals in captivity is wrong
+Supporting Claim T3
+
+    Premise: animals should be considered non-human persons and they should have the right of having freedom
+    Premise: This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures
+    Premise: The animals are often undernourished and do not have sufficient quality and quantity of medical treatment
+    Premise: sometimes animals from hot countries have to survive in the cold winter of somewhere in Europe
+
+No arguments attacks Claim T3
+

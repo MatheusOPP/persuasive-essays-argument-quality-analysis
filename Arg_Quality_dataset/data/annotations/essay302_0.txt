@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: saving some part of your earnings is essential
+supporting MajorClaim T1:
+
+----Claim T2: you can not predict future developments, neither in your professional nor your personal life, furthermore with savings you can fulfill some of your dreams
+----type: Claim T6
+----text: The global economic conditions in these days are tough and there are many unpredictable factors that make it necessary to have some money on your bank account
+----supporting Claim T6:
+
+--------Premise T7: there are several uncertainties about your professional future
+--------Premise T5: I remember some friends who lost their jobs recently due to the economic crisis in Europe
+--------Premise T3: they had to move back in with their families and they lost their independence
+--------supporting Premise T3:
+------------Premise T4: They could not afford the rent
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T8
+----text: It is possible that in the future you have some unavoidable expenses that you could not afford without savings
+----supporting Claim T8:
+
+--------Premise T9: you can not be sure about the development in your personal life
+--------Premise T10: Back in university I remember a friend of mine who had just little savings and he had to deal with a major repair of his car
+--------Premise T12: he had to sell it
+--------supporting Premise T12:
+------------Premise T11: He could not afford the maintenance
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T8
+
+----type: Claim T13
+----text: Working hard and saving money for later on investments is a great way of getting a satisfying feeling and to reward yourself for something you have accomplished
+----supporting Claim T13:
+
+--------Premise T14: with savings you can afford some luxurious goods and fulfill your dreams
+--------Premise T15: I made a month-long backpack trip through Southeast Asia last summer with my girlfriend
+--------Premise T16: Without our savings we could not have pursued our long-time dream
+
+----no arguments attacks Claim T13
+
+
+no arguments attacks MajorClaim T1
+

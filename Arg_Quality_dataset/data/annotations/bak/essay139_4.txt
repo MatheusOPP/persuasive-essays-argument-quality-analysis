@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: We should put our own survival and sustainment in order first before considering the conservation of other species
+Supporting Claim T11
+
+    Premise: When these problems are taken into account, extinction of some animals recedes greatly in importance and it is not sensible to devote our limited resources to animals that have been past help
+    Premise: human beings nowadays are still faced with many urgent problems such as starvation, disease and wars
+
+No arguments attacks Claim T11
+

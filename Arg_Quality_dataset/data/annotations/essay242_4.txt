@@ -1,0 +1,32 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: beautiful environment is one of basic physiological needs, which are the most fundamental requirements for people
+supporting Claim T13:
+
+----Premise T14: Without beautiful environment, people are not able to feel happiness and will fell anxiety
+----Premise T15: Nowadays, the fast development of economy is gradually destroying our environment very quickly
+----Premise T16: Factories released a huge amount of wasters into river and soil
+----Premise T17: In order to build city and factory, people destroy huge forests
+----Premise T18: In China, some residents who live in nearby some toxic factories became sick
+----supporting Premise T18:
+--------Premise T19: these factories release a lot of toxic water and wasters into environment around people
+
+----no arguments attacks Premise T18
+
+
+attacking Claim T13:
+----Premise T20: local residents benefits from an increasing number of jobs which are provided by those factories
+----supporting Premise T20:
+
+----attacking Premise T20:
+--------Premise T21: they cannot feel happiness from high-paying job
+--------supporting Premise T21:
+------------Premise T22: most of them suffer from cancer or other diseases
+
+--------no arguments attacks Premise T21
+
+
+

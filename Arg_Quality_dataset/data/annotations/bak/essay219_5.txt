@@ -1,0 +1,8 @@
+Type: Claim T11
+Text: This transformation may bring positive impacts to family in some cases
+Supporting Claim T11
+
+    Premise: More men, on the other hand, are willing to participate in cooking that they had never done before
+
+No arguments attacks Claim T11
+

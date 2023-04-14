@@ -1,0 +1,28 @@
+Type: MajorClaim T2
+Text: if this endeavour is properly implemented by schools, this will most likely lead to improvement of learning ability among children
+Supporting MajorClaim T2
+
+    Type: Claim T13
+    Text: the advantages of early introduction of foreign language outweigh its disadvantages
+    Supporting Claim T13
+
+        Premise: kids are amazing learners, and the best time to hone them is in their younger years
+        Premise: the positive impact of this strategy is beneficial to both learners and teachers
+        Premise: Teachers will not find it difficult to make students learn such new concept in their teenage years
+
+    Attacking Claim T13
+        Premise: The introduction of foreign language will be new to them
+
+
+Attacking MajorClaim T2
+    Type: Claim T6
+    Text: children might not be really comfortable with the use of a language other than their native tongue when they are in their kindergarten years
+    Supporting Claim T6
+
+        Premise: Learning at school must be convenient for them if they speak in a way that they are used to
+        Premise: teachers think that foreign language most likely leads to confusion for children who are yet to start learning
+        Premise: the teacher should be well-trained in the use of this specific language, so quality education will be delivered
+
+    No arguments attacks Claim T6
+
+

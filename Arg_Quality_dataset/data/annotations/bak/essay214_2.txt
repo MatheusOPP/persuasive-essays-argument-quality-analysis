@@ -1,0 +1,7 @@
+Type: Claim T5
+Text: smoking not only damages the restaurant's environment, but also imposes a potential threat on others' health
+Supporting Claim T5
+
+
+No arguments attacks Claim T5
+

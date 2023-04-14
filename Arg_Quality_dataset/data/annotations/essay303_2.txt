@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: living your life on the fast lane is very stressful and can affect your health
+supporting Claim T8:
+
+----Premise T3: If you are always hurried and you do not take a certain time off, your body will react to your stressful lifestyle
+----Premise T4: Many hardworking people have diseases, like the burn-out syndrome
+----supporting Premise T4:
+--------Premise T5: their bodies cannot hold the pace
+
+----no arguments attacks Premise T4
+
+----Premise T6: my father had a a breakdown several years ago due to his stressful job
+----Premise T7: After several weeks off his body was restored, now he has reduced the tempo of his lifestyle and is doing fine
+
+no arguments attacks Claim T8
+

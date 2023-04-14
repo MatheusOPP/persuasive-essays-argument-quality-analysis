@@ -1,0 +1,40 @@
+Type: MajorClaim T2
+Text: people should, especially for ones lacking basic aesthetic knowledge, care more about fashion trends in lives as they can keep pace with the world's changes
+Supporting MajorClaim T2
+
+    Type: Claim T4
+    Text: following fashion trends enables people to keep up with the world's latest transformations, which is of vital importance if we consider the fact that people are living in a global village today
+    Supporting Claim T4
+
+        Premise: When individuals keep the habit of grasping the world's cutting-edge fashion information, they are gradually changing their attitudes to viewing the world, which means they are more open to accept diverse voices from people around the world
+        Premise: they might fall behind shortly
+
+    No arguments attacks Claim T4
+
+    Type: Claim T9
+    Text: Without following fashion trends, such people would have a hard time choosing and matching clothes, let alone forming their own dressing styles
+    Supporting Claim T9
+
+        Premise: people with inadequate aesthetic knowledge or poor originality develop their own senses of fashion when treasuring the latest fashion information
+
+    No arguments attacks Claim T9
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: creative design talents can value their own dressing ideas, developing their own fashion styles as they like
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T12
+    Text: the world would look monotonous
+    Supporting Claim T12
+
+        Premise: Individuals purchase their clothes according to the latest fashion trends, which may result in the phenomenon that people would wear the same style of clothes
+        Premise: following fashion trends constantly may undermine individuals' personalities
+
+    No arguments attacks Claim T12
+
+

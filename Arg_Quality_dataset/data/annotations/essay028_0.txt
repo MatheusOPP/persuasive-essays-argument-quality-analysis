@@ -1,0 +1,41 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: Society does need an advertising but it is our responsibility to control the content and what kind of goods and services we would like to offer to our customers
+supporting MajorClaim T1:
+
+----Claim T3: Ads will keep us well informed about new products and services
+----type: Claim T9
+----text: by advertising companies, businesses, firms and individuals promote their goods and services
+----supporting Claim T9:
+
+--------Premise T10: Thanks to ads we learn about new products, we can compare them and choose what’s the best for us
+
+----no arguments attacks Claim T9
+
+----type: Claim T11
+----text: These days, not only many businesses, but also governments have to rely on advertising
+----supporting Claim T11:
+
+--------Premise T12: tourism makes up one-third of the Czech Republic's economy
+--------Premise T13: In order to promote the country's attractions, the Czech government has to advertise and sell its services to foreign consumers
+--------Premise T14: Only well planned and well targeted advertising will bring more foreign tourists to the country
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----Claim T4: advertising cigarettes and alcohol will definitely affect our children in negative way
+----type: Claim T5
+----text: advertising alcohol, cigarettes, goods and services with adult content should be prohibited
+----supporting Claim T5:
+
+--------Premise T6: these kind of ads will have negative effect to our children
+--------Premise T7: Youngsters might be tempted to buy cigarettes or alcohol and later to start consume it on a daily basis
+--------Premise T8: some countries take this issue seriously and advertising alcohol, cigarettes and materials with adult content is banned on those countries
+
+----no arguments attacks Claim T5
+
+

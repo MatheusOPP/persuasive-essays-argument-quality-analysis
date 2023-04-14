@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: no matter how widely they are spoken, every language should be protected from being disappeared
+supporting MajorClaim T1:
+
+----type: Claim T10
+----text: the government should try to preserve minority languages
+----supporting Claim T10:
+
+--------Premise T15: saving the use of that kinds of languages in this case generally is the most important element of the cultural diversity's preservation
+--------supporting Premise T15:
+------------Premise T14: language is one of the essential factors creating the differences and unique cutures in the world
+
+--------no arguments attacks Premise T15
+
+--------Premise T13: it deserves to be respected and preserved
+--------supporting Premise T13:
+------------Premise T12: forming a language must be undergone thousands of years
+
+--------no arguments attacks Premise T13
+
+--------Premise T11: language can be seen as much more than just one method of communication
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----Claim T2: letting languages spoken by ethnic minorities be extinct seems to be very beneficial
+----Claim T8: in many aspects such as communication, trade, cooperation as well as transaction, it will be absolutely easier for the whole society to work together in one language only
+----type: Claim T9
+----text: saving regional languages could be seen as a waste of money
+----supporting Claim T9:
+
+--------Premise T4: we need to consider that if the government expands the use scope of that languages, it can be really expensive
+--------supporting Premise T4:
+------------Premise T5: educational programmes will need to be given so as to keep young people learning and using them
+------------Premise T7: the local government has recently struggled with their costly investments on language teachers, facilities and appropriate materials
+------------supporting Premise T7:
+----------------Premise T6: some certain areas in the Southern Vietnam have been trying to help their secondary school students who are originally from khmer people speak their language beside Vietnamese
+
+------------no arguments attacks Premise T7
+
+
+--------no arguments attacks Premise T4
+
+
+----no arguments attacks Claim T9
+
+

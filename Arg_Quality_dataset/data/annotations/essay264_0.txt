@@ -1,0 +1,40 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: success and trying new things and taking risks go hand in hand and to achieve success you should consider them
+supporting MajorClaim T3:
+
+----Claim T2: great success requires taking great risks
+----Claim T1: successful people can learn important and very valuable points from trying new things
+----type: Claim T7
+----text: These experiences can only be obtained by trying new things and can’t be always found in books
+----supporting Claim T7:
+
+--------Premise T8: There are always interesting and useful experiences that successful people can learn them only by trying new things
+--------Premise T4: if you want to know how to act effectively when communicating with people, you can try something new like salesmanship in various stores and places
+--------Premise T6: you will learn how to behave people in different situations and jobs in the future
+--------supporting Premise T6:
+------------Premise T5: By selling goods or other commodities you will face different people with different behaviors and personalities
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Claim T7
+
+----type: Claim T12
+----text: it is important to take risks
+----supporting Claim T12:
+
+--------Premise T14: great success requires taking great risks
+--------Premise T11: The more you take risks, the greater your successes will be
+--------Premise T13: If you don’t take any risks, you will have an ordinary life with average successes
+--------Premise T9: If you want to gain very high profits in investments, you should use great and very high amounts of money in very risky financial decisions and dealings in which you may lose much amount of money
+--------Premise T10: If you want to achieve a remarkable success in an important exam, you should risk studying all the time and sacrificing your free time and your favorite hobbies
+
+----no arguments attacks Claim T12
+
+
+no arguments attacks MajorClaim T3
+

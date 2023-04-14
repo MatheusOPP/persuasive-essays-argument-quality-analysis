@@ -1,0 +1,12 @@
+Type: Claim T3
+Text: Technology revolutionized the way we communicate
+Supporting Claim T3
+
+    Premise: nowadays, to keep in touch with loved ones in faraway places has become easy than ever
+    Premise: it is almost possible to do everything without tete-a-tete
+    Premise: By means of some software such as Skype, MSN, Whatsapp we can get in touch with everybody whenever we want
+    Premise: in earlier times, people didn't leave for faraway places
+    Premise: This is also one salient prove that the development of technology was a very positive
+
+No arguments attacks Claim T3
+

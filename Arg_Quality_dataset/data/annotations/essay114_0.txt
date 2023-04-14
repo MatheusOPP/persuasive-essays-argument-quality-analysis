@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I do not agree that this explosion in technology will 'innovate' the education system, by replacing teachers with computers
+supporting MajorClaim T1:
+
+----Claim T4: Teachers are not just teachers, they are also friends and conseilieurs
+----type: Claim T5
+----text: computers need to be operated by people
+----supporting Claim T5:
+
+--------Premise T9: No one can argue that technological tools are must-haves for the classroom of today
+--------Premise T8: lessons are more attractive and easier to understand when they are put on a Power Point presentation and then presented with a LCD Projector
+--------Premise T7: scientists prove that every classroom needs trained staff to use these interactive and innovative ways of teaching
+--------Premise T6: they are just tools for teachers and they cannot work properly without human's touch
+
+----no arguments attacks Claim T5
+
+----type: Claim T10
+----text: children need human interactions
+----supporting Claim T10:
+
+--------Premise T14: No matter how advanced technology will be, it is clear that a computer will never be able to communicate with its pupils
+--------Premise T11: As a recent interview with Josh Trumm – the founder of the 'Teachers Global Group'- reveals, human interactions will never be imitated by computers: 'This verbal and non-verbal communication between teachers and children is the first step towards a proper educatio
+--------Premise T12: Without someone who can explain and understand their problems, pupils cannot actually learn'
+--------Premise T13: only a teacher can feel and connect with pupils, be a friend and a model
+
+----no arguments attacks Claim T10
+
+
+no arguments attacks MajorClaim T1
+

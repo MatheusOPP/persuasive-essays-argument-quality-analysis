@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T19
+text: you can also enjoy the beautiful nature when doing some outdoor activities like going hiking, sunbathing, going biking
+supporting Claim T19:
+
+----Premise T20: If you spend your spare time at home or something like that, you can't enjoy beautiful nature
+
+no arguments attacks Claim T19
+

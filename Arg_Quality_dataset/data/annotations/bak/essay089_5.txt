@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: farmlands are vital for human life
+Supporting Claim T9
+
+    Premise: We need farmland to grow crops such as wheat and corn, and there is no doubt that without food people cannot alive for more than some weeks
+    Premise: human needs for food is increasing as well
+
+No arguments attacks Claim T9
+

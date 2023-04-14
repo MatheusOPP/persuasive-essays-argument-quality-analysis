@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: high-tech fertilizers pose a potential threat to individuals' health well-being
+supporting Claim T6:
+
+----Premise T8: consumers who intake those fertilized products on a regular base tend to suffer a series of disease in the future
+----supporting Premise T8:
+--------Premise T7: Unlike the organic plant foods, industrialized fertilizers are made of unusual chemicals, which are not only varying the gene of crops into those unknown substances but also remaining inside of plants permanently
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T6
+

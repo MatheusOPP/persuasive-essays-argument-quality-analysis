@@ -1,0 +1,8 @@
+Type: Claim T13
+Text: in the countryside there are many places to rest, because of its location
+Supporting Claim T13
+
+    Premise: peaceful and close to the nature areas could help to avoid worries and sadness
+
+No arguments attacks Claim T13
+

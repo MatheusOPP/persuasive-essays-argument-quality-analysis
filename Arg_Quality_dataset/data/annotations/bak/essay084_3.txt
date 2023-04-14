@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: the money can be used for other intentions rather than giving hand phones to the unemployed
+Supporting Claim T9
+
+    Premise: the money can be used to build more amenities for the public or given to the poor so that they can use it to help them earn a living
+    Premise: the money instead of being used to supply the electronic gadget can be used for other useful purposes for the country
+    Premise: supplying hand phones to the unemployed is a waste of the taxpayers' money
+
+No arguments attacks Claim T9
+

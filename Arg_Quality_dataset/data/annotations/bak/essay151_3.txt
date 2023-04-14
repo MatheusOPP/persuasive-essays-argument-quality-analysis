@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: A world with fewer languages helps us interact with each other in a better way
+Supporting Claim T4
+
+    Premise: communicating in single language will reduce the problems of travelers in daily activities like ordering food in a restaurant or in going around places
+    Premise: students who migrate for better education would not have to go through lot of stress
+    Premise: Single language also reduces misunderstandings between people
+    Premise: exchange of knowledge in different sectors of research like electronics, medical, astronomy etc would become easier
+
+No arguments attacks Claim T4
+

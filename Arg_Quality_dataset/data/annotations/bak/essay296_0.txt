@@ -1,0 +1,37 @@
+Type: MajorClaim T3
+Text: technologies made our lives more complicated
+Supporting MajorClaim T3
+
+    Type: Claim T20
+    Text: technology destroys the language
+    Supporting Claim T20
+
+        Premise: they created their own language to communicate
+        Premise: they use a lot of abbreviations and broken language
+        Premise: This has gotten worse with twitter, myspace, and facebook
+        Premise: What are even worse, young people who are still in the early ages are exposed to them and impeded by the newly developed inventions
+        Premise: my younger brother does not know how to spell the words correctly and he talks to his friends with terms that I have never heard of
+        Premise: I have tried to correct him for couple times but he just thinks that I am too conservative
+
+    No arguments attacks Claim T20
+
+
+Attacking MajorClaim T3
+    Type: Claim T1
+    Text: technologies allowed us to have a convenient life
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+    Type: Claim T11
+    Text: new technologies are always great
+    Supporting Claim T11
+
+
+    Attacking Claim T11
+        Premise: it takes time for people to adapt them
+        Premise: many people often get lost
+        Premise: even though I used it for couple months, I still do not know how to use all the features proficiently
+
+

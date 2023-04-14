@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: the capacity to plan and organize also help young people to eliminate the crisis in their actions, which may ruin one's whole effort over a very long time
+supporting Claim T7:
+
+----Premise T11: Every employee can not afford this kind of loss
+----Premise T9: If some employees lack the ability to plan and organize ahead, they may get the procrastination and therefore take into action until the deadline is imminent
+----supporting Premise T9:
+--------Premise T8: the employees in every company have to create profit as much as they can for their supervisors and complete their assignments perfectly
+
+----no arguments attacks Premise T9
+
+----Premise T10: those employees who did not plan and finish their assignments ahead of time perhaps are unable to finish these tasks on time and therefore will be penalized or get fired
+----supporting Premise T10:
+--------Premise T12: the deadline of task is shifted to an earlier date for the change of company's schedule
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T7
+

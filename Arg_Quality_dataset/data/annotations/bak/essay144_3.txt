@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: focusing only on talented students is a better option
+Supporting Claim T4
+
+    Premise: it helps academic institutions maintain their high education quality
+    Premise: Unlike middle school or high school, university and college require far a lot of ability and skills to keep up with an enormous amount of complex knowledge
+    Premise: some students may be capable in high schools, but the pressure of higher education is tough even for talented ones
+    Premise: That explains why it is only suitable for a limited people, and opening up for everyone will be fatal for institutions
+
+No arguments attacks Claim T4
+

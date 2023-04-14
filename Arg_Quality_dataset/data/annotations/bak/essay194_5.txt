@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: various zoos do not have the proper implements or policies that assure the quality of animal care
+Supporting Claim T9
+
+    Premise: I was shocked by the cruelty which animals were treated
+    Premise: I can not think of any staff memeber who did not have an improper behaviour towards the animlas in the zoo
+    Premise: They beat them up
+
+No arguments attacks Claim T9
+

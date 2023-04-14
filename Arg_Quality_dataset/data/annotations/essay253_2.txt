@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: by explaining how the subject contributes to daily life, students will have vivid impression on that subject thus become more interested and active in acquiring the knowledge on that subject
+supporting Claim T4:
+
+----Premise T5: Take chemistry for example, merely memorizing the names of the substances and the structural formulas seems to be very boring, while representing where and how those chemical reactions really happen near students will raise their curiosity and lead them to digest those theories learned from the class
+----Premise T6: While I was in senior high school, my chemical teacher once showed us how the detergent dissolves oil by an experiment and later on taught us how to describe this process with formal structural formulas
+----Premise T7: This type of learning method is more fun and eventually the results are good
+----Premise T8: I connected the visual images of that experiment with the formula and I barely forget, even though now I'm not studying chemistry anymore
+
+no arguments attacks Claim T4
+

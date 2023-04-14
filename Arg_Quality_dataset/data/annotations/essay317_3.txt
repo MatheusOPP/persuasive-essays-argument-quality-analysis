@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: Our difficult experiences also make us robust and strong unknowingly
+supporting Claim T16:
+
+----Premise T15: We might be facing a toughest time of life at the time, but when we think back about those moments later in life, we feel more confident about our decisions and about ourselves
+----Premise T14: When I moved to college hostel after school, first few days were very unsettling for me
+----supporting Premise T14:
+--------Premise T11: first time I was away from parent and staying with people I had not known
+
+----no arguments attacks Premise T14
+
+----Premise T12: I had felt very fragile and emotionally distracted, but then slowly I started adjusting with roommates and built connection with them
+----Premise T13: I also became more casual and social with others, this experience increased my communication skill and social speaking skills
+
+no arguments attacks Claim T16
+

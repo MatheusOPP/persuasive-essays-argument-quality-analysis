@@ -1,0 +1,38 @@
+Type: MajorClaim T2
+Text: technology has a great contribution to our lives and civilization
+Supporting MajorClaim T2
+
+    Type: Claim T1
+    Text: We can not neglect profound impact of great technological process on human life
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+    Type: Claim T3
+    Text: thanks to modern technology invented recently, human life has been improved dramatically
+    Supporting Claim T3
+
+        Premise: Air-conditioners, computers, cellphones, washing machines, for example, is likely to be seen as greatest inventions helping people to reduce stress and time for other activities
+        Premise: applying technological science into the preparation of medications also plays a significant role in saving the number of patients' lives
+
+    No arguments attacks Claim T3
+
+
+Attacking MajorClaim T2
+    Type: Claim T6
+    Text: technological products have devastated the natural environment indirectly through its production process
+    Supporting Claim T6
+
+        Premise: exploiting and collecting raw materials as well as essential fuels to serve the production of technological products have destroyed nature seriously
+
+    No arguments attacks Claim T6
+
+    Type: Claim T8
+    Text: technology may decrease a great deal of creativity in certain groups of people especially children and the youth due to the dependence upon available achievements
+    Supporting Claim T8
+
+
+    No arguments attacks Claim T8
+
+

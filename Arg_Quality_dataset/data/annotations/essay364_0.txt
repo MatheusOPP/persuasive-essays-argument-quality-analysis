@@ -1,0 +1,65 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: traditional skills and ways are always valuable and will last forever
+supporting MajorClaim T1:
+
+----type: Claim T8
+----text: traditional skills and ways belong to value of culture
+----supporting Claim T8:
+
+--------Premise T3: They make differences between countries
+--------Premise T6: they keep reserving conventions
+--------supporting Premise T6:
+------------Premise T5: people feel pround of their country
+------------supporting Premise T5:
+----------------Premise T4: Every country has unique tradtions which show their creation, intelligence
+
+------------no arguments attacks Premise T5
+
+
+--------no arguments attacks Premise T6
+
+--------Premise T7: ways to build a house in every country are different and they distinguish between countries
+
+----no arguments attacks Claim T8
+
+----type: Claim T14
+----text: in some cases that traditional way can not replace by a new technology
+----supporting Claim T14:
+
+--------Premise T9: Lot of people like to use traditional things because if their quality and durability
+--------supporting Premise T9:
+------------Premise T10: vases are made by hand would be used more
+
+--------no arguments attacks Premise T9
+
+--------Premise T11: there are plenty of works that using traditional way is unique method
+--------supporting Premise T11:
+------------Premise T12: making cone hats from leaves have to use hand
+------------supporting Premise T12:
+----------------Premise T13: Not only because there is no machine for the work, but also it looks more beautiful when it is made by hand, so resulting in greater value economy
+
+------------no arguments attacks Premise T12
+
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Claim T14
+
+----type: Claim T15
+----text: Traditional skills and ways of life will help youngsters study and know more history
+----supporting Claim T15:
+
+--------Premise T16: Methods which their ancestors used in the past will be displayed again for new generations
+--------Premise T17: they might create somethings that are useful for life
+
+----no arguments attacks Claim T15
+
+
+attacking MajorClaim T1:
+----Claim T2: technology has brought many benefits
+

@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: one can also shine without even having to attend universities
+supporting MajorClaim T1:
+
+----type: Claim T8
+----text: there are also a significant number of people who are very successful in their fields without going to university
+----supporting Claim T8:
+
+--------Premise T9: Take for instance those who start their own business
+--------Premise T10: These people depend solely on hard work and luck
+--------Premise T11: for some of them it proved to be a profitable job
+--------Premise T12: Michael Dell who is the founder and the CEO of Dell left college at 19
+--------Premise T13: he started his computer company in his college dorm room
+--------Premise T14: he used his earnings as well as his family's loan in order to progress to be who he is now
+
+----no arguments attacks Claim T8
+
+----type: Claim T16
+----text: individuals born with talents have also a high chance to be successful
+----supporting Claim T16:
+
+--------Premise T18: The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph
+--------supporting Premise T18:
+------------Premise T19: David Archuleta who was once a nobody has now taken up a large space in hearts of many
+
+--------no arguments attacks Premise T18
+
+--------Premise T17: This is especially true in sectors like entertainment and sports
+--------Premise T15: people with natural talents are also most likely to excel in their life
+
+----no arguments attacks Claim T16
+
+
+attacking MajorClaim T1:
+----Claim T3: it is indeed true that university education is pivotal in a person's life in order for one to prosper
+----type: Claim T4
+----text: it is certainly true that university education is of paramount importance for certain professions such as doctor, engineer and lawyer
+----supporting Claim T4:
+
+--------Premise T5: Without proper training and knowledge, it would be impossible for them to perform their best in their careers
+--------Premise T6: Not only that, when they are in a university, they will have the opportunity to share their knowledge as well as to network for business associates and partners
+--------Premise T7: This can benefit them in future when they intend to open up their own companies or hospitals
+
+----no arguments attacks Claim T4
+
+

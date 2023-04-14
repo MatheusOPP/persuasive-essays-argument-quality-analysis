@@ -1,0 +1,11 @@
+Type: Claim T17
+Text: you might make mistakes, you would not have done with more patience
+Supporting Claim T17
+
+    Premise: When you are faced with difficult tasks and you do them in a rush, you are more likely to do avoidable errors or mistakes
+    Premise: Doing tasks in a hurry may end up in not considering all necessary aspects or opportunities
+    Premise: quality takes time
+    Premise: I once wrote an essay in a hurry and got a bad grade
+
+No arguments attacks Claim T17
+

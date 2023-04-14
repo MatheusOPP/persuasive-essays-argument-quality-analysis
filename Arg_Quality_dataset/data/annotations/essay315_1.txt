@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: living in a dynamic environment can turn into a very rich experience that sharpens one's personality and open one's eyes on the real world
+supporting Claim T2:
+
+----Premise T3: Life in big cities cities gives one new challenges every day, let it be deciding which restaurant to go to or deciding which company to work for
+----Premise T4: For me, this lifestyles is very attractive and is considered a huge advantage of big cities compared with the constant, slow paced life styles of small towns
+
+no arguments attacks Claim T2
+

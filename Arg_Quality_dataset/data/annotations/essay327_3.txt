@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: this time is the best time to learn any language
+supporting Claim T9:
+
+----Premise T6: the ability of Learning in the childhood period is more powerful than other periods of life
+----supporting Premise T6:
+--------Premise T7: students in the beginning of their education can learn faster and easier in compare to a young one to understand a foreign language
+
+----no arguments attacks Premise T6
+
+----Premise T5: They can easily understand the language structure and memorize the vocabularies
+----Premise T8: the persistence of learning a knowledge in the childhood is more than other period of lives
+
+no arguments attacks Claim T9
+

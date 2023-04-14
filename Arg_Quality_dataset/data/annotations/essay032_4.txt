@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Aiding help poor countries in this situation solve their economical problems and run their own business
+supporting Claim T6:
+
+----Premise T9: republic of Korea used to be the poorest country even compared to others in Africa in 1960's
+----Premise T10: Now that it has became strong economy country aiding poor countries after 10 years of aid from other counties
+----Premise T8: To be out of poverty, it is fundamental to support basic industry related factors such as light, electricity, load, highways, natural resources, technology and buildings for companies
+----Premise T7: poor counties suffer from shortage of basic materials and facilities to start businesses and make it richer
+
+no arguments attacks Claim T6
+

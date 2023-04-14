@@ -1,0 +1,59 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the art and music should be required to study
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: the art and music, from my point of view, are also essential for younger student's future life
+----supporting Claim T2:
+
+--------Premise T3: those subjects help students learn this planet from another perspective and they can release people from the enormous pressure nowadays
+
+----no arguments attacks Claim T2
+
+----type: Claim T7
+----text: art and music would broaden student's horizon and therefore make them thoughtful
+----supporting Claim T7:
+
+--------Premise T4: It is well known that the art and music are not bound by country border, and they are something that is shared by the people from every parts of this world and is symbols of various cultures
+--------Premise T5: learning art and music enables students to appreciate the fruits of eminent artists and musicians and to feel the fascination of different cultures
+--------supporting Premise T5:
+------------Premise T6: students are able to feel the greatest music masterpiece in Euopren as the symphony of destiny-Beethoven's most notable workpiece is played
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Claim T7
+
+----type: Claim T13
+----text: studying art and music is also the appropriate outlets of stress and superb ways to relax
+----supporting Claim T13:
+
+--------Premise T8: with the improvement of life rhythm, people have currently suffered too much pressure from their studies or jobs, and these pressure are likely to destroy one person if he cannot find a way to emancipate himself
+--------Premise T9: Art and music are, of course most accessible tools for modern people to liberate themselves from the extremely stressful life
+--------supporting Premise T9:
+------------Premise T10: When enjoying one piece of brilliant paintings, such as the Mona Lisa, people would put all their pressure down on the ground and just think about what the most proficient and mysterious smile in this world stands for
+------------Premise T11: they would totally involve in the ocean of art and their stressful nervous would be relieved
+------------Premise T12: this sense towards art is built on the initial study on the art
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T13
+
+----type: Claim T15
+----text: the school should replace some basic science class with some art and music class in order to cultivate student's interest of art without adding extra study pressure
+----supporting Claim T15:
+
+--------Premise T16: The education of art and music would not work if students resist it
+--------Premise T14: the study of art and music is supposed to rely on younger student's own interest
+
+----no arguments attacks Claim T15
+
+----Claim T18: in the modern society, since understanding of the lengthen and depth of the world is important and meanwhile people have burdened excessive pressure
+
+no arguments attacks MajorClaim T1
+

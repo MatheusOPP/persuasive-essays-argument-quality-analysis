@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: professors could teach students through research and projects
+supporting Claim T9:
+
+----Premise T21: Some students enjoy taking part in some research
+----Premise T22: Through to use the equipment and invent their own work, they may get more experience in the process of research
+----supporting Premise T22:
+--------Premise T23: electronic students always invent new machines such as robots, MP3 and remote control car
+--------Premise T24: They can manage the electric theory in practical skills
+--------Premise T25: And some students will be rewarded by investing new inventions
+
+----no arguments attacks Premise T22
+
+
+no arguments attacks Claim T9
+

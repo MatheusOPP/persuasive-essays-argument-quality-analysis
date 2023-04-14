@@ -1,0 +1,53 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: this great invention in the 21st century causes many problems in our society
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: it is harmful for us to use mobile phones frequently
+----supporting Claim T6:
+
+--------Premise T7: spending too much time on mobiles phones many exert an adverse effect on our social skills
+--------supporting Premise T7:
+------------Premise T4: as people, especially teenagers increasingly tend to focus on their phones, they may lose their interests on daily activities such as meeting with friends, and this lack of communication may impair their future negotiation and interpersonal skills
+
+--------no arguments attacks Premise T7
+
+--------Premise T5: continuous use of mobile phones may also damage children's eyesight and physical posture
+
+----no arguments attacks Claim T6
+
+----type: Claim T11
+----text: the growing number of mobiles games will impact their mental development
+----supporting Claim T11:
+
+--------Premise T8: there many game applications available online and many of them are quite aggressive in nature
+--------Premise T10: frequent conflicts may occur during communication
+--------supporting Premise T10:
+------------Premise T9: In these games, children are rewarded to help their characters to kill or shoot monsters or characters controlled by other players, and this many lead to development of aggressive feelings, thoughts and behaviors
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----Claim T2: mobile phones make our communication faster
+----type: Claim T13
+----text: mobile phones have shortened the distance of communication
+----supporting Claim T13:
+
+--------Premise T14: Mobile phones , such as smart phones, has made our communication easy and convenience
+--------supporting Premise T14:
+------------Premise T12: as most of the telecommunication companies provide us with access to the internet via our phones, people are able to enjoy sending instant messages and making international calls free of charge
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T13
+
+

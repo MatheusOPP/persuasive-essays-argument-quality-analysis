@@ -1,0 +1,11 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T1
+text: Trying to learn skills, working in two places in a week and gaining more tasks are the reasons which take into account as the most important causes of my choice
+supporting Claim T1:
+
+
+no arguments attacks Claim T1
+

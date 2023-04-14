@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: thanks to modern technology invented recently, human life has been improved dramatically
+supporting Claim T3:
+
+----Premise T4: Air-conditioners, computers, cellphones, washing machines, for example, is likely to be seen as greatest inventions helping people to reduce stress and time for other activities
+----Premise T5: applying technological science into the preparation of medications also plays a significant role in saving the number of patients' lives
+
+no arguments attacks Claim T3
+

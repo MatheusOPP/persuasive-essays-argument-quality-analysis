@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: schools should be responsible for their future and protect them
+supporting Claim T14:
+
+----Premise T17: This might result in limited choices in the future
+----Premise T16: They might avoid tough courses, but instead attend mainly Mickey Mouse courses and enjoy themselves too much
+----Premise T15: students have tendency to shun difficulties
+
+no arguments attacks Claim T14
+

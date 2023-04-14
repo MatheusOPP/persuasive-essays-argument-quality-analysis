@@ -1,0 +1,48 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: using single language through out the world is a positive change which is helping the world to become a better place to live
+supporting MajorClaim T1:
+
+----Claim T3: Communication in single language would improve the productivity of the world and brings everyone on to the same page
+----type: Claim T4
+----text: A world with fewer languages helps us interact with each other in a better way
+----supporting Claim T4:
+
+--------Premise T6: communicating in single language will reduce the problems of travelers in daily activities like ordering food in a restaurant or in going around places
+--------supporting Premise T6:
+------------Premise T5: Due to globalization, many people are traveling for professional trips
+
+--------no arguments attacks Premise T6
+
+--------Premise T7: students who migrate for better education would not have to go through lot of stress
+--------supporting Premise T7:
+------------Premise T8: they can easily make new friends and can be part of any discussions which is otherwise not possible in a world with multiple languages; this in turn makes it easy to adjust in new environment
+
+--------no arguments attacks Premise T7
+
+--------Premise T9: Single language also reduces misunderstandings between people
+--------Premise T10: exchange of knowledge in different sectors of research like electronics, medical, astronomy etc would become easier
+
+----no arguments attacks Claim T4
+
+----type: Claim T11
+----text: few people are worried about the dying local languages
+----supporting Claim T11:
+
+--------Premise T12: These languages are the basis for the origination and initial communication between different cultures
+--------supporting Premise T12:
+------------Premise T13: They represent local culture
+
+--------no arguments attacks Premise T12
+
+--------Premise T14: As the usage of these languages decrease, culture also changes accordingly
+--------Premise T15: these languages are tightly coupled with history; all the olden day literature and scripts will be impossible to decipher if these languages are lost
+
+----no arguments attacks Claim T11
+
+
+no arguments attacks MajorClaim T1
+

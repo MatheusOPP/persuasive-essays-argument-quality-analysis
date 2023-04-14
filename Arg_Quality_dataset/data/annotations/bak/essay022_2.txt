@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: it is a loss of national productivity that young people spend much time on searching for high salary jobs, even can be a sheer time-consuming
+Supporting Claim T3
+
+    Premise: the labor market for highly educated students is now too competitive to get a job after finishing their studying
+    Premise: labors for graduates are in short supply
+    Premise: there are numerous job opportunities for those who do not have the certification of university graduation, such as mechanics, sales persons, or engineers
+
+No arguments attacks Claim T3
+

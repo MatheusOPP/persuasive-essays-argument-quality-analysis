@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: students can learn invaluable experiences through the period of time working for the institutions they are assigned to
+supporting Claim T2:
+
+----Premise T5: the internship, although without pay, can give them the experiences that money cannot buy
+----supporting Premise T5:
+--------Premise T3: students might have little idea of the real challenges or the true situation when they enter the workforce after graduation
+--------supporting Premise T3:
+------------Premise T4: In most school curriculums, the courses are theoretical and often by instructors speaking to students sitting in the classroom
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T2
+

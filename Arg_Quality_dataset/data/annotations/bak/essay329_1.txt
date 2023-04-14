@@ -1,0 +1,43 @@
+Type: MajorClaim T2
+Text: it is necessary to have courage to take risks, be different and pursue your dream to have a successful life
+Supporting MajorClaim T2
+
+    Type: Claim T4
+    Text: in this competitive world you have to be fearless and face all new situations
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: Assuming new opportunities is indispensable to have diverse experiences
+    Supporting Claim T8
+
+        Premise: some people abandon their job, family and friends and go to other country without knowing what the future holds for them
+
+    Attacking Claim T8
+        Premise: life may not be easy; it will have various challenges especially when you take risks
+        Premise: In the beginning, it can be tough to fit in this new place and find any opportunity
+
+    Type: Claim T11
+    Text: it is vital to never give up on your dream
+    Supporting Claim T11
+
+        Premise: Walt Disney, whose career is famous, had a challenging life
+        Premise: One of the difficulties was some of his histories, such as Mickey Mouse and Three Little Pigs, were turned down
+        Premise: He heard lots of "no", furthermore one editor fired him alleging that he had no imagination, after all what he had gone through, he never stop chasing his dreams
+
+    Attacking Claim T11
+        Premise: It is possible to get frustrate along the way
+        Premise: many people are afraid to take risks and fail
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: sometimes you consider backing down and stay in the same routine that you are used to
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+

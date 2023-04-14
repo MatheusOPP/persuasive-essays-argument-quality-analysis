@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is the responsibility of these disadvantaged citizens, rather than the government, to help them out
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: Government money should be spent on publicly beneficial programs only
+----supporting Claim T4:
+
+--------Premise T8: addressing unemployment should have low priority
+--------supporting Premise T8:
+------------Premise T7: there are other pressing demands on the government expenditure, such as health care service and education
+
+--------no arguments attacks Premise T8
+
+--------Premise T6: Spending them on helping those not make contribution to society would not sound fair to tax payers
+--------Premise T5: Tax revenue is collected from those who works
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: to survive in this competitive world, one has to work hard and equip themselves well
+----supporting Claim T9:
+
+--------Premise T10: If they could get free financial help from the government, they might end up with out any motivation to work at all
+
+----no arguments attacks Claim T9
+
+----type: Claim T12
+----text: this does not mean we should leave alone those who do need assistance
+----supporting Claim T12:
+
+--------Premise T13: They are already in reverse circumstances and it would be rather difficult for them to overcome the difficulties without external support
+--------Premise T14: the government ought to set up free vocational trainings or to provide interest-free bank loans for them, so that they can have the chance to get back to work
+--------Premise T11: it is beneficial to the society as a whole when the jobless can make contribution again
+
+----no arguments attacks Claim T12
+
+
+attacking MajorClaim T1:
+----Claim T2: the government should provide help for the disadvantaged people
+

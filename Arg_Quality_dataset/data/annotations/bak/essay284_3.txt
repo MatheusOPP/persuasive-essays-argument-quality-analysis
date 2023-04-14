@@ -1,0 +1,9 @@
+Type: Claim T22
+Text: we should show people the truth in the stories
+Supporting Claim T22
+
+    Premise: if they can, they will be good people no matter how the story ends
+
+Attacking Claim T22
+    Premise: those good endings sometimes are helpful
+

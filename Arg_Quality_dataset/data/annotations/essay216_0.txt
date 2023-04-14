@@ -1,0 +1,54 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: the most possible solution to these problems is improving roads and highways
+supporting MajorClaim T2:
+
+----type: Claim T3
+----text: we all know that upgrading public transportation will surely aggravate the pollution and accidents
+----supporting Claim T3:
+
+--------Premise T6: the sound emanates from the engines can worsen our hearing
+--------Premise T5: The buses, cars and trains regularly emit a noxious gas which causes lots of fatal diseases such as lung cancer and pneumonia
+--------Premise T7: there are many accidents happening on the roads
+--------supporting Premise T7:
+------------Premise T8: in my country, buses are attributed to the cause of skyrocketing of accidents
+------------Premise T9: Vietnam has approximately twelve thousand people die of accidents which is equivalent to the death toll of the tsunami in Japan
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T3
+
+----type: Claim T4
+----text: investing in roads and highways can broaden the area and allow more public transportation to work
+----supporting Claim T4:
+
+--------Premise T10: Not only buses but also other personal vehicles can move easily on the roads
+--------Premise T11: I always leave school at the time that everybody rushes into the roads and hastily goes home
+--------Premise T12: It is extremely troublesome for me to escape from the crowd on the roads in only one hour
+--------Premise T13: if the roads are enlarged, everyone can go home in short time and there are hardly any collisions
+
+----no arguments attacks Claim T4
+
+----type: Claim T14
+----text: spending on renovating the highways and roads can improve the quality
+----supporting Claim T14:
+
+--------Premise T15: All of us are afraid of moving on the rough roads with lots of portholes
+--------Premise T16: Those bad conditions result in many terrible accidents and make several people feel worried
+--------Premise T17: We should not accuse the drivers of causing accidents
+--------supporting Premise T17:
+------------Premise T18: a part of the responsibility belongs to the authorities
+
+--------no arguments attacks Premise T17
+
+--------Premise T19: What's more, a smooth surface makes the transportation and movement become safer and easier
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T2
+

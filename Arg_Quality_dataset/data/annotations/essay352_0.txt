@@ -1,0 +1,37 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: It is disagreed that computer can affect children in a negative way if they use a computer on a daily basis
+supporting MajorClaim T2:
+
+----Claim T1: computer assists children to use vast resources available over internet to study effectively as well as develop some basic skills which help them in future careers
+----type: Claim T4
+----text: computer impacts children on a positive note
+----supporting Claim T4:
+
+--------Premise T7: students preparing for delivering speech on a certain topic can browse through internet to learn each and every minute details of the subject matter
+--------Premise T8: It's hard to get everything at a same place unless children are not familiar with computers
+--------Premise T5: through computer children can access internet to gather knowledge on the subjects they are studying or they are interested about
+--------supporting Premise T5:
+------------Premise T6: The best thing about internet is the availability of information in the form of text, image or video related to almost everything
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: it's clear that computer has a positive effect on the children
+----supporting Claim T9:
+
+--------Premise T12: students who used to prepare Microsoft PowerPoint presentation for their school projects, get an edge over others at an early stage of their career
+--------Premise T11: When children are allowed to play around with computer from a very early age, they get acquainted with the previously mentioned skills and become expert before facing professional world
+--------Premise T10: computers enable people to prepare presentations, draw complex graphs and pictures, document thesis in a simple though efficient way
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T2
+

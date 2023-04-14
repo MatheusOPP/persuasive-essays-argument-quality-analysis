@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: we can communicate with each other through TV
+supporting Claim T12:
+
+----Premise T10: TV can be connected to multimedia devices that have smart operating system like Google TV, WDTV using Skype, tango and other apps
+----Premise T11: Teenagers can play games online with their friends
+----Premise T9: TV can be one of communication ways
+
+no arguments attacks Claim T12
+

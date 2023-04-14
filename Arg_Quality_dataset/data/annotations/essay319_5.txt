@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: the part-time job will effect student' study
+supporting Claim T18:
+
+
+attacking Claim T18:
+----Premise T20: it will not effect on their study
+----supporting Premise T20:
+--------Premise T19: most students will do the part-time job in their holiday
+--------Premise T21: Compared with playing computers every day, doing part-time jobs is the best choice for students to spend their holiday
+
+----no arguments attacks Premise T20
+
+

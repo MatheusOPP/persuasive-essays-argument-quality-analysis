@@ -1,0 +1,28 @@
+Type: MajorClaim T2
+Text: we definitely have to change our behavior towards the environment, not only to preserve the endangered animals but also to preserve our own living conditions
+Supporting MajorClaim T2
+
+    Type: Claim T8
+    Text: the natural diversity is very important for further generations
+    Supporting Claim T8
+
+        Premise: further generations will never have the opportunity to see and study these animals
+        Premise: If we don't change our behavior we will extinct many species living for millions of years on the planet
+        Premise: As we destroy the natural habitat, like forests, jungles and lakes, to make place for our industry and farmland, we rob the ecosystem
+
+    No arguments attacks Claim T8
+
+    Type: Claim T14
+    Text: a stable and sustainable environment is essential for the weather
+    Supporting Claim T14
+
+        Premise: Our behavior causes pollution, which heavily affects the weather conditions on planet Earth and causes the undoubtedly Global Warming
+        Premise: This not only affects the endangered animals, but also the humans
+        Premise: recent studies from the United Nations Organization have shown that, till 2050 the sea level will increase over one meter in the average
+        Premise: This will dramaticly affect all people living near the coast and change the global climate
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T2
+

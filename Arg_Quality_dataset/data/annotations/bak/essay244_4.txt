@@ -1,0 +1,14 @@
+Type: MajorClaim T16
+Text: it is detrimental to communication among members in group, family or friends or whatever, to sit in front of television and just stare forward
+Supporting MajorClaim T16
+
+    Type: Claim T17
+    Text: It is because television not only makes people be obsessed with it but also makes their mouth close
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T16
+

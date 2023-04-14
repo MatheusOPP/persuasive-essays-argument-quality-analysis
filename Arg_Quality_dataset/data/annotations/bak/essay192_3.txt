@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: a large number of friends can help you to consider all the possible solutions to a problem and to make you more open-minded
+Supporting Claim T5
+
+    Premise: if you happen to face a problem and ask them for advice, your friends you will see that issue from their different point of views and accordingly they will help you to consider better all advantages and disadvantages
+
+No arguments attacks Claim T5
+

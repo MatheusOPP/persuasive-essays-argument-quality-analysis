@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: Many scientific studies have revealed the detriment that zoos have caused to animals
+Supporting Claim T5
+
+    Premise: like we, human beings, animals are delivered to this world with genetic instincts
+    Premise: when they are released or in the worst case, when they escape, they act disorientated and this contributes to the animal mortality rate
+
+No arguments attacks Claim T5
+

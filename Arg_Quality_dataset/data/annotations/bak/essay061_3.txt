@@ -1,0 +1,11 @@
+Type: Claim T5
+Text: future prospects of computers are very bright
+Supporting Claim T5
+
+    Premise: From a computer as big as a room, it has now been minimized to the size of a palm
+    Premise: Nanotechnology is working to make computers to the order of microscopic levels
+    Premise: Research on making computerized drone soldiers (unmanned computer controlled) is going on
+    Premise: There is no end to the evolution of computers
+
+No arguments attacks Claim T5
+

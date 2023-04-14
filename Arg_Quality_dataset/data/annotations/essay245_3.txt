@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: when you write an e-mail you have enough time to think carefully about what you are writing and how it would be better to express yourself
+supporting Claim T13:
+
+----Premise T11: you can change the word order or you can choose more appropriate style to sound more polite
+----Premise T12: When you speak face-to-face you are not as able to control every word as you are when you write an e-mail
+
+no arguments attacks Claim T13
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: being able to prepare a tasty food just putting it into the microwave or into the oven is awesome
+supporting Claim T5:
+
+----Premise T6: they don’t have much time to spend in the kitchen
+----supporting Premise T6:
+--------Premise T7: people normally have lots of things to do
+
+----no arguments attacks Premise T6
+
+----Premise T8: if an engineer needs to make a project, but he needs to deliver it tomorrow, he could save hours preparing a food with the microwave instead of cooking everything from scratch
+
+no arguments attacks Claim T5
+

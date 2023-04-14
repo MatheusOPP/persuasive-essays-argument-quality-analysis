@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: talent in art is extremely precious and should not be wasted
+supporting Claim T11:
+
+----Premise T13: this type of talent has to be valued as other types of talents such as talent in science or literature
+----supporting Premise T13:
+--------Premise T12: not many people are blessed in the talent of paintings and work crafts
+
+----no arguments attacks Premise T13
+
+
+no arguments attacks Claim T11
+

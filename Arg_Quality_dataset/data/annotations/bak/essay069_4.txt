@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: such changes do lead to some negative results like an upward trend in divorce rate
+Supporting Claim T10
+
+    Premise: women find it difficult to balance their work and their traditional role as the wives
+    Premise: children might enjoy less care from parents as they are both busy with their work
+
+No arguments attacks Claim T10
+

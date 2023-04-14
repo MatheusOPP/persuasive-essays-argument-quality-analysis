@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: it is the educational functions traditional games hold that keep them alive today
+Supporting Claim T11
+
+    Premise: there is a risk that children may be exposed to unhealthy contents, such as violence or pornography, arranged in the games by such companies to secure financial survival
+    Premise: these traditional games were elaborately devised by educators and have been proven effective in improving children's skills on different aspects in previous teaching practices
+
+No arguments attacks Claim T11
+

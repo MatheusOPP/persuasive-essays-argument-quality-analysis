@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: digital media will rule over paper and magazines
+supporting Claim T7:
+
+----Premise T8: A very important responsibility of media is to publish information about the current affairs as quickly as possible specially when there is a crisis
+----supporting Premise T8:
+--------Premise T9: This helps readers to get updated and act accordingly
+
+----no arguments attacks Premise T8
+
+----Premise T3: when the aircraft MH 370 went missing, everyone wanted to know the details about this tragic incident
+----Premise T4: The friends and families of passengers and crews were impatient to know the truth
+----Premise T5: In such situations, newspapers and magazines can not respond as fast as digital media
+----Premise T6: Instead of waiting for next publication, people can get trustworthy information about the current incidents from internet within an hour or two
+
+no arguments attacks Claim T7
+

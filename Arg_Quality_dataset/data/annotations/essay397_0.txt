@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the affect of technology on culture is undeniable, it has also contributed to the preservation of traditonal culture
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: Thanks to modern technology, our life has been improved with many gadgets
+----supporting Claim T7:
+
+--------Premise T2: The invention of mobile phone and internet has changed our traditional ways of communicating as well as working, it has also been much less labourous than in the pass with the assistance of electrical machineries
+
+----no arguments attacks Claim T7
+
+----type: Claim T6
+----text: Many old traditionally cultural things have long gone as a result of modern technology
+----supporting Claim T6:
+
+--------Premise T4: these newfangled practices has replaced many old traditional ones
+--------supporting Premise T4:
+------------Premise T5: factories equipped with new and highly-productive system has replaced old handmade products, the exchange of letters among friends is so hard to be seen as we have had emails and social network instead, new video games has superseded the old-physical ones
+
+--------no arguments attacks Premise T4
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T8
+----text: technology has also made some contributions to the maintenance and study of traditional cultures in some ways
+----supporting Claim T8:
+
+--------Premise T9: Internet has aided to assess the young generations to the cultural identity of many nations from all around the world
+--------Premise T10: With the help of advanced methods, many art masterpiece has been well restorated and well preserved
+--------Premise T11: Modern devices also assist the scientists to study the ancient societies much more deeply, hence discovering more cultural traces
+
+----no arguments attacks Claim T8
+
+
+no arguments attacks MajorClaim T1
+

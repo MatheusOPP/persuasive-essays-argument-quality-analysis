@@ -1,0 +1,37 @@
+Type: MajorClaim T2
+Text: students should study at school
+Supporting MajorClaim T2
+
+    Type: Claim T6
+    Text: they have more opprotunities to find a job and to be successful in the future
+    Supporting Claim T6
+
+        Premise: employer always prefer to hire an employee of high degree who have professional skills
+        Premise: schools offer to students a good environment with experienced professors and high quality programs for studying
+        Premise: schools provide lots of academic knowledge to students
+
+    No arguments attacks Claim T6
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: there are some advantages of leaving school to find a job
+    Supporting Claim T3
+
+
+    Attacking Claim T3
+        Premise: studying at school is always the best choice for children's future
+        Premise: There are many ways that can train children to learn independent and social skills instead of getting a job
+
+    Type: Claim T12
+    Text: children should interrupt their school work and get a job
+    Supporting Claim T12
+
+        Premise: there are many subjects that will be of little value to them in the future
+        Premise: children can learn social skills when they have a job
+        Premise: Working helps children be more independent and teach them to esteem and manage the money that they've earned
+        Premise: They can get more experiences that can not be obtained at school
+
+    No arguments attacks Claim T12
+
+

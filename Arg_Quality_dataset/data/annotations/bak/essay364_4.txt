@@ -1,0 +1,9 @@
+Type: Claim T15
+Text: Traditional skills and ways of life will help youngsters study and know more history
+Supporting Claim T15
+
+    Premise: Methods which their ancestors used in the past will be displayed again for new generations
+    Premise: they might create somethings that are useful for life
+
+No arguments attacks Claim T15
+

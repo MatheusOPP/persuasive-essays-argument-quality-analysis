@@ -1,0 +1,11 @@
+Type: Claim T14
+Text: it is unfair for passive smokers
+Supporting Claim T14
+
+    Premise: they do not smoke but they have same health risks as the active one
+    Premise: Stroke, heart disorders, hearing loss, and cancers are some diseases that can attack passive smokers
+    Premise: When they are around the active smokers, they will inhale hazardous smoke
+    Premise: passive smokers will have a lot of health risks
+
+No arguments attacks Claim T14
+

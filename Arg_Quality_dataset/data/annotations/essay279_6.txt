@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: The internet makes the world becomes smaller which is a good thing
+supporting Claim T16:
+
+----Premise T13: people who have no time or have financial problems could travel around the world by using the internet
+----Premise T14: They can see lots of picture and videos of many interesting places
+----Premise T15: people can learn other countries's culture and tradition which makes them have more knowledge about that nations
+
+no arguments attacks Claim T16
+

@@ -1,0 +1,8 @@
+Type: Claim T10
+Text: By participating in an organization, it is a positive way for people to obtain some experiences on a particular purpose
+Supporting Claim T10
+
+    Premise: A solid group can be a suited environment, which provides people to improve themselves or broaden their horizons
+
+No arguments attacks Claim T10
+

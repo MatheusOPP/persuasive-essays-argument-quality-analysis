@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: excessively relying on the electronic equipment for harvest causes several impacts to the society
+supporting Claim T9:
+
+----Premise T10: One is that it worsens the air pollution by releasing the excessive exhaust emission
+----Premise T11: manual harvest prevents severe environmental damages
+----Premise T12: mechanical reaper causes the rise of the unemployment rate in the farming industry
+----supporting Premise T12:
+--------Premise T13: high-end reaping plants replace a large number of workers in the fields
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T9
+

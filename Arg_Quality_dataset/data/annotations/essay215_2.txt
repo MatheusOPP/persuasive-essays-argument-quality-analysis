@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: having hobbies and doing physical activities is the best way to keep fit
+supporting Claim T5:
+
+----Premise T6: doing some sport and hobbies can prevent us from becoming too fat or short-sighted
+----supporting Premise T6:
+--------Premise T7: Looking at the computer screen all day long can make us daze
+
+----no arguments attacks Premise T6
+
+----Premise T8: My neighbor Tom once was a computer engineer in a big company
+----Premise T10: When he found out that he was too fat to find a girlfriend, he made up his mind to loose weight
+----Premise T9: He ate fast food everyday and never went out to exercise
+----Premise T12: After a moth, he is thinner and finds a girlfriend
+----Premise T11: He started to jog every morning
+
+no arguments attacks Claim T5
+

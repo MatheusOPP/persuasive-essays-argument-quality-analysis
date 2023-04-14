@@ -1,0 +1,43 @@
+Type: MajorClaim T2
+Text: studying abroad does not only have advantages, but also can change us in a very positive way
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: Students gain a lot out of the experience personally, academically, and culturally
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: students who study outside their countries can get a lot of experience living in a foreign country
+    Supporting Claim T4
+
+        Premise: Living in a new country requires a great amount of flexibility and adaptability in one's character
+        Premise: they should be able to deal with the obstacles that they may encounter
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: the new academic experience that the students can obtain at the institution where they are pursuing their studies
+    Supporting Claim T5
+
+        Premise: they will get exposed to a different educational system
+        Premise: They will meet new professors and new classmates which makes the academic experience different from that in their home country
+
+    No arguments attacks Claim T5
+
+    Type: Claim T6
+    Text: Most important is the cultural aspect of the experience
+    Supporting Claim T6
+
+        Premise: While living in a foreign country, students can learn a lot about the culture of that country
+        Premise: they can meet different people of the country
+        Premise: They can learn about their way of thinking, their customs and traditions, and way of life
+        Premise: Learning about others' cultures is so important
+
+    No arguments attacks Claim T6
+
+
+No arguments attacks MajorClaim T2
+

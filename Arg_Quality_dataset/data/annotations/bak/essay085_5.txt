@@ -1,0 +1,9 @@
+Type: Claim T16
+Text: Those opposing the CCTV systems feel that their privacies are invaded with the constant monitoring of the cameras
+Supporting Claim T16
+
+    Premise: one must realize that safety is of paramount importance compared to privacy and prevention is always better than suffering from the consequences
+    Premise: opponents of this system should try to comprehend the situation and take actions to prevent themselves from being victims of crime
+
+No arguments attacks Claim T16
+

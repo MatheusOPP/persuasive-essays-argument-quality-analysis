@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: zoos provide the public with good entertainment and also help to ensure the balance of the ecology
+Supporting Claim T9
+
+    Premise: zoos are needed to keep the nature balanced
+    Premise: Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world
+    Premise: Zoos provide educational information about the lives of different animals to the public
+
+No arguments attacks Claim T9
+

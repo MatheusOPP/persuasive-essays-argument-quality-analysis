@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: Some people prefer to recognize globalization as a threat to ethnic and religious values of people of their country
+Supporting Claim T3
+
+    Premise: the idea of globalization put their inherited culture in danger of uncontrolled change and make them vulnerable against the attack of imperialistic governments
+
+No arguments attacks Claim T3
+

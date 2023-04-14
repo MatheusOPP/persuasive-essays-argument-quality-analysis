@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: Working hard and saving money for later on investments is a great way of getting a satisfying feeling and to reward yourself for something you have accomplished
+supporting Claim T13:
+
+----Premise T14: with savings you can afford some luxurious goods and fulfill your dreams
+----Premise T15: I made a month-long backpack trip through Southeast Asia last summer with my girlfriend
+----Premise T16: Without our savings we could not have pursued our long-time dream
+
+no arguments attacks Claim T13
+

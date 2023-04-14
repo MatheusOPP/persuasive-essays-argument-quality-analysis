@@ -1,0 +1,41 @@
+Type: MajorClaim T2
+Text: it should be made available for a wide range of learners
+Supporting MajorClaim T2
+
+    Type: Claim T6
+    Text: outstanding academic students are eligible for university due to their intellectual advantage
+    Supporting Claim T6
+
+        Premise: such abstract or complicated informatin, easily absorbed by those students, may prove as a matter of pressure for those who lack equivalent skills
+        Premise: one deserves what he has done
+        Premise: University is like a gift presented to those who have gone to great length to attain
+
+    No arguments attacks Claim T6
+
+    Type: Claim T8
+    Text: it should be up for grabs for a majority of young people, who wish to pursue their passion as well as develop comprehensively
+    Supporting Claim T8
+
+        Premise: university is not just about academic studies but also a place to nurture artistic talent and develop soft skills
+
+    No arguments attacks Claim T8
+
+    Type: Claim T10
+    Text: there is a tendency for social vices to rise if university is to be restricted to only the best people
+    Supporting Claim T10
+
+        Premise: Apart from the disheartened ones, many devoiding of neccessary preparations are likely to be recipes for failure when applying for jobs, mostly the white-collar ones
+
+    No arguments attacks Claim T10
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: university restriction has both pros and cons
+    Supporting Claim T3
+
+
+    Attacking Claim T3
+        Premise: it will yield more negative results than positive ones
+
+

@@ -1,0 +1,48 @@
+Type: MajorClaim T1
+Text: TV programs are among the popular topics in every day talk as well as a great time for gathering
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: Modern TV has smart system that let you be connected with people
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T5
+    Text: people like having meals while they are watching TV
+    Supporting Claim T5
+
+
+    No arguments attacks Claim T5
+
+    Type: Claim T6
+    Text: Families usually tend to watch television either with each other or friends
+    Supporting Claim T6
+
+        Premise: my friends and I used to sit together and enjoy watching movies using VHS player at nights
+        Premise: It was fun and a little bit similar to the cinema
+
+    No arguments attacks Claim T6
+
+    Type: Claim T12
+    Text: we can communicate with each other through TV
+    Supporting Claim T12
+
+        Premise: TV can be connected to multimedia devices that have smart operating system like Google TV, WDTV using Skype, tango and other apps
+        Premise: Teenagers can play games online with their friends
+        Premise: TV can be one of communication ways
+
+    No arguments attacks Claim T12
+
+
+Attacking MajorClaim T1
+    Type: Claim T3
+    Text: watching TV take a lot of your day
+    Supporting Claim T3
+
+
+    Attacking Claim T3
+        Premise: it makes people meet and start a conversation about what they watch at other times like weather forecast and sport programs
+
+

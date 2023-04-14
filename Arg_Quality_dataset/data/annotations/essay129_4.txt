@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: with a slower pace can enjoy their lives more
+supporting Claim T13:
+
+----Premise T14: it is not necessary for them to notice the time control or acquire the fame of succeed
+
+attacking Claim T13:
+----Premise T15: I do not think that those people with slower pace losing the piano competition can be really happy
+----supporting Premise T15:
+
+----attacking Premise T15:
+--------Premise T16: it is really joyful for me that I can immerse in the joy of the victory and accomplishment
+
+

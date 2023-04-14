@@ -1,0 +1,11 @@
+Type: Claim T7
+Text: Historic buildings have intrinsic values
+Supporting Claim T7
+
+    Premise: they are significant symbols of a city
+    Premise: Old buildings are reminders of a city's culture and complexity
+    Premise: By seeing historic buildings -- whether related to something famous or recognizably dramatic, people are able to witness the aesthetic and cultural history of an area
+    Premise: when somebody mentions Beijing, China's capital city, you will immediately have Capital Palace come to appear in your mind
+
+No arguments attacks Claim T7
+

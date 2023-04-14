@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: globalization contribute effectively to the global improvement of the world in many aspects
+supporting Claim T4:
+
+----Premise T5: Developing globalization, people can have more access to many natural resources of the world and it leads to increasing the pace of scientific and economic promotions of the entire world
+----Premise T6: they admit that globalization can be considered a chance for people of each country to promote their lifestyle through the stuffs and services imported from other countries
+
+no arguments attacks Claim T4
+

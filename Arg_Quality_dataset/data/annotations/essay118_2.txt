@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: their privilege of salary seems groundless, while the main work forces receive modest salaries which only enable them to afford bare necessities
+supporting Claim T14:
+
+----Premise T13: their contribution is less important than those from doctors or scientists, albeit necessary
+----Premise T11: While scientists invent machines serving daily lives, doctors take care of patients and cure their diseases and policemen help to ensure the safety and stability of the nation, singers and athletes do not play a helpful part in improving the material life
+----supporting Premise T11:
+--------Premise T12: They commit themselves to promoting relaxation and enjoyment for the audience
+
+----no arguments attacks Premise T11
+
+
+attacking Claim T14:
+----Premise T9: singers and athletes, in fact, contribute insignificantly to the development of the society
+----supporting Premise T9:
+--------Premise T10: It is assumed the amazing performances they give to the audiences are only valuable in aesthetic and entertaining terms
+
+----no arguments attacks Premise T9
+
+

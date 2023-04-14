@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation
+Supporting Claim T4
+
+    Premise: there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better
+    Premise: The more we practice, the better we feel
+    Premise: There is a direct linkage between people's health and the frequency of doing physical exercises
+    Premise: healthy body is basis for healthy soul
+
+No arguments attacks Claim T4
+

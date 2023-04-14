@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: universities should provide free of cost education to the interested scholars
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: now-a-days universities with good name charge high fees and this leads one to think about affordability
+----supporting Claim T2:
+
+--------Premise T3: many of the interested scholars failed to get the admission in good universities
+--------supporting Premise T3:
+------------Premise T4: they have to think about work along with the studies, and this left them with only one choice, which is work
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Claim T2
+
+----type: Claim T6
+----text: the issue of affordability has become crucial to the students
+----supporting Claim T6:
+
+--------Premise T8: In today’s world education is getting expensive, and people are tending to apply for self-finance education in order to get the admission
+--------Premise T7: University is more likely to become a money making business
+--------Premise T9: the scholars are facing a lot of difficulties apart from their high requirements of previous education, they has a lot to face the other difficulties and burden while getting admission such as accommodation, food, traveling, clothing, etc
+
+----no arguments attacks Claim T6
+
+----type: Claim T10
+----text: The idea of free of charge education inspires those scholars who really want to put their efforts and get a degree from best universities
+----supporting Claim T10:
+
+--------Premise T5: MPhils and PhDs scholars are probably engage in the research work, which takes their full concentration and surveys
+--------Premise T11: it is hard to get manage two things at a time for instance, working and studying is not an easy job for the scholars, they need to concentrate on their studies
+
+----no arguments attacks Claim T10
+
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: mobile phones have shortened the distance of communicatio
+supporting Claim T11:
+
+----Premise T10: as lots of chatting apps available online such as "Weichat", people tend to send instant messages free of charge by using their phones rather than face to face communication
+----Premise T12: With rapid development of the internet, people are able to enjoy quick electronic communication via internet
+
+no arguments attacks Claim T11
+

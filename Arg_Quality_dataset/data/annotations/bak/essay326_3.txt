@@ -1,0 +1,8 @@
+Type: Claim T4
+Text: People benefit more from coming computers into their lives
+Supporting Claim T4
+
+    Premise: computers can do most difficult tasks which leads to make life easier
+
+No arguments attacks Claim T4
+

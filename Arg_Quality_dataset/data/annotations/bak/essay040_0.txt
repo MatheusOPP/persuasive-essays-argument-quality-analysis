@@ -1,0 +1,49 @@
+Type: MajorClaim T1
+Text: having a part time job during your student time will offer students many clear benefits
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: By taking on an extra job, students can partly alleviate some their problematic matters such as working experience, confidence and accommodation
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T4
+    Text: having experienced in working environment during student time offers a distinct advantage when they apply for jobs after their graduation
+    Supporting Claim T4
+
+        Premise: students who get part time jobs have not only academic knowledge but also hands-on experience
+        Premise: Part-time jobs furnish them with precious chance to practice what they are learning at their universities
+        Premise: It is undoubtedly certain that students can gain their practical experience by getting involved extra jobs
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: students who take on a part time job are often more confident and independent than other ones
+    Supporting Claim T8
+
+        Premise: By constant communicating with other colleagues daily in a company environment where their new ideas can be raised without hesitation, then students' confidence could be significantly gained
+        Premise: working conditions require students the independency in thinking, working, and solving problems, which is greatly helpful when the characteristic is applied to tackle subjects in their universities
+
+    No arguments attacks Claim T8
+
+    Type: Claim T11
+    Text: doing extra jobs helps student with money for their accommodation
+    Supporting Claim T11
+
+        Premise: high studying tuition, added with raising accommodation expenses are becoming a huge burden to students
+        Premise: With the money they earn from extra jobs, which normally is not much, those difficulties could be partially solved
+
+    No arguments attacks Claim T11
+
+    Type: Claim T14
+    Text: that helps students from being reliant on their families as well as is a well-prepared condition for their independent later life
+    Supporting Claim T14
+
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: Computers have an important role in social and personal life
+supporting Claim T20:
+
+----Premise T13: Computers have opened up a network connection among people
+----Premise T14: This technology makes easier for people to send and receive personal message
+----Premise T15: Teenagers and adolescents spend free time in front of computers
+----Premise T16: People can use computers to extract their essential information easily
+
+no arguments attacks Claim T20
+

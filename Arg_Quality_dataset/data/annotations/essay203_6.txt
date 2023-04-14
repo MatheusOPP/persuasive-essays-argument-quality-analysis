@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: if you work hard, luck too might shine on you and take you some more steps further ahead from your actual target
+supporting Claim T12:
+
+----Premise T19: my boss worked tirelessly for his promotion
+----Premise T20: He looked at every aspect that he needed to qualify for the promotion
+----Premise T21: He realized that having a master's degree would be a great credential for him to outperform his competitors
+----Premise T22: he had many commitments at home and work, he somehow managed to complete this degree before he was eligible to apply
+----Premise T23: At the end he was not only able to get the promotion amidst a stiff competition but also got nominated for a foreign scholarship
+----supporting Premise T23:
+--------Premise T24: he had more credentials than other officers in his capacity
+
+----no arguments attacks Premise T23
+
+
+no arguments attacks Claim T12
+

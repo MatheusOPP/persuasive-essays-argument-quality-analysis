@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: The research projects like windows opened to the wider world
+supporting Claim T11:
+
+----Premise T7: Universities are relatively fenced environment
+----Premise T8: I still remembered that my professor took part in several research projects when I was in college
+----Premise T5: The research projects provide communication with the outside
+----Premise T10: my university is not in the high-ranking list, he gained a reputation by those projects
+----Premise T4: by doing research, professors could catch up with the latest development of modern technologies
+----Premise T9: He was often invited to do speech in other universities
+----Premise T6: doing research is a method of self-improvement for professors
+
+no arguments attacks Claim T11
+

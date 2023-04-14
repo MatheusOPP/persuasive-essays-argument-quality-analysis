@@ -1,0 +1,8 @@
+Type: Claim T7
+Text: There are many experiences that are improve my life in many way
+Supporting Claim T7
+
+    Premise: I could improve the way that I solve problems, improve how I take care of my health, and improve to plan my life for future
+
+No arguments attacks Claim T7
+

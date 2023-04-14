@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: the gap between rich people and poor is widen by technology
+supporting Claim T13:
+
+----Premise T14: only the rich people have ability to afford the expensive high-tech products, and these products can help them to earn more in return
+
+attacking Claim T13:
+----Premise T15: it is a limp opposition to the remarkable advantages of technology, and technology is not the root cause of the gap
+

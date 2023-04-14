@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I prefer to learn with a teacher rather than learn by myself
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: being without a teacher has shortcomings
+----supporting Claim T2:
+
+--------Premise T3: if someone faced so complicated confusion in his study and his many endeavors on making out it were miscarried, this might be ended in disappointment
+--------Premise T5: for one who depends on only himself in learning, his improvement of ability, with regard to cooperation and express his opinion, is unpromising
+
+----no arguments attacks Claim T2
+
+----type: Claim T10
+----text: learning with a teacher is that you can ask about problems related your studies
+----supporting Claim T10:
+
+--------Premise T6: when we encounter difficulty in our study which we can not make out, that asking the difficulty from our teacher is propitious way for us to solve it instantly
+--------Premise T7: professors and teachers have much experience and knowledge, and are so dextrous with letting students understand their study
+--------Premise T8: They know something which are not incorporated in such materials as books and webpages
+--------Premise T9: I, in my class, often communicate with my teacher to find a coordinated answer to a my faced problem, and my classmates are so accustomed to communicating with the teacher
+
+----no arguments attacks Claim T10
+
+----type: Claim T15
+----text: the learning with a teacher is more efficient than by myself
+----supporting Claim T15:
+
+--------Premise T11: We can accomplish our assignments with little help of a teacher within less time than do it by ourself
+--------Premise T12: the teachers play important role in leading us to right direction
+--------Premise T13: This gives us opportunity to rise our educational level to an exited degree
+--------Premise T14: knowledge may be thereby better improved and strengthened
+
+----no arguments attacks Claim T15
+
+
+no arguments attacks MajorClaim T1
+

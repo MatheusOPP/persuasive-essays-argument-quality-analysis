@@ -1,0 +1,7 @@
+Type: Claim T5
+Text: job can provide money to us
+Supporting Claim T5
+
+
+No arguments attacks Claim T5
+

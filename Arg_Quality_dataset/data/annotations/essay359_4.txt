@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: in order to avoid the conflicts between foreigners and locals, people are trying to understand different culture and find solutions
+supporting Claim T15:
+
+----Premise T12: tourists are given the brochures about the local traditions and customs before they visit the place
+----Premise T13: the possibility of the conflicts is reduced because the understanding between both parties
+----supporting Premise T13:
+--------Premise T14: the tour guide are willing to help tourists to understand the culture from other countries
+
+----no arguments attacks Premise T13
+
+
+no arguments attacks Claim T15
+

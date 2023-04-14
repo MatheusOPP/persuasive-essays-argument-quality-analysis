@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: Computers provide speed, increase efficiency, accuracy, precision, help to increase productivity and other countless benefits are provided by it
+supporting Claim T4:
+
+----Premise T7: In the modern world, computers are used everywhere
+----Premise T8: Right from flying planes to sending a small document, computers are needed
+----Premise T9: They are used in space programs, wars, hospitals, schools and so on
+----Premise T10: Computers have made human life more easy, convenient and lightning fast
+----supporting Premise T10:
+--------Premise T11: in earlier days, if one had to send a message to someone in other country, it used to take months
+--------Premise T12: today, it can be sent in few minutes by typing a email and few clicks
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T4
+

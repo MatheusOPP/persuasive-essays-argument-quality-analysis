@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: it should have more alternatives to use public transportation, such as a subway train or a sky train
+Supporting Claim T12
+
+    Premise: It makes people in this area have no choice
+    Premise: If a subway and a sky train are available here, it will be more convenience to them
+    Premise: people will have more ways to go to a place
+
+No arguments attacks Claim T12
+

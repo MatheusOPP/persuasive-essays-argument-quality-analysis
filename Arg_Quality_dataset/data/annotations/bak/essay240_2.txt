@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: people who experienced lots of difficulties will be calmer when they are in troubles
+Supporting Claim T9
+
+    Premise: they are conscious of what to do and how to do when fierce crisis happens
+    Premise: Those people are more likely to achieve their ambitions in their career
+
+No arguments attacks Claim T9
+

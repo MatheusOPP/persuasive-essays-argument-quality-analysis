@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: Taking a break not just has benefits but it also comes with some negative impacts
+supporting Claim T14:
+
+----Premise T9: Once student's starts earning, they might not like to go back to studies where they would lose their financial independence
+----Premise T10: They might even find it difficult to adapt to education environment
+----Premise T11: There is also a risk of student never going back to university or higher education
+----Premise T12: Probably some might take some short term courses instead of proper and complete university education, which will help them to get a better job and salaries
+----Premise T13: This might only help them in a short run as it is a known fact that to make a reasonable career in longer runs, one needs a proper and higher qualification
+
+no arguments attacks Claim T14
+

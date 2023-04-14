@@ -1,0 +1,35 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is essential to take chances and believe this is going to work out
+supporting MajorClaim T1:
+
+----Claim T4: in this competitive world you have to be fearless and face all new situations
+----type: Claim T8
+----text: Assuming new opportunities is indispensable to have diverse experiences
+----supporting Claim T8:
+
+--------Premise T5: some people abandon their job, family and friends and go to other country without knowing what the future holds for them
+
+----attacking Claim T8:
+--------Premise T9: life may not be easy; it will have various challenges especially when you take risks
+--------Premise T6: In the beginning, it can be tough to fit in this new place and find any opportunity
+
+----type: Claim T11
+----text: it is vital to never give up on your dream
+----supporting Claim T11:
+
+--------Premise T12: Walt Disney, whose career is famous, had a challenging life
+--------Premise T13: One of the difficulties was some of his histories, such as Mickey Mouse and Three Little Pigs, were turned down
+--------Premise T16: He heard lots of "no", furthermore one editor fired him alleging that he had no imagination, after all what he had gone through, he never stop chasing his dreams
+
+----attacking Claim T11:
+--------Premise T15: It is possible to get frustrate along the way
+--------Premise T14: many people are afraid to take risks and fail
+
+
+attacking MajorClaim T1:
+----Claim T3: sometimes you consider backing down and stay in the same routine that you are used to
+

@@ -1,0 +1,14 @@
+Type: MajorClaim T14
+Text: if we have a chance to visit top museums in the world, we must stop by these museums
+Supporting MajorClaim T14
+
+    Type: Claim T15
+    Text: it is worthwhile for us to visit a museum of a new place
+    Supporting Claim T15
+
+
+    No arguments attacks Claim T15
+
+
+No arguments attacks MajorClaim T14
+

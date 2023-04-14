@@ -1,0 +1,34 @@
+Type: MajorClaim T2
+Text: we should give more priority to health education and preventative measures than to treatment
+Supporting MajorClaim T2
+
+    Type: Claim T4
+    Text: Health education causes long-term positive effects on our next generations
+    Supporting Claim T4
+
+        Premise: thank to a full health education from their childhoods, children will have good habits of taking care of their own health and these habits may be kept in their adolescences
+        Premise: Health education will help people to have right choices of treatment to recover more quickly
+        Premise: if a child is educated to have a hygienic lifestyle at a very young age, he also keeps it when older
+
+    No arguments attacks Claim T4
+
+    Type: Claim T15
+    Text: investing money to enhance the general health state is a totally right decision
+    Supporting Claim T15
+
+        Premise: human resources play a key role in the development of a country
+        Premise: Preventative measures will help improve general health state of all citizens
+        Premise: the government can save a lot of money for our country's health budget
+
+    No arguments attacks Claim T15
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: reasonable attentions should be paid to treatment so that our citizens are always looked after with best services
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+

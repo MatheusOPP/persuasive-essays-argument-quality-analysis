@@ -1,0 +1,48 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I disagree with the opinion that children who are brought up in less well-of families are, likely, more successful in the future life
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: children from poorer families are prone to have bad habits such as: crime, thievery and thuggery
+----supporting Claim T7:
+
+--------Premise T4: most of the terroristic groups try to attract uneducated people
+--------supporting Premise T4:
+------------Premise T5: the person with better education has a wider outlook, which will allow no brainwash
+
+--------no arguments attacks Premise T4
+
+--------Premise T3: they can be proselytized into bad isms
+--------supporting Premise T3:
+------------Premise T2: these people will not have an access to a good education
+
+--------no arguments attacks Premise T3
+
+--------Premise T6: people with lower level of education have more proneness to be attracted in such isms
+
+----no arguments attacks Claim T7
+
+----Claim T11: people who are born in well-off families have access to good education, which will have a positive impact on their later life
+----type: Claim T12
+----text: children from rich families have better skills on how to use money
+----supporting Claim T12:
+
+--------Premise T8: they use it a lot of times
+
+----no arguments attacks Claim T12
+
+----type: Claim T9
+----text: wealthy families can afford better health services and costly medicines, which will be very beneficial for the health of a child
+----supporting Claim T9:
+
+--------Premise T10: many good medicines cost vast amounts of money, which cannot be afforded by poorer families
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

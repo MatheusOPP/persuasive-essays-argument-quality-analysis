@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: The idea of free of charge education inspires those scholars who really want to put their efforts and get a degree from best universities
+supporting Claim T10:
+
+----Premise T5: MPhils and PhDs scholars are probably engage in the research work, which takes their full concentration and surveys
+----Premise T11: it is hard to get manage two things at a time for instance, working and studying is not an easy job for the scholars, they need to concentrate on their studies
+
+no arguments attacks Claim T10
+

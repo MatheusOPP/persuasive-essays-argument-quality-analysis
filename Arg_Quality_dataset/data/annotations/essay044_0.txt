@@ -1,0 +1,37 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it would be a better implication by the government to promote other sources of energy
+supporting MajorClaim T1:
+
+----Claim T2: This can make use of the available natural resources which in turn would reduce the global warming
+----type: Claim T3
+----text: it would be a good implication by the government to generate electricity from other available sources
+----supporting Claim T3:
+
+--------Premise T4: the major source of energy today is water
+--------Premise T7: during summer there will be a lot of power cut in the developing countries such as India
+--------supporting Premise T7:
+------------Premise T6: To generate such a vast energy the fundamental resources are falling short
+
+--------no arguments attacks Premise T7
+
+--------Premise T8: If the government encourage the use of nuclear, solar or wind energy there might not be any problem in distributing the required amount electricity
+--------Premise T5: there is a lot of water shortage to generate electricity many countries still rely only on this source
+
+----no arguments attacks Claim T3
+
+----type: Claim T9
+----text: the sources most widely used currently to generate power releases extensive amount of gases into the atmosphere which increases global warming
+----supporting Claim T9:
+
+--------Premise T10: the use of a solar cooker instead of an electric cooker would certainly reduce the global warming
+--------Premise T11: the use of nuclear energy as an alternative to the hydro-kinetic energy causes less atmospheric pollution
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

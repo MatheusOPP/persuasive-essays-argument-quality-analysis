@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: the using of public transportation reduces the amount of resources using on transportation
+supporting Claim T3:
+
+----Premise T4: the more cars we use means that the faster gasoline in this world is used up
+----supporting Premise T4:
+--------Premise T5: Cars depend on gasoline, which is a non-renewable resource
+
+----no arguments attacks Premise T4
+
+----Premise T6: if the public transportation is efficiently used, the amount of gasoline consuming per person will be much lower
+----Premise T7: this definitely helps to reserve our invaluable natural resource, gasoline
+
+no arguments attacks Claim T3
+

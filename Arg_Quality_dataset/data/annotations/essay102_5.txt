@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: Seeing an art work on computer screen is not the same as you watch it by your own eyes
+supporting Claim T16:
+
+----Premise T17: you can't see the texture of the artwork which is very important to study the skills used by the artist
+----Premise T18: not all the details of the artwork can be shown on the computer screen
+----Premise T19: Some details might be dim
+----supporting Premise T19:
+--------Premise T20: the resolution ratio of the screen is not high enough
+
+----no arguments attacks Premise T19
+
+----Premise T21: These may influence the comprehension of the art work or historical objects
+
+no arguments attacks Claim T16
+

@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: children should be forbidden in watching television or movies excessively
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: Watching TV for a long time without doing homework is one of major headaches that most of children have brought to their parents
+----supporting Claim T3:
+
+--------Premise T2: children generally have weak self-control, and thus they lose their time easily
+--------Premise T7: I, therefore, did extremely bad at school due to the lack of studying
+--------supporting Premise T7:
+------------Premise T6: I could memorize all channels that TV programs was playing, but I could barely memorize any word on the textbook
+------------Premise T5: I could watch TV for hours, but I could hardly sit in front of my desk to do homework for few minutes
+------------Premise T4: Whenever I back to home from school, the first thing I would do is turning on the television and sit there for hours
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T3
+
+----type: Claim T13
+----text: there are many programs on TV or movies that are harmful to children in metal and physical health
+----supporting Claim T13:
+
+--------Premise T12: according to some statistics, there are more and more children have violent tendency, and the reports attribute this to TV programs and movies
+--------Premise T9: they are likely to imitate the behaviors on TV out of their curiosity
+--------supporting Premise T9:
+------------Premise T8: Children are not mature enough to make a judgment of what is good or bad
+
+--------no arguments attacks Premise T9
+
+--------Premise T10: Recently, more and more children smoke
+--------supporting Premise T10:
+------------Premise T11: they imitate actors' behaviors on TV or movies
+
+--------no arguments attacks Premise T10
+
+--------Premise T14: sometimes programs on TV are full of violence and sex which are harmful to children
+
+----no arguments attacks Claim T13
+
+----Claim T18: children are poor at time management, and are less mature to make a good judgment, they cannot be too serious to be taken care when watching TV and movies
+
+attacking MajorClaim T1:
+----type: Claim T16
+----text: children should watch TV and movies for their rich contents that could give children some topics in conversation
+----supporting Claim T16:
+
+
+----attacking Claim T16:
+--------Premise T15: it doesn't mean that children should do it overtime and without being taken care what they are watching
+
+

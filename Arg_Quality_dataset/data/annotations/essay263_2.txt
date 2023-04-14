@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: when you want to translate your major, it is important to know some of the things about different fields
+supporting Claim T7:
+
+----Premise T6: Thanks to Jeff's hard working during his leisure time, he learned a lot about the history of art
+----Premise T8: Things ended up that he joined in a great team, while his friend who only knew financing issues can do nothing but worked in a bank
+
+no arguments attacks Claim T7
+

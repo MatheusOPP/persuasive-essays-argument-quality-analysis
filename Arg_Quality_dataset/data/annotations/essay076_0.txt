@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the government should fund the deprived for their health care and education, who are the group in real need for the authority's help
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: the government should be accountable for citizens' health care and education to keep society safe and stable
+----supporting Claim T4:
+
+--------Premise T7: citizens enjoy the right to live in a harmonious and stable environment, which should be enabled by the government, the leader of the society
+--------Premise T5: without sufficient guidance of teachers, these citizens might misbehave or even commit crimes, posing a threat to other citizens' security
+--------Premise T2: such people might fail to get cured in time, thus influencing their working efficiency, which would destabilize the production of the industry
+--------supporting Premise T2:
+------------Premise T3: If citizens had no access to health care and education, their physical health and psychological soundness would be at risk
+
+--------no arguments attacks Premise T2
+
+--------Premise T6: it is the government that should be obligated to fund the health care and education for citizens
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T1:
+----type: Claim T8
+----text: it is a waste of public money for the government to subsidize health care and education of each citizen in society
+----supporting Claim T8:
+
+--------Premise T10: the government should give priority to more pressing problems related to social members' wellbeing, such as soaring crime rate, AIDS epidemic or the shortage of infrastructure, which are requiring financial resources from the government to address
+--------Premise T9: a great number of people, in fact, have had the capacity to pay for the both privately
+
+----no arguments attacks Claim T8
+
+

@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: these children remain uneducated and will have the same fate as their parents
+Supporting Claim T4
+
+    Premise: In a developing country, not many can afford to send their children to school
+    Premise: There are government schools where tuition fees are practically free but they are not aplenty and mostly are situated in the cities
+    Premise: These children whose parents are either farmers or fishermen, can hardly eat three meals a day, let alone afford to pay for transportation to get to these schools everyday
+    Premise: They are not reachable by children who live in the mountains or islands
+
+No arguments attacks Claim T4
+

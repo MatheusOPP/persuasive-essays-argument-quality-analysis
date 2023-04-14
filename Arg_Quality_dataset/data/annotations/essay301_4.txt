@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: the responsibility is worthy of carrying
+supporting Claim T12:
+
+----Premise T13: When the distance is longer and harder to achieve, a runner who can go beyond his limit will proud of himself
+----Premise T14: He can feel the sweetness of triumph
+----supporting Premise T14:
+--------Premise T15: he did not stop pursing his goal
+
+----no arguments attacks Premise T14
+
+
+attacking Claim T12:
+----Premise T16: we, as an average people, might feel that the responsibility to our goal is too heavy to carry on
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: by taking a part-time job, they certainly have to be responsible for anything they have done
+supporting Claim T8:
+
+----Premise T9: if a student get a job in a company but he is frequently late for work, the company may reduce his payment or even fire him
+----Premise T10: To compare with the school life, they might suffer only a small punishment at school
+----Premise T11: Under the circumstances, he will learn that he has to obey the rule and take responsibility for their work
+
+no arguments attacks Claim T8
+

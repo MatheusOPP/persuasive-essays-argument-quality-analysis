@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: employees fell that they are valuable if they are trained
+supporting Claim T7:
+
+----Premise T5: they will think about develop long term career with their company
+----supporting Premise T5:
+--------Premise T8: the employees know that their company is investing on them for future development of their company
+
+----no arguments attacks Premise T5
+
+----Premise T6: employees will be very proud of themselves when they are provided training while others don't have this opportunity
+
+no arguments attacks Claim T7
+

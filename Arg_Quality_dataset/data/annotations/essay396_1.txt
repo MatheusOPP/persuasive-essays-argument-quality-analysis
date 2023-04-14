@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: indispensable public services like hospital and school worth every penny investing
+supporting Claim T3:
+
+----Premise T4: Investing in hospitals helps improve people's health, also, in schools assists with raising our children's education level
+----Premise T5: if these facilities were not spent adequately, our standard of living would deteriorate
+
+no arguments attacks Claim T3
+

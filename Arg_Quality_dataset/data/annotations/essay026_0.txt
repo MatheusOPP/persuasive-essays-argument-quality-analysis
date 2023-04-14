@@ -1,0 +1,44 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: it is obvious that prepared food can bring about some negative influence result from utilizing the artificial ingredients, ignoring the nutrition of food and modifying people's eating habits
+supporting MajorClaim T3:
+
+----type: Claim T5
+----text: easy-to-cook foods sometimes could be dangerous for human's health
+----supporting Claim T5:
+
+--------Premise T7: ingredients being added have caused dire consequences
+--------supporting Premise T7:
+------------Premise T8: there are usually some articles in newspapers and magazines which report the relationship between certain chemical components in some food and diseases
+
+--------no arguments attacks Premise T7
+
+--------Premise T6: to make their food easier to prepare and taste delicious, almost every producer adds a wide range of artificial ingredients in to the food that is now purchased by most people
+
+----no arguments attacks Claim T5
+
+----type: Claim T9
+----text: Not cooking fresh food will also lead to the lack of nutrition
+----supporting Claim T9:
+
+--------Premise T10: Whereas some research has apparently demonstrated that prepared food is unable to support enough nutrients we need, especially for children who are growing up
+
+----no arguments attacks Claim T9
+
+----type: Claim T11
+----text: The more prepared food we eat the more cooking skills we lose
+----supporting Claim T11:
+
+--------Premise T12: At the increasing living pace, the majority of people tend to choose microwave as their unique cooker that help them prepare a dish in five minutes
+--------Premise T13: rare people have been aware that this has contributed to a modification of cooking habits, which may cause the loss of our custom and culture about cooking
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T3:
+----Claim T4: it can effectively save time which is considered as money in our modern society
+----Claim T1: the invention of prepared foods definitely satisfies the demand of some people who are busy in their work
+

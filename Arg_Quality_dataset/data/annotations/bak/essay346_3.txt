@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: a man can only achieve his accomplishment through hard-working, dedication and passion
+Supporting Claim T7
+
+    Premise: A person's great prosperity does not state that he has gained it ethically by himself
+    Premise: Whether it is a personal or a social achievement, that man is laudable
+
+Attacking Claim T7
+    Premise: Money is undeniably pivotal
+

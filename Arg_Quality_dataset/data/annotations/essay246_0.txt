@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: every fast and not well thought decision is a wasted one
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: making quick decisions leads to probable bad results
+----supporting Claim T3:
+
+--------Premise T5: if someone decided to quit his job without really thinking about the alternative, or a plan B, he could end up being unemployed, because of his speedy decision
+--------Premise T4: making a quick decision means that it's not very thought out, and that it hasn't been checked from all its aspects
+
+----no arguments attacks Claim T3
+
+----type: Claim T6
+----text: making a rushed decision could also mean that the person is missing out on a potential opportunity
+----supporting Claim T6:
+
+--------Premise T8: he wouldn't have been unemployed
+--------supporting Premise T8:
+------------Premise T7: if this person had waited and thought his decision through he wouldn't have missed out on the job opening in the same firm, but at a different position
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T9
+----text: hasty decisions, not only goes to waste, but also, could affect the entire life of the person
+----supporting Claim T9:
+
+--------Premise T11: his life had taken a turn to the worst
+--------supporting Premise T11:
+------------Premise T10: To put it differently, is that after this person has quit his job and became unemployed, he can no longer pay his bills nor buy what he needs for his everyday needs
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

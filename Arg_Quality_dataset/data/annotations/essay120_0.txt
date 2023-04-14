@@ -1,0 +1,49 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: "murdering" criminals is therefore immoral and hard to accept
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: every human being has the right to live and no authority is empowered to deprive one of life
+----supporting Claim T4:
+
+--------Premise T8: it could put the criminal's family through hardship while the pain of the victim's kin is never to be consoled
+--------Premise T7: execution does not resolve the consequences of crime
+
+----attacking Claim T4:
+--------Premise T5: what criminals cause to the society, specifically to the victims, is indeed significantly offensive
+--------supporting Premise T5:
+
+--------attacking Premise T5:
+------------Premise T6: they are humans and their lives need to be valued
+
+
+----type: Claim T9
+----text: capital punishment is certainly not the only option to control the amount of crimes, life imprisonment is just as effective by detaining the criminals in prison for the rest of their lives
+----supporting Claim T9:
+
+--------Premise T10: in terms of punishment, living a miserable life with restriction to the world outside and sustaining the feeling of guilt every day in a dark bounded room are much more obsessing than being killed right away
+
+----no arguments attacks Claim T9
+
+----type: Claim T11
+----text: The third reason why the death penalty should be banned is the chance that innocent people are wrongly convicted
+----supporting Claim T11:
+
+--------Premise T12: many people are executed for the crime they did not commit, which leads to a question of fairness in judicial system
+--------supporting Premise T12:
+------------Premise T13: Juries are also humans, they may lack of discretion
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T11
+
+----Claim T14: it can be replaced by a life sentence
+
+attacking MajorClaim T1:
+----Claim T3: capital punishment presents an extreme warning to the community
+

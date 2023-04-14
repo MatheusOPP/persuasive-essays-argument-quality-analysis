@@ -1,0 +1,33 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: freedom of expressing thoughts and ideas should always be eulogized and it's rather iniquitous to impose a shackle on artists' will to create
+supporting MajorClaim T1:
+
+----Claim T3: this world needs them to make itself colourful
+----type: Claim T9
+----text: restrictions on exposure to adolescents should apply
+----supporting Claim T9:
+
+--------Premise T11: adolescents are not mature enough to avoid being led astray by these contents
+--------Premise T10: some of the art work may contain negative implications such as insanity, violence, eroticism etc
+--------Premise T12: in the case of adults being the audience, there's really nothing to hide – these negative things objectively exist on this planet and it is impossible for adults to be brain-washed only because of some pieces of creative art
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----type: Claim T4
+----text: One of the major concerns against freeing artists' creation derives from the fear of social misleading which would destabilize the society
+----supporting Claim T4:
+
+
+----attacking Claim T4:
+--------Premise T5: the audiences have their own judgement and are not likely to be misled or influenced by some art work
+--------Premise T6: art inevitably involves imagination, exaggeration and sometimes is purely fabricated; regardless of whether the work of art is based on truth or not, it is the public's authority to determine how to interpret its meaning
+--------Premise T7: If the art displays unreality, the public audiences certainly have the acumen to recognise its untruthfulness and only appreciate its art value
+--------Premise T8: the notion of being afraid of social misleading is unjustified
+
+

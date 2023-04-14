@@ -1,0 +1,51 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: student have to be forced to study at school
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: they have more opprotunities to find a job and to be successful in the future
+----supporting Claim T6:
+
+--------Premise T7: employer always prefer to hire an employee of high degree who have professional skills
+--------Premise T8: schools offer to students a good environment with experienced professors and high quality programs for studying
+--------supporting Premise T8:
+------------Premise T11: It creates the best conditions for students education and can force them to focus on their school work instead of wasting their time to do useless things
+
+--------no arguments attacks Premise T8
+
+--------Premise T9: schools provide lots of academic knowledge to students
+--------supporting Premise T9:
+------------Premise T10: Students may learn professional skills, expand their understandings and gain experiences
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T6
+
+
+attacking MajorClaim T1:
+----type: Claim T3
+----text: there are some advantages of leaving school to find a job
+----supporting Claim T3:
+
+
+----attacking Claim T3:
+--------Premise T4: studying at school is always the best choice for children's future
+--------Premise T5: There are many ways that can train children to learn independent and social skills instead of getting a job
+
+----type: Claim T12
+----text: children should interrupt their school work and get a job
+----supporting Claim T12:
+
+--------Premise T14: there are many subjects that will be of little value to them in the future
+--------Premise T15: children can learn social skills when they have a job
+--------Premise T17: Working helps children be more independent and teach them to esteem and manage the money that they've earned
+--------Premise T16: They can get more experiences that can not be obtained at school
+
+----no arguments attacks Claim T12
+
+

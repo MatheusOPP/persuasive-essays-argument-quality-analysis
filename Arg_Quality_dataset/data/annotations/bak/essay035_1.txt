@@ -1,0 +1,28 @@
+Type: MajorClaim T2
+Text: The power of advertising maybe over-rated, we can not deny that the final decision is on the hands of us consumers
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: it is not about the function or quality of the commodities themselves but really the promotion of the good feeling of possessing the product
+    Supporting Claim T3
+
+        Premise: the quality obviously is not relatively important
+        Premise: By casting famous singers in their television advertisement, motorcycles or clothes for example, sales increase significantly
+        Premise: huge cooperation hire celebrities as the face of their product
+        Premise: To boost their sales and win over customers, companies pour a great amount of money into advertising
+
+    No arguments attacks Claim T3
+
+
+Attacking MajorClaim T2
+    Type: Claim T10
+    Text: it plays and important role economically
+    Supporting Claim T10
+
+        Premise: Advertising also helps to keep prices at reasonable levels, creates a fair environment for commercial competition
+        Premise: They introduce new products, and provide various choices, not to mention they are often visually enjoyable
+
+    Attacking Claim T10
+        Premise: advertisements can be falseful and exaggerated
+
+

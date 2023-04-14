@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: children usually mirror themselves on their parents
+Supporting Claim T11
+
+    Premise: even if the parents don’t intend to teach their children something, they are always observing and learning by themselves
+    Premise: if there is a man that beats his wife and treats her bad, his child probably is going to be rude and treat girls bad
+
+No arguments attacks Claim T11
+

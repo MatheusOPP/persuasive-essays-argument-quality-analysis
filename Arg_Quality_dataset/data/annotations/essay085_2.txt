@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: CCTVs must be put in all workplace so that crime rates can be minimized
+supporting Claim T6:
+
+----Premise T10: as the employees know that they are under constant surveillance, they will less likely steal from the shops
+----Premise T9: in Malaysia, policemen used the videos captured by the CCTV cameras to trace and successfully catch a group of robbers who broke into a Seven Eleven shop during the midnight
+----Premise T8: when a shop is attacked by thieves, the clips taken by these cameras serve as a source of evidence to help the thieves to be traced
+----Premise T7: by having CCTV cameras at workplace, crimes such as robbery can be trimmed down
+
+no arguments attacks Claim T6
+

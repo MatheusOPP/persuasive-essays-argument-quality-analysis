@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: there are still many other aspects which should be seen as important as income when people choose a job
+supporting MajorClaim T1:
+
+----type: Claim T11
+----text: if we are passionate about what we are working, we are likely to achieve success easily in that field
+----supporting Claim T11:
+
+--------Premise T8: There are plenty of people, who are now really successful, have started working in challenging as well as competitive fields as singers, dancers and painters
+--------Premise T9: important factors in choosing a job such as level of happiness, satisfaction of jobs, personal relationships, professional skills, working environment, managers and colleagues should not be underestimated
+--------Premise T10: some people choose a career due to their desire to help others and contribute positively to their countries and societies
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----Claim T2: income is still a vital determination impacting us on choices of careers
+----type: Claim T6
+----text: people tend to choose high salary jobs so as to not only help themselves but also support partially or wholly their family's living needs such as food , clothes, accommodation, education, medication
+----supporting Claim T6:
+
+--------Premise T7: money is very essential in order to meet human' basic needs
+--------Premise T4: people who are woking in art or painting industries, for example, will find it quite difficult to live comfortably and enjoyably
+--------supporting Premise T4:
+------------Premise T5: they are doing what they love, their income however seems to be quite low compared to many other career paths
+
+--------no arguments attacks Premise T4
+
+
+----no arguments attacks Claim T6
+
+

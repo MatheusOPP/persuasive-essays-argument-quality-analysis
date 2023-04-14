@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: even civil usages of atomic power pose a dire threat of radio activity
+Supporting Claim T6
+
+    Premise: recently there has been an incident in which an atomic power house leaked tons of radio active material into air when an earthquake hit the surrounding area
+    Premise: This unfortunate event proves that no matter how much careful we are such accidents are inevitable
+
+No arguments attacks Claim T6
+

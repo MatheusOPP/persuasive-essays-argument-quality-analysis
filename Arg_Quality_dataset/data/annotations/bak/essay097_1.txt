@@ -1,0 +1,35 @@
+Type: MajorClaim T2
+Text: international sporting occasions are not only one of the effective solutions to tensions among nations but also a stimulant for releasing patriotic emotions safely
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: they can improve their results, break records and bring victories to their own countries
+    Supporting Claim T3
+
+        Premise: sports events are good chances for excellent athletes to meet and learn valuable experiences from one another
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: sport events with the spirit of healthiness, honesty and fairness can help strengthen understanding, friendship and solidarity among nations
+    Supporting Claim T4
+
+        Premise: there are many good opportunities for discovering different cultures
+        Premise: After sharing competitive but interesting moments in each competition, the competitors often shake hands friendly and congratulate the winners, which can lead to an improvement in the relationships among nations
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: sport events help to wake up love and responsibilities strongly in each citizen
+    Supporting Claim T5
+
+        Premise: sporting occasions play an essential role in raising patriotic emotions in both athletes and spectators
+        Premise: Seeing national flags be honored may be the most emotional moments to each athlete
+        Premise: The athlete also seems to be more aware of his responsibilities and he wants to contribute more to his beloved country
+        Premise: When witnessing our national flags flying proudly among others, many of us can stop hiding our pride and happiness
+
+    No arguments attacks Claim T5
+
+
+No arguments attacks MajorClaim T2
+

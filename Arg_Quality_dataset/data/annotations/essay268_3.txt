@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: The university should provide the best equipment needed for physical education students
+supporting Claim T9:
+
+----Premise T10: students choose their major based on their interests
+----Premise T11: their major in completely involved in physical activities
+----Premise T12: for an engineer or a medicine student I do not find it fair enough to equip gyms instead of their laboratories
+----supporting Premise T12:
+--------Premise T13: it really make the students enthusiastic to use innovative technology to learn and maybe find new things in their field
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T9
+

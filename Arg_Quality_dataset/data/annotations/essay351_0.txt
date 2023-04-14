@@ -1,0 +1,35 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: there are other equally vital aspects that need to be considered in this regard
+supporting MajorClaim T2:
+
+----Claim T4: there are other even more important aspects such as: friendly co-workers, working conditions and professional achievements
+----type: Claim T8
+----text: career promotion or getting some kind of credit from the administration of a company or organization are, likely, more enjoyable achievements than getting a high salary
+----supporting Claim T8:
+
+--------Premise T9: most of the satisfaction of a job comes to people from their professional achievements, skills and the position they reach
+--------Premise T10: people, who work in monotonous jobs, where no achievements or a new positions can be reached feel themselves more dissatisfied, even though they have a very good salaries
+
+----no arguments attacks Claim T8
+
+
+attacking MajorClaim T2:
+----Claim T1: the salary is very pivotal factor
+----type: Claim T6
+----text: in order for people to cover their daily and general needs they need money as well
+----supporting Claim T6:
+
+
+----attacking Claim T6:
+--------Premise T7: aspects such as: friendly colleagues, environment and work-place condition, sometimes, have even more impact on person's happiness and quality of life
+--------supporting Premise T7:
+------------Premise T5: People, for instance, who don't like their co-workers and working condition are considered less satisfied with their jobs, despite of a high salary
+
+--------no arguments attacks Premise T7
+
+
+

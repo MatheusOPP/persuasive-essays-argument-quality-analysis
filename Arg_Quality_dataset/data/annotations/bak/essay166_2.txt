@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: a big city can offer me many more vacancies than a small town
+Supporting Claim T3
+
+    Premise: Big city life provides many opportunities
+    Premise: it will be easier for me to find an engineering job in the city
+    Premise: Electrical engineering deals with problems concerning electricity supply
+
+No arguments attacks Claim T3
+

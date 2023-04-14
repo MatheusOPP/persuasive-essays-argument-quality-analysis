@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: females should be given equal opportunities as males
+Supporting Claim T5
+
+    Premise: The whole world aims for women empowerment
+    Premise: Right to education is a basic human right of both, males and females
+    Premise: When universities will accept them in equal number, both genders will be able to nurture their talent and a healthy competitive environment will develop
+
+No arguments attacks Claim T5
+

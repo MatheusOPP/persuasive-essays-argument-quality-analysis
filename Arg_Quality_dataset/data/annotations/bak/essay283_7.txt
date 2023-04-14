@@ -1,0 +1,12 @@
+Type: Claim T18
+Text: grade that students get should not be in evaluating teacher
+Supporting Claim T18
+
+    Premise: This problem should not be happened
+    Premise: Teachers may just give high grades to get higher salary
+    Premise: there could lead to a big problem if schools pay teachers by grade that students get
+    Premise: That is problem in quality of education
+    Premise: Teacher may not care about how they have to teach to make students understand the topics
+
+No arguments attacks Claim T18
+

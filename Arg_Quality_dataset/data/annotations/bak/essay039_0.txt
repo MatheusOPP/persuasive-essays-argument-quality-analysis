@@ -1,0 +1,36 @@
+Type: MajorClaim T2
+Text: there are some reasons for human beings to travel to outer space
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: many facts about solar system can be discovered
+    Supporting Claim T3
+
+        Premise: a picture of planet earth proved that the earth is round, not flat
+        Premise: it is the earth which goes around the sun, not vice versa
+        Premise: If it was not for the space exploration, we would never know these facts
+
+    No arguments attacks Claim T3
+
+    Type: Claim T7
+    Text: people can know more about the planet earth itself
+    Supporting Claim T7
+
+        Premise: By observing planet earth from outer space, people can find out ample things for example about the atmosphere of the planet earth
+        Premise: With this knowledge, people can work on something to prevent earth hazards such as global warming
+
+    No arguments attacks Claim T7
+
+    Type: Claim T10
+    Text: a great deal of sophisticated technology can be invented
+    Supporting Claim T10
+
+        Premise: As astronauts need to travel to outer space which does not have any oxygen to breathe in, scientists are compelled to do research on the oxygen tanks
+        Premise: Oxygen tanks, for instance, are proved useful not only in outer space but also underwater
+        Premise: spaceships, communication satellites and space pens also contribute a lot to the society
+
+    No arguments attacks Claim T10
+
+
+No arguments attacks MajorClaim T2
+

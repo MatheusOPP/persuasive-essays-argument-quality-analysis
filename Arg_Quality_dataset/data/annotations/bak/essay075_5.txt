@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: art, to some extent, serve a valuable function about enriching one's daily lives
+Supporting Claim T8
+
+    Premise: it could bring release one's heavy burden of study pressure and refresh human bodies through a hard day from work
+
+Attacking Claim T8
+    Premise: it is unrealistic to pursuit of this high standard of life in many developing countries, in which the basic housing supply has still been a huge problem with plenty of lower income family have squeezed in a small tight room
+    Premise: By comparison to these issues, the pursuit of art seems unimportant at all
+

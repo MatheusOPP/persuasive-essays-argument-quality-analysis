@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: teachers should not be paid by testing result that students get
+Supporting Claim T11
+
+    Premise: It is not teachers fault
+    Premise: This problems depend on how hard study they do
+    Premise: testing result are different
+
+No arguments attacks Claim T11
+

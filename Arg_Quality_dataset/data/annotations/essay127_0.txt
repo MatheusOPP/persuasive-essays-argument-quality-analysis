@@ -1,0 +1,55 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: life in the old days brings more happiness to people than today for several reasons
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: lives in the old days is easier than today
+----supporting Claim T5:
+
+--------Premise T8: competition is getting fierce
+--------supporting Premise T8:
+------------Premise T7: world population getting higher
+
+--------no arguments attacks Premise T8
+
+--------Premise T6: Nowadays, all humans compete together
+--------Premise T9: If you are not able to handle your jobs, then someone will replace you right away
+--------Premise T10: People need to put much more effort to keep their living condition
+--------Premise T4: life is simple in the past
+
+----no arguments attacks Claim T5
+
+----type: Claim T15
+----text: the environment our grandparents live is more comfortable than today
+----supporting Claim T15:
+
+--------Premise T11: the environment today is serious damaged
+--------Premise T13: Everyday, I walk on hard roads, breath in polluted air, and live in a limited space
+--------Premise T14: it has been proved that living in this kind of condition will result in some mental diseases
+--------Premise T12: Looking out the windows, what I see isn't sky, trees or mountains, but is coldly high buildings
+
+----no arguments attacks Claim T15
+
+----type: Claim T18
+----text: The third reason is that the pace of life
+----supporting Claim T18:
+
+--------Premise T19: If we cannot react properly and immediately, then we will be in a vulnerable situation
+--------Premise T20: We have no choice but have to live in a fast pace
+
+----attacking Claim T18:
+--------Premise T16: Today, we are able to read the news all over the world, to chat with people through the Internet, or to travel around the world by planes
+--------supporting Premise T16:
+
+--------attacking Premise T16:
+------------Premise T17: it also means that any thing happens in the world will affect our life
+
+
+
+attacking MajorClaim T1:
+----Claim T3: some people live in a pretty good condition, it is only a minority
+

@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I do support the view of learning all school subjects
+supporting MajorClaim T1:
+
+----Claim T2: concentrating on one subject can reduce students' pressure and foster the effectiveness in training talents, while its shortfalls are so vital to students' future
+----type: Claim T3
+----text: The benefits of teaching students different units are easily recognized
+----supporting Claim T3:
+
+--------Premise T4: with some basic knowledge of diverse fields, students have more options in choosing specialized areas or jobs in the future
+--------Premise T5: Teenagers are still too young and immature to decide what they are going to dedicate
+--------Premise T6: In students' point of view, the combination of difficult and easy subjects balances their schoolwork stress and fosters their enthusiasm on classes
+
+----attacking Claim T3:
+--------Premise T7: still many teenagers cannot enjoy the variation of the curriculum, instead, they feel more stressful with so much homework and exams to be done
+--------Premise T8: most students regard the extra knowledge useless and impractical for their future jobs
+
+
+attacking MajorClaim T1:
+----type: Claim T9
+----text: this education model can cultivate more talents who specialized in different areas and increase studying effectiveness
+----supporting Claim T9:
+
+--------Premise T10: students can devote more time and efforts in one subject and reduce pressure from other subjects
+
+----attacking Claim T9:
+--------Premise T11: under such target-oriented education environment, teenagers may be hard to regret their original choice and change their specialized field in their further study
+--------Premise T12: the dullness of course may deeply influence their passion on study
+
+

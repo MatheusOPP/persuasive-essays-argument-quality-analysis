@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: Daily exercise will help also to develop children's brain function
+supporting Claim T7:
+
+----Premise T8: It is well known how important it is to exercise regularly to help the body system to work better
+----Premise T9: When people exercise, the respiratory system's function is enhanced, helping all organs, including the brain, to get more oxygen in
+----Premise T10: Daily exercise will provide children with a mental break which will boost them to be efficient learners
+
+no arguments attacks Claim T7
+

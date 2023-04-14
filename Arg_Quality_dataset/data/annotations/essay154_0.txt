@@ -1,0 +1,53 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I prefer to live with a roommate
+supporting MajorClaim T1:
+
+----Claim T2: it saves me money, enables me to socialize, and allows me to get help
+----Claim T5: it offers me many advantages, such as less spending, more socializing, and more help
+----type: Claim T6
+----text: Living with a roommate saves me a lot of money
+----supporting Claim T6:
+
+--------Premise T7: If you have roommates, you can split the rent and utilities among them
+--------Premise T8: you can get more for less
+--------Premise T9: last year, I shared a room off-campus with my friend, and we decided to split the rent and heating bills into half: I was able to save about fifty dollars for heating, and two hundred dollars for rent monthly
+--------Premise T10: I was able to save a lot of money by sharing wasted heating and rooms with my friend and splitting the bills
+
+----no arguments attacks Claim T6
+
+----type: Claim T11
+----text: living with a roommate also enables me to socialize more easily
+----supporting Claim T11:
+
+--------Premise T12: It is always easier to socialize when you have a lot of people around you
+--------Premise T13: You can invite your roommates' friends over to your room and have fun together
+--------Premise T14: one night, my roommate, Millan, brought his friends along
+--------Premise T15: Even though his friends and I were total strangers to each other, we quickly got to know each other
+--------Premise T16: We soon found out that everyone loved playing video games
+--------Premise T17: We played a video game called 'Halo' together all night, and became good friends
+--------Premise T18: Living with a roommate made socializing much easier for me
+
+----no arguments attacks Claim T11
+
+----type: Claim T19
+----text: living with a roommate allows me to get help
+----supporting Claim T19:
+
+--------Premise T20: It often is the case that your roommates have the skills or knowledge you need
+--------Premise T21: When you run into a problem, you can ask your roommates if they can help
+--------Premise T22: Some of them may have something to offer
+--------Premise T23: when my computer mysteriously broke down, I dialed up the manufacturer and asked for help
+--------Premise T24: They failed to give me any useful solutions
+--------Premise T25: To my surprise, one of my roommates noticed my problems and offered to help
+--------Premise T26: He was very good with computers, and he managed to fix the problem quickly
+
+----no arguments attacks Claim T19
+
+
+attacking MajorClaim T1:
+----Claim T4: many people decide to live alone for various reasons
+

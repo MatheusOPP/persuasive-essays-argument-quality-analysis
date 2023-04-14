@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: One of the major concerns against freeing artists' creation derives from the fear of social misleading which would destabilize the society
+Supporting Claim T4
+
+
+Attacking Claim T4
+    Premise: the audiences have their own judgement and are not likely to be misled or influenced by some art work
+    Premise: art inevitably involves imagination, exaggeration and sometimes is purely fabricated; regardless of whether the work of art is based on truth or not, it is the public's authority to determine how to interpret its meaning
+    Premise: If the art displays unreality, the public audiences certainly have the acumen to recognise its untruthfulness and only appreciate its art value
+    Premise: the notion of being afraid of social misleading is unjustified
+

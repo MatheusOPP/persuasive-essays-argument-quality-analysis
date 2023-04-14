@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: school teachers are more qualified than parents in the field of education
+supporting Claim T6:
+
+----Premise T4: to be able to obtain the teacher certificates, people need years of training at their normal schools to learn theoretical knowledge
+----Premise T5: in comparison to teachers, parents tend to have less knowledge to teach their children's subjects such as mathematics and physics
+
+no arguments attacks Claim T6
+

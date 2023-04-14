@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: make a good relationship with them
+Supporting Claim T7
+
+    Premise: If top-level managers want to make a project successful, have a good relationship with their subordinaries is the prerequisit for the managers' work complete successfully, managers should listen to their employees needs and complaints about this job, pay much patiant and care to them
+    Premise: no matter who you are a top-level managers of a company or a low-level employee of that company, relating well to people is also a importent issue
+
+No arguments attacks Claim T7
+

@@ -1,0 +1,49 @@
+Type: MajorClaim T1
+Text: children should be taught co-operation complimented with a healthy competition
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: Co-operation is essential for teamwork
+    Supporting Claim T2
+
+        Premise: lions hunt in a team
+        Premise: Educational systems emphasize on encouraging co-operative approach in children
+        Premise: We live in a social setup and mutual help and sharing only leads to success
+        Premise: A person can not learn or achieve everything by oneself
+        Premise: co-operative approach will save time, energy and will have a higher success rate
+
+    No arguments attacks Claim T2
+
+    Type: Claim T9
+    Text: co-operation helps to understand other's perspective and learn by their mistakes
+    Supporting Claim T9
+
+        Premise: It helps to identify one's strengths and weaknesses as compared to others
+        Premise: A co-operative approach can create inspirational and motivational feeling seeing other people's achievements
+
+    Attacking Claim T9
+        Premise: competition is also as important as co-operation
+
+    Type: Claim T13
+    Text: Competition helps in improvement and evolution
+    Supporting Claim T13
+
+        Premise: An individual must compete with oneself only, instead of trying to beat others
+        Premise: Competition has helped the development of science and technology
+        Premise: every other day, new cars are developed by companies which are more efficient than others
+
+    No arguments attacks Claim T13
+
+
+Attacking MajorClaim T1
+    Type: Claim T18
+    Text: Competition should be always based on self-improvement rule
+    Supporting Claim T18
+
+        Premise: 'Your loss, my gain' kind of competition can never be fruitful in the long run
+        Premise: A healthy competition which involves raising one's own level above others is the best approach
+        Premise: blind and selfish competition is detrimental
+
+    No arguments attacks Claim T18
+
+

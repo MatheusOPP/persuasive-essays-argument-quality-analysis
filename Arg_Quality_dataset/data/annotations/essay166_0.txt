@@ -1,0 +1,53 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I would prefer to live in a city
+supporting MajorClaim T1:
+
+----Claim T2: I am eager to get a good job and explore different places
+----type: Claim T3
+----text: a big city can offer me many more vacancies than a small town
+----supporting Claim T3:
+
+--------Premise T4: Big city life provides many opportunities
+--------Premise T5: it will be easier for me to find an engineering job in the city
+--------Premise T6: Electrical engineering deals with problems concerning electricity supply
+
+----no arguments attacks Claim T3
+
+----type: Claim T10
+----text: At the weekends, there is a great number of things to do in the metropolis
+----supporting Claim T10:
+
+--------Premise T7: There are numerous bars, cafes and restaurants where I can go with my friends
+--------Premise T8: Multinational cities have restaurants with different national cuisines
+--------Premise T9: I am fond of Italian food, and if there is an Italian restaurant in the city, I will definitely visit it
+
+----no arguments attacks Claim T10
+
+----type: Claim T11
+----text: Cultural life of a metropolis is always an entertaining one
+----supporting Claim T11:
+
+--------Premise T13: There a person can listen to music, make new friends or enjoy a a drink alone
+--------Premise T12: A night club is an interesting place to visit for young people
+--------Premise T14: I am keen on museums and it would be a pleasure for me to spend several hours a week in front of famous paintings, sculptures or artifacts
+--------Premise T15: On special dates, city offers free exhibitions which are available for everyone who is interested in art
+
+----no arguments attacks Claim T11
+
+----type: Claim T16
+----text: cities have better medical facilities than in the countryside
+----supporting Claim T16:
+
+--------Premise T17: This can at least assure me that if I feel bad, city can provide a high quality help
+
+----no arguments attacks Claim T16
+
+----Claim T19: big cities offer countless amount of opportunities and entertainment places
+
+attacking MajorClaim T1:
+----Claim T18: while small towns have picturesque nature and pure air
+

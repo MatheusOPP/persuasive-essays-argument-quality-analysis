@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: long-distance education provides students the opportunity to access the immense knowledge resources and a variety of teaching approaches
+Supporting Claim T9
+
+    Premise: Pupils can obtain materials for their curricula just by one mouse click, such as science reports, study posts, documentary records, etc
+    Premise: he can control the learning progress and make satisfactory achievement on this course
+
+No arguments attacks Claim T9
+

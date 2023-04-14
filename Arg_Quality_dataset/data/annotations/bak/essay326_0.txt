@@ -1,0 +1,14 @@
+Type: MajorClaim T1
+Text: computers have an important and inevitable role in economic, business, and other part of societies
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: they make the way of living easier by doing our routine duties
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+
+No arguments attacks MajorClaim T1
+

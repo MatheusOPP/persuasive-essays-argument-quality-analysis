@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: if we are passionate about what we are working, we are likely to achieve success easily in that field
+Supporting Claim T11
+
+    Premise: There are plenty of people, who are now really successful, have started working in challenging as well as competitive fields as singers, dancers and painters
+    Premise: important factors in choosing a job such as level of happiness, satisfaction of jobs, personal relationships, professional skills, working environment, managers and colleagues should not be underestimated
+    Premise: some people choose a career due to their desire to help others and contribute positively to their countries and societies
+
+No arguments attacks Claim T11
+

@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: culture and history of a country can be reserved and assured by art
+Supporting Claim T8
+
+    Premise: sculptures and paintings in the museums and art galleries generally reflect the culture and civilization of every generation
+    Premise: Young people are also able to get more knowledge about their country's history and culture by observing various work crafts
+
+No arguments attacks Claim T8
+

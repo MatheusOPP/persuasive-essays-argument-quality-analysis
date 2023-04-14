@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: the popularity of news media is beneficial to human beings
+Supporting Claim T9
+
+    Premise: today entertainment is easier for people to enjoy than ever before
+    Premise: People can sit in front of their televisions and watch whatever they want, from musical concerts to live football match
+    Premise: This is a convenient way of relaxation after hard work
+
+No arguments attacks Claim T9
+

@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: while some of them are disturbing, we can not overlook other merits the advertisements bring
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: it is unfair to restrict those public service advertisements which are creative and inspiring
+----supporting Claim T3:
+
+--------Premise T6: they are not in the purpose of making profits but taking a role of disseminating valued culture, good moral traits and calling for helps for the disabled and the poor
+
+----no arguments attacks Claim T3
+
+----type: Claim T4
+----text: publicizing brand image or a particular product of mass media could boost sales for companies
+----supporting Claim T4:
+
+--------Premise T7: it could simulate household spending and therefore promote the economic development of the whole country
+--------Premise T8: A recent study shows that after launching an advertising campaign, the sales revenue would increase by 40%, which is the very fact to verify its positive influences on economic
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T1:
+----type: Claim T5
+----text: the advertising expenses lead to a higher product price and some of them express fake information, creating information asymmetry between consumers and companies
+----supporting Claim T5:
+
+
+----attacking Claim T5:
+--------Premise T9: its merits still outweigh these downsides
+
+

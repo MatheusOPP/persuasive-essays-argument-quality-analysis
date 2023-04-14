@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: under globalization and industrial integration, the work-related challenges for this generation are getting more complicated and challenging
+supporting Claim T11:
+
+----Premise T4: In the past, focusing on one skill was enough to deal with the problems
+----Premise T5: every industry was rather small in size and simple to manage
+----Premise T6: as those industries expand and become internationalized, people are required to equip with multiple skills to answer those challenges
+----supporting Premise T6:
+--------Premise T8: besides one's own profession, language ability is essential as well
+--------supporting Premise T8:
+------------Premise T7: now there are more chances to do business with people around the world
+
+--------no arguments attacks Premise T8
+
+--------Premise T10: surging up demands for those who excel at both laws and financial management
+--------supporting Premise T10:
+------------Premise T9: financial crimes are rampant in the 21st century
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Premise T6
+
+
+no arguments attacks Claim T11
+

@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: teenage students need to understand the money management basics
+Supporting Claim T5
+
+    Premise: when secondary school students attain the age of undergoing graduation, students ought to stay in hostels or with friends and away from family, during such situations when money management is taught at an early age students will have increased sense of responsibility and confidence
+    Premise: while I was a kid my father used to maintain expense log for the month, I was asked to do the same for my keep track of my pocket money expenses, during my future course of life this became a practice and helped me in planning my expenses
+
+No arguments attacks Claim T5
+

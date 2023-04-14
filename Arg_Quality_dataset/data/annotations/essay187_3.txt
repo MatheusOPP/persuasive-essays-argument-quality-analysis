@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: Person 'A' who learns a non-native language in his country may receive benefit from a step-by-step teaching method
+supporting Claim T11:
+
+----Premise T10: he can set aside enough time and energy dedicated to learning the language
+----supporting Premise T10:
+--------Premise T12: he is not jumping into the foreign country
+
+----no arguments attacks Premise T10
+
+----Premise T13: all these people most likely have learned the language, more or less, in the same way
+----supporting Premise T13:
+--------Premise T14: all the learners are probably from the same country
+
+----no arguments attacks Premise T13
+
+
+no arguments attacks Claim T11
+

@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: teachers should not be paid by testing result that students get
+supporting Claim T11:
+
+----Premise T17: It is not teachers fault
+----Premise T16: This problems depend on how hard study they do
+----Premise T15: testing result are different
+----supporting Premise T15:
+--------Premise T12: learning abilities in each students is different
+--------Premise T13: It is not possible that they all comprehend all lessons in the same period of time
+--------Premise T14: Some students might understand all topics that they had learnt but some are not
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T11
+

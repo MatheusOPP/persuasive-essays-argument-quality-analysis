@@ -1,0 +1,10 @@
+Type: Claim T14
+Text: some television programs have a negative effect on viewers
+Supporting Claim T14
+
+    Premise: Some thriller or action movies advertise negative activities such as doing criminal activity
+    Premise: They usually try to mimic what they see on movies in their daily behaviors
+    Premise: These genre of programs has more negative effects on our teenagers
+
+No arguments attacks Claim T14
+

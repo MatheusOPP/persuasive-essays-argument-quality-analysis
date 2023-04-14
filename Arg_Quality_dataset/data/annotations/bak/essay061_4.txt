@@ -1,0 +1,12 @@
+Type: Claim T6
+Text: Computers have made humans over-dependent
+Supporting Claim T6
+
+    Premise: Virus programs, privacy breach, leak of confidential documents, cyber attacks, identity theft, frauds etc. are some of its demerits, from a countless list
+    Premise: Computers expose children to vulgar materials
+    Premise: They have even invaded mental health of humans, for example, FAD (Facebook Addiction Disorder - excessive use of social networking website Facebook)
+    Premise: Computers have intruded our lives to the effect that a satellite can peep into our homes and privates lives
+    Premise: The recent case of Wikileaks, leaking confidential data is an example of how computers are harmful
+
+No arguments attacks Claim T6
+

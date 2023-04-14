@@ -1,0 +1,32 @@
+Type: MajorClaim T1
+Text: I would rather classify myself in the proponents of globalization as a speeding factor of global progress
+Supporting MajorClaim T1
+
+    Type: Claim T4
+    Text: globalization contribute effectively to the global improvement of the world in many aspects
+    Supporting Claim T4
+
+        Premise: Developing globalization, people can have more access to many natural resources of the world and it leads to increasing the pace of scientific and economic promotions of the entire world
+        Premise: they admit that globalization can be considered a chance for people of each country to promote their lifestyle through the stuffs and services imported from other countries
+
+    No arguments attacks Claim T4
+
+    Type: Claim T7
+    Text: globalization results in considerable decrease in global tension
+    Supporting Claim T7
+
+        Premise: convergence of benefits of people of the world which is a natural consequence of globalization
+
+    No arguments attacks Claim T7
+
+
+Attacking MajorClaim T1
+    Type: Claim T3
+    Text: Some people prefer to recognize globalization as a threat to ethnic and religious values of people of their country
+    Supporting Claim T3
+
+        Premise: the idea of globalization put their inherited culture in danger of uncontrolled change and make them vulnerable against the attack of imperialistic governments
+
+    No arguments attacks Claim T3
+
+

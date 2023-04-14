@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: everybody would like to know what is going on around the world in their everyday lives
+supporting Claim T8:
+
+----Premise T6: Sometimes, they want an information that can help them in daily life which the internet can provide all of these to people
+----Premise T7: a businessman who has no time to watch a television or read a newspaper can receive news and check stock markets easily via the internet
+
+no arguments attacks Claim T8
+

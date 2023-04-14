@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: working at home has many disadvantages that will no doubt lower the efficiency of works
+supporting Claim T9:
+
+----Premise T10: people are easily distracted while working at home
+----supporting Premise T10:
+--------Premise T11: It's hard to concentrate on work if people can grab the TV remote or some junk foods right away
+
+----no arguments attacks Premise T10
+
+----Premise T12: while people are working at home, there will be no one supervising them, thus raises the chance of loafing
+----Premise T13: people who work at home are more likely to miss the important events happening in the office, like some announcements from the boss
+
+no arguments attacks Claim T9
+

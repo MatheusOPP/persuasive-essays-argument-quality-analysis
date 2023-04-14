@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: you learn quickly
+supporting Claim T12:
+
+----Premise T14: You can improve your skills by work under any professor; you can ask questions face to face, it will clear your doubts
+----Premise T13: professors play vital role in classroom learning, most of them are specialists is their subjects, and they help you by giving valuable information and useful skills
+----Premise T15: For Toefl IBT Coaching first I was depend on some online courses, but after 1 month I realized that I was wasting my time so I joined an institute for preparation of Toefl IBT, and in 1 month I felt that my English skills have been improving faster
+
+no arguments attacks Claim T12
+

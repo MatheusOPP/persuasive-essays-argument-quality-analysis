@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: professors should pay more attention on how to teach students rather than conduct research
+supporting Claim T11:
+
+----Premise T15: professors should provide well-preparation courses to convey the state-of-art knowledge for college and university students
+----Premise T14: The reason why people enter a university is that they want to learn cutting-edged technologies
+----Premise T13: If professors spend a lot of time on research, he will cut the time on preparing courses is reduced, which may decrease the quality of classes
+----Premise T8: professors should assist students to acquire knowledge
+----Premise T12: The professors’ duty is to nurture students, and prepare excellent courses
+
+no arguments attacks Claim T11
+

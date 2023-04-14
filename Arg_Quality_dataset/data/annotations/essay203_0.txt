@@ -1,0 +1,60 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is one's hard work that helps him reach his target
+supporting MajorClaim T1:
+
+----Claim T2: I do not see any rational in believing in luck to reach one's goals
+----Claim T4: depending on luck for everything is not good
+----type: Claim T6
+----text: if you depend only on luck for all your accomplishments, you are taking a great risk
+----supporting Claim T6:
+
+--------Premise T8: If it doesn't work, it would be a great disappointment
+--------Premise T7: Luck is something intangible and no one can guarantee that it would ever come your way
+
+----no arguments attacks Claim T6
+
+----type: Claim T9
+----text: all my accomplishments were backed by my hard work, not my luck
+----supporting Claim T9:
+
+--------Premise T10: I never did encounter any disappointments of missing my goals
+--------Premise T11: if you strive hard to achieve what you want, then your hard work would take you at least closer to your final goal
+
+----no arguments attacks Claim T9
+
+----type: Claim T13
+----text: those who believe in hard work are clear about their goals and know about their final destination
+----supporting Claim T13:
+
+--------Premise T14: They carefully organize the process of achieving their targets and continue to evaluate their progress until they reach the final goal
+--------Premise T15: If you believe in luck, you would be clueless about where you are heading
+--------Premise T16: a friend of mine, who had severe financial constraints, had the habit of buying lottery tickets thinking that one day he would win a lottery
+--------Premise T17: He was living in an illusion that he can solve his financial issues with this lottery
+--------Premise T18: up to this day his luck has not appeared and problems have got further worsened
+
+----no arguments attacks Claim T13
+
+----type: Claim T12
+----text: if you work hard, luck too might shine on you and take you some more steps further ahead from your actual target
+----supporting Claim T12:
+
+--------Premise T19: my boss worked tirelessly for his promotion
+--------Premise T20: He looked at every aspect that he needed to qualify for the promotion
+--------Premise T21: He realized that having a master's degree would be a great credential for him to outperform his competitors
+--------Premise T22: he had many commitments at home and work, he somehow managed to complete this degree before he was eligible to apply
+--------Premise T23: At the end he was not only able to get the promotion amidst a stiff competition but also got nominated for a foreign scholarship
+--------supporting Premise T23:
+------------Premise T24: he had more credentials than other officers in his capacity
+
+--------no arguments attacks Premise T23
+
+
+----no arguments attacks Claim T12
+
+
+no arguments attacks MajorClaim T1
+

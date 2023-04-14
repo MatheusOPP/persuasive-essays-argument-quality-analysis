@@ -1,0 +1,8 @@
+Type: Claim T8
+Text: people are most creative when they were children
+Supporting Claim T8
+
+    Premise: children imagine new things and games just to have fun and be happy
+
+No arguments attacks Claim T8
+

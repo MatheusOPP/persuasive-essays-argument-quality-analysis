@@ -1,0 +1,56 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: reducing stress by listening to music, playing sports, and doing meditation are easy and practical ways
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: listening to music is a great way to relax
+----supporting Claim T5:
+
+--------Premise T4: I feel happy when I listen music
+--------supporting Premise T4:
+------------Premise T3: I could enjoy listening music without thinking of people around me
+
+--------no arguments attacks Premise T4
+
+--------Premise T2: I always listen music from my mp3 player
+
+----no arguments attacks Claim T5
+
+----type: Claim T6
+----text: another way that is perfectly work for everyone to reduce the stress is exercise
+----supporting Claim T6:
+
+--------Premise T7: after work, I always do exercise, and jogging is my favorite sport
+--------Premise T8: I feel that after working out, I am easily to fall asleep
+--------Premise T9: Exercising not only reduce my stress but also make me get a good health
+
+----no arguments attacks Claim T6
+
+----type: Claim T14
+----text: meditation also one of the ways to reduce the stress
+----supporting Claim T14:
+
+--------Premise T10: Meditation is easy way to relax
+--------supporting Premise T10:
+------------Premise T11: it is not require any equipment, and it take few minutes
+------------supporting Premise T11:
+----------------Premise T12: A way to do meditation is that I just sit down, close my eyes, and count my breath
+
+------------no arguments attacks Premise T11
+
+
+--------no arguments attacks Premise T10
+
+--------Premise T13: These could relieve me from stress
+
+----no arguments attacks Claim T14
+
+----Claim T16: It is are easy and usable
+----Claim T17: And everyone should find the time to do more and more to feel better physically and in everyone mind
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: many facts about solar system can be discovered
+Supporting Claim T3
+
+    Premise: a picture of planet earth proved that the earth is round, not flat
+    Premise: it is the earth which goes around the sun, not vice versa
+    Premise: If it was not for the space exploration, we would never know these facts
+
+No arguments attacks Claim T3
+

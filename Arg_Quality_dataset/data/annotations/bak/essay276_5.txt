@@ -1,0 +1,11 @@
+Type: Claim T14
+Text: dancing is one of that ways
+Supporting Claim T14
+
+    Premise: many event, such as christmas, last christmas I went to mall to buy gifts, and I was entertained by group of people in santa custom dancing in christmas song
+    Premise: Both people who see and dance also have a good time
+    Premise: I felt that people around me happy and group of santas also happy to see people happy
+    Premise: many culture, people have many ways to entertain themselves
+
+No arguments attacks Claim T14
+

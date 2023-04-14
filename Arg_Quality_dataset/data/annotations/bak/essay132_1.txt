@@ -1,0 +1,10 @@
+Type: Claim T2
+Text: people are focusing on doing several jobs or gaining further qualification to secure their economic condition
+Supporting Claim T2
+
+    Premise: This overwhelming crisis is prompting delayering and reduction of workers
+    Premise: with the recent recession, almost all the countries all over the world are seeing significant economic downfall
+    Premise: A full time job with a steady income was enough for a potential employee to support himself and his family
+
+No arguments attacks Claim T2
+

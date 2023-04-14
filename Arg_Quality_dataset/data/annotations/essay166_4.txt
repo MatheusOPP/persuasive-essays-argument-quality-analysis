@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: Cultural life of a metropolis is always an entertaining one
+supporting Claim T11:
+
+----Premise T13: There a person can listen to music, make new friends or enjoy a a drink alone
+----Premise T12: A night club is an interesting place to visit for young people
+----Premise T14: I am keen on museums and it would be a pleasure for me to spend several hours a week in front of famous paintings, sculptures or artifacts
+----Premise T15: On special dates, city offers free exhibitions which are available for everyone who is interested in art
+
+no arguments attacks Claim T11
+

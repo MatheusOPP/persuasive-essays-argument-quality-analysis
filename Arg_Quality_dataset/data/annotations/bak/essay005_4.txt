@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: one who has studied and lived overseas will become more eligible for the job than his/her peers
+Supporting Claim T5
+
+    Premise: employers are mostly looking for people who have international and language skills
+    Premise: Becoming successful in this study will give the student an edge in job market
+
+No arguments attacks Claim T5
+

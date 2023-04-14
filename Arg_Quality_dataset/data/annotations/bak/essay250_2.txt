@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: such high salaries can also guarantee and support the athlete's great performances
+Supporting Claim T8
+
+    Premise: Most of us only see the luxurious side of a rich athlete and ignore how may difficulties they've gone through and how much cost they've thrown into investing themselves
+    Premise: They shall reap within their high salaries
+    Premise: if they are not paid high enough in order to conform to their performances, there might not be such brilliant performances for us to be amazed
+
+No arguments attacks Claim T8
+

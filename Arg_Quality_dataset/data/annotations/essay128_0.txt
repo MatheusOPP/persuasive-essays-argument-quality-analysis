@@ -1,0 +1,40 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: high school should permit students to choose courses they want for several reasons which are freedom of choice, to have progress in students grades and knowledge as well as to help students explore their aptitude
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: students should have a right to choose what they want to study
+----supporting Claim T2:
+
+--------Premise T3: Not allowing students their desired subjects to be chosen is a restriction of human rights
+--------Premise T4: As children of independent country we should know our rights and opportunities we have in order to achieve our goals and dreams
+
+----no arguments attacks Claim T2
+
+----type: Claim T8
+----text: Giving chance students to choose their interested fields of study is merit
+----supporting Claim T8:
+
+--------Premise T5: students should choose their classes to have progress in their studies and grades
+--------Premise T6: we can avoid conflicts among students and teachers which can be enjoyable and productive for both instructor and students
+--------Premise T7: when I was taking art class everyone shared the same interests and it was easy to understand each other
+
+----no arguments attacks Claim T8
+
+----type: Claim T10
+----text: this type of opportunities can raise future geniuses
+----supporting Claim T10:
+
+--------Premise T9: When schools can give such kind of opportunity the students are likely do their best and succeed in their future lives which is one of the point most people get education
+--------Premise T11: he or she can explore in an area she/he has an aptitude
+
+----no arguments attacks Claim T10
+
+----Claim T13: it has advantage not only for him or her but for society as well
+
+no arguments attacks MajorClaim T1
+

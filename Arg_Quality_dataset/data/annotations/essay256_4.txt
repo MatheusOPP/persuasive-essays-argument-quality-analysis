@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: if students already understand the contents on the class enough to pass the exams or they can study the course on their own
+supporting Claim T15:
+
+
+attacking Claim T15:
+----Premise T12: this is a rather immodest way of thinking
+----Premise T13: professors can always give students more than students themselves could because of the experiences and their qualifications as professors
+----Premise T14: even if students believe that they are so brilliant to surpass their professors, they can still go to the classes to discuss with professors and classmates
+

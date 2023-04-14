@@ -1,0 +1,11 @@
+Type: Claim T18
+Text: The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things
+Supporting Claim T18
+
+    Premise: Knowledge is the base of creativity
+    Premise: they will be able to learn about different cultures and different ways of thinking
+    Premise: In the past, children were only able to see things from one perspective
+    Premise: technology widen children's knowledge
+
+No arguments attacks Claim T18
+

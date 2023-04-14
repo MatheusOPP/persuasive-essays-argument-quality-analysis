@@ -1,0 +1,52 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: Television has destroyed communication among friends and family
+supporting MajorClaim T1:
+
+----Claim T2: Some People spend a lot of time watching television, others even eat watching television, and some others make of this media a priority
+----type: Claim T10
+----text: some people spend a lot of time watching television
+----supporting Claim T10:
+
+--------Premise T7: Instead of spend time with family and friends, they like to seat on a chair for hours
+--------Premise T9: I know someone who wakes up in the morning and before even eat he turns the television on, he even records the programs he cannot watch during work hours
+--------Premise T8: Time with the family is gold, some people have to realize that and take quality of time to talk to them
+--------Premise T5: she is used to his habit that she prefers to write him an email
+--------supporting Premise T5:
+------------Premise T6: Sometimes his wife wants to talk before they go to work, but he only let her talk during commercials
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Claim T10
+
+----type: Claim T15
+----text: Another way television has destroyed communication is when some people cannot even seat at the table and have dinner with the family
+----supporting Claim T15:
+
+--------Premise T11: This is the time, when if they have children, they can share everything about school, a project and even concerns
+--------Premise T12: when there is a dinner with friends, some people do not have a fluid conversation
+--------supporting Premise T12:
+------------Premise T13: the television is again in between them
+
+--------no arguments attacks Premise T12
+
+--------Premise T14: When family or friends gather together to have a good time eating and talking, this is not the reality in some cases
+
+----no arguments attacks Claim T15
+
+----type: Claim T16
+----text: some people make the television a priority
+----supporting Claim T16:
+
+--------Premise T17: I remember a friend told me one day that because she was watching a telenovela I could not go to her house a certain time during the night
+
+----no arguments attacks Claim T16
+
+
+attacking MajorClaim T1:
+----Claim T3: television is a great tool to learn, entertain and inform what is happening
+

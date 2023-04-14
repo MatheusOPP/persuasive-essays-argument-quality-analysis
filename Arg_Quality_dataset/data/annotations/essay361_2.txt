@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: By watching TV, children can develop skills in extra-curriculum activities
+supporting Claim T5:
+
+----Premise T3: There are international and local news channels like BBC, CNBC, Etv Gujarati, Etv Marathi etc to keep individuals updated about latest happenings
+----Premise T6: TV is one of the prime source of data and information
+----Premise T4: Cooking programs teach about how to make new dishes and similarly, sports events like cricket, football can teach leadership skills, team building skills, communication skills and many more that can help students in their future jobs
+
+no arguments attacks Claim T5
+

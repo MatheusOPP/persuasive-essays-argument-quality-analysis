@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: the new academic experience that the students can obtain at the institution where they are pursuing their studies
+supporting Claim T5:
+
+----Premise T11: they will get exposed to a different educational system
+----Premise T12: They will meet new professors and new classmates which makes the academic experience different from that in their home country
+
+no arguments attacks Claim T5
+

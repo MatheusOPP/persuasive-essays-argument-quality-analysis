@@ -1,0 +1,44 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: we should give priority to our own issues
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: species extinction is quite natural according to the theory of evolution
+----supporting Claim T6:
+
+--------Premise T7: The environment on the Earth has been transformed many times since the first species came into being
+--------Premise T8: A great number of plants and animals died out
+--------supporting Premise T8:
+------------Premise T9: they were unable to fit into the new environment
+
+--------no arguments attacks Premise T8
+
+--------Premise T10: the process of extinction of some species is irrevocable and we can do nothing about it
+
+----no arguments attacks Claim T6
+
+----type: Claim T11
+----text: We should put our own survival and sustainment in order first before considering the conservation of other species
+----supporting Claim T11:
+
+--------Premise T13: When these problems are taken into account, extinction of some animals recedes greatly in importance and it is not sensible to devote our limited resources to animals that have been past help
+--------Premise T12: human beings nowadays are still faced with many urgent problems such as starvation, disease and wars
+
+----no arguments attacks Claim T11
+
+----type: Claim T5
+----text: it is our responsibility to keep as many species on the Earth as possible
+----supporting Claim T5:
+
+--------Premise T4: If certain species are absent from this system, such kind of balance is likely to be disrupted and other species, including human beings, will come under threat
+--------Premise T3: biodiversity is essential to maintain the balance of ecosystem
+
+----no arguments attacks Claim T5
+
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: keeping the cultural traditions in the destination countries is tremendous important
+Supporting Claim T10
+
+    Premise: children immigrated to a new country will face social troubles in school with new friends
+    Premise: In this new environment, parent should find friends coming from their same country so that they can socialize in a very familiar manner as feeling being home
+    Premise: Fail to create this familiarity makes them felt isolated, in the extreme can lead to social disorder like autism
+    Premise: it is crucial to keep one’s identity
+
+No arguments attacks Claim T10
+

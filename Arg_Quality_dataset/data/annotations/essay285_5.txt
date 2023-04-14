@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T20
+text: having classroom could provide abundant skills to students
+supporting Claim T20:
+
+----Premise T23: classroom could provide exercise class to set students to have a good health
+----Premise T22: classroom courses are also provide students to learn social skill
+----Premise T21: classroom could provide real actual example to make students more understand in their subject
+
+no arguments attacks Claim T20
+

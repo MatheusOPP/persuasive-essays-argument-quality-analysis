@@ -1,0 +1,65 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T4
+text: smoking should be prohibited in restaurants as well as other public places, and that we should support states laws to ban it
+supporting MajorClaim T4:
+
+----type: Claim T3
+----text: smoking in a restaurant is a harmful and disrespectable behavior
+----supporting Claim T3:
+
+--------Premise T1: It spoils the smoker's reputation and threats other people's health
+
+----no arguments attacks Claim T3
+
+----Claim T5: smoking not only damages the restaurant's environment, but also imposes a potential threat on others' health
+----type: Claim T8
+----text: smoking in restaurants should be strictly banned
+----supporting Claim T8:
+
+--------Premise T9: it makes the restaurant a polluted place which threatens every customer's health
+--------Premise T10: if there is only one person smoking in a restaurant, all others will smoke unconsciously and their health is under attacked
+--------supporting Premise T10:
+------------Premise T11: some burned substance in a cigarette can easily deteriorate a person's respiratory system after he/she inhales it
+
+--------no arguments attacks Premise T10
+
+--------Premise T7: the second-hand smoke, which comes from the smoker's mouth, puts an even greater threat on surrounding people's health than the smoker himself
+--------Premise T12: it is too strong to assert that smoking should be prohibited everywhere in the society, one smoking in a restaurant is considered to enjoy his time with the ignorance of others' health
+
+----no arguments attacks Claim T8
+
+----type: Claim T6
+----text: the disgusting smoke will severely affect their appetite, or, in other words, spoil their meals and make them an unpleasant experience
+----supporting Claim T6:
+
+--------Premise T13: The smoke exhaled from the smoker often makes other people feel uncomfortable or disgusted, thus affecting their mood in having their meals
+--------Premise T14: This, on the other hand, can indirectly decrease the restaurants' popularity
+--------supporting Premise T14:
+------------Premise T15: fewer people are willing to consume there due to their unpleasant experiences
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T20
+----text: smoking does no good to the smoker himself
+----supporting Claim T20:
+
+--------Premise T16: Not only does it aggravate his health, making him more subject to respiratory diseases, but also it damages his public image and reputation
+--------Premise T18: This is especially true when the smoker is a popular political figure or an entertainmening celebrity
+--------supporting Premise T18:
+------------Premise T17: most people see smoking in restaurants as an impolite human behavior
+
+--------no arguments attacks Premise T18
+
+--------Premise T19: the public are likely to believe that the smoker lacks basic civility and should not be encouraged to be a public leader
+
+----no arguments attacks Claim T20
+
+
+no arguments attacks MajorClaim T4
+

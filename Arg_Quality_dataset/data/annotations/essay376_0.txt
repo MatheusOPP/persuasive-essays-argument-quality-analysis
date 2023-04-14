@@ -1,0 +1,35 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: this plan should be put into practice
+supporting MajorClaim T1:
+
+----Claim T3: This will yield positive results on not only the people's physical and mental development but also their finance
+----type: Claim T7
+----text: No one can argue the importance to include health lessons in school programmes, especially at primary level, in the hope of raising people's awareness
+----supporting Claim T7:
+
+--------Premise T5: they will have a fundamental grasp of how to lead a healthy lifestyle
+--------supporting Premise T5:
+------------Premise T4: Children should be taught about balanced diets, nutritious food as well as harmful ones
+
+--------no arguments attacks Premise T5
+
+--------Premise T6: it is much easier for people at early ages to form a habit of, for instance, not consuming too much fast food, over-fried food or intoxicants
+
+----no arguments attacks Claim T7
+
+----type: Claim T10
+----text: it will be of economic benefit to pre-empt certain kinds of diseases
+----supporting Claim T10:
+
+--------Premise T8: such unpreventable illnesses as cancer or HIV will cost the victim a fortune, not to cure, but to lengthen his longevity for 1 or 2 more years
+--------Premise T9: if humans tend to keep fit more regularly by participating in outdoor activities or using health-care product, obesity, myopia or other diseases that require expensive treatments will never stand a chance
+
+----no arguments attacks Claim T10
+
+
+no arguments attacks MajorClaim T1
+

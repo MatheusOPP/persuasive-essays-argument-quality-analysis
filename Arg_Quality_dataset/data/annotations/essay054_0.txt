@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: some museums and art galleries will not disappear
+supporting MajorClaim T1:
+
+----type: Claim T8
+----text: the importance of museums and art galleries is plain in terms of education and culture
+----supporting Claim T8:
+
+--------Premise T11: authentic exhibits cannot be completely displayed only by images and videos
+--------Premise T12: It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it
+
+----no arguments attacks Claim T8
+
+----type: Claim T9
+----text: these buildings will not disappear unless people abandon their culture
+----supporting Claim T9:
+
+--------Premise T10: museums and art galleries preserve some culture heritages
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----Claim T3: modern technology has provided a more convenient and comfortable manner for people to watch exhibitions
+----type: Claim T5
+----text: people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society
+----supporting Claim T5:
+
+--------Premise T4: technology indeed simplifies people's life all the time
+
+----attacking Claim T5:
+--------Premise T6: in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy
+--------supporting Premise T6:
+------------Premise T7: they lack of physical exercise and face-to-face communication
+
+--------no arguments attacks Premise T6
+
+
+

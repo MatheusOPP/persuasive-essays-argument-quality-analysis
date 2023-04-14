@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: it has some advantages such as less stress, because of better weather conditions and also, better relationship within a town
+Supporting Claim T4
+
+    Premise: on big cities people feel alone and depress more than small cities
+    Premise: people in small town have more happiness and friendship and less illness and stress
+
+No arguments attacks Claim T4
+

@@ -1,0 +1,12 @@
+Type: Claim T7
+Text: many farmers and owners exploit animals beyond their limits
+Supporting Claim T7
+
+    Premise: cows are often injected by Oxytocin, a hormone which is used to forcibly increase lactation
+    Premise: This in turn, causes lots of discomfort and pain to the cattle
+    Premise: Another example of this is cage farming which is against animal rights
+    Premise: Many other practices like, equestrian sport where horses run miles and miles and beaten up by jockeys to make them run more faster
+    Premise: And above all pleasure hunting of defenseless animals
+
+No arguments attacks Claim T7
+

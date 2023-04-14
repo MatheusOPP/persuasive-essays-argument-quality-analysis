@@ -1,0 +1,38 @@
+Type: MajorClaim T1
+Text: learning about life through personal experience seems more appropriate
+Supporting MajorClaim T1
+
+    Type: Claim T6
+    Text: finding out life through personal experience can help you become more independent and mature
+    Supporting Claim T6
+
+        Premise: there are so many grate things that you can missed if you don't experience it by yourself
+        Premise: a friend told you not to try skydiving because it was so dangerous
+        Premise: If you did as he told, you could fail to see how wonderful it is to be fall freely
+        Premise: family and friends accidentally harm you by giving you advice all the time
+        Premise: You will grow to be dependent and reliant
+        Premise: free yourself and do what you desire without notice about consequences is the way that success people would like to choose
+
+    No arguments attacks Claim T6
+
+    Type: Claim T14
+    Text: experiencing the real life by myself, I could learn more than just obey the advice
+    Supporting Claim T14
+
+        Premise: growth is a long process that experience is indispensable
+
+    No arguments attacks Claim T14
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: the way of learning life through listening to the advice of family and friends is more realistic than the latter
+    Supporting Claim T2
+
+        Premise: Family members such as your parents are experienced in life so they can give you proper and sincere guidance on every aspect of life
+        Premise: And friends, people who are the same generation with you, they are understand your favorite and ability enough to tell you which is suitable for you, which is not
+        Premise: By listening to your family and friends advice, you can definitely avoid many unexpected things
+
+    No arguments attacks Claim T2
+
+

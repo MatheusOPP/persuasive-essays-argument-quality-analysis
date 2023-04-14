@@ -1,0 +1,17 @@
+Type: MajorClaim T1
+Text: concerns to save Earth are vital
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: rapid development of infrastructure is eating most of the forest throughout world
+    Supporting Claim T2
+
+        Premise: The so-called Concrete jungles have evolved endangering forests and wild life
+        Premise: life saving oxygen is produced by trees after converting harmful carbon dioxide gas
+        Premise: wild life is very essential to maintain ecological balance on planet Earth
+
+    No arguments attacks Claim T2
+
+
+No arguments attacks MajorClaim T1
+

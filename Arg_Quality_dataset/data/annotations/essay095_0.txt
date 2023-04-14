@@ -1,0 +1,51 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: news media not only brings people entertainment, but also polishes up people' knowledge
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: the progress of news media is an advantageous development
+----supporting Claim T3:
+
+--------Premise T6: It also positively affects the way people live in many other aspects
+--------Premise T5: It enriches people's knowledge with worldwide information
+--------Premise T4: It relaxes people with plentiful entertainment news
+
+----no arguments attacks Claim T3
+
+----type: Claim T9
+----text: the popularity of news media is beneficial to human beings
+----supporting Claim T9:
+
+--------Premise T7: today entertainment is easier for people to enjoy than ever before
+--------supporting Premise T7:
+------------Premise T8: The fact is that such news media as televisions, radios, or newspapers are bringing many news on entertainment sector from all over the world to everybody
+
+--------no arguments attacks Premise T7
+
+--------Premise T10: People can sit in front of their televisions and watch whatever they want, from musical concerts to live football match
+--------Premise T11: This is a convenient way of relaxation after hard work
+
+----no arguments attacks Claim T9
+
+----type: Claim T12
+----text: news media help people broaden their knowledge
+----supporting Claim T12:
+
+--------Premise T15: This is particularly essential when the globalization process has been permeating into all areas of society
+--------Premise T16: the fast growth of news media is helpful for people worldwide
+--------Premise T13: there is a strong likelihood that today people are able to know the world better
+--------supporting Premise T13:
+------------Premise T14: It is clearly seen that mass media provide people with a variety of global news on all fields, including political situation, economic change, global warming, and so forth
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Claim T12
+
+
+no arguments attacks MajorClaim T1
+

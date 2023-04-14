@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: they have enough ability to read and understand the text book
+Supporting Claim T5
+
+    Premise: the university students have grown up
+
+No arguments attacks Claim T5
+

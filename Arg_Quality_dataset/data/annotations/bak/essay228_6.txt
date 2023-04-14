@@ -1,0 +1,28 @@
+Type: MajorClaim T13
+Text: TV helps you to get connected with people
+Supporting MajorClaim T13
+
+    Type: Claim T15
+    Text: it can also make family get together and help to get in conversation
+    Supporting Claim T15
+
+
+    No arguments attacks Claim T15
+
+    Type: Claim T16
+    Text: it's one way of recent communications
+    Supporting Claim T16
+
+
+    No arguments attacks Claim T16
+
+
+Attacking MajorClaim T13
+    Type: Claim T14
+    Text: TV may take some of your time away from your family and friends
+    Supporting Claim T14
+
+
+    No arguments attacks Claim T14
+
+

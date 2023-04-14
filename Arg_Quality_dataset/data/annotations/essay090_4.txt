@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: there are some people who are black skin, fat and frown, nonetheless they might be a great person for leaving and colleague
+supporting Claim T11:
+
+----Premise T9: I have a neighbor who are old, black skin and frown and I had always panicked of her
+----Premise T8: One day in a cold winter while I was getting back to home from school I realized that I lost my keys, so I could not do anything before my parents getting back home
+----Premise T10: She asked me to stay with her till my parents come, also she was great in hospitality and her behavior was unforgettable
+----Premise T12: I had to never judge with people's appearance
+
+no arguments attacks Claim T11
+

@@ -1,0 +1,10 @@
+Type: Claim T2
+Text: government should invest to create more jobs
+Supporting Claim T2
+
+    Premise: people have a good quality life
+    Premise: quality of life were dropping and this make people unhappy
+    Premise: after great economic recession, many people in many countries were unemployed
+
+No arguments attacks Claim T2
+

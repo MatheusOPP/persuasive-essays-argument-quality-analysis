@@ -1,0 +1,29 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: there should not be any room for partiality in terms of gender while allocating seats for students in every university courses
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: judging student's skills and abilities should only be based on their academic qualifications and talents rather than gender in particular
+----supporting Claim T2:
+
+--------Premise T3: both male and female students are equally competitive to each other and deserve to produce impressive results in various field of education
+--------Premise T4: In India, for example, female students are more often likely to grab more number of top scorer positions in every year higher secondary school examinations
+
+----no arguments attacks Claim T2
+
+----type: Claim T5
+----text: female students are highly interested in learning courses such as mechanical engineering which demands physical activities in their lab workshops, unlike previous generation females
+----supporting Claim T5:
+
+--------Premise T6: due to increasing exposure on current affairs and knowledge on cutting-edge technological developments, female graduates are more willing to take huge responsibilities in their workplace, despite its intensive stress and pressure
+--------Premise T7: Chanda Kochhar, who is the CEO of India's second largest bank called ICICI bank and prominently awarded as the country's most powerful female head in business sector
+
+----no arguments attacks Claim T5
+
+
+no arguments attacks MajorClaim T1
+

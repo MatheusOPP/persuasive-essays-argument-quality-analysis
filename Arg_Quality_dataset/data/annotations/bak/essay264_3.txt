@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: These experiences can only be obtained by trying new things and can’t be always found in books
+Supporting Claim T7
+
+    Premise: There are always interesting and useful experiences that successful people can learn them only by trying new things
+    Premise: if you want to know how to act effectively when communicating with people, you can try something new like salesmanship in various stores and places
+    Premise: you will learn how to behave people in different situations and jobs in the future
+
+No arguments attacks Claim T7
+

@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: A world with fewer languages helps us interact with each other in a better way
+supporting Claim T4:
+
+----Premise T6: communicating in single language will reduce the problems of travelers in daily activities like ordering food in a restaurant or in going around places
+----supporting Premise T6:
+--------Premise T5: Due to globalization, many people are traveling for professional trips
+
+----no arguments attacks Premise T6
+
+----Premise T7: students who migrate for better education would not have to go through lot of stress
+----supporting Premise T7:
+--------Premise T8: they can easily make new friends and can be part of any discussions which is otherwise not possible in a world with multiple languages; this in turn makes it easy to adjust in new environment
+
+----no arguments attacks Premise T7
+
+----Premise T9: Single language also reduces misunderstandings between people
+----Premise T10: exchange of knowledge in different sectors of research like electronics, medical, astronomy etc would become easier
+
+no arguments attacks Claim T4
+

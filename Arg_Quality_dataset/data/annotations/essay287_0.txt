@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: Going to another place to learn language is better choice
+supporting MajorClaim T1:
+
+----Claim T3: I have to improve myself to communicate with other people
+----type: Claim T9
+----text: going to another country to learn language is a good environment to stimulate people to learn language
+----supporting Claim T9:
+
+--------Premise T6: everyone around me speaks foreign language, and then I have to improve myself to communicate with people
+--------Premise T7: If I could not communicate with other people, I could not even buy food to sacrifice my hunger
+--------Premise T8: This environment makes me want to develop myself to be able to communicate with people that speak foreign language
+
+----no arguments attacks Claim T9
+
+----type: Claim T10
+----text: having friend that speaks another language is help people to professional in that language faster
+----supporting Claim T10:
+
+--------Premise T11: English school in outside my home country, there are many people that come from different places and from different languages
+--------Premise T12: The only language that I could talk to make friends is English language
+--------Premise T13: I could talk with my friend without worrying about speaking wrong
+--------Premise T14: This reason makes me have a progress in foreign language faster
+
+----no arguments attacks Claim T10
+
+----Claim T4: in foreign country I could have a chance to speak foreign language with my friends
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,44 @@
+Type: MajorClaim T1
+Text: human activities are having a bad effect upon our planet
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: People are corrupting their ecosphere
+    Supporting Claim T3
+
+        Premise: In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies
+        Premise: These wastes including household waste and industrial waste are so big that a "new" continent is now being formed in the sea from garbage
+        Premise: the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change
+
+    No arguments attacks Claim T3
+
+    Type: Claim T7
+    Text: people are draining the Earth's natural resources
+    Supporting Claim T7
+
+        Premise: nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people
+        Premise: Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted
+        Premise: At that time, human activity will be seriously affected due to the dependence on these resources
+
+    No arguments attacks Claim T7
+
+    Type: Claim T12
+    Text: people are endangering other species' live
+    Supporting Claim T12
+
+        Premise: the living area of other species narrowed
+        Premise: Hunting has been a fundamental activity of human for having food
+        Premise: Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct
+
+    No arguments attacks Claim T12
+
+
+No arguments attacks MajorClaim T1
+

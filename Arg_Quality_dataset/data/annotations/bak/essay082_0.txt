@@ -1,0 +1,45 @@
+Type: MajorClaim T2
+Text: the idea that advertising is a positive part of life can be more supported
+Supporting MajorClaim T2
+
+    Type: Claim T1
+    Text: more good comes from advertising than bad
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+    Type: Claim T3
+    Text: Advertisements are, therefore, very important for many businesses to increase sales and hence profits
+    Supporting Claim T3
+
+        Premise: advertising is carried out with the main purpose of promoting different products and services or encouraging people to consume more
+
+    No arguments attacks Claim T3
+
+    Type: Claim T5
+    Text: to consumers, advertising can bring them many benefits
+    Supporting Claim T5
+
+        Premise: they can compare them and then have a better decision in choosing their internet or mobile phone plans
+
+    No arguments attacks Claim T5
+
+
+Attacking MajorClaim T2
+    Type: Claim T8
+    Text: a huge amount of different advertisements could be sent automatically by a system to personal phones or email addresses, this is generally known as spam, and causes discomfort or even annoyance to many people
+    Supporting Claim T8
+
+
+    No arguments attacks Claim T8
+
+    Type: Claim T10
+    Text: advertising is believed by many, a financial burden to businesses
+    Supporting Claim T10
+
+        Premise: advertising can be very expensive and not every advertising campaign can be done successfully and brings good results
+
+    No arguments attacks Claim T10
+
+

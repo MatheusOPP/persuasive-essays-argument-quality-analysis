@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: giving those with no work a mobile phone each is a total waste of money
+supporting MajorClaim T1:
+
+----type: Claim T9
+----text: the money can be used for other intentions rather than giving hand phones to the unemployed
+----supporting Claim T9:
+
+--------Premise T11: the money can be used to build more amenities for the public or given to the poor so that they can use it to help them earn a living
+--------Premise T10: the money instead of being used to supply the electronic gadget can be used for other useful purposes for the country
+--------Premise T8: supplying hand phones to the unemployed is a waste of the taxpayers' money
+
+----no arguments attacks Claim T9
+
+----type: Claim T12
+----text: when hand phones are provided for free, many would want to take advantage of this opportunity
+----supporting Claim T12:
+
+--------Premise T15: the public's money is spent worthlessly
+--------supporting Premise T15:
+------------Premise T14: Some might even go to the extent of lying that they are on unemployment to make them eligible to get the phones
+
+--------no arguments attacks Premise T15
+
+--------Premise T13: It will not be surprising that in order to obtain a mobile phone, they make themselves jobless
+
+----no arguments attacks Claim T12
+
+----Claim T16: till now, there are no surveys or evidences that prove this method in effective in reducing the rate of unemployment
+
+attacking MajorClaim T1:
+----type: Claim T4
+----text: if the government provides those without work with a mobile phone, they will be able to find themselves an occupation in order to live and survive
+----supporting Claim T4:
+
+--------Premise T5: they can surf the The Star Onlines' work section to find a job that is suitable for them
+--------Premise T6: With the help of the net, they can also do more research on the work that they have found apart from looking up on how they can prepare themselves for the job
+--------Premise T7: the mobile phones can also be used to make calls with the companies in which they would like to work with
+--------Premise T3: when people without jobs have hand phones that have access to the Internet, they will be able to browse the net for more job opportunities
+
+----no arguments attacks Claim T4
+
+

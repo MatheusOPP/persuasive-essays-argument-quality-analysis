@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I personally consider this fact as the harmful thing that television has brought upon us
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: they can be isolated from others
+----supporting Claim T4:
+
+--------Premise T5: people watch television too much
+--------Premise T6: Children, for example, pay more attention on movies, music show provided by television and do not want to do anything else such as going to school or practicing exercise with friends will be taken apart by others
+--------Premise T7: Gradually, their friends leave them behind either activities or studying
+
+----no arguments attacks Claim T4
+
+----type: Claim T8
+----text: children will learn behavior from what they see on TV not from their parents
+----supporting Claim T8:
+
+--------Premise T10: Parents and even children do not want to communicate with each other instead of watching TV in their own room
+--------Premise T9: with the rapid change of the standard of life, each family has three or four TV in each room is more common
+
+----no arguments attacks Claim T8
+
+----type: Claim T11
+----text: communication between family members is visibly destroyed
+----supporting Claim T11:
+
+--------Premise T12: parents are not able to function their parental care as the necessary thing to children
+
+----no arguments attacks Claim T11
+
+----type: Claim T13
+----text: watching too much television people will unconsciously learn bad behavior that sow division among human
+----supporting Claim T13:
+
+--------Premise T14: watching film about terrorist children will be able to consider terrorism as a right thing
+
+----no arguments attacks Claim T13
+
+
+attacking MajorClaim T1:
+----Claim T3: television has some good sides
+

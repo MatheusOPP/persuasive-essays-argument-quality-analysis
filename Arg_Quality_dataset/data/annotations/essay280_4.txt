@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: people who know a wide range of is better than people who know just one
+supporting Claim T10:
+
+----Premise T11: Students can gain more knowledge in every different subjects thy study
+----supporting Premise T11:
+--------Premise T12: university students who study business are also know history of the world
+
+----no arguments attacks Premise T11
+
+----Premise T13: students not only gain knowledge but they also have more experience
+----supporting Premise T13:
+--------Premise T14: they will meet new friends and teachers
+
+----no arguments attacks Premise T13
+
+----Premise T9: they all can share opinion and knowledge to one another
+
+no arguments attacks Claim T10
+

@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: Competitive children are more likely to be confident enough to handle the situations independently
+Supporting Claim T3
+
+    Premise: This factor will lead them to be successful in their lives ahead
+
+Attacking Claim T3
+    Premise: MNCs are mainly focusing on a team work, and a person with the competitive mind would be having a difficulty in managing the situation with the team
+

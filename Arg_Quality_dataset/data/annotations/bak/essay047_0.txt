@@ -1,0 +1,42 @@
+Type: MajorClaim T2
+Text: animals should live in natural habitats instead of zoos
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: it is our responsibility to create a natural and safe environment for animals to live in
+    Supporting Claim T3
+
+        Premise: Given the fact that human beings are responsible for the heavy pollution and severe damage to the natural habitats of many wild animals
+        Premise: it is the right of wild species to live in a environment away from human beings
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: zoos are more likely to be a killer rather than a protector in protecting wild lives
+    Supporting Claim T6
+
+        Premise: the limited space and the artificial trees and lakes can not fully compensate the animals for their loss
+        Premise: if rural animals are captured in the zoo for a long period, it would have negative influences on both the physical and psychological status of the creatures
+        Premise: the wild species would suffer from isolation and depression
+
+    No arguments attacks Claim T6
+
+    Type: Claim T14
+    Text: they have the right to enjoy freedom but they also escape from isolation and depression
+    Supporting Claim T14
+
+
+    No arguments attacks Claim T14
+
+
+Attacking MajorClaim T2
+    Type: Claim T10
+    Text: zoos, which are equipped with modern facilities and professionals, would provide better care for the animals inside
+    Supporting Claim T10
+
+        Premise: the endangered species preserved in zoos would never die of illegal hunting
+
+    Attacking Claim T10
+        Premise: the growing number of natural habitat would be the ultimate solution of saving wild animals worldwide
+
+

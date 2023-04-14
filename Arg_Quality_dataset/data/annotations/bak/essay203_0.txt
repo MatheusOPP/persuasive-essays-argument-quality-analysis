@@ -1,0 +1,22 @@
+Type: MajorClaim T1
+Text: it is one's hard work that helps him reach his target
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: I do not see any rational in believing in luck to reach one's goals
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T4
+    Text: depending on luck for everything is not good
+    Supporting Claim T4
+
+
+    Attacking Claim T4
+        Premise: it is good to be lucky
+
+
+No arguments attacks MajorClaim T1
+

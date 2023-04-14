@@ -1,0 +1,11 @@
+Type: Claim T16
+Text: To improve education, spending more money to raise professors' salary is inappropriate
+Supporting Claim T16
+
+    Premise: the ultimate purpose is to change, to motivate students to be better
+    Premise: High-salary instructors don't teach students harder because they earn more money
+    Premise: There won't be any effect if school does so
+    Premise: if the policy of raising salary was supported, the demonstration would not happen
+
+No arguments attacks Claim T16
+

@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: spending the budget for space exploration is an important activity to save living of humanity in the future
+supporting MajorClaim T1:
+
+----Claim T3: it may helps to save civilization of humanity
+----type: Claim T7
+----text: it is very significant to find a new place for living in other planets
+----supporting Claim T7:
+
+--------Premise T8: In 20th century, although human being succeeded to achieve out of space by means of new technologies such as rockets, but finding a new place for living in another planet is impossible until now
+--------Premise T6: In during history, our planet is threatening by many of other planets or stars and it is an enormous danger for living of humanity
+
+----attacking Claim T7:
+--------Premise T4: Many governments believe that space exploration is an activity that wastes the budget
+--------supporting Premise T4:
+
+--------attacking Premise T4:
+------------Premise T5: the essential challenge of humanity in the future would be the discovery of a new place for the living
+
+
+
+attacking MajorClaim T1:
+----type: Claim T10
+----text: space exploration will use as a military power for many countries
+----supporting Claim T10:
+
+--------Premise T12: In the past, the space race happened between the United Stated and the Soviet Union
+--------Premise T9: In the future, many countries will try to prevent attach of other countries by using and invention new missiles
+--------Premise T11: Both countries tried to send man to the moon and show their power to each other
+--------Premise T13: Space exploration has used as a tools for military power in the cold war
+
+----no arguments attacks Claim T10
+
+

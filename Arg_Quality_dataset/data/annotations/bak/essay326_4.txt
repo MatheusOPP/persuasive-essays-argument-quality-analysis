@@ -1,0 +1,11 @@
+Type: Claim T12
+Text: A large number of industries fire many forces because of doing their works by new technologies and computers
+Supporting Claim T12
+
+    Premise: by using computers in many industries human's role has been reduced
+    Premise: Despite many advantages, by coming computers many jobs has been vanished
+    Premise: Many industries use computers to command to robots in order to do many regular tasks, which were carried out by human early
+    Premise: Nowadays, computer can control and perform some routine activities in industries, which were early done by human
+
+No arguments attacks Claim T12
+

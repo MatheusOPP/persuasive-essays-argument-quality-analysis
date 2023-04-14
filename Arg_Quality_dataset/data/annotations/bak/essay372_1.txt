@@ -1,0 +1,32 @@
+Type: MajorClaim T2
+Text: there should never be any replacement for traditional skills or ways of life
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: They are the ones that teach, and will teach us to be self-esteem and experienced, which means their preservation throughout history deserve our attention
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: the country's culture is passed down mainly through traditional skills and ways of life
+    Supporting Claim T4
+
+        Premise: in Vietnam, many water puppet shows which once demonstrated our seasonal agriculture and communal activities, are today substituted by cinemas and music concerts
+        Premise: the young generation can solely get access to their ancestor's early life through books and images, which otherwise would be much more easily absorbed
+
+    No arguments attacks Claim T4
+
+    Type: Claim T9
+    Text: a person should look back at the past, mainly by means of custom handcraft or antique lifestyle, to progress
+    Supporting Claim T9
+
+        Premise: Understanding why, and how our predecessors survived through thick and thin will probably be invaluable lessons for us today
+        Premise: study form their mistakes helps us accomplish our goal with smooth sailing
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T2
+

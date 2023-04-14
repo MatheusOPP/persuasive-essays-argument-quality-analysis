@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: a break will give students some time to refresh their systems, by traveling or following their hobbies
+supporting Claim T4:
+
+----Premise T6: A relaxation of one year to young minds will give them a quintessential change
+----Premise T7: A continuous study pressure for over 10 years makes the mind saturated and like a robot, to follow instructions
+----Premise T5: when students start their university studies after a break, they will feel fresh and full of energy to take the new challenge
+
+no arguments attacks Claim T4
+

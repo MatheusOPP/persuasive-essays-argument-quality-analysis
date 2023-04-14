@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: following celebrities blindly affects the health of adolescents
+Supporting Claim T7
+
+    Premise: Many young people indulge themselves in drugs and start smoking at an early age
+    Premise: in a survey carried out in a university, it was asked to students that why did they start smoking, then around forty percent of individuals answered that they wanted to look like their favorite screen actor while smoking cigarettes
+    Premise: imitating celebrities has a negative influence on health of young individuals
+
+No arguments attacks Claim T7
+

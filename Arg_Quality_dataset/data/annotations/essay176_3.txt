@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: a local museum could be a top choice and destination for tourist to visit
+supporting Claim T10:
+
+----Premise T13: a local museum represent its own typical culture so that visitors may easily acquaint with the new place in a short time
+----Premise T12: visiting a museum saves their precious time for making a decision
+----supporting Premise T12:
+--------Premise T11: Someone take a trip without making any plans, so they may waste their time on shopping or staying at their hotel
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T10
+

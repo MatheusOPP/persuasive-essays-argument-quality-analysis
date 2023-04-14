@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: some people are concerned that technology may have a detrimental effect on the traditional lifestyles
+supporting Claim T9:
+
+----Premise T10: especially youngsters, are crazier about fresh and advanced things, such as digital products, thus becoming indifferent to traditional techniques
+
+no arguments attacks Claim T9
+

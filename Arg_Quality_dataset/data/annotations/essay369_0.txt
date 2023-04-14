@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the combination of tourism and teaching process is highly recommended in pursuit of a harmonial relationship between human and their surroundings
+supporting MajorClaim T1:
+
+----Claim T2: tourism has proven its friendly attitude towards the exploited areas in terms of finance and environmental impact
+----type: Claim T7
+----text: tourism plays an indispensable role in nurturing the economy in a way it is meant to be
+----supporting Claim T7:
+
+--------Premise T3: places of interest often locate in the wilderness areas, of which economy, before their appearance, haven't blossmed yet
+--------Premise T4: Not until the investment of some companies do chains of hotels and services spring up
+--------Premise T5: It will, by all means, attract considerable attention which goes hand in hand with the enormous income for the local residents
+--------Premise T6: tourism helps divert the local economy to its right direction, which exploit the best out of its own potential
+
+----no arguments attacks Claim T7
+
+----type: Claim T12
+----text: tourism should not be alledged to be notorous for its detriment to the ecological diversity
+----supporting Claim T12:
+
+--------Premise T9: In order to turn a wilderness into a place of attraction, the planners must have taken the nourishment of the sceneries into thorough consideration
+--------Premise T10: a fortune is spent on trimming the trees, watering the flowers, preserving and balancing the local fauna and flora, in the hope of beautifying the wild
+--------Premise T11: Not to mention ecotourism, a new kind of environment-friendly service, which gives all environmentalists and nature lovers a hand in raising the awareness of people in protecting their coexistent creatures
+
+----attacking Claim T12:
+--------Premise T8: environmental damage is inevitable
+--------supporting Premise T8:
+
+--------attacking Premise T8:
+------------Premise T13: it is not tourism to be blamed for
+
+
+
+no arguments attacks MajorClaim T1
+

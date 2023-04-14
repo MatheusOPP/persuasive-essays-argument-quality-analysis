@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: some celebrities, e.g. writers, passionate entrepreneurs are good examples to children
+supporting Claim T9:
+
+----Premise T10: they share fascinating stories or how to pursue their goal by doing something that has a meaning to them and may change the world
+
+no arguments attacks Claim T9
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: Charging drivers one more fee makes no sense and is ridiculous
+supporting Claim T10:
+
+----Premise T11: charging them too much fee adds a lot to their burden and is actually jeopardizing their rights
+----supporting Premise T11:
+--------Premise T13: Majority of the families buy cars simply for a safer and easier conveyance
+--------Premise T12: Buying a car spends hundreds of thousand; paying for all sorts of fee takes another several-these are all ready too much for most of the families to bear
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T10
+

@@ -1,0 +1,51 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the juries should at least know something about the criminals before coming to a conclusion
+supporting MajorClaim T1:
+
+----Claim T3: they will be able to give a better and reliable as well as a fair judgment to the convicted
+----type: Claim T4
+----text: it would be easier for the juries to make a decision if they know about the past information about the criminal
+----supporting Claim T4:
+
+--------Premise T5: knowing their background very well will enable the juries to analyze the crime before coming up with a judgment
+--------supporting Premise T5:
+------------Premise T6: take a person who has not murdered anyone but is suddenly found to be guilty
+------------Premise T7: The juries will be able to know weather the individual committed the crime intentionally or due to circumstances by knowing the facts about the person
+
+--------no arguments attacks Premise T5
+
+--------Premise T8: punishment can be given in accordance to the condition
+
+----no arguments attacks Claim T4
+
+----type: Claim T11
+----text: the convicted will also receive a fair action
+----supporting Claim T11:
+
+--------Premise T9: exposing them to the past records of the criminal can give them more room to think rationally and finally put the pieces together in order to produce a more meaningful decision
+--------supporting Premise T9:
+------------Premise T12: juries are a group of people who have no or less knowledge regarding law
+
+--------no arguments attacks Premise T9
+
+--------Premise T10: the juries will have a sense of relief that they have come up with better conclusion based on plenty of evidences
+--------Premise T13: a fair trial can be achieved
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----type: Claim T14
+----text: when the background of the convicted is 'dug' deeper and is revealed to mass of anonymous people, his privacy is being jeopardized
+----supporting Claim T14:
+
+--------Premise T15: If finally he is proven innocent, he may feel embarrassed to face the public
+
+----attacking Claim T14:
+--------Premise T16: the crimes done by criminals should be brought to light and the public should be aware of it so that they will not become a victim as well
+
+

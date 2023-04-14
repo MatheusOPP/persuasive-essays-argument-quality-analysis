@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: fiction books pay more attention to details
+Supporting Claim T4
+
+    Premise: we can know characters, places, and times of a novel very well during reading it
+    Premise: Most of the novels describe not only main characters but also other people in the novels, where each scene is happening
+    Premise: after I read animal farms which is a story of Russian revolution, I could understand the leaders and different segments of the Russian people
+    Premise: a movie just gives us a very small review of its stories and characters
+
+No arguments attacks Claim T4
+

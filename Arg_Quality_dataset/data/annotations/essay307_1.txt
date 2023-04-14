@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: television and newspapers focus on famous peoples' lives in order to increase their audience or readership
+supporting Claim T6:
+
+----Premise T3: Gutter press and Tabloid TV are more and more replacing quality papers or documentaries programs
+----Premise T5: mass media don't need any more to keep informed people but their goal is to have enough readers or TV audience
+----supporting Premise T5:
+--------Premise T4: Thanks to the Internet, we can go online and have access to information from all over the world
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T6
+

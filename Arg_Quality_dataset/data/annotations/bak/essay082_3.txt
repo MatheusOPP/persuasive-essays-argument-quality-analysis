@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: to consumers, advertising can bring them many benefits
+Supporting Claim T5
+
+    Premise: they can compare them and then have a better decision in choosing their internet or mobile phone plans
+
+No arguments attacks Claim T5
+

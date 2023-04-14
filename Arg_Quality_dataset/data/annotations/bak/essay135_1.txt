@@ -1,0 +1,29 @@
+Type: MajorClaim T2
+Text: people from unfortunate countries need more international assistance while helping citizens in the home country is also necessary
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: International aid is critical
+    Supporting Claim T3
+
+        Premise: Many people, for example in some African countries, are living below the basic standards
+        Premise: They lack food, water or clothes which keep them warm, not to mention the education needs
+        Premise: What is worse, people who live in countries that are confronted with wars or natural disasters are facing even more severe issues such as security, homelessness or the pain of losing best friends or family members
+        Premise: people from other countries may be facing much more serious problems
+        Premise: those people are in desperate need of international support
+
+    No arguments attacks Claim T3
+
+    Type: Claim T12
+    Text: it is reasonable to lend a hand to our fellow citizens
+    Supporting Claim T12
+
+        Premise: there is a high demand that the money should be spent in the place where it is collected
+        Premise: even within the most developed countries, there are still poor people who lack their basic needs
+        Premise: By solving the problems in the home country, it is beneficial for social stability and steady economic growth
+
+    No arguments attacks Claim T12
+
+
+No arguments attacks MajorClaim T2
+

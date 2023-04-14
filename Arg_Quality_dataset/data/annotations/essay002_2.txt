@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: keeping the cultural traditions in the destination countries is tremendous important
+supporting Claim T10:
+
+----Premise T11: children immigrated to a new country will face social troubles in school with new friends
+----Premise T12: In this new environment, parent should find friends coming from their same country so that they can socialize in a very familiar manner as feeling being home
+----Premise T13: Fail to create this familiarity makes them felt isolated, in the extreme can lead to social disorder like autism
+----Premise T8: it is crucial to keep one’s identity
+----supporting Premise T8:
+--------Premise T9: they need a connection back to their country as well as teach their children their value of origin
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T10
+

@@ -1,0 +1,10 @@
+Type: Claim T13
+Text: Competition helps in improvement and evolution
+Supporting Claim T13
+
+    Premise: An individual must compete with oneself only, instead of trying to beat others
+    Premise: Competition has helped the development of science and technology
+    Premise: every other day, new cars are developed by companies which are more efficient than others
+
+No arguments attacks Claim T13
+

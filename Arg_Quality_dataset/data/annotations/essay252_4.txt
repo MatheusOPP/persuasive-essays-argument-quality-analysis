@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: even if children are not going to be great musicians or artists, learning music and art is still worthy
+supporting Claim T12:
+
+----Premise T14: They teach us how to appreciate beauty and express feelings in a creative way
+----Premise T13: music and art are life-long cultivation worthy of investing
+----Premise T15: They are essential to our spiritual life
+----Premise T16: it can nourish your temper and serve as a leisure
+
+no arguments attacks Claim T12
+

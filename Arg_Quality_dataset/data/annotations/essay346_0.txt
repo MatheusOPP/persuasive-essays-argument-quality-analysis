@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: my term of a successful man is one who has certain achievements in life rather than the one with a high income
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: a man can only achieve his accomplishment through hard-working, dedication and passion
+----supporting Claim T7:
+
+--------Premise T4: A person's great prosperity does not state that he has gained it ethically by himself
+--------Premise T8: Whether it is a personal or a social achievement, that man is laudable
+
+----attacking Claim T7:
+--------Premise T5: Money is undeniably pivotal
+--------supporting Premise T5:
+
+--------attacking Premise T5:
+------------Premise T6: ways of earning it is also various
+
+
+----type: Claim T9
+----text: judging a person by his income is difficult, especially in the success aspect
+----supporting Claim T9:
+
+--------Premise T13: the fact of knowing a man's utilization of his money remains in the dark
+--------Premise T11: Thomas Edison is undeniably considered as one of the greatest inventors in the 20th century
+--------supporting Premise T11:
+------------Premise T12: his invention's productivity is countless useful for mankind
+
+--------no arguments attacks Premise T11
+
+--------Premise T10: the more beneficial for the society his achievement is, the more successful he is considered
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----Claim T3: it is the essential in basic needs
+

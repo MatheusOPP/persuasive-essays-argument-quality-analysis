@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: zoos are more likely to be a killer rather than a protector in protecting wild lives
+Supporting Claim T6
+
+    Premise: the limited space and the artificial trees and lakes can not fully compensate the animals for their loss
+    Premise: if rural animals are captured in the zoo for a long period, it would have negative influences on both the physical and psychological status of the creatures
+    Premise: the wild species would suffer from isolation and depression
+
+No arguments attacks Claim T6
+

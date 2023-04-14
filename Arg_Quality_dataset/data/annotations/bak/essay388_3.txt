@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: if there is gun control somehow crime has to decrease
+Supporting Claim T4
+
+    Premise: fewer guns available mean less crime
+
+Attacking Claim T4
+    Premise: this is not as simple as it sounds
+

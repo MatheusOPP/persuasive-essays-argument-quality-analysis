@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: the staff soon gets boring with their stable job in such a long time
+supporting Claim T10:
+
+----Premise T17: this situation will have an adverse impact on the enterprise
+----supporting Premise T17:
+--------Premise T16: The same-old-same-old environment soon makes them depressed
+
+----no arguments attacks Premise T17
+
+----Premise T11: At a certain time, they may presume that a securing job is the most important and necessary
+----supporting Premise T11:
+--------Premise T12: they need to earn money to manage their life
+
+----no arguments attacks Premise T11
+
+----Premise T13: the bulk of them realize that high promotion and competition can assist them to improve their skills and horizons
+----Premise T14: Many people enjoy challenging them
+----supporting Premise T14:
+--------Premise T15: they don not want to be monotonous and passive ones
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T10
+

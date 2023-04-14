@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: arts should by no means been disregarded by the government
+Supporting Claim T8
+
+    Premise: they require various entertainment such as music, movies or books to them ease their minds and release pressure
+    Premise: arts can enrich people's cultural lives
+    Premise: Without arts, people would be at risk of suffering psychological problems
+
+No arguments attacks Claim T8
+

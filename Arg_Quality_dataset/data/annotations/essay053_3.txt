@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: many farmers and owners exploit animals beyond their limits
+supporting Claim T7:
+
+----Premise T8: cows are often injected by Oxytocin, a hormone which is used to forcibly increase lactation
+----Premise T9: This in turn, causes lots of discomfort and pain to the cattle
+----Premise T11: Another example of this is cage farming which is against animal rights
+----Premise T12: Many other practices like, equestrian sport where horses run miles and miles and beaten up by jockeys to make them run more faster
+----Premise T13: And above all pleasure hunting of defenseless animals
+
+no arguments attacks Claim T7
+

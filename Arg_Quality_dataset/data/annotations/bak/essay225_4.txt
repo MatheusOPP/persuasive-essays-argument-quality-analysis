@@ -1,0 +1,9 @@
+Type: Claim T15
+Text: Using your imagination and saying what you think freely is another great thing about being a child
+Supporting Claim T15
+
+    Premise: Children are not judged about the things they say as much as the adults, and freedom to express yourself is a very important for developing a colorful imagination
+    Premise: they are in no way free to think or use their imagination
+
+No arguments attacks Claim T15
+

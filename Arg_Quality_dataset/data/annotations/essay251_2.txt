@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: Even if you are not working in a group, you still need to take others' criticism
+supporting Claim T11:
+
+----Premise T12: taking criticism is a virtue as you take someone's opinion that is against you
+----Premise T13: Those who don't even take a word of criticism will eventually lose chances to get improved
+----Premise T14: if you can't take any criticism, not only will you fail in cooperating with other people, but also get defeated in personal works
+----Premise T15: As one Chinese idiom goes: "The good medicine tastes bitter“
+----Premise T16: Criticism might be the most powerful solution to heal
+
+attacking Claim T11:
+----Premise T8: Criticism definitely hurts
+----supporting Premise T8:
+--------Premise T9: it points out your drawbacks and forces you to confront them
+
+----attacking Premise T8:
+--------Premise T10: criticism can help you detect those drawbacks and fix them if you are willing to take it
+
+

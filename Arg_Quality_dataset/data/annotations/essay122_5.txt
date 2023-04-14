@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: the new high school will be a place for new connections between the student of different communities and districts of the city
+supporting Claim T13:
+
+----Premise T14: After classes students and not only the students will get together in building of high school, participate in different competitions
+----Premise T15: during the football match the students of different high schools will come and after the competition they will keep in touch
+----Premise T16: This will increase the social connections of the students
+
+attacking Claim T13:
+----Premise T17: The only disadvantage is the noisiness of the competitions
+----supporting Premise T17:
+--------Premise T18: The people living in the neighborhood will be a bit perturbed
+
+----no arguments attacks Premise T17
+
+

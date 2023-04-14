@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: learning in classroom could provide more information and make students more comprehend in subjects that they had learnt
+Supporting Claim T9
+
+    Premise: in classroom have many equipment to demonstrate real example
+    Premise: in biology class, learning anatomy by operating fog have many benefits
+    Premise: Learner could learn how to use tools and see actual organs of fog
+    Premise: online class just only study in textbook not learnin real situation
+
+No arguments attacks Claim T9
+

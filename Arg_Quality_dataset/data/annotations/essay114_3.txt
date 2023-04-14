@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: children need human interactions
+supporting Claim T10:
+
+----Premise T14: No matter how advanced technology will be, it is clear that a computer will never be able to communicate with its pupils
+----Premise T11: As a recent interview with Josh Trumm – the founder of the 'Teachers Global Group'- reveals, human interactions will never be imitated by computers: 'This verbal and non-verbal communication between teachers and children is the first step towards a proper educatio
+----Premise T12: Without someone who can explain and understand their problems, pupils cannot actually learn'
+----Premise T13: only a teacher can feel and connect with pupils, be a friend and a model
+
+no arguments attacks Claim T10
+

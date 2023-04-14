@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: people have more chance to do other activities they like since food preparation is no longer time-consuming
+supporting Claim T4:
+
+----Premise T6: more people can sleep a bit later to go to work
+----supporting Premise T6:
+--------Premise T7: they only need a couple of time to prepare for the breakfasts
+
+----no arguments attacks Premise T6
+
+----Premise T5: such a change has liberated many housewives from tedious cooking process and gave them additional time to do something more meaningful like accompanying family or doing a job
+
+no arguments attacks Claim T4
+

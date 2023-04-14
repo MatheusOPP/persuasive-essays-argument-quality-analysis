@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T1
+text: the policy that concentrates money on developing public transportation brings an advantageous impact on earth
+supporting Claim T1:
+
+----Premise T2: if there are more good buses, trains, or subways, people are inclined to use less private vehicles, which decreases the amount of carbon released
+
+no arguments attacks Claim T1
+

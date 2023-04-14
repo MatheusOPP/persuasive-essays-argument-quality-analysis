@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: such tax payments are unfair for them
+Supporting Claim T10
+
+    Premise: it is irrational to require them to pay for the taxes they do not use
+
+Attacking Claim T10
+    Premise: we also pay for the public services that we even do not experience a chance to employ like police or fire brigade
+    Premise: We certainly do not hope for a reduction for these sorts of taxes
+

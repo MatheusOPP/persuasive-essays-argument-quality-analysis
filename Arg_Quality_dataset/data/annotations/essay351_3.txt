@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: in order for people to cover their daily and general needs they need money as well
+supporting Claim T6:
+
+
+attacking Claim T6:
+----Premise T7: aspects such as: friendly colleagues, environment and work-place condition, sometimes, have even more impact on person's happiness and quality of life
+----supporting Premise T7:
+--------Premise T5: People, for instance, who don't like their co-workers and working condition are considered less satisfied with their jobs, despite of a high salary
+
+----no arguments attacks Premise T7
+
+

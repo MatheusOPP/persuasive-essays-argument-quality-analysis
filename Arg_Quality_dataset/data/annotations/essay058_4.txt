@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: Competition should be always based on self-improvement rule
+supporting Claim T18:
+
+----Premise T20: 'Your loss, my gain' kind of competition can never be fruitful in the long run
+----Premise T21: A healthy competition which involves raising one's own level above others is the best approach
+----Premise T19: blind and selfish competition is detrimental
+
+no arguments attacks Claim T18
+

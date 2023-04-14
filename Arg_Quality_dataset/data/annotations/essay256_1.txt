@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: in terms of learning, attending class is more effective than simply studying alone to pass the exams
+supporting Claim T2:
+
+----Premise T3: Classes are designed diligently for the students and professors absolutely bear more knowledge than the students
+----Premise T4: Professors not only have the knowledge, but also equip with experiences, knowing how to guide their students toward their academic achievements
+
+no arguments attacks Claim T2
+

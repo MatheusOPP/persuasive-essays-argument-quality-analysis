@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the most suitable method of reducing stress for modern people is by different kinds of exercise, which can not only improve health conditions but also bring positive emotions
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: exercise play a crucial role in ameliorating physical health
+----supporting Claim T4:
+
+--------Premise T5: Any kinds of sports, such as jogging, swimming, or playing basketball, can effectively facilitate human respiration and circulation system
+--------Premise T6: these sports can also strengthen muscles and lessen surplus adipose tissues in human body
+--------Premise T7: The latter one is of particular importance because nowadays more and more people are suffer from obesity
+--------Premise T8: Many studies has points out that numbers of overweight people have increased in developed countries in recent years, which mainly results from insufficient exercises
+
+----no arguments attacks Claim T4
+
+----Claim T10: rigorous exercise can also hone one's will, which enable people to be able to tackle stringent problems and arduous tasks
+----type: Claim T13
+----text: Sports activities can improve mental health
+----supporting Claim T13:
+
+--------Premise T12: When people exercise, the neuron cells in the brain release a chemical compound named Dopamine
+--------Premise T9: good exercises can often successfully alleviating one's heavy burdens
+--------supporting Premise T9:
+------------Premise T11: This hormone can delight one's mind, creating positive feelings
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T13
+
+
+attacking MajorClaim T1:
+----Claim T2: many activities can let humans relax
+

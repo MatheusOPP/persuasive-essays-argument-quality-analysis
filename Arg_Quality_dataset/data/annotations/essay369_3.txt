@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: tourism should not be alledged to be notorous for its detriment to the ecological diversity
+supporting Claim T12:
+
+----Premise T9: In order to turn a wilderness into a place of attraction, the planners must have taken the nourishment of the sceneries into thorough consideration
+----Premise T10: a fortune is spent on trimming the trees, watering the flowers, preserving and balancing the local fauna and flora, in the hope of beautifying the wild
+----Premise T11: Not to mention ecotourism, a new kind of environment-friendly service, which gives all environmentalists and nature lovers a hand in raising the awareness of people in protecting their coexistent creatures
+
+attacking Claim T12:
+----Premise T8: environmental damage is inevitable
+----supporting Premise T8:
+
+----attacking Premise T8:
+--------Premise T13: it is not tourism to be blamed for
+
+

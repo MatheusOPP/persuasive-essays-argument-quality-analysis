@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: exercise play a crucial role in ameliorating physical health
+Supporting Claim T4
+
+    Premise: Any kinds of sports, such as jogging, swimming, or playing basketball, can effectively facilitate human respiration and circulation system
+    Premise: these sports can also strengthen muscles and lessen surplus adipose tissues in human body
+    Premise: The latter one is of particular importance because nowadays more and more people are suffer from obesity
+    Premise: Many studies has points out that numbers of overweight people have increased in developed countries in recent years, which mainly results from insufficient exercises
+
+No arguments attacks Claim T4
+

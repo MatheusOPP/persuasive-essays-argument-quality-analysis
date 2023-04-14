@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society
+Supporting Claim T5
+
+    Premise: technology indeed simplifies people's life all the time
+
+Attacking Claim T5
+    Premise: in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy
+

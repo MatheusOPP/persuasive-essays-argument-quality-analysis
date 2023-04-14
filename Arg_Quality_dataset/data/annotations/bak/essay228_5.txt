@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: we can communicate with each other through TV
+Supporting Claim T12
+
+    Premise: TV can be connected to multimedia devices that have smart operating system like Google TV, WDTV using Skype, tango and other apps
+    Premise: Teenagers can play games online with their friends
+    Premise: TV can be one of communication ways
+
+No arguments attacks Claim T12
+

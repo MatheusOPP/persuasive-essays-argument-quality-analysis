@@ -1,0 +1,35 @@
+Type: MajorClaim T3
+Text: children should start learning a foreign language in the beginning of the education
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: it is easy to distinguish between a child having two languages and a child having just his native language while comparing their ability to communicate, understanding other studies, etc
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+    Type: Claim T9
+    Text: this time is the best time to learn any language
+    Supporting Claim T9
+
+        Premise: the ability of Learning in the childhood period is more powerful than other periods of life
+        Premise: They can easily understand the language structure and memorize the vocabularies
+        Premise: the persistence of learning a knowledge in the childhood is more than other period of lives
+
+    No arguments attacks Claim T9
+
+    Type: Claim T13
+    Text: they would be able to develop their personalities and sense of reliance
+    Supporting Claim T13
+
+        Premise: Having knowledge about other countries and their languages lead to extend the child's vision
+        Premise: It can give them a sense of power to communicate better with peers in other parts of the World
+        Premise: They would be able to understand other cultures and costumes
+        Premise: Learning a foreign language helps students tremendously to comprehend what happens in the around World
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T3
+

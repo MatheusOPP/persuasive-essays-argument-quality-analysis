@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: it's very suitable for children to develop senses of music and art when they are young
+supporting Claim T7:
+
+----Premise T8: Children absorb things quickly and they bear exact the ability needed in music and art-imagination
+----Premise T9: Music and art are not like math or language which has more strict rules
+----supporting Premise T9:
+--------Premise T10: They are more abstract, requiring creativity and imagination to be enriched
+
+----no arguments attacks Premise T9
+
+----Premise T6: Children are privileged to have these abilities
+----supporting Premise T6:
+--------Premise T5: they are given more freedom and their imagination has not yet been killed due to reality circumstances
+
+----no arguments attacks Premise T6
+
+----Premise T11: Even if their performances are just some simple drawings and melodies, music and art still bring out children's joy of flying in imagination
+
+no arguments attacks Claim T7
+

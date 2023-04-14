@@ -1,0 +1,8 @@
+Type: Claim T8
+Text: The main disadvantage is contamination
+Supporting Claim T8
+
+    Premise: It is true that some area are suffering the dire consequences caused by overdeveloping the industry, such as water pollution, overcrowded traffic and medical problems
+
+No arguments attacks Claim T8
+

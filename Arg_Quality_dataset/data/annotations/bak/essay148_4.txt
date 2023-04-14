@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: new technology has created some similar jobs all around the world
+Supporting Claim T9
+
+    Premise: Computer technology is a growing job in most of the countries, and students are being encouraged to study in this field
+    Premise: jobs that are related to technology are in demand in most of the countries
+
+No arguments attacks Claim T9
+

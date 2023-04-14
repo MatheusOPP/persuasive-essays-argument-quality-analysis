@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: it is a normal practice for women to be helpmates in earning money
+supporting Claim T3:
+
+----Premise T8: This is really necessary in cases of her husband's low salary and the difficulty of getting a good job at the present
+----Premise T7: By taking up a job, a wife can earn more money to support her family life
+----Premise T6: extra income that women earn will contribute to their family's expenses
+
+no arguments attacks Claim T3
+

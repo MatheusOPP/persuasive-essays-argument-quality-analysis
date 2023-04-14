@@ -1,0 +1,42 @@
+Type: MajorClaim T2
+Text: both genders have equal rights and universities should accept them in equal numbers
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: Equality in education will help in development of the society
+    Supporting Claim T3
+
+        Premise: Both genders are the fulcrum of the society and none of them is superior or inferior
+
+    No arguments attacks Claim T3
+
+    Type: Claim T5
+    Text: females should be given equal opportunities as males
+    Supporting Claim T5
+
+        Premise: The whole world aims for women empowerment
+        Premise: Right to education is a basic human right of both, males and females
+        Premise: When universities will accept them in equal number, both genders will be able to nurture their talent and a healthy competitive environment will develop
+
+    No arguments attacks Claim T5
+
+    Type: Claim T9
+    Text: Universities giving both genders equal opportunities, will prepare them for future challenges and will help in the long run
+    Supporting Claim T9
+
+        Premise: Co-education helps both genders to gel well with each other
+        Premise: It helps them how to behave and cooperate and work together
+
+    No arguments attacks Claim T9
+
+
+Attacking MajorClaim T2
+    Type: Claim T15
+    Text: some male chauvinists think that women are incapable in particular fields, like maths, mechanical engineering, defense etc
+    Supporting Claim T15
+
+
+    Attacking Claim T15
+        Premise: This kind of gender biased approach is detrimental for the development of the society
+
+

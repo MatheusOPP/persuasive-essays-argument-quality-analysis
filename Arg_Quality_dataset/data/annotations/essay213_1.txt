@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: if you want to get brilliant achievements such as going to college, acing your school's final tests, you should consider learning to work on your own
+supporting Claim T8:
+
+----Premise T3: in many important cases when team-working is not possible, the ability to work alone will help
+----Premise T5: The apperant example is that there are a lot of tests that do not allow team-working
+----Premise T6: Let's imagine that you perform really well when you can discuss the problems with other people, but you have no experience of working alone, standardized tests such as SAT, TOEFL may be your nightmares
+----Premise T7: Testing is a very important aspect of life, and still the majority of tests do not allow you to work in team
+
+no arguments attacks Claim T8
+

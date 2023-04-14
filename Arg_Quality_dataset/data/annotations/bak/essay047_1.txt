@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: it is our responsibility to create a natural and safe environment for animals to live in
+Supporting Claim T3
+
+    Premise: Given the fact that human beings are responsible for the heavy pollution and severe damage to the natural habitats of many wild animals
+    Premise: it is the right of wild species to live in a environment away from human beings
+
+No arguments attacks Claim T3
+

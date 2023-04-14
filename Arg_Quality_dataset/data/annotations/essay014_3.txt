@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: students learn far more from other sources, such as the Internet and television
+supporting Claim T6:
+
+----Premise T14: within this sources students learn lots of things which they can't learn in classes
+----Premise T9: They can only input some key words and google it, and then there are numberless articles and websites related to it
+----supporting Premise T9:
+--------Premise T10: students learn things easily
+
+----no arguments attacks Premise T9
+
+----Premise T11: they contend that good television programs do teach students
+----supporting Premise T11:
+--------Premise T12: Discovery Channel has many instructive episodes
+--------Premise T13: Students have knowledge of others cultures, outer space etc
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T6
+

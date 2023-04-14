@@ -1,0 +1,12 @@
+Type: Claim T11
+Text: students would prefer school to spending on improving facilities
+Supporting Claim T11
+
+    Premise: With this distinguished performance, the student would acquire an unforgettable and valuable experience burring deeply in his mind
+    Premise: Consider a circumstance in which a student who is a member of jazz ensemble in their school
+    Premise: students are not always staying in classrooms
+    Premise: They have numerous activities in school
+    Premise: He must need a better auditorium for him to have an extraordinary performance
+
+No arguments attacks Claim T11
+

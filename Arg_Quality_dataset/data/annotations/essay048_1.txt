@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: educational institutions are able to optimize costs by increasing teacher-student ratios
+supporting Claim T3:
+
+----Premise T7: the presence of video conferencing allows a teacher to teach a greater number of students
+----Premise T8: Thanks to the economical online-teaching, universities and colleges are able to offer grants for students who have outstanding academic achievements but are unable to attend schools because of financial constrains
+
+no arguments attacks Claim T3
+

@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: farmland, housing and industry can satisfy the desire of human that living a better life
+Supporting Claim T10
+
+    Premise: farming, housing and industry provide us the food we eat, place we live, clothes we wear, which are essential to live
+    Premise: Especially in some poor areas, survival is the most significant thing
+    Premise: highly developed agriculture and industry can improve our living conditions which allow us have a good quality life
+
+No arguments attacks Claim T10
+

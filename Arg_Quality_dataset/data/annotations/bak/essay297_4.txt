@@ -1,0 +1,10 @@
+Type: Claim T12
+Text: you learn quickly
+Supporting Claim T12
+
+    Premise: You can improve your skills by work under any professor; you can ask questions face to face, it will clear your doubts
+    Premise: professors play vital role in classroom learning, most of them are specialists is their subjects, and they help you by giving valuable information and useful skills
+    Premise: For Toefl IBT Coaching first I was depend on some online courses, but after 1 month I realized that I was wasting my time so I joined an institute for preparation of Toefl IBT, and in 1 month I felt that my English skills have been improving faster
+
+No arguments attacks Claim T12
+

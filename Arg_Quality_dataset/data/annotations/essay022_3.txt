@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: universities provide not only skills for careers, but also academic knowledge for the human race, such as bio science, politics, and medicine
+supporting Claim T7:
+
+----Premise T10: diverse experiences in the campus life can make the young generation more competently
+----supporting Premise T10:
+--------Premise T11: there are a number of chances through internships, deeper discussion, independent life, and exchange scholarships
+
+----no arguments attacks Premise T10
+
+----Premise T9: many researches in the ivory-tower have created ingenious discoveries and achievements for the development of modern society
+----Premise T8: These academic values are necessary to the progress of the world
+
+no arguments attacks Claim T7
+

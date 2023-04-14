@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: public services and facilities should be given adequate attention by the authorities to maintain social stability
+Supporting Claim T5
+
+    Premise: public services such as education system or medical care can meet people's basic demand of survival, security and knowledge, thus making them feel comfortable, which can lower the crime rate
+    Premise: the government plays the role of a leader among citizens, which should discharge the responsibility of making optimal use of the tax money to keep society safe and stable
+    Premise: the government should give priority to public services and facilities
+
+No arguments attacks Claim T5
+

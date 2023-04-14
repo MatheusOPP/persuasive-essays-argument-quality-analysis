@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: I do not think these disadvantages will outweigh the advantages brought by cell phones
+supporting MajorClaim T3:
+
+----type: Claim T14
+----text: the mobile phone has become a dispensable multifunctional tools in people's daily life
+----supporting Claim T14:
+
+--------Premise T15: Not only used for communication, but it also functions as an Internet browser, a music player, a personal organizer and so forth
+
+----no arguments attacks Claim T14
+
+
+attacking MajorClaim T3:
+----Claim T2: it has a number of problems that should be well handled
+----type: Claim T4
+----text: almost everything that changed our lifestyle a lot will also cause some social problems
+----supporting Claim T4:
+
+--------Premise T5: Speaking loudly on the phone in public areas, such as schools, libraries and hospitals appears to be very impolite and offensive
+--------Premise T6: some students utilize their cell phones as an effective cheating tools in examinations in which they can send and receive answers by texting each other
+
+----attacking Claim T4:
+--------Premise T7: it is not impossible to solve these problems, as long as some regulations and rules can be effectively implemented
+
+----type: Claim T9
+----text: some harmful effects on our health are lethal
+----supporting Claim T9:
+
+--------Premise T10: It has been proved that overusing of the electronic devices including mobile phones could lead to higher possibility of suffering hearing loss and even cancers, although the further investigation are needed
+
+----no arguments attacks Claim T9
+
+----type: Claim T11
+----text: There is panic among people that their conversation can be intercepted by the third party
+----supporting Claim T11:
+
+--------Premise T12: This possibility exists all the time
+
+----attacking Claim T11:
+--------Premise T13: a more efficient and reliable system can also be invented to guarantee the private information of users
+
+

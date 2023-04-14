@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: the possession of guns can also raise the rates of suicide
+supporting Claim T11:
+
+----Premise T12: In the US, firearms remain the most common method of suicide, accounting for about 50 per cent
+----Premise T13: there is an increasing trend of adolescent suicides and suicides among those age 75 and over
+
+no arguments attacks Claim T11
+

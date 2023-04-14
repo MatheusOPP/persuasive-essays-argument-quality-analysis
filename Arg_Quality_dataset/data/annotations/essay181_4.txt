@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: building the university may lead to some social problems
+supporting Claim T14:
+
+----Premise T15: A number of people then may come from any other communities in order to get in to or get the jobs at the university
+----Premise T16: When many people congregate in one place, I think that some kinds of social problems will follow
+----Premise T17: Traffic may worsen
+----Premise T18: More wastes have to be managed
+----Premise T19: Maybe crime rate will also increase
+----Premise T20: These social problems may impair the quality of life in the community
+
+no arguments attacks Claim T14
+

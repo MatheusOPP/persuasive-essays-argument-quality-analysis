@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: the classmates themselves creat a competitive atmoshphere which incent the children
+supporting Claim T6:
+
+----Premise T4: In high school, for instance, an individual cannot resist studying painstakingly through day and night when the others who are astoundingly ambitious and set sights on prestigious universities around the globe are doing the same
+----Premise T5: From a psychological perspective, the feeling of being subordinate to their peers exert enormous pressure on the children, which subsequently transforms into some sort of stimulants and boosts the children's academic performances
+
+no arguments attacks Claim T6
+

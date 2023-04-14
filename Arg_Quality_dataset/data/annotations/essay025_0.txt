@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the advantages of building a factory will outweigh its disadvantages, if we tackle the environmental problems brought by factories
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: a large factory can stimulate local economic growth and reduce the unemployment rate
+----supporting Claim T2:
+
+--------Premise T3: To manufacture goods, there must be the demand of laborers, from which the local residents can benefit
+--------Premise T4: the factory is not isolated, other industries and business will be quickly established, resulting in economic growth of local area
+--------supporting Premise T4:
+------------Premise T5: the estate industry will be boosted in order to satisfy the workers' accommodation need
+
+--------no arguments attacks Premise T4
+
+
+----no arguments attacks Claim T2
+
+----type: Claim T9
+----text: how to improve the disadvantages of building a factory would be more important than whether to build it
+----supporting Claim T9:
+
+--------Premise T10: it is inevitable that there will be more factories built with the development of our society
+--------Premise T11: most problems can be avoidable if the factories put in real and great effort to manage their waste well
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----type: Claim T8
+----text: The main disadvantage is contamination
+----supporting Claim T8:
+
+--------Premise T6: It is true that some area are suffering the dire consequences caused by overdeveloping the industry, such as water pollution, overcrowded traffic and medical problems
+--------supporting Premise T6:
+------------Premise T7: in some industrial cities, a large proportion of the workers are suffering various breathing problems, such as asthma which can be caused by waste ashes and certain chemical substances
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Claim T8
+
+

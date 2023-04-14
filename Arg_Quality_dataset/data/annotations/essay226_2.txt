@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: past obviously saves ourselves a bunch of failures and times
+supporting Claim T4:
+
+----Premise T6: we can avoid making the same ones
+----supporting Premise T6:
+--------Premise T5: As everyone's life is too short to risk trying anything without any prepare, we all should learn about other's mistakes
+
+----no arguments attacks Premise T6
+
+----Premise T8: the predecessors' mistakes are the first thing that we should consider when learning about the past
+----Premise T7: Each mistake, from the smallest to the bigger one, is a treasure of experience, which, if we can make full use of, will make us well-prepared for many complicated situations of our life
+
+no arguments attacks Claim T4
+

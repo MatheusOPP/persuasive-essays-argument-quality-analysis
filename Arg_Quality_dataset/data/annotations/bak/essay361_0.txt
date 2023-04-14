@@ -1,0 +1,34 @@
+Type: MajorClaim T1
+Text: by allowing students to watch TV at both school and house can adversely impact on their overall growth
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: If children spend too much time in front of TV, it will negatively impact their health and study
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T10
+    Text: watching TV for a continuously long hours can adversely impact children health
+    Supporting Claim T10
+
+        Premise: they can get poor eyesight in early ages of childhood, and also develop back pain
+        Premise: Sometimes, students watch restrictive programs not allowed for their ages and this can have major psychological consequences
+        Premise: Many times, students get addictive to their favorite programs like Cartoon channels, or baseball and easily get distracted from study during exam period and this can seriously impact their grades
+
+    No arguments attacks Claim T10
+
+
+Attacking MajorClaim T1
+    Type: Claim T5
+    Text: By watching TV, children can develop skills in extra-curriculum activities
+    Supporting Claim T5
+
+        Premise: There are international and local news channels like BBC, CNBC, Etv Gujarati, Etv Marathi etc to keep individuals updated about latest happenings
+        Premise: TV is one of the prime source of data and information
+        Premise: Cooking programs teach about how to make new dishes and similarly, sports events like cricket, football can teach leadership skills, team building skills, communication skills and many more that can help students in their future jobs
+
+    No arguments attacks Claim T5
+
+

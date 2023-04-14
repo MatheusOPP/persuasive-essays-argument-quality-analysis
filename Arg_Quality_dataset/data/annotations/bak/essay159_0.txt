@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: the popularity of mobile phones to the young generation is a bad development
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

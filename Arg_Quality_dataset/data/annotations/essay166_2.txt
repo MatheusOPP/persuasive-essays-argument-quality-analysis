@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: a big city can offer me many more vacancies than a small town
+supporting Claim T3:
+
+----Premise T4: Big city life provides many opportunities
+----Premise T5: it will be easier for me to find an engineering job in the city
+----Premise T6: Electrical engineering deals with problems concerning electricity supply
+
+no arguments attacks Claim T3
+

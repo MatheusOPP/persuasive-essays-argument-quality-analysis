@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: finding out life through personal experience can help you become more independent and mature
+supporting Claim T6:
+
+----Premise T7: there are so many grate things that you can missed if you don't experience it by yourself
+----Premise T8: a friend told you not to try skydiving because it was so dangerous
+----Premise T9: If you did as he told, you could fail to see how wonderful it is to be fall freely
+----Premise T10: family and friends accidentally harm you by giving you advice all the time
+----Premise T11: You will grow to be dependent and reliant
+----Premise T12: free yourself and do what you desire without notice about consequences is the way that success people would like to choose
+
+no arguments attacks Claim T6
+

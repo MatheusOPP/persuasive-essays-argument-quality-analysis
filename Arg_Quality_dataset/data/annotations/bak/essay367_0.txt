@@ -1,0 +1,33 @@
+Type: MajorClaim T1
+Text: there are many institutions that accept the same average number of male and female students in many kinds of course
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: female students are indicated having the same potential and capability as men
+    Supporting Claim T2
+
+        Premise: women tend to work in various fields which in the past normally done by men such as being engineers, and dealing with machines
+        Premise: women can also do the men's works
+
+    No arguments attacks Claim T2
+
+    Type: Claim T5
+    Text: the issue stimulates the stakeholders from many places to think what kind of preparations they should take for stabilising the economic growth and the quality life of people
+    Supporting Claim T5
+
+        Premise: The proportion of women is rising year by year in many parts of the world recently
+
+    No arguments attacks Claim T5
+
+    Type: Claim T8
+    Text: giving equal education for both men and women is a must
+    Supporting Claim T8
+
+        Premise: learning from human's history, education provides someone to widen his or her knowledge and experience for facing the real situation of workplace through subject taught in college
+        Premise: These days, it is so hard for young people to get a proper job when they have not degree certificate from Universities
+
+    No arguments attacks Claim T8
+
+
+No arguments attacks MajorClaim T1
+

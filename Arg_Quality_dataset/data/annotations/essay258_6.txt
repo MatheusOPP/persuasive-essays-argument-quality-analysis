@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: There are some practical subjects that you can only learn them with a teacher or an instructor
+supporting Claim T15:
+
+----Premise T14: if you are going to learn some things by yourself, you may learn and understand them incorrectly
+----supporting Premise T14:
+--------Premise T16: from my own experiences, after I had started learning playing the guitar without a teacher, I got used to wrong habits regarding strumming and tempo, but after finding and learning with a tutor and identifying and eliminating those incorrect habits, I was able to play properly
+
+----no arguments attacks Premise T14
+
+----Premise T12: if you want to learn driving a car or some jobs like medicine and engineering and some sports like skiing and swimming, you'll have to find a teacher
+----supporting Premise T12:
+--------Premise T13: It's almost impossible and inefficient to learn those things on your own
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T15
+

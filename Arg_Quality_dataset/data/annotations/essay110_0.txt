@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: being a citizen involves in a number of duties, other than paying taxes
+supporting MajorClaim T1:
+
+----Claim T2: People in society must do more than paying taxes to contribute to their society
+----type: Claim T7
+----text: individuals of a country are responsible for many other things apart from paying tax
+----supporting Claim T7:
+
+--------Premise T8: in order to develop a country, citizens must obey laws, which were imposed by the government
+--------supporting Premise T8:
+------------Premise T6: the crime rate is reduced and society becomes a peaceful place, so the country will develop at a rapid pace
+
+--------no arguments attacks Premise T8
+
+--------Premise T11: a person has to unite with other people in the community so as to develop their nation
+--------supporting Premise T11:
+------------Premise T12: if people in society have a strong bond with each other, society will become a peaceful place, where people are helping and sharing to each other
+
+--------no arguments attacks Premise T11
+
+--------Premise T9: being a citizen in society should protect the country's culture and history
+--------supporting Premise T9:
+------------Premise T10: people should have knowledge about their own culture and history by studying at school with full concentration or reading them from books
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T7
+
+
+attacking MajorClaim T1:
+----type: Claim T3
+----text: they have fulfilled their duty as a citizen
+----supporting Claim T3:
+
+--------Premise T4: If people are paying taxes, that means they are taking part in the development of their country as well as the country's economy
+--------Premise T5: Taxes are the income for every country in the world and they are extremely important for developing countries
+
+----no arguments attacks Claim T3
+
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: there are a few students paying considerable time on the computer games playing finally choose computer games related jobs as their career
+supporting Claim T14:
+
+
+attacking Claim T14:
+----Premise T13: majority of the students failed in front of the computer games playing and they use their time for studying, sleeping and physical exerice to play these computer games
+----Premise T12: It is not uncommon that the teenages are found sleepless for several days playing on-line games at public internet bar, and there are also some media reports regarding the sudden death case of the teenages in the internet bar
+

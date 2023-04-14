@@ -1,0 +1,52 @@
+Type: MajorClaim T1
+Text: smoking should not be permitted, especially in public places like restaurants
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: it will make the non-smokers breathe uncomfortably
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: Smoking in restaurants will absolutely disturb other people in enjoying their meals
+    Supporting Claim T3
+
+        Premise: restaurants are places where people come and pay some money to enjoy their meals
+        Premise: They will not be able to enjoy their meals while breathing in smoke around them
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: Smoking in restaurants can give a bad example to the children
+    Supporting Claim T6
+
+        Premise: restaurants are places that people usually come with their families
+        Premise: there will be children, grandparents, as well as pregnant women inside the restaurants
+        Premise: Children have a high potential to imitate what adults do
+
+    No arguments attacks Claim T6
+
+    Type: Claim T11
+    Text: Smoking in restaurants also can affect the elders' health, especially if they have problems with their hearts and lungs
+    Supporting Claim T11
+
+        Premise: The most dangerous people that would be affected by smoke are the pregnant women
+
+    No arguments attacks Claim T11
+
+    Type: Claim T14
+    Text: it is unfair for passive smokers
+    Supporting Claim T14
+
+        Premise: they do not smoke but they have same health risks as the active one
+        Premise: Stroke, heart disorders, hearing loss, and cancers are some diseases that can attack passive smokers
+        Premise: When they are around the active smokers, they will inhale hazardous smoke
+        Premise: passive smokers will have a lot of health risks
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: technology has enabled people stay in contact with each other more closely
+Supporting Claim T4
+
+    Premise: While public use the Internet or smart phone to share information to each other at different positions
+    Premise: Instead of using letters, technology advanced not only gives us more spare time but also convenient and efficient
+    Premise: even if family members who are in different countries, they also can use the Internet to connect each others, especially though the images or videos, they can feel close
+    Premise: technology is also essential for students, live in remote districts, shared the valuable natural resources with friends
+
+No arguments attacks Claim T4
+

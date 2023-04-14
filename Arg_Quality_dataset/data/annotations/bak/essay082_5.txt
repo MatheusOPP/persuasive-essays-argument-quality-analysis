@@ -1,0 +1,8 @@
+Type: Claim T10
+Text: advertising is believed by many, a financial burden to businesses
+Supporting Claim T10
+
+    Premise: advertising can be very expensive and not every advertising campaign can be done successfully and brings good results
+
+No arguments attacks Claim T10
+

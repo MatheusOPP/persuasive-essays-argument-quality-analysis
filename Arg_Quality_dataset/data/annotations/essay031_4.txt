@@ -1,0 +1,31 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: alternative forms of transportation and international laws to control automobiles ownership and use can work effectively
+supporting Claim T17:
+
+----Premise T19: the introduction of international laws can be also effective
+----supporting Premise T19:
+--------Premise T20: there are some regulations to limit the use of automobiles by time and to allow the people possess one car only
+--------Premise T18: these attempts to reduce automobiles can ease traffic congestion and environmental pollution
+
+----no arguments attacks Premise T19
+
+----Premise T12: alternative forms which emit less carbon dioxides and gasses than automobiles are ideal
+----supporting Premise T12:
+--------Premise T13: rental bicycle system has been introduced in several European countries
+--------Premise T14: This system is that at the corner of each district, the rental bicycles are placed and the people can ride it to the other districts with a small fee
+--------Premise T16: it is a better form to protect environment than automobile
+--------supporting Premise T16:
+------------Premise T15: bicycle expels neither carbon dioxides nor harmful gasses
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T17
+

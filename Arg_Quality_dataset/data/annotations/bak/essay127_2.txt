@@ -1,0 +1,7 @@
+Type: Claim T3
+Text: some people live in a pretty good condition, it is only a minority
+Supporting Claim T3
+
+
+No arguments attacks Claim T3
+

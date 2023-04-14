@@ -1,0 +1,42 @@
+Type: MajorClaim T1
+Text: the art and music should be required to study
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: the art and music, from my point of view, are also essential for younger student's future life
+    Supporting Claim T2
+
+        Premise: those subjects help students learn this planet from another perspective and they can release people from the enormous pressure nowadays
+
+    No arguments attacks Claim T2
+
+    Type: Claim T7
+    Text: art and music would broaden student's horizon and therefore make them thoughtful
+    Supporting Claim T7
+
+        Premise: It is well known that the art and music are not bound by country border, and they are something that is shared by the people from every parts of this world and is symbols of various cultures
+        Premise: learning art and music enables students to appreciate the fruits of eminent artists and musicians and to feel the fascination of different cultures
+
+    No arguments attacks Claim T7
+
+    Type: Claim T13
+    Text: studying art and music is also the appropriate outlets of stress and superb ways to relax
+    Supporting Claim T13
+
+        Premise: with the improvement of life rhythm, people have currently suffered too much pressure from their studies or jobs, and these pressure are likely to destroy one person if he cannot find a way to emancipate himself
+        Premise: Art and music are, of course most accessible tools for modern people to liberate themselves from the extremely stressful life
+
+    No arguments attacks Claim T13
+
+    Type: Claim T15
+    Text: the school should replace some basic science class with some art and music class in order to cultivate student's interest of art without adding extra study pressure
+    Supporting Claim T15
+
+        Premise: The education of art and music would not work if students resist it
+        Premise: the study of art and music is supposed to rely on younger student's own interest
+
+    No arguments attacks Claim T15
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: children might not be really comfortable with the use of a language other than their native tongue when they are in their kindergarten years
+Supporting Claim T6
+
+    Premise: Learning at school must be convenient for them if they speak in a way that they are used to
+    Premise: teachers think that foreign language most likely leads to confusion for children who are yet to start learning
+    Premise: the teacher should be well-trained in the use of this specific language, so quality education will be delivered
+
+No arguments attacks Claim T6
+

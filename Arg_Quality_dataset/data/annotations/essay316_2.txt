@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: new building construction deserves more governmental investment
+supporting Claim T10:
+
+----Premise T11: it requires far more resource compare to old building preservation
+----Premise T12: Build a new building has following prerequisites, land that has been sold by the government via formal procedures, a reliable construction company and tremendous amount of labor
+----Premise T13: hundreds of problems would occur during the construction
+----Premise T14: only government can cope with it by utilizing its enormous resource like dollars and effectiveness
+
+no arguments attacks Claim T10
+

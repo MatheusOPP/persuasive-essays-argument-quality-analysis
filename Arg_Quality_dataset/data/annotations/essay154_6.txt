@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T19
+text: living with a roommate allows me to get help
+supporting Claim T19:
+
+----Premise T20: It often is the case that your roommates have the skills or knowledge you need
+----Premise T21: When you run into a problem, you can ask your roommates if they can help
+----Premise T22: Some of them may have something to offer
+----Premise T23: when my computer mysteriously broke down, I dialed up the manufacturer and asked for help
+----Premise T24: They failed to give me any useful solutions
+----Premise T25: To my surprise, one of my roommates noticed my problems and offered to help
+----Premise T26: He was very good with computers, and he managed to fix the problem quickly
+
+no arguments attacks Claim T19
+

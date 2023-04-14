@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: those challenges of their initial life teach them important survival lessons which help them for whole life
+supporting Claim T2:
+
+----Premise T3: Every day comes with new challenges for them like walking
+----Premise T5: they slowly tune their technique and learned to walk
+----Premise T4: when they tried to learn walking, they stumble and hurt themselves many times
+
+no arguments attacks Claim T2
+

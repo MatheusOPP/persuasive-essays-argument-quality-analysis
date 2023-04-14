@@ -1,0 +1,14 @@
+Type: MajorClaim T1
+Text: human needs for farmland, housing and industry are more important
+Supporting MajorClaim T1
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: protecting endangered animals is necessary
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+

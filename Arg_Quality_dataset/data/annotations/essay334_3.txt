@@ -1,0 +1,29 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: machines can bring many benefits
+supporting Claim T10:
+
+----Premise T11: machines are more effective than human
+----supporting Premise T11:
+--------Premise T5: Not like human, machines do not need rest, which means they can work as long as employers want and consistently produce high quality products without any mistakes
+
+----no arguments attacks Premise T11
+
+----Premise T6: using machines can save company's money
+----supporting Premise T6:
+--------Premise T8: employers do not need to spend money on employee's welfare
+--------supporting Premise T8:
+------------Premise T7: machines never ask for salary, over-time pay or pension
+
+--------no arguments attacks Premise T8
+
+--------Premise T9: The company only needs some technicians to make sure machines are working on the right track or replace some part when machines are not working
+
+----no arguments attacks Premise T6
+
+
+no arguments attacks Claim T10
+

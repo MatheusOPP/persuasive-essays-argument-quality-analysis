@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: if the co-workers do not corporate with each other that would be devastating in a work environment
+supporting Claim T16:
+
+----Premise T6: The co-workers should be cooperative with one another
+----Premise T8: If they do not cooperate, there will be lots of disputes
+----Premise T10: he always left office sharp on time without giving any consideration whether the work has been finished or not
+----supporting Premise T10:
+--------Premise T11: I once had a co-worker who was too family conscious
+
+----no arguments attacks Premise T10
+
+----Premise T12: Most of the time, I had to do his work in order to protect him from getting caught to the supervisor who was a very authoritative person
+----Premise T13: one day I wanted to be off early because I had to take my mother to the doctor
+----Premise T14: When I requested my co-worker to give a helping hand to finish my work early, he turned down my request giving a silly excuse
+----Premise T15: From that day onwards I did not offer him any support and finally he was transferred from our department to a distant location as a punishment for his irresponsibility
+
+no arguments attacks Claim T16
+

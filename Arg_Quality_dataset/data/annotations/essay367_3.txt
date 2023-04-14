@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: giving equal education for both men and women is a must
+supporting Claim T8:
+
+----Premise T9: learning from human's history, education provides someone to widen his or her knowledge and experience for facing the real situation of workplace through subject taught in college
+----Premise T7: These days, it is so hard for young people to get a proper job when they have not degree certificate from Universities
+
+no arguments attacks Claim T8
+

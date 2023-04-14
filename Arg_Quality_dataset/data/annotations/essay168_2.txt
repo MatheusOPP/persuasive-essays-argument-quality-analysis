@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: Doing all jobs at home don't make employees attempt to work like this
+supporting Claim T3:
+
+----Premise T6: Then again, the workers must try their best to finish the time limit
+----Premise T5: The directors manage employers and give them the deadline of projects
+----Premise T4: Each office has its rules that keep workers do their job as effectively as possible
+----Premise T7: Pressure is motivation
+
+no arguments attacks Claim T3
+

@@ -1,0 +1,11 @@
+Type: Claim T13
+Text: the advantages of early introduction of foreign language outweigh its disadvantages
+Supporting Claim T13
+
+    Premise: kids are amazing learners, and the best time to hone them is in their younger years
+    Premise: the positive impact of this strategy is beneficial to both learners and teachers
+    Premise: Teachers will not find it difficult to make students learn such new concept in their teenage years
+
+Attacking Claim T13
+    Premise: The introduction of foreign language will be new to them
+

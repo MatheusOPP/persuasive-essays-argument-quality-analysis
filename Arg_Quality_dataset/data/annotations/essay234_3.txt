@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: schools should require students to take standardized tests, as long as this option helps to both sides
+supporting Claim T12:
+
+----Premise T13: standardized tests can be good chance for students to apply their knowledge on practice
+----supporting Premise T13:
+--------Premise T10: they will never try to solve problems on their own
+--------supporting Premise T10:
+------------Premise T6: some students may get used to simply rewriting solved problems from the blackboard
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Premise T13
+
+----Premise T11: standardized tests offer them such chance
+
+no arguments attacks Claim T12
+

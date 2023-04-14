@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: these workaholic people do not spend time for the contribution of society by actively participating in any social campaign
+supporting Claim T14:
+
+----Premise T10: they do not find leisure time for such social activities
+----supporting Premise T10:
+--------Premise T9: they usually remain busy in their office
+
+----no arguments attacks Premise T10
+
+----Premise T11: I would take my boss's example; he has been working for extended hours in office for many years
+----Premise T12: Recently, his health and personal life was drastically affected as he broke up with his wife and his family life has totally been in chaos and cries
+----Premise T13: He started regretting afterwards and now trying to manage his work but it seems to be too late for him
+
+no arguments attacks Claim T14
+

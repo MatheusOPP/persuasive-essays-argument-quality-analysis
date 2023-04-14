@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: the right age for a person to retire should be around 60 years old
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

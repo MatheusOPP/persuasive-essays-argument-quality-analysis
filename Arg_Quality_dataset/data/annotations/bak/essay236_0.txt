@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: a professor should spend more time doing research rather than educating students
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

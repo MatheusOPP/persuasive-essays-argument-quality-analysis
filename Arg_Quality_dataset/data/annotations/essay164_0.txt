@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: providing professional training can be effective in encouraging further good work
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: we can unleash uncomfortable in training classes by making new friends, joking in class, enjoying new knowledge
+----supporting Claim T2:
+
+--------Premise T4: in company we always have to deal with so many stressful situations such as negotiating with difficult customer, complaining from boss, etc
+--------Premise T3: training time can provide employee interesting time outside working office to refresh their mind
+
+----no arguments attacks Claim T2
+
+----type: Claim T7
+----text: employees fell that they are valuable if they are trained
+----supporting Claim T7:
+
+--------Premise T5: they will think about develop long term career with their company
+--------supporting Premise T5:
+------------Premise T8: the employees know that their company is investing on them for future development of their company
+
+--------no arguments attacks Premise T5
+
+--------Premise T6: employees will be very proud of themselves when they are provided training while others don't have this opportunity
+
+----no arguments attacks Claim T7
+
+----type: Claim T9
+----text: providing training will make employees happy with their current job
+----supporting Claim T9:
+
+--------Premise T10: it help them improve their professional business knowledge
+--------Premise T12: they will finish their jobs with excellent result
+--------supporting Premise T12:
+------------Premise T11: Having professional training help employees gain more confidence in their business
+
+--------no arguments attacks Premise T12
+
+--------Premise T13: excellent working result will make them very happy as well as their boss
+
+----no arguments attacks Claim T9
+
+----type: Claim T14
+----text: providing professional training as a reward for good work has many advantages
+----supporting Claim T14:
+
+--------Premise T15: Training can help employees refresh their mind as well as make them happy, focus on work
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,54 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: paying for teacher base on grade that students got is not appropriate, and it is not fair for teacher
+supporting MajorClaim T1:
+
+----Claim T3: teacher could not pay attention to each students in class
+----Claim T4: learning abilities of student are different
+----Claim T5: there are problems if paying teacher by grade students get
+----type: Claim T11
+----text: teachers should not be paid by testing result that students get
+----supporting Claim T11:
+
+--------Premise T17: It is not teachers fault
+--------Premise T16: This problems depend on how hard study they do
+--------Premise T15: testing result are different
+--------supporting Premise T15:
+------------Premise T12: learning abilities in each students is different
+------------Premise T13: It is not possible that they all comprehend all lessons in the same period of time
+------------Premise T14: Some students might understand all topics that they had learnt but some are not
+
+--------no arguments attacks Premise T15
+
+
+----no arguments attacks Claim T11
+
+----type: Claim T18
+----text: grade that students get should not be in evaluating teacher
+----supporting Claim T18:
+
+--------Premise T23: This problem should not be happened
+--------Premise T22: Teachers may just give high grades to get higher salary
+--------Premise T19: there could lead to a big problem if schools pay teachers by grade that students get
+--------Premise T20: That is problem in quality of education
+--------Premise T21: Teacher may not care about how they have to teach to make students understand the topics
+
+----no arguments attacks Claim T18
+
+----type: Claim T8
+----text: Teachers have to manage to teach every topics by schedule
+----supporting Claim T8:
+
+--------Premise T6: there are certain period of time for teachers to teach
+--------Premise T9: If teachers pay attention to specific students, their work might not finish on time, and this might make many student miss some field in topics that they should know
+--------Premise T7: In these short time, it is not possible for teachers to pay attention to individual students in class
+--------Premise T10: main task of teacher to give knowledge to students, and this role have to finish in time
+
+----no arguments attacks Claim T8
+
+
+no arguments attacks MajorClaim T1
+

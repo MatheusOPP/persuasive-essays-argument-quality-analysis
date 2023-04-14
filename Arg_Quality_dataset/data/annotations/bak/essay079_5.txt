@@ -1,0 +1,10 @@
+Type: Claim T13
+Text: funding arts is beneficial to the local cultural and economic development
+Supporting Claim T13
+
+    Premise: Cultural heritage constitutes an essential part of arts
+    Premise: preserving local arts may promote the preservation of the local cultural heritage, which not only helps the local people have a sense of belonging but also contributes to the booming local tourism industry
+    Premise: arts serve cultural and economic purposes
+
+No arguments attacks Claim T13
+

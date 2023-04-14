@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: CCTV cameras should be installed in every premise to combat the ever increasing theft rate and to protect the workers at the workplace
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,11 @@
+Type: Claim T3
+Text: it is not about the function or quality of the commodities themselves but really the promotion of the good feeling of possessing the product
+Supporting Claim T3
+
+    Premise: the quality obviously is not relatively important
+    Premise: By casting famous singers in their television advertisement, motorcycles or clothes for example, sales increase significantly
+    Premise: huge cooperation hire celebrities as the face of their product
+    Premise: To boost their sales and win over customers, companies pour a great amount of money into advertising
+
+No arguments attacks Claim T3
+

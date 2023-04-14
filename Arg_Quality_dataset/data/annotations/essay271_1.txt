@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: being present at classes provide students with opportunity of communicating with other students that is beneficial for understanding new material by reviewing them throughout the free times in college
+supporting Claim T2:
+
+----Premise T4: if they do not attend classes they cannot use the help of others for assisting them to comprehend difficult problems
+----Premise T3: they can help each other for learning materials better
+
+no arguments attacks Claim T2
+

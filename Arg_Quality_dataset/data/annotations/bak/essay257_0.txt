@@ -1,0 +1,44 @@
+Type: MajorClaim T1
+Text: any great success need great work not great luck
+Supporting MajorClaim T1
+
+    Type: Claim T6
+    Text: famous people are usually diligent people not lucky people
+    Supporting Claim T6
+
+        Premise: when you work hard you decrease portion of chance in your success
+        Premise: Hard work make you a professional man/woman which are powerful in his or her job
+        Premise: in football game it is said that penalty-kick need good chance to be goal
+
+    No arguments attacks Claim T6
+
+    Type: Claim T18
+    Text: we cannot always lean on our luck to be successful
+    Supporting Claim T18
+
+        Premise: I don't want to disavow the role of luck in success, but as you know it hardly accompany us
+        Premise: it is wise advice which you have hard study to success on exam
+
+    No arguments attacks Claim T18
+
+    Type: Claim T20
+    Text: The most fortunate people in the word cannot manufacture an automobile or build a high tower just by her or his chance
+    Supporting Claim T20
+
+        Premise: such people do work hard and have great experiences because of their hard works
+        Premise: These plans is done by someone who is mastered in his/her work
+        Premise: you have to work hard to learn and to get a lot of information before doing a project in good way
+
+    No arguments attacks Claim T20
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: luck is one factor in reaching goal
+    Supporting Claim T2
+
+
+    Attacking Claim T2
+        Premise: its impact is extraneous and we must not reckon on luck in our plans
+
+

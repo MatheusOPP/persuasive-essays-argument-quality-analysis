@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: every human being has the right to live and no authority is empowered to deprive one of life
+supporting Claim T4:
+
+----Premise T8: it could put the criminal's family through hardship while the pain of the victim's kin is never to be consoled
+----Premise T7: execution does not resolve the consequences of crime
+
+attacking Claim T4:
+----Premise T5: what criminals cause to the society, specifically to the victims, is indeed significantly offensive
+----supporting Premise T5:
+
+----attacking Premise T5:
+--------Premise T6: they are humans and their lives need to be valued
+
+

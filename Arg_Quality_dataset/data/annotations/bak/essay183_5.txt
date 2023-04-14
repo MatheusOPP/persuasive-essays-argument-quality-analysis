@@ -1,0 +1,8 @@
+Type: Claim T11
+Text: communication between family members is visibly destroyed
+Supporting Claim T11
+
+    Premise: parents are not able to function their parental care as the necessary thing to children
+
+No arguments attacks Claim T11
+

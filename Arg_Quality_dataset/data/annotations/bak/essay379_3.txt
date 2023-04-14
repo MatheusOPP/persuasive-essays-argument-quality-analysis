@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: people tend to choose high salary jobs so as to not only help themselves but also support partially or wholly their family's living needs such as food , clothes, accommodation, education, medication
+Supporting Claim T6
+
+    Premise: money is very essential in order to meet human' basic needs
+    Premise: people who are woking in art or painting industries, for example, will find it quite difficult to live comfortably and enjoyably
+
+No arguments attacks Claim T6
+

@@ -1,0 +1,61 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: smoking should not be permitted, especially in public places like restaurants
+supporting MajorClaim T1:
+
+----Claim T2: it will make the non-smokers breathe uncomfortably
+----type: Claim T3
+----text: Smoking in restaurants will absolutely disturb other people in enjoying their meals
+----supporting Claim T3:
+
+--------Premise T4: restaurants are places where people come and pay some money to enjoy their meals
+--------Premise T5: They will not be able to enjoy their meals while breathing in smoke around them
+
+----no arguments attacks Claim T3
+
+----type: Claim T6
+----text: Smoking in restaurants can give a bad example to the children
+----supporting Claim T6:
+
+--------Premise T7: restaurants are places that people usually come with their families
+--------Premise T8: there will be children, grandparents, as well as pregnant women inside the restaurants
+--------Premise T9: Children have a high potential to imitate what adults do
+--------supporting Premise T9:
+------------Premise T10: they have really high curiosity towards something
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T11
+----text: Smoking in restaurants also can affect the elders' health, especially if they have problems with their hearts and lungs
+----supporting Claim T11:
+
+--------Premise T12: The most dangerous people that would be affected by smoke are the pregnant women
+--------supporting Premise T12:
+------------Premise T13: they will breathe in the contaminated air and it will disrupt the growth of the babies
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T11
+
+----type: Claim T14
+----text: it is unfair for passive smokers
+----supporting Claim T14:
+
+--------Premise T15: they do not smoke but they have same health risks as the active one
+--------Premise T18: Stroke, heart disorders, hearing loss, and cancers are some diseases that can attack passive smokers
+--------Premise T17: When they are around the active smokers, they will inhale hazardous smoke
+--------Premise T16: passive smokers will have a lot of health risks
+
+----no arguments attacks Claim T14
+
+----Claim T20: there will be a lot of people get disadvantaged
+
+no arguments attacks MajorClaim T1
+

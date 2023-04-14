@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: to find a job in a large company is way more easier than to find a job in a small company
+supporting Claim T5:
+
+----Premise T4: Large company equals more job opportunity
+----Premise T6: Large companies always look for new skilled employees to fill in their need of distributing, managing and selling their products in different countries
+----Premise T7: if a large company decides to open a branch in a foreign country, they would need more employees in that country to work there
+
+no arguments attacks Claim T5
+

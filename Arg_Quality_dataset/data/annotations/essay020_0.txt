@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: more responsibilities should put on private individuals and companies such as paying to clean up air pollution
+supporting MajorClaim T1:
+
+----Claim T3: governments are responsible to provide a healthy environment for their inhabitants and they should be responsible from cleaning up the air pollution
+----type: Claim T4
+----text: If these companies were obliged to pay to clean up the air pollution, they would at least make an effort to reduce the amount of air pollution they cause
+----supporting Claim T4:
+
+--------Premise T7: While these companies make a huge amount of money from their businesses, most of them are not considering to take precautions to reduce the amount of air pollution
+--------Premise T6: The waste products and harmful gases produced by these factories cause a significant amount of air pollution
+--------Premise T5: in most industrialized countries, there is a number of companies that holds heavy factories in their constitutions
+
+----no arguments attacks Claim T4
+
+----type: Claim T8
+----text: by charging private individuals for causing air pollution, that will at least contribute to reduce the amount of the pollution
+----supporting Claim T8:
+
+--------Premise T11: some expensive vehicles cause a huge amount of pollution
+--------Premise T10: As house heating is a major need in the winter time, some households do not consider to use filters to reduce the amount of pollution that the heating causes
+--------Premise T9: private individuals cause air pollution in several ways such as inessential use of cars and house heating
+
+----no arguments attacks Claim T8
+
+----Claim T12: governments should restrict the use of products that cause air pollution for both individuals and companies
+----Claim T13: Governments also should use an amount of money from their budgets to clean up the air, instead of putting all the responsibility to companies and private individuals
+
+no arguments attacks MajorClaim T1
+

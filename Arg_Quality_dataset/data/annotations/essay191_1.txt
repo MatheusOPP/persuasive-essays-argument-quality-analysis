@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: When pupils make a group for studying, all member of group have the same chance to help each other
+supporting Claim T3:
+
+----Premise T4: They can work together for understanding the complicated aspect of a course
+----Premise T5: when a group faces with complex math problem, they can share their opinions to solve it
+----Premise T6: such a remarkable effect has incorporation that all students can improve their weak points in a group
+
+no arguments attacks Claim T3
+

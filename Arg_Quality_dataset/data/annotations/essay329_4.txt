@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: it is vital to never give up on your dream
+supporting Claim T11:
+
+----Premise T12: Walt Disney, whose career is famous, had a challenging life
+----Premise T13: One of the difficulties was some of his histories, such as Mickey Mouse and Three Little Pigs, were turned down
+----Premise T16: He heard lots of "no", furthermore one editor fired him alleging that he had no imagination, after all what he had gone through, he never stop chasing his dreams
+
+attacking Claim T11:
+----Premise T15: It is possible to get frustrate along the way
+----Premise T14: many people are afraid to take risks and fail
+

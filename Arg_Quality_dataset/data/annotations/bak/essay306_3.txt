@@ -1,0 +1,9 @@
+Type: Claim T9
+Text: technology also makes teaching simpler
+Supporting Claim T9
+
+    Premise: In the past, teachers have to write what they want to convey to students on the chalkboard, resulting in a great waste of time and the fatigue of teachers
+    Premise: With the advent of iPads in e-learning, paper books become unnecessary, so does the blackboards
+
+No arguments attacks Claim T9
+

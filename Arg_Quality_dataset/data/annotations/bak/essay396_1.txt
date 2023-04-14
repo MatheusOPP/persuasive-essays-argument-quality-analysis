@@ -1,0 +1,26 @@
+Type: MajorClaim T2
+Text: both arts and public services are important to the community and should be invested properly
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: indispensable public services like hospital and school worth every penny investing
+    Supporting Claim T3
+
+        Premise: Investing in hospitals helps improve people's health, also, in schools assists with raising our children's education level
+        Premise: if these facilities were not spent adequately, our standard of living would deteriorate
+
+    No arguments attacks Claim T3
+
+    Type: Claim T9
+    Text: our standard of living also depend on another factor - spiritual life which is related closely with arts
+    Supporting Claim T9
+
+        Premise: Arts include many forms and music as well as cinema are the most typical
+        Premise: These two art forms not only provide the public with entertainment but also contribute significantly to the economy
+        Premise: The income of film and music industries produce millions of dollars each year for the Goverment, for instance K-pop and Hollywood, and these industries can not survive without goverment's financial assistance
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T2
+

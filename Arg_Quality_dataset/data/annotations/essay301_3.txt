@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: one who learns the great difficulty will become stronger
+supporting Claim T11:
+
+----Premise T7: I remembered how I was suffered in the first round when I was last person who touched the line
+----Premise T8: I did not give up, and believed that I would be better in the next round
+----supporting Premise T8:
+--------Premise T9: I knew how to improve myself
+
+----no arguments attacks Premise T8
+
+----Premise T10: I had been a loser for a thousand time before the first winning, and suffering from losing in each competition makes me stronger
+
+no arguments attacks Claim T11
+

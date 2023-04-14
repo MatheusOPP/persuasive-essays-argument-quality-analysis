@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: we must give them opportunity to achieve their goal
+supporting Claim T2:
+
+----Premise T4: They are not ready to be bound in certain limitations
+----Premise T5: Female candidates also do not care about any restriction posed by the society and the employer
+----Premise T3: Our youth has become very confident towards his career
+
+no arguments attacks Claim T2
+

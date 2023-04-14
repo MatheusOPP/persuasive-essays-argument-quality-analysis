@@ -1,0 +1,26 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: it should have more alternatives to use public transportation, such as a subway train or a sky train
+supporting Claim T12:
+
+----Premise T6: It makes people in this area have no choice
+----supporting Premise T6:
+--------Premise T5: now buses are only a kind of public transportation in this community
+--------Premise T7: They must take only a bus to go to another place
+
+----no arguments attacks Premise T6
+
+----Premise T8: If a subway and a sky train are available here, it will be more convenience to them
+----supporting Premise T8:
+--------Premise T9: people can estimate time from taking a subway train due to the train schedule
+--------Premise T10: On the contrary they cannot do so in case of a bus
+
+----no arguments attacks Premise T8
+
+----Premise T4: people will have more ways to go to a place
+
+no arguments attacks Claim T12
+

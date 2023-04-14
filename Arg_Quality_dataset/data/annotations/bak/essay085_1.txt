@@ -1,0 +1,45 @@
+Type: MajorClaim T2
+Text: CCTV cameras are essential and therefore must be installed in every premise
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: This is chiefly to shield oneself from being harmed by any intruders or robbers
+    Supporting Claim T3
+
+
+    Attacking Claim T3
+        Premise: privacies are lost with the use of these cameras
+
+    Type: Claim T6
+    Text: CCTVs must be put in all workplace so that crime rates can be minimized
+    Supporting Claim T6
+
+        Premise: as the employees know that they are under constant surveillance, they will less likely steal from the shops
+        Premise: in Malaysia, policemen used the videos captured by the CCTV cameras to trace and successfully catch a group of robbers who broke into a Seven Eleven shop during the midnight
+        Premise: when a shop is attacked by thieves, the clips taken by these cameras serve as a source of evidence to help the thieves to be traced
+        Premise: by having CCTV cameras at workplace, crimes such as robbery can be trimmed down
+
+    No arguments attacks Claim T6
+
+    Type: Claim T12
+    Text: these cameras can help to provide some form of protection to the workers against the customers
+    Supporting Claim T12
+
+        Premise: the installation of CCTV cameras may help the employees escape this situation
+        Premise: at some offices, employees are often required to handle angry or frustrated customers
+        Premise: the videotapes can used to determine what actually took place and further actions can be then taken
+
+    No arguments attacks Claim T12
+
+
+Attacking MajorClaim T2
+    Type: Claim T16
+    Text: Those opposing the CCTV systems feel that their privacies are invaded with the constant monitoring of the cameras
+    Supporting Claim T16
+
+        Premise: one must realize that safety is of paramount importance compared to privacy and prevention is always better than suffering from the consequences
+        Premise: opponents of this system should try to comprehend the situation and take actions to prevent themselves from being victims of crime
+
+    No arguments attacks Claim T16
+
+

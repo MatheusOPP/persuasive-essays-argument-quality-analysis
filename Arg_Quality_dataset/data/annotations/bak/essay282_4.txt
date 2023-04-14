@@ -1,0 +1,21 @@
+Type: MajorClaim T15
+Text: listening to music, exercising, and doing meditation are the most activities that people could do to escape from stress
+Supporting MajorClaim T15
+
+    Type: Claim T16
+    Text: It is are easy and usable
+    Supporting Claim T16
+
+
+    No arguments attacks Claim T16
+
+    Type: Claim T17
+    Text: And everyone should find the time to do more and more to feel better physically and in everyone mind
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T15
+

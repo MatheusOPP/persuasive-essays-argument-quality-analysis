@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: the disgusting smoke will severely affect their appetite, or, in other words, spoil their meals and make them an unpleasant experience
+supporting Claim T6:
+
+----Premise T13: The smoke exhaled from the smoker often makes other people feel uncomfortable or disgusted, thus affecting their mood in having their meals
+----Premise T14: This, on the other hand, can indirectly decrease the restaurants' popularity
+----supporting Premise T14:
+--------Premise T15: fewer people are willing to consume there due to their unpleasant experiences
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T6
+

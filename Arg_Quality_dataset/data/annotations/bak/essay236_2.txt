@@ -1,0 +1,13 @@
+Type: Claim T3
+Text: he or she could push him/herself forward all the time
+Supporting Claim T3
+
+    Premise: He or she should always keep the passion in her field
+    Premise: A professor means a researcher or an expert of a specific science subject
+    Premise: he or she can do better in teaching works
+    Premise: the most impressive professor during my studying in university is Mr. Yang who keeps in researching and reading
+    Premise: He is also the one who gave us inspiration and taught us the way to study more efficient by ourselves
+    Premise: All of my classmates gave him a rank of AAA, the excellent teacher
+
+No arguments attacks Claim T3
+

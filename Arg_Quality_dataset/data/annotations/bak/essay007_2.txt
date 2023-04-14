@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: the number of people reading newspapers may continue falling sharply, possibly leading to the close-downs of many in the coming time
+Supporting Claim T6
+
+    Premise: The answer, perhaps, is that hardly would rational people do so
+    Premise: the internet service is being provided at a low cost or even free in many countries
+    Premise: from the economic aspect, buying newspapers appears to be a waste of money when the internet becomes available for every one
+
+No arguments attacks Claim T6
+

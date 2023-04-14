@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: class attendances are regarded as critical as examination performances
+supporting Claim T7:
+
+----Premise T10: Attending class is the most persuasive way for the students to show respect to the professor as well as themselves
+----Premise T11: it's students' basic responsibility to attend class
+----Premise T9: Many professors grade their students with class attendances
+----Premise T8: Those who even achieve high scores on exams could fail if they didn't show up in the classes
+
+no arguments attacks Claim T7
+

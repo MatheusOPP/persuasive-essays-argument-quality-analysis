@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: The most obvious merit is that tourism can vastly boost economic development in a particular state or region
+supporting Claim T4:
+
+----Premise T5: This takes place, not only through direct expenditure from tourists, but also because it provides direct and indirect jobs to the community, including retail, agriculture, and in the service industry
+----Premise T6: The increasing tax and the expansion of local markets for accommodation, luxury goods amongst others are also a result of a solid, well-regulated tourism programs
+----Premise T7: tourism provides a considerable number of direct and indirect jobs to the community, including retail, hotels, transport, agriculture, and in the service industry
+----Premise T8: This increase of job opportunities allows more people to make significant contribution to society through the purchasing of commodities by their growing incomes
+----Premise T9: this gives energy to the economic cycle, generating local economic prosperity in return
+
+no arguments attacks Claim T4
+

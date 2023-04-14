@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: health improvement is the main reason for vegetarian diet to become so popular
+supporting Claim T7:
+
+----Premise T3: Many researchers have convinced that many kinds of vegetable contain antioxydant which can prevent cancer
+----Premise T4: a vegetable diet can do good for our health
+
+attacking Claim T7:
+----Premise T5: a meal without meat can lead to a lack of protein intake
+----supporting Premise T5:
+
+----attacking Premise T5:
+--------Premise T6: it is proved that many kinds of bean such as soy bean or pea are also comparable protein sources
+
+

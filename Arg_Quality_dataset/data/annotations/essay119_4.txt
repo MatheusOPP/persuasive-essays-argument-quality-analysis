@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: it cannot give as an in-depth explanation as a human teacher can
+supporting Claim T8:
+
+----Premise T9: Through face-to-face communication, teachers can also pinpoint the weaknesses of each student and therefore, adjusting and tailoring his or her teaching methodology to meet the levels or the demands of those students
+----Premise T10: This is where the computer proves to be incompetent
+
+attacking Claim T8:
+----Premise T7: the computer can show whether an answer to a particular question is right or wrong
+

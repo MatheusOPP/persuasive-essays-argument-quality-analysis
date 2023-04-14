@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: the basic economic course can also help with the students when they go to college
+supporting Claim T12:
+
+----Premise T13: They may feel more readily to learn the knowledge in this field and save much time, with that they are able to study more efficiently and more deeply than other students
+----Premise T3: That as well would provide the students with more confidence and let them become more compatible
+
+no arguments attacks Claim T12
+

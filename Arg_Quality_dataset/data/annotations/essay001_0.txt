@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: we should attach more importance to cooperation during primary education
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: through cooperation, children can learn about interpersonal skills which are significant in the future life of all students
+----supporting Claim T3:
+
+--------Premise T4: What we acquired from team work is not only how to achieve the same goal with others but more importantly, how to get along with others
+--------Premise T5: During the process of cooperation, children can learn about how to listen to opinions of others, how to communicate with others, how to think comprehensively, and even how to compromise with other team members when conflicts occurred
+--------Premise T6: All of these skills help them to get on well with other people and will benefit them for the whole life
+
+----no arguments attacks Claim T3
+
+----type: Claim T11
+----text: without the cooperation, there would be no victory of competition
+----supporting Claim T11:
+
+--------Premise T10: Take Olympic games which is a form of competition for instance, it is hard to imagine how an athlete could win the game without the training of his or her coach, and the help of other professional staffs such as the people who take care of his diet, and those who are in charge of the medical care
+--------Premise T9: when we consider about the question that how to win the game, we always find that we need the cooperation
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----type: Claim T7
+----text: competition makes the society more effective
+----supporting Claim T7:
+
+--------Premise T8: the significance of competition is that how to become more excellence to gain the victory
+
+----no arguments attacks Claim T7
+
+

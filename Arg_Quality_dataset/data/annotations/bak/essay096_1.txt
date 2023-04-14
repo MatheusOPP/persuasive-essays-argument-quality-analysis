@@ -1,0 +1,42 @@
+Type: MajorClaim T2
+Text: the current way of the juries judging the case should be transformed and they should know the facts about the criminals they are dealing with
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: they will be able to give a better and reliable as well as a fair judgment to the convicted
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: it would be easier for the juries to make a decision if they know about the past information about the criminal
+    Supporting Claim T4
+
+        Premise: knowing their background very well will enable the juries to analyze the crime before coming up with a judgment
+        Premise: punishment can be given in accordance to the condition
+
+    No arguments attacks Claim T4
+
+    Type: Claim T11
+    Text: the convicted will also receive a fair action
+    Supporting Claim T11
+
+        Premise: exposing them to the past records of the criminal can give them more room to think rationally and finally put the pieces together in order to produce a more meaningful decision
+        Premise: the juries will have a sense of relief that they have come up with better conclusion based on plenty of evidences
+        Premise: a fair trial can be achieved
+
+    No arguments attacks Claim T11
+
+
+Attacking MajorClaim T2
+    Type: Claim T14
+    Text: when the background of the convicted is 'dug' deeper and is revealed to mass of anonymous people, his privacy is being jeopardized
+    Supporting Claim T14
+
+        Premise: If finally he is proven innocent, he may feel embarrassed to face the public
+
+    Attacking Claim T14
+        Premise: the crimes done by criminals should be brought to light and the public should be aware of it so that they will not become a victim as well
+
+

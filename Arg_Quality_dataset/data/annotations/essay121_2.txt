@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: if there is not any control on the businesses and they are permitted to do everything they want, they will threaten the beings' life such as human, animals and plants
+supporting Claim T3:
+
+----Premise T4: As every day we read and hear in televisions and newspapers that some factories hit the environment by their toxic substances
+
+no arguments attacks Claim T3
+

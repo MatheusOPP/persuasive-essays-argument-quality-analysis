@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: humanities benefit so much from zoos
+supporting Claim T8:
+
+----Premise T3: zoos are fascinating places of entertainment
+----supporting Premise T3:
+--------Premise T4: the very nature and wildness are all brought into zoos and spending time there help us to forget all stress as well as pressure
+
+----no arguments attacks Premise T3
+
+----Premise T5: all zoos serve relates to education
+----supporting Premise T5:
+--------Premise T6: Many students as well as people find zoos as good places for witnessing and researching the true animal world
+
+----no arguments attacks Premise T5
+
+----Premise T7: some zoos are also reservation sites of many animals that are about to become extinct
+
+no arguments attacks Claim T8
+

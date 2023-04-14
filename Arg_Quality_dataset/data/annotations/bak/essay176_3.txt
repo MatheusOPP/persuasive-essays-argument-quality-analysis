@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: a local museum could be a top choice and destination for tourist to visit
+Supporting Claim T10
+
+    Premise: a local museum represent its own typical culture so that visitors may easily acquaint with the new place in a short time
+    Premise: visiting a museum saves their precious time for making a decision
+
+No arguments attacks Claim T10
+

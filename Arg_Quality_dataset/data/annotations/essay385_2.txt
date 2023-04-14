@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: there are some reason why the level of bloody increases significantly in the communities
+supporting Claim T11:
+
+----Premise T7: the number of unemployment rate has risen to 15 percent in several globalized and non-globalized countries
+----supporting Premise T7:
+--------Premise T8: Many well-qualified and well-educated person cannot earn some money to live comfortably
+
+----no arguments attacks Premise T7
+
+----Premise T9: cost of living in the big city is extremely expensive, so this problem impresses some people who live under the poverty line to do anything to pay their basic needs
+----supporting Premise T9:
+--------Premise T10: Many baggers chose to be a pickpocket in the public transport, for instance
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T11
+

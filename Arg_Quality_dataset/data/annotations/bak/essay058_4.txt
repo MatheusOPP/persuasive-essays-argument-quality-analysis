@@ -1,0 +1,10 @@
+Type: Claim T18
+Text: Competition should be always based on self-improvement rule
+Supporting Claim T18
+
+    Premise: 'Your loss, my gain' kind of competition can never be fruitful in the long run
+    Premise: A healthy competition which involves raising one's own level above others is the best approach
+    Premise: blind and selfish competition is detrimental
+
+No arguments attacks Claim T18
+

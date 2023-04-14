@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: children and adolescents who is not economic independence is more possible to buy things impulsively without considering whether they need it or not
+supporting Claim T14:
+
+----Premise T15: they do not have financial pressure from life and ability to define what is necessary
+
+no arguments attacks Claim T14
+

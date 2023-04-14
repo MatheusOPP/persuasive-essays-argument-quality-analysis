@@ -1,0 +1,58 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the Internet will pave way for a more accessible and convenient learning
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: the Internet is an adequate source of academic information, which will potentially fulfill the needs of university pupils
+----supporting Claim T3:
+
+--------Premise T5: the Internet has grown to become the largest virtual library ever
+--------supporting Premise T5:
+------------Premise T4: Nowadays, not only are lectures available online, it is also applicable to find reference e-books as well as multi-aspect documents on the cyberspace
+
+--------no arguments attacks Premise T5
+
+--------Premise T6: with the use of the Internet, distance and time seem to be no more a hindrance
+--------supporting Premise T6:
+------------Premise T7: College students can save their time browsing for necessary information through the web instead of spending hours wandering in bookstores or libraries
+
+--------no arguments attacks Premise T6
+
+--------Premise T8: the Internet offers a more effective and practical method of studying
+--------supporting Premise T8:
+------------Premise T9: While virtual flowcharts and animations may simplify complicated scientific processes, Google and Wikipedia are always accessible for detailed responses to every query
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T3
+
+----type: Claim T10
+----text: the Internet will become an indispensable part in academic training
+----supporting Claim T10:
+
+--------Premise T12: Have you ever imagined what it would be like to stay at home and attend a lecture by a famous speaker in Finland simultaneously
+--------Premise T11: This fairy tale turns out to be true thanks to technical and internet advances
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----type: Claim T13
+----text: the Internet have several drawbacks which can affect the education system negatively, for instance internet abuse and black webs
+----supporting Claim T13:
+
+
+----attacking Claim T13:
+--------Premise T15: what we are to do is a change in learners' attitude not an elimination of the Internet from academic study
+--------supporting Premise T15:
+------------Premise T14: these problems are mainly triggered by students' wrong approach towards the Internet not the Internet itself
+
+--------no arguments attacks Premise T15
+
+
+

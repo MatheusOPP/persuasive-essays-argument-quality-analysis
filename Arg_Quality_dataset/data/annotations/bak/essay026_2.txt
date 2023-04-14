@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: easy-to-cook foods sometimes could be dangerous for human's health
+Supporting Claim T5
+
+    Premise: ingredients being added have caused dire consequences
+    Premise: to make their food easier to prepare and taste delicious, almost every producer adds a wide range of artificial ingredients in to the food that is now purchased by most people
+
+No arguments attacks Claim T5
+

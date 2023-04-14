@@ -1,0 +1,9 @@
+Type: Claim T2
+Text: job can bring us happiness
+Supporting Claim T2
+
+    Premise: People can receive a sense of values and respected from job
+    Premise: If people receive respect from others, they will feel achievement and self-confidence
+
+No arguments attacks Claim T2
+

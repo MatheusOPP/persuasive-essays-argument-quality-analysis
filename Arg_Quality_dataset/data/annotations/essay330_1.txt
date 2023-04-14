@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: In personal live, we have some responsibilities towards to other people, there is nobody who likes all of these responsibilities
+supporting Claim T5:
+
+----Premise T6: most people's lives are filled with tasks that they don't enjoy doing
+----Premise T3: housework is very difficult for me, although my husband helps me some of them, but it is my responsibility
+----Premise T4: I really don't like any of them, however I should do
+
+no arguments attacks Claim T5
+

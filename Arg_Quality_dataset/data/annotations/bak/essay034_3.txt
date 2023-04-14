@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: they have more opprotunities to find a job and to be successful in the future
+Supporting Claim T6
+
+    Premise: employer always prefer to hire an employee of high degree who have professional skills
+    Premise: schools offer to students a good environment with experienced professors and high quality programs for studying
+    Premise: schools provide lots of academic knowledge to students
+
+No arguments attacks Claim T6
+

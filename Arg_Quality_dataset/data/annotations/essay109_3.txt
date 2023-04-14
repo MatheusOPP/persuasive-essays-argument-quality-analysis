@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: the government should disclose the information to the media in a timely manner, especially for disasters and outbreak of new diseases
+supporting Claim T9:
+
+----Premise T10: Taking the SARS in 2003 as an example, the Chinese government limited the amount of information for public access which therefore causes numerous deaths
+
+attacking Claim T9:
+----Premise T11: another perspective on this is to prevent the citizen from unnecessary fear and unrest
+

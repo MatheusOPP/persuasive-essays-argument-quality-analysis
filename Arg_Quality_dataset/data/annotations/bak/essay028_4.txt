@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: advertising alcohol, cigarettes, goods and services with adult content should be prohibited
+Supporting Claim T5
+
+    Premise: these kind of ads will have negative effect to our children
+    Premise: Youngsters might be tempted to buy cigarettes or alcohol and later to start consume it on a daily basis
+    Premise: some countries take this issue seriously and advertising alcohol, cigarettes and materials with adult content is banned on those countries
+
+No arguments attacks Claim T5
+

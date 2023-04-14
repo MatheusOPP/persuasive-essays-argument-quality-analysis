@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: governments spend more money on buses, trains, and subways investment
+supporting MajorClaim T3:
+
+----type: Claim T4
+----text: they help alleviate traffic congestion and decrease the amount of carbon released into the air
+----supporting Claim T4:
+
+--------Premise T5: Such public vehicles are used to serve a large number of people in society
+
+----no arguments attacks Claim T4
+
+----type: Claim T1
+----text: the policy that concentrates money on developing public transportation brings an advantageous impact on earth
+----supporting Claim T1:
+
+--------Premise T2: if there are more good buses, trains, or subways, people are inclined to use less private vehicles, which decreases the amount of carbon released
+
+----no arguments attacks Claim T1
+
+----type: Claim T9
+----text: This is sure to lead to more carbon emitted into the atmosphere, which can cause skin cancer and destroy the natural environment
+----supporting Claim T9:
+
+--------Premise T8: If governments use more money to improve roads, there is a strong likelihood that more people drive their private cars work
+--------Premise T6: carbon emission cut is significantly essential for protecting the atmosphere
+--------Premise T7: the more cars and motorbikes are on roads, the more seriously the ozone layer is damaged
+
+----no arguments attacks Claim T9
+
+----Claim T17: They not only ease traffic jam but also protect the atmosphere
+----type: Claim T12
+----text: governments have to turn people' attention on public vehicles to reduce cars and motorbikes
+----supporting Claim T12:
+
+--------Premise T13: There is the possibility that improving roads and highways does not seem to reach the major cause of traffic congestion
+--------Premise T11: It is quiet clear that traffic congestion is a serious problem in many big cities
+--------Premise T10: there are a great number of vehicles flowing on roads
+--------Premise T14: the policy would play a pivotal part in relieving traffic jam
+
+----no arguments attacks Claim T12
+
+
+attacking MajorClaim T3:
+----Claim T15: high-quality roads and highways make it easier to move around
+

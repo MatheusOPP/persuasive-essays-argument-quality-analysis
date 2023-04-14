@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: the government should try to preserve minority languages
+supporting Claim T10:
+
+----Premise T15: saving the use of that kinds of languages in this case generally is the most important element of the cultural diversity's preservation
+----supporting Premise T15:
+--------Premise T14: language is one of the essential factors creating the differences and unique cutures in the world
+
+----no arguments attacks Premise T15
+
+----Premise T13: it deserves to be respected and preserved
+----supporting Premise T13:
+--------Premise T12: forming a language must be undergone thousands of years
+
+----no arguments attacks Premise T13
+
+----Premise T11: language can be seen as much more than just one method of communication
+
+no arguments attacks Claim T10
+

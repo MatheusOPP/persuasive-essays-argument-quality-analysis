@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things
+supporting Claim T18:
+
+----Premise T17: Knowledge is the base of creativity
+----Premise T15: they will be able to learn about different cultures and different ways of thinking
+----supporting Premise T15:
+--------Premise T16: with highly advanced technology, children are able to get information from foreign countries and even communicate with foreign friends
+
+----no arguments attacks Premise T15
+
+----Premise T14: In the past, children were only able to see things from one perspective
+----Premise T7: technology widen children's knowledge
+
+no arguments attacks Claim T18
+

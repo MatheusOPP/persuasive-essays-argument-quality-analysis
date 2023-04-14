@@ -1,0 +1,56 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the artists must be given freedom so that they will produce some really marvelous masterpiece
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: there are many wonderful and beautiful Arts due to the freedom to express ideas
+----supporting Claim T3:
+
+--------Premise T5: Allowing them to think freely will give them an opportunity to express themselves
+--------supporting Premise T5:
+------------Premise T6: ideas can naturally flow when there are no limitations
+
+--------no arguments attacks Premise T5
+
+
+----attacking Claim T3:
+--------Premise T7: even though freedom to express ideas can bring some negative effects
+
+----type: Claim T8
+----text: without any limitations, there will be more awe inspiring work from our artists
+----supporting Claim T8:
+
+--------Premise T10: when they are given the opportunity to express themselves, most artists will think out of the box and come up with spectacular Arts such as paintings or movies
+--------Premise T11: paintings by Da Vinci and Michallengo are admired even till now as they were not restricted during those times
+--------Premise T9: if there is control over artists' ideas, they will definitely lose their sense of creativity in the long run
+
+----no arguments attacks Claim T8
+
+----type: Claim T13
+----text: human rights is violated if artists are not allowed to express their feelings freely
+----supporting Claim T13:
+
+--------Premise T14: Today, many countries make numerous efforts to show that they are democratic countries
+--------Premise T15: Arts is one of the ways that can be used to criticise social problems and government policies in a particular country
+--------Premise T16: the famous movie '3 Idiots' acted by Amir Khan criticises the education system which is chiefly based on memorising and not being able to apply whatever the students learn
+--------Premise T12: it is every human's right to be able to voice out their opinions in any ways as long as they do not cause any problems to the nation
+
+----no arguments attacks Claim T13
+
+
+attacking MajorClaim T1:
+----type: Claim T17
+----text: In case there is anyone who brings up some sensitive issues in their films or books regarding any races, this might end up in some chaos among the society
+----supporting Claim T17:
+
+--------Premise T20: Malaysia is a multiracial country whereby all the citizens live together in harmony and peace
+--------Premise T19: They might go deeper into certain aspects that can cause controversies in a country
+--------Premise T18: artists know their boundaries very well and would surely do not want their names tarnished just because of their unscrupulous acts
+
+----no arguments attacks Claim T17
+
+

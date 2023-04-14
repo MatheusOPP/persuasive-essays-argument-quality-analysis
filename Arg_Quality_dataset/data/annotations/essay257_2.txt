@@ -1,0 +1,32 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: famous people are usually diligent people not lucky people
+supporting Claim T6:
+
+----Premise T8: when you work hard you decrease portion of chance in your success
+----Premise T7: Hard work make you a professional man/woman which are powerful in his or her job
+----Premise T9: in football game it is said that penalty-kick need good chance to be goal
+----supporting Premise T9:
+--------Premise T10: Statically the chance of being goal is fifty-fifty
+
+----attacking Premise T9:
+--------Premise T11: But I think Ronaldo make a goal from a penalty-kick with more possibility than me
+--------Premise T12: It is not for which Ronaldo is more fortune than me
+--------supporting Premise T12:
+------------Premise T13: Definitely it is for which he have more practice and exercise than me
+------------Premise T5: it is not for which he is luckier than me
+------------supporting Premise T5:
+----------------Premise T4: He do a lot of exercise in football field every day
+
+------------no arguments attacks Premise T5
+
+
+--------no arguments attacks Premise T12
+
+
+
+no arguments attacks Claim T6
+

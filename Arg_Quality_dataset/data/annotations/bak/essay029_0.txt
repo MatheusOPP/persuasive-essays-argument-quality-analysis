@@ -1,0 +1,24 @@
+Type: MajorClaim T1
+Text: married women nowadays have right to take up jobs like men when employment discrimination based on gender have been erased significantly
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: Working outside home will bring a lot of benefits to both married woman and their household
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: it is a normal practice for women to be helpmates in earning money
+    Supporting Claim T3
+
+        Premise: This is really necessary in cases of her husband's low salary and the difficulty of getting a good job at the present
+        Premise: By taking up a job, a wife can earn more money to support her family life
+        Premise: extra income that women earn will contribute to their family's expenses
+
+    No arguments attacks Claim T3
+
+
+No arguments attacks MajorClaim T1
+

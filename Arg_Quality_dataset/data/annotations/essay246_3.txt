@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: hasty decisions, not only goes to waste, but also, could affect the entire life of the person
+supporting Claim T9:
+
+----Premise T11: his life had taken a turn to the worst
+----supporting Premise T11:
+--------Premise T10: To put it differently, is that after this person has quit his job and became unemployed, he can no longer pay his bills nor buy what he needs for his everyday needs
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T9
+

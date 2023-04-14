@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: governments should certainly spend money on the public transportation system
+supporting MajorClaim T1:
+
+----Claim T2: it would deal with problems that the rising number of private cars is creating
+----type: Claim T3
+----text: the using of public transportation reduces the amount of resources using on transportation
+----supporting Claim T3:
+
+--------Premise T4: the more cars we use means that the faster gasoline in this world is used up
+--------supporting Premise T4:
+------------Premise T5: Cars depend on gasoline, which is a non-renewable resource
+
+--------no arguments attacks Premise T4
+
+--------Premise T6: if the public transportation is efficiently used, the amount of gasoline consuming per person will be much lower
+--------Premise T7: this definitely helps to reserve our invaluable natural resource, gasoline
+
+----no arguments attacks Claim T3
+
+----type: Claim T8
+----text: public transportation helps to solve the air pollution problems
+----supporting Claim T8:
+
+--------Premise T9: public transports use much less gasoline to carry people than private cars
+--------Premise T10: It means that by using public transports, the less gas exhaust is pumped to the air and people will no longer have to bear the stuffy situation on the roads, which is always full of fumes
+
+----no arguments attacks Claim T8
+
+----type: Claim T13
+----text: there is no reason that governments should hesitate to invest in public transportation, a healthy, safe and economical way of transporting
+----supporting Claim T13:
+
+--------Premise T12: According to National Safety Council, riding the bus is over 170 times safer than private care
+--------Premise T11: using public transportation is much safer than private transportation
+
+----no arguments attacks Claim T13
+
+----Claim T15: it is the key to protect our world, creating a healthy and safe environment for people to live in
+
+no arguments attacks MajorClaim T1
+

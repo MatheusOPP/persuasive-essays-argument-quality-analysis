@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: arts are supposed to be included in the government's investment as well
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: public services and facilities should be given adequate attention by the authorities to maintain social stability
+----supporting Claim T5:
+
+--------Premise T7: public services such as education system or medical care can meet people's basic demand of survival, security and knowledge, thus making them feel comfortable, which can lower the crime rate
+--------Premise T6: the government plays the role of a leader among citizens, which should discharge the responsibility of making optimal use of the tax money to keep society safe and stable
+--------Premise T4: the government should give priority to public services and facilities
+
+----no arguments attacks Claim T5
+
+----type: Claim T8
+----text: arts should by no means been disregarded by the government
+----supporting Claim T8:
+
+--------Premise T11: they require various entertainment such as music, movies or books to them ease their minds and release pressure
+--------supporting Premise T11:
+------------Premise T10: Currently, people are increasingly occupied with their work and studies due to the stiff competition
+
+--------no arguments attacks Premise T11
+
+--------Premise T9: arts can enrich people's cultural lives
+--------Premise T12: Without arts, people would be at risk of suffering psychological problems
+
+----no arguments attacks Claim T8
+
+----type: Claim T13
+----text: funding arts is beneficial to the local cultural and economic development
+----supporting Claim T13:
+
+--------Premise T14: Cultural heritage constitutes an essential part of arts
+--------Premise T15: preserving local arts may promote the preservation of the local cultural heritage, which not only helps the local people have a sense of belonging but also contributes to the booming local tourism industry
+--------Premise T16: arts serve cultural and economic purposes
+
+----no arguments attacks Claim T13
+
+
+no arguments attacks MajorClaim T1
+

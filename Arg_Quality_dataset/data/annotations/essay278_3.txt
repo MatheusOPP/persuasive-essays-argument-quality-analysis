@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: social activities have same rights to receive monetary support
+supporting Claim T10:
+
+----Premise T14: social groups and classes are significant factors to prepare students to contribute in discussion and encounter real social environment
+----Premise T12: students should be prepared to present in society after their graduation
+----Premise T13: social activities can help them to be familiar with other's mind and different environment
+----Premise T11: besides the academic knowledge, the awareness of social behavior is an important factor for human's life
+
+no arguments attacks Claim T10
+

@@ -1,0 +1,12 @@
+Type: Claim T7
+Text: digital media will rule over paper and magazines
+Supporting Claim T7
+
+    Premise: A very important responsibility of media is to publish information about the current affairs as quickly as possible specially when there is a crisis
+    Premise: when the aircraft MH 370 went missing, everyone wanted to know the details about this tragic incident
+    Premise: The friends and families of passengers and crews were impatient to know the truth
+    Premise: In such situations, newspapers and magazines can not respond as fast as digital media
+    Premise: Instead of waiting for next publication, people can get trustworthy information about the current incidents from internet within an hour or two
+
+No arguments attacks Claim T7
+

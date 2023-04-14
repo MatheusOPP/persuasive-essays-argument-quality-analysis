@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: appearing in class makes students more conscientious
+supporting Claim T11:
+
+----Premise T8: they have to obey class’s disciplines and they practice to be more perseverance in the process of doing their assignments
+----Premise T10: they may miss some important parts in virtue of the chaotic and incoherent study
+----supporting Premise T10:
+--------Premise T9: the ones who choose to study at home do not have any discipline for their studies and cannot force themselves to study in particular times
+
+----no arguments attacks Premise T10
+
+
+no arguments attacks Claim T11
+

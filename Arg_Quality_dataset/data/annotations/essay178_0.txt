@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it is a good idea to build a large shopping center in our community
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: a large shopping mall provides a location for residents to pursue during their leisure time
+----supporting Claim T7:
+
+--------Premise T4: Queens Center Mall, a shopping mall located in Queens borough of New York City, provides a wide vairtey of stores, products and services, from clothing to electronics and restaurants, that consumers can choose
+--------Premise T5: it is one of the most productive malls in New York
+--------Premise T6: I could find virtually every brand or store, including Macy's and JCPenney, when I visited there
+--------Premise T3: the establishment of a large shopping center will provide the residents a more convenient place to go shopping
+
+----no arguments attacks Claim T7
+
+----type: Claim T8
+----text: it not only provides a place to shop but also offer people jobs
+----supporting Claim T8:
+
+--------Premise T9: There may be a great number of job vacancies in the need of opening the new stores in the shopping mall
+--------Premise T10: It could be an opportunity for people who are looking for a part-time job or a full time job
+--------Premise T11: Some students and retirees may work there in order to whiling away their free time and earning money
+
+----no arguments attacks Claim T8
+
+----type: Claim T2
+----text: it is more likely for us to buy goods in lower price in the shopping center, and save our time on the other hand
+----supporting Claim T2:
+
+--------Premise T12: There may be a competition between the new shopping center and other existing stores to attract the customers
+--------Premise T13: with sales promotion, it is easy for consumers to compare the price of the same merchandise before they buy
+--------Premise T14: the residents do not have a problem spending time on commute in the hope of setting up a shopping center near their homes
+
+----no arguments attacks Claim T2
+
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: too much news coverage to famous people seems to have a negative influence on the choice of children of their future professions
+supporting Claim T5:
+
+----Premise T6: As recent surveys showed, inspired by the fame and wealth, children now prefer more to become an actor/actress or a sports star than it was in the past
+----Premise T7: Many schools for preparation of so-called stars and various advertisements about famous people may mislead with the fact that this profession is highly required and easy reachable
+----Premise T8: This may confuse children who should not choose their future job because of the influence of the mass media, but from the basis of their own interests
+
+no arguments attacks Claim T5
+

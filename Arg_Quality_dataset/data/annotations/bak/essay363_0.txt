@@ -1,0 +1,44 @@
+Type: MajorClaim T1
+Text: using machines is advantageous
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: machines make work easy and smooth
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: The negative effects on health can be put on the back seat
+    Supporting Claim T3
+
+        Premise: there are many other ways to exercise and stay healthy
+
+    No arguments attacks Claim T3
+
+    Type: Claim T12
+    Text: using machines makes daily tasks less time consuming and less cumbersome
+    Supporting Claim T12
+
+        Premise: The work of chopping, blending, grating, kneading has become so easy that people can not imagine their lives without this simple machine at their homes
+        Premise: Take the example of use of food processors in kitchens
+        Premise: usage of machines makes work easier and less time is consumed for doing similar amount of work
+
+    No arguments attacks Claim T12
+
+
+Attacking MajorClaim T1
+    Type: Claim T5
+    Text: the usage of machines is harmful for health of humans
+    Supporting Claim T5
+
+        Premise: machines decrease the work done by people
+        Premise: in many institutions staircases are replaced by lifts now a days
+        Premise: People opt for elevators instead of climbing one or two flight of stairs
+        Premise: It is confirmed in a number of researches that daily usage of elevators in workplaces promotes obesity
+        Premise: this example clearly shows the linkage between using machines and adverse health effects
+
+    No arguments attacks Claim T5
+
+

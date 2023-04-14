@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: an apartment is more expensive
+Supporting Claim T9
+
+    Premise: Transportation is another issue, you have to go to and return from the university everyday
+    Premise: You could choose to use public transportation, a cheaper option, or to have a car
+    Premise: The car is an expensive option, but also offers freedom of schedule and destination
+
+Attacking Claim T9
+    Premise: you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper
+

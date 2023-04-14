@@ -1,0 +1,10 @@
+Type: Claim T18
+Text: the city which I enjoy the most is a combination of history and modernity
+Supporting Claim T18
+
+    Premise: the preservation of old buildings is a one-way street
+    Premise: There is no chance to renovate to save a history site once it's gone
+    Premise: This reality brings us to light the importance of locating and saving old buildings of historic significance
+
+No arguments attacks Claim T18
+

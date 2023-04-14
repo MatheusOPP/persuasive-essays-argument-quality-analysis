@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: technology was introduced, student have been exposed to a wide range of information, which neccessarily broaden their minds
+supporting Claim T4:
+
+----Premise T5: The internet, for example, provide knowledge in the form of news, radio talks, tapes or reseachs on any particular fields
+----Premise T6: There, the students can not only ascertain concerned subjects but they can also get access to relevant issues and discuss with people worldwide
+
+no arguments attacks Claim T4
+

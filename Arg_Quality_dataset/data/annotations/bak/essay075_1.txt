@@ -1,0 +1,39 @@
+Type: MajorClaim T2
+Text: governments should attach heavier weight to other social issues such as education and housing needs
+Supporting MajorClaim T2
+
+    Type: Claim T4
+    Text: those are the most essential ways enable to make people a decent life
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: Art is not the key determination of quality of life, but education is
+    Supporting Claim T5
+
+        Premise: In order to make people better off, it is more urgent for governments to commit money to some fundamental help such as setting more scholarships in education section for all citizens
+
+    No arguments attacks Claim T5
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: art could play an active role in improving the quality of people's lives
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T8
+    Text: art, to some extent, serve a valuable function about enriching one's daily lives
+    Supporting Claim T8
+
+        Premise: it could bring release one's heavy burden of study pressure and refresh human bodies through a hard day from work
+
+    Attacking Claim T8
+        Premise: it is unrealistic to pursuit of this high standard of life in many developing countries, in which the basic housing supply has still been a huge problem with plenty of lower income family have squeezed in a small tight room
+        Premise: By comparison to these issues, the pursuit of art seems unimportant at all
+
+

@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: games become unnecessary for people when their careers begin
+supporting Claim T4:
+
+----Premise T7: they cannot spend enough time and effort to their favorite games as they did in 15 or 20 years ago
+----supporting Premise T7:
+--------Premise T6: more often, the pressure of work and family commitment force them to abandon their lifelong hobbies
+
+----no arguments attacks Premise T7
+
+----Premise T8: in my country, except for a minor part of professional athletes, the majority of people stop playing games seriously as soon as they find a decent job
+----Premise T9: They often feel that such games become more troublesome than enjoyable for their daily lives
+
+attacking Claim T4:
+----Premise T5: Someone may argue that games help adults relax and become more balanced in life
+

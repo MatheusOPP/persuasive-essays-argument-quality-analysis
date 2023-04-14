@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: visiting a well-known museum also can broaden our horizon
+supporting Claim T8:
+
+----Premise T2: Those outstanding and diverse range of objects,with classic and magnificent art, is guaranteed to inspire us
+----Premise T3: In my city, National Palace Museum is celebrated for collection of ancient Chinese artifacts
+----Premise T9: To my astonishment, Jadeite cabbage is the most famous artistic work, which is made of jade, is vividly shown
+
+no arguments attacks Claim T8
+

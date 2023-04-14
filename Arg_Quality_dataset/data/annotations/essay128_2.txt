@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: Giving chance students to choose their interested fields of study is merit
+supporting Claim T8:
+
+----Premise T5: students should choose their classes to have progress in their studies and grades
+----Premise T6: we can avoid conflicts among students and teachers which can be enjoyable and productive for both instructor and students
+----Premise T7: when I was taking art class everyone shared the same interests and it was easy to understand each other
+
+no arguments attacks Claim T8
+

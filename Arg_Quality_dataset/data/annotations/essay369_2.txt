@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: tourism plays an indispensable role in nurturing the economy in a way it is meant to be
+supporting Claim T7:
+
+----Premise T3: places of interest often locate in the wilderness areas, of which economy, before their appearance, haven't blossmed yet
+----Premise T4: Not until the investment of some companies do chains of hotels and services spring up
+----Premise T5: It will, by all means, attract considerable attention which goes hand in hand with the enormous income for the local residents
+----Premise T6: tourism helps divert the local economy to its right direction, which exploit the best out of its own potential
+
+no arguments attacks Claim T7
+

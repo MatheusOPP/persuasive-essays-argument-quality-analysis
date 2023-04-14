@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: Another problem that the young adults may encounter is to find a co-tenant, who they do not like
+supporting Claim T13:
+
+----Premise T14: His habits may be totally different from theirs, his behavior may be inappropriate, but they will have to live with him or even share a room, in order to have less expenses
+----Premise T15: Living with such a person may be a huge problem for the young adults
+----Premise T16: When the co-tenant do not share their interests and points of view, they will not be able to ask him for advice
+----Premise T17: they are most likely to quarrel every day, instead of to help each other
+
+no arguments attacks Claim T13
+

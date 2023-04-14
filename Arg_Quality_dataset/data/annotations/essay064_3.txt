@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: traditional games are still indispensible in children's learning process, even much more essential than modern games, especially in modern society
+supporting Claim T7:
+
+----Premise T8: One primary merit of traditional games is that they foster children's communication skills
+----supporting Premise T8:
+--------Premise T10: communicating with a variety of people will not be an issue for these children any more
+--------supporting Premise T10:
+------------Premise T9: Unlike most modern games which focus on the interactions between children and machines, traditional games provide a relaxing and enjoyable atmosphere where children can chat, laugh and cooperate face to face
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T7
+

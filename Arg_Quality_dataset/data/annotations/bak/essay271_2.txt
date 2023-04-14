@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: by the help of teachers, students can understand ideas faster and easier
+Supporting Claim T5
+
+    Premise: teachers explain them thoroughly in the class and after that give them a lot of examples to clarify the points
+    Premise: In this way attending classes not only wastes their time but also facilitates their understanding process that takes them less time for comprehending materials in comparison with self-study
+
+No arguments attacks Claim T5
+

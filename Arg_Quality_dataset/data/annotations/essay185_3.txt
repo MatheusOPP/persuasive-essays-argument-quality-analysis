@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: contemporarily fossil fuels cause serious environmental conundrums such as acid rain, deduction of ozone layer and global warming
+supporting Claim T14:
+
+
+attacking Claim T14:
+----Premise T15: these problems can be solved by improving efficiency of the mechanism and reducing emissions
+----Premise T16: we can use chemicals to desulfurize the emissions from plants and vehicles to avoid acid rain
+----Premise T17: These improving methods are often cheaper and simpler compared to the high-tech of renewable energy
+----Premise T18: With these solutions fossil fuels seem more sustainable
+

@@ -1,0 +1,12 @@
+Type: Claim T3
+Text: technologies are vital in students' learning
+Supporting Claim T3
+
+    Premise: the widespread of alternative sources of knowledge has played an important role in students' acquisition of knowledge
+    Premise: Computers can be programmed to provide an endless numbers of questions in diverse range of fields, and as the students answer these questions, the facts has been learned and reinforced
+    Premise: A case in point is the reading and listening parts of TOEFL iBT exams, as candidates have to answer many questions in a limited period of time
+    Premise: when students have some academic problems, they can post those to some websites and receive correct answers from unknown people in faraway places without any costs
+    Premise: in the past, conducting a research require long hours of searching in library shelves, now all can be done at a click of a button
+
+No arguments attacks Claim T3
+

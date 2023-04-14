@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T1
+text: it's much easier to have some casual acquaintances than have some close friends
+supporting Claim T1:
+
+----Premise T7: Sometimes acquaintances are just acquaintances
+----Premise T8: We spend time together but we could never be friend
+----Premise T3: being a friend with someone is different from only being acquaintant
+----supporting Premise T3:
+--------Premise T4: it's not easy to make friend with anyone
+--------Premise T5: friends are people who have great compatibility with each other
+--------Premise T6: After two years in college I have found sometimes there is more differences between people than similarities, for we are growing in the different families and was educated in various ways
+
+----no arguments attacks Premise T3
+
+
+no arguments attacks Claim T1
+

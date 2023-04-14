@@ -1,0 +1,44 @@
+Type: MajorClaim T16
+Text: non-academic subjects should be completely removed, I strongly disagree with that
+Supporting MajorClaim T16
+
+    Type: Claim T2
+    Text: non-academic subjects are as essential as academic subjects for a student’s development
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T7
+    Text: school education should not only focus on the academic development of a student
+    Supporting Claim T7
+
+        Premise: schools are responsible for developing their students into well-rounded people
+        Premise: It is more important for a person to success in life than to success only academically
+        Premise: Success in life should be the ultimate goal of a student, which requires more than academic knowledge, but also practical life skills such as cooking, good communication skills and teamwork spirit
+        Premise: it is much more crucial to teach them how to be independent and live a good life
+
+    No arguments attacks Claim T7
+
+    Type: Claim T6
+    Text: Removing physical classes from school education will not only be harmful to young people’s health, it will also decrease their learning capability
+    Supporting Claim T6
+
+        Premise: from the health point of view, schools should not only deliver academic subjects
+        Premise: If physical education is removed from the syllabus, there will be considerable negative effects on students’ health
+        Premise: after studying and sitting in the classroom for the whole morning, it is better for students to do some outdoor activities, such as stretching, jogging and playing ball games, in order to improve their learning ability during the afternoon classes
+
+    No arguments attacks Claim T6
+
+
+Attacking MajorClaim T16
+    Type: Claim T12
+    Text: students can learn practical skills after school hours from their parents
+    Supporting Claim T12
+
+
+    Attacking Claim T12
+        Premise: it is not a good idea
+        Premise: parents are usually too busy with their daily jobs to teach their children the life skills
+
+

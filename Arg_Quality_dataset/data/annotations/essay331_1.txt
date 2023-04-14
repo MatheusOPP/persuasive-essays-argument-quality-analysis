@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: Historic buildings have intrinsic values
+supporting Claim T7:
+
+----Premise T2: they are significant symbols of a city
+----Premise T3: Old buildings are reminders of a city's culture and complexity
+----Premise T4: By seeing historic buildings -- whether related to something famous or recognizably dramatic, people are able to witness the aesthetic and cultural history of an area
+----Premise T5: when somebody mentions Beijing, China's capital city, you will immediately have Capital Palace come to appear in your mind
+----supporting Premise T5:
+--------Premise T6: it is the most remarkable sign of the city, and also it is the inevitable history of Beijing, even the entire China
+--------Premise T8: Depending on the study of Capital Palace, researchers have a comprehensive understanding of the history and the culture
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T7
+

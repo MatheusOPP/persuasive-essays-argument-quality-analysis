@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: They make the product preferable
+Supporting Claim T8
+
+    Premise: advertisements have undeniable affects on the society about the product being advertised
+    Premise: When a product is commonly used, it becomes trustworthy for the society, no matter what quality it is
+
+No arguments attacks Claim T8
+

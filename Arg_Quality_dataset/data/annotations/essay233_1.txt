@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: But people should be careful with what they eat
+supporting Claim T2:
+
+----Premise T4: they should buy only food from well known brands
+----supporting Premise T4:
+--------Premise T3: some industrial foods are very bad for their health
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T2
+

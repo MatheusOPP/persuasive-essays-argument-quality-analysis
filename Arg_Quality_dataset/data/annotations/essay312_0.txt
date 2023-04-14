@@ -1,0 +1,65 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: Money should spend on facilities in school or update resources, which are beneficial to school rather than just instructors
+supporting MajorClaim T1:
+
+----type: Claim T15
+----text: the school should put more emphasis on students instead of professors
+----supporting Claim T15:
+
+--------Premise T4: the most efficient way to improve the education is to guide the students to learn actively
+--------Premise T5: By renewing some facilities in school so students will spend more time at school doing assignment
+--------supporting Premise T5:
+------------Premise T7: students spend more time on school to make a good circulation of learning
+------------supporting Premise T7:
+----------------Premise T6: A comfortable environment can attract people to stay longer
+
+------------no arguments attacks Premise T7
+
+------------Premise T10: the competition between peers enhances and forms a circulation
+------------supporting Premise T10:
+----------------Premise T9: the quality of their assignments will improve
+----------------supporting Premise T9:
+--------------------Premise T8: students have a better environment to working on their assignments
+
+----------------no arguments attacks Premise T9
+
+
+------------no arguments attacks Premise T10
+
+
+--------no arguments attacks Premise T5
+
+--------Premise T11: In my school, the classrooms in my university are old and kind of shabby
+--------Premise T13: It's unpleasant to stay at school
+--------Premise T12: I prefer spending money in a coffee shop to staying at school to finish my assignment
+--------Premise T14: coffee shops are not always quiet, so my classmates and I often finish our work roughly
+
+----no arguments attacks Claim T15
+
+----type: Claim T16
+----text: To improve education, spending more money to raise professors' salary is inappropriate
+----supporting Claim T16:
+
+--------Premise T17: the ultimate purpose is to change, to motivate students to be better
+--------Premise T18: High-salary instructors don't teach students harder because they earn more money
+--------Premise T19: There won't be any effect if school does so
+--------Premise T23: if the policy of raising salary was supported, the demonstration would not happen
+--------supporting Premise T23:
+------------Premise T20: There was news about raising professors' salary in my country
+------------Premise T21: This event provoked a demonstration composing of students mostly
+------------Premise T22: The proposal of the demonstration was eliminating the raising salaries
+
+--------no arguments attacks Premise T23
+
+
+----no arguments attacks Claim T16
+
+----Claim T25: Students' tuition is not only for the professors but also for their quality of learning at university
+
+attacking MajorClaim T1:
+----Claim T2: The professors are essential
+

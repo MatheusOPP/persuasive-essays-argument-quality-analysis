@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: preparing for career is an essential function of university
+supporting Claim T8:
+
+----Premise T14: they can have some experiences in the outside world and discover what their life goals are
+----supporting Premise T14:
+--------Premise T13: Students not only do homework, assignment and attend class but also need to participate in volunteer work, internship and part time job
+
+----no arguments attacks Premise T14
+
+----Premise T15: they know where and what to put high emphasis on in order to achieve their objectives
+
+no arguments attacks Claim T8
+

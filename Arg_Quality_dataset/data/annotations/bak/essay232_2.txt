@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: the things that parents say have great power to their child
+Supporting Claim T3
+
+    Premise: More power than any friend or other adult could have
+    Premise: if someone tells a kid that something is wrong and they shouldn't do it, but his father told him/her that it was right, the kid will listen to the father instead of the other person, even if his father is wrong
+
+No arguments attacks Claim T3
+

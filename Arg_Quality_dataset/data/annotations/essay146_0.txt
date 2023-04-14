@@ -1,0 +1,48 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: students should study a broad range of subjects from literature to mathematics
+supporting MajorClaim T1:
+
+----Claim T2: tertiary education should make students prepare for specialization at university
+----Claim T3: it should be to some extent paternalistic to prevent students from avoiding hurdles
+----type: Claim T5
+----text: students have to find one or more fields of study in which they are really interested
+----supporting Claim T5:
+
+--------Premise T6: They should not decide their future major without trying a broad range of subjects, otherwise they might miss valuable encounter with the subject
+--------Premise T7: a would-be mathematician student may be strongly intrigued by philosophy and make a success in the field
+
+----no arguments attacks Claim T5
+
+----type: Claim T13
+----text: high school students should learn broadly and prepare future learning at university
+----supporting Claim T13:
+
+--------Premise T9: General education plays a significant role in specialized education
+--------Premise T10: Science today, for example, is said to be more and more specialized, but in order to solve a problem scientists have to combine knowledge from chemistry to physics
+--------Premise T11: textbooks used in higher education are labelled particular subjects, in fact they require basic understanding of other subjects
+--------supporting Premise T11:
+------------Premise T12: you sometimes need knowledge about physics to read a text on chemistry
+
+--------no arguments attacks Premise T11
+
+--------Premise T8: students should obtain knowledge from a variety of academic fields
+
+----no arguments attacks Claim T13
+
+----type: Claim T14
+----text: schools should be responsible for their future and protect them
+----supporting Claim T14:
+
+--------Premise T17: This might result in limited choices in the future
+--------Premise T16: They might avoid tough courses, but instead attend mainly Mickey Mouse courses and enjoy themselves too much
+--------Premise T15: students have tendency to shun difficulties
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T1
+

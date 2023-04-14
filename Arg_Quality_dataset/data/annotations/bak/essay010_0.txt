@@ -1,0 +1,40 @@
+Type: MajorClaim T3
+Text: governments spend more money on buses, trains, and subways investment
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: they help alleviate traffic congestion and decrease the amount of carbon released into the air
+    Supporting Claim T4
+
+        Premise: Such public vehicles are used to serve a large number of people in society
+
+    No arguments attacks Claim T4
+
+    Type: Claim T1
+    Text: the policy that concentrates money on developing public transportation brings an advantageous impact on earth
+    Supporting Claim T1
+
+        Premise: if there are more good buses, trains, or subways, people are inclined to use less private vehicles, which decreases the amount of carbon released
+
+    No arguments attacks Claim T1
+
+    Type: Claim T9
+    Text: This is sure to lead to more carbon emitted into the atmosphere, which can cause skin cancer and destroy the natural environment
+    Supporting Claim T9
+
+        Premise: If governments use more money to improve roads, there is a strong likelihood that more people drive their private cars work
+        Premise: carbon emission cut is significantly essential for protecting the atmosphere
+        Premise: the more cars and motorbikes are on roads, the more seriously the ozone layer is damaged
+
+    No arguments attacks Claim T9
+
+
+Attacking MajorClaim T3
+    Type: Claim T15
+    Text: high-quality roads and highways make it easier to move around
+    Supporting Claim T15
+
+
+    No arguments attacks Claim T15
+
+

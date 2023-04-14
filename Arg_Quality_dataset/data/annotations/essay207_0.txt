@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: I do not approve of this trend due to negative effects such as low quality of life and affecting the environment
+supporting MajorClaim T3:
+
+----type: Claim T8
+----text: cities cannot provide adequate space for thousands of dwellers that might lead to poor housing conditions and sanitation
+----supporting Claim T8:
+
+--------Premise T9: the burgeoning number of young adults from the countryside flocking to cities gives rise to overpopulation in cities
+--------Premise T10: it might put strain on the environment
+--------Premise T11: If there are more people in the cities, there would be large numbers of vehicles on the road, which causes air pollution
+
+----no arguments attacks Claim T8
+
+
+attacking MajorClaim T3:
+----type: Claim T1
+----text: young people tend to study or work in urban areas
+----supporting Claim T1:
+
+--------Premise T2: these provide them many educational opportunities and career potentials
+
+----no arguments attacks Claim T1
+
+----type: Claim T5
+----text: they move to big cities to pursue academic career and find jobs in order to have a higher standard of living
+----supporting Claim T5:
+
+--------Premise T6: many large companies and universities often locate in cities which are hailed as promising lands to develop their career
+--------Premise T4: cities often offer more well-paid jobs and study chances compared to rural areas
+--------Premise T7: if a gradate stays in the city after leaving his college and seeks a job with good salary instead of returning his village to do farm work, he could perhaps buy a house or his own car after a short time
+
+----no arguments attacks Claim T5
+
+

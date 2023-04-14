@@ -1,0 +1,13 @@
+Type: Claim T14
+Text: building the university may lead to some social problems
+Supporting Claim T14
+
+    Premise: A number of people then may come from any other communities in order to get in to or get the jobs at the university
+    Premise: When many people congregate in one place, I think that some kinds of social problems will follow
+    Premise: Traffic may worsen
+    Premise: More wastes have to be managed
+    Premise: Maybe crime rate will also increase
+    Premise: These social problems may impair the quality of life in the community
+
+No arguments attacks Claim T14
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: it would certainly be a violation of adults’ civil liberties, if governments implement such a restricted regulation on these TV shows or movies that only for mature audiences
+supporting Claim T11:
+
+----Premise T8: adults watch horror video or war movies for relaxing themselves after a busy day
+----Premise T9: For whom, such media sources are mere materials of relaxation and entertainment
+----Premise T10: Considering that these mature minds are capable of being responsible for their own behaviors, they certainly have the right to watch TV shows or movies that are appealing to them
+
+no arguments attacks Claim T11
+

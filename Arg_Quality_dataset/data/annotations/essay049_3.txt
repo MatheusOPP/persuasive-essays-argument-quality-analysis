@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: people who live in poverty are less likely to be benefited from modern communication technologies
+supporting Claim T9:
+
+----Premise T10: the more privileged are able to enjoy the benefits
+----Premise T11: the wide spread use of these efficient and effective ways of communication costs a considerable amount of money
+----Premise T12: Anyone who aims to use these innovations have to not only pay for the appliances such as a mobile phone or a computer but also cover up costs for communication services
+
+no arguments attacks Claim T9
+

@@ -1,0 +1,11 @@
+Type: Claim T6
+Text: growing of cheap flights really have negative impact on environment
+Supporting Claim T6
+
+    Premise: more flights could mean bigger and busier airport that may be grown the air pollution for people who live and work close to it
+    Premise: the biggest concern is the effect on global warming
+    Premise: Burning plane fuel can releases carbon dioxid into environment that cause the Earth to heat up
+    Premise: while many efforts are being made to reduce CO2 emissions from cars and factories, nothing is being done to reins the airlines
+
+No arguments attacks Claim T6
+

@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: cars increase the chance of employment
+supporting Claim T17:
+
+----Premise T12: people are able to drive to work and can work further away from home
+----Premise T13: they are more flexible
+----Premise T14: My father for example has always been working all around Germany and because of that earned more money
+----Premise T15: He used his car to drive to the other end of the country, worked there during the week and came home for the weekend
+----Premise T16: If he had no car, he wouldn't be able to see his family at the weekends so for him his automobile is a great benefit - not only in financial but also in social terms
+
+no arguments attacks Claim T17
+

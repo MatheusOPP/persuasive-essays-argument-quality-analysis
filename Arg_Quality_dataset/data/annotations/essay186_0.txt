@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: human needs for farmland, housing and industry are more important
+supporting MajorClaim T1:
+
+----type: Claim T9
+----text: the needs for farmland, housing and industry are more important
+----supporting Claim T9:
+
+--------Premise T7: the society will be stable and harmony due to more farmland and industry
+--------supporting Premise T7:
+------------Premise T8: more farmlands and industries can provide more job opportunities which can decrease the unemployment rate and crime rate
+
+--------no arguments attacks Premise T7
+
+--------Premise T4: land used for farmland, housing and industry can benefit more to the whole society
+--------Premise T5: the economy of the whole society will be developed with the help of agriculture, real estate industry and industry, in particularly industry which is the pillar industry of national economy
+--------supporting Premise T5:
+------------Premise T6: they produce plenty of profits
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Claim T9
+
+----type: Claim T10
+----text: farmland, housing and industry can satisfy the desire of human that living a better life
+----supporting Claim T10:
+
+--------Premise T11: farming, housing and industry provide us the food we eat, place we live, clothes we wear, which are essential to live
+--------Premise T12: Especially in some poor areas, survival is the most significant thing
+--------Premise T13: highly developed agriculture and industry can improve our living conditions which allow us have a good quality life
+
+----no arguments attacks Claim T10
+
+----type: Claim T14
+----text: it can do good to protect the endangered animals
+----supporting Claim T14:
+
+--------Premise T17: we can have more advanced methods to take care of endangered animals
+--------supporting Premise T17:
+------------Premise T18: we can invent new technique to help endangered animals to produce offspring to be sure they would not distinct
+
+--------no arguments attacks Premise T17
+
+--------Premise T16: agriculture and industry make a contribution to the economy
+
+----attacking Claim T14:
+--------Premise T15: farmland, housing and industry will occupy the land used for endangered animals
+
+
+attacking MajorClaim T1:
+----Claim T2: protecting endangered animals is necessary
+

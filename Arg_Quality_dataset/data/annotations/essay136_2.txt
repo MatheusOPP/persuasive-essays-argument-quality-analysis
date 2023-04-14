@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: technologies are vital in students' learning
+supporting Claim T3:
+
+----Premise T4: the widespread of alternative sources of knowledge has played an important role in students' acquisition of knowledge
+----Premise T5: Computers can be programmed to provide an endless numbers of questions in diverse range of fields, and as the students answer these questions, the facts has been learned and reinforced
+----Premise T6: A case in point is the reading and listening parts of TOEFL iBT exams, as candidates have to answer many questions in a limited period of time
+----Premise T7: when students have some academic problems, they can post those to some websites and receive correct answers from unknown people in faraway places without any costs
+----Premise T8: in the past, conducting a research require long hours of searching in library shelves, now all can be done at a click of a button
+
+no arguments attacks Claim T3
+

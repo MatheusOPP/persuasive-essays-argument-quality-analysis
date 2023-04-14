@@ -1,0 +1,49 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: there will be a decrease in cars use in the future
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: it is much convenience to take a subway or a bus
+----supporting Claim T4:
+
+--------Premise T6: with the stations increased people are willing to take a public transportation than drive on their own
+--------supporting Premise T6:
+------------Premise T5: I live in a city which always have a jam in the morning and doesn't have enough parking lots for the cars
+
+--------no arguments attacks Premise T6
+
+--------Premise T3: the public transportation has improved
+
+----no arguments attacks Claim T4
+
+----type: Claim T7
+----text: with the risen of the aware to the environment, people will think more about whether to drive on their own or not
+----supporting Claim T7:
+
+--------Premise T8: a driving car can make a lot of different pollutions to the world
+--------Premise T9: instead of driving each one's car, if we put forty people in a bus, it will solve the traffic jam by decrease the cars use and also reduce the air pollution for the city
+
+----no arguments attacks Claim T7
+
+
+attacking MajorClaim T1:
+----type: Claim T10
+----text: a personal car uses is in need
+----supporting Claim T10:
+
+--------Premise T11: a public transportation can't meet every place
+--------Premise T12: it may be true when you want to go to some countryside or some other inconvenience places
+--------Premise T13: no matter you are going to somewhere for a trip or you just simply live in some suburbs and so on, it always have some other ways that you can do, you can ride a bike, or even walk on your feet
+--------supporting Premise T13:
+------------Premise T14: It not only helps you to reduce the car use, but also good to your health
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Claim T10
+
+

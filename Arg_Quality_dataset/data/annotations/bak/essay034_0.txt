@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: student have to be forced to study at school
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: universities provide not only skills for careers, but also academic knowledge for the human race, such as bio science, politics, and medicine
+Supporting Claim T7
+
+    Premise: diverse experiences in the campus life can make the young generation more competently
+    Premise: many researches in the ivory-tower have created ingenious discoveries and achievements for the development of modern society
+    Premise: These academic values are necessary to the progress of the world
+
+No arguments attacks Claim T7
+

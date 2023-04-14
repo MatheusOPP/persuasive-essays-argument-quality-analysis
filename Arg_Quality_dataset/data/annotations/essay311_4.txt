@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: if the university take the policy that no one can attend the classes without passing exam, students are highly likely to leave uncultivated
+supporting Claim T15:
+
+----Premise T17: And the students will have nothing to do in the campus
+----Premise T16: If one fail most of the exam, it means that he or she cannot participate in most of the classes
+----Premise T19: The academic achievement will decline
+----Premise T20: this student will become a loser in the world
+----Premise T18: he or she will play online games days and nights
+----Premise T21: And all this is due to that the university don't permit them to attend the class
+----Premise T22: This is not the failure of the university but also the entire education system
+
+no arguments attacks Claim T15
+

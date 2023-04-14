@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: following celebrities blindly affects the health of adolescents
+supporting Claim T7:
+
+----Premise T4: Many young people indulge themselves in drugs and start smoking at an early age
+----Premise T5: in a survey carried out in a university, it was asked to students that why did they start smoking, then around forty percent of individuals answered that they wanted to look like their favorite screen actor while smoking cigarettes
+----Premise T6: imitating celebrities has a negative influence on health of young individuals
+
+no arguments attacks Claim T7
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: these glamorous celebrities have a poor effect on the conduct of young people
+supporting Claim T11:
+
+----Premise T8: Adolescents follow not only the make up and attire of their favorite stars but also their behavior
+----Premise T9: recently in a poll conducted by an American magazine it was found that most of the parents and teachers complain that teenagers use derogatory words and abusive language at home and at schools
+----Premise T10: when youth follows celebrities it affects personality of young people in a bad way
+
+no arguments attacks Claim T11
+

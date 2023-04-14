@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: they would be able to develop their personalities and sense of reliance
+supporting Claim T13:
+
+----Premise T12: Having knowledge about other countries and their languages lead to extend the child's vision
+----Premise T11: It can give them a sense of power to communicate better with peers in other parts of the World
+----Premise T10: They would be able to understand other cultures and costumes
+----Premise T14: Learning a foreign language helps students tremendously to comprehend what happens in the around World
+
+no arguments attacks Claim T13
+

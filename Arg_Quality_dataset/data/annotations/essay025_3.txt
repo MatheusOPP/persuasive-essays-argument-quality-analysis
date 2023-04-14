@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: how to improve the disadvantages of building a factory would be more important than whether to build it
+supporting Claim T9:
+
+----Premise T10: it is inevitable that there will be more factories built with the development of our society
+----Premise T11: most problems can be avoidable if the factories put in real and great effort to manage their waste well
+
+no arguments attacks Claim T9
+

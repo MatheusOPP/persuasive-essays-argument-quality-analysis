@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: the teacher is the best option for children's education in some aspects
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

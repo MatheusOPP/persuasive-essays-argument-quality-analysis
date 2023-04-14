@@ -1,0 +1,12 @@
+Type: Claim T4
+Text: studying hard in school is an important factor to succeed in a job
+Supporting Claim T4
+
+    Premise: if someone wants to become a good industrial engineer, he should study his technical courses very well so that he will be able to utilize them well in his future job
+    Premise: If we study them hard, we will have the chance of doing our job better and quicker in the future
+    Premise: In school, we are able to identify skills required for our future job and work on mastering and learning them
+    Premise: This can be done in school
+    Premise: We need to know and learn about the theoritical basis of our future job
+
+No arguments attacks Claim T4
+

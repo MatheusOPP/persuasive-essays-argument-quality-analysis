@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: this education model can cultivate more talents who specialized in different areas and increase studying effectiveness
+supporting Claim T9:
+
+----Premise T10: students can devote more time and efforts in one subject and reduce pressure from other subjects
+
+attacking Claim T9:
+----Premise T11: under such target-oriented education environment, teenagers may be hard to regret their original choice and change their specialized field in their further study
+----Premise T12: the dullness of course may deeply influence their passion on study
+

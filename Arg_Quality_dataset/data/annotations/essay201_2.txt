@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: conservation is more urgent now than at any time in history
+supporting Claim T3:
+
+----Premise T12: the ecosystem is in its worst condition ever and if we didn't take harsh measures now, we never will
+----Premise T11: If we continue discharging carbon dioxide with non-environmentally friendly cars, nations like Japan will be submerged and weather patterns could change, causing flooding, drought, and an increasing amount of damaging storms
+----supporting Premise T11:
+--------Premise T10: rising sea levels, caused by global warming, have reached a level that is threatening human's life in many countries
+
+----no arguments attacks Premise T11
+
+----Premise T9: According to a statistic conducted by the International Animal Preserving Association, we have only ten percent of the animals that have ever existed, which means that the biodiversity of our home is grievously endangered
+
+no arguments attacks Claim T3
+

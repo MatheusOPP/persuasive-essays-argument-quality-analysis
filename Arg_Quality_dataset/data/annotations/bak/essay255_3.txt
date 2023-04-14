@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: with the risen of the aware to the environment, people will think more about whether to drive on their own or not
+Supporting Claim T7
+
+    Premise: a driving car can make a lot of different pollutions to the world
+    Premise: instead of driving each one's car, if we put forty people in a bus, it will solve the traffic jam by decrease the cars use and also reduce the air pollution for the city
+
+No arguments attacks Claim T7
+

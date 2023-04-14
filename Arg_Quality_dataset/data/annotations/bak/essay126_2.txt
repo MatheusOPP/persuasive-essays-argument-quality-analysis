@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: close friends can easily understand each others feelings
+Supporting Claim T9
+
+    Premise: acquaintances probably not able to understand you better than your friends
+    Premise: they wouldn't even spare time to consider your feelings
+    Premise: Everyone play the role of acquaintance and friend at the same time
+    Premise: Being friendly is a good way to treat a acquaintance but way not enough for a friend
+
+No arguments attacks Claim T9
+

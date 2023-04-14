@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: a stable and sustainable environment is essential for the weather
+supporting Claim T14:
+
+----Premise T9: Our behavior causes pollution, which heavily affects the weather conditions on planet Earth and causes the undoubtedly Global Warming
+----Premise T10: This not only affects the endangered animals, but also the humans
+----supporting Premise T10:
+--------Premise T11: we are affected by the increasing sea level and the climatic changes
+
+----no arguments attacks Premise T10
+
+----Premise T12: recent studies from the United Nations Organization have shown that, till 2050 the sea level will increase over one meter in the average
+----Premise T13: This will dramaticly affect all people living near the coast and change the global climate
+
+no arguments attacks Claim T14
+

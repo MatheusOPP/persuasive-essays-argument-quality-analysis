@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: educational institutions are able to optimize costs by increasing teacher-student ratios
+Supporting Claim T3
+
+    Premise: the presence of video conferencing allows a teacher to teach a greater number of students
+    Premise: Thanks to the economical online-teaching, universities and colleges are able to offer grants for students who have outstanding academic achievements but are unable to attend schools because of financial constrains
+
+No arguments attacks Claim T3
+

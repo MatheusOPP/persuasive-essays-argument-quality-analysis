@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: the internet provides a lot of valuable information
+supporting MajorClaim T2:
+
+----Claim T1: the internet gives daily necessary information, people can gain knowledge and they can explore the world
+----Claim T4: it helps us in studying, doing business and exploring the world
+----Claim T5: With valuable information it provides, people can enjoy their lives much more
+----type: Claim T8
+----text: everybody would like to know what is going on around the world in their everyday lives
+----supporting Claim T8:
+
+--------Premise T6: Sometimes, they want an information that can help them in daily life which the internet can provide all of these to people
+--------Premise T7: a businessman who has no time to watch a television or read a newspaper can receive news and check stock markets easily via the internet
+
+----no arguments attacks Claim T8
+
+----type: Claim T12
+----text: people can gain more knowledge by using the internet, the most useful technology in the world
+----supporting Claim T12:
+
+--------Premise T9: Many people such as students can take online courses to study at home or they can watch beneficial videos which also teach them knowledge
+--------Premise T10: Not only students but also everyone could get more information and knowledge
+--------supporting Premise T10:
+------------Premise T11: people who have problems with their health can search for more information about it
+
+--------no arguments attacks Premise T10
+
+
+----no arguments attacks Claim T12
+
+----type: Claim T16
+----text: The internet makes the world becomes smaller which is a good thing
+----supporting Claim T16:
+
+--------Premise T13: people who have no time or have financial problems could travel around the world by using the internet
+--------Premise T14: They can see lots of picture and videos of many interesting places
+--------Premise T15: people can learn other countries's culture and tradition which makes them have more knowledge about that nations
+
+----no arguments attacks Claim T16
+
+
+no arguments attacks MajorClaim T2
+

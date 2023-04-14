@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: cheap air fares have broadened travel possibilities for many people, particularly for the lower income group
+supporting Claim T3:
+
+----Premise T4: These days, millions of people can travel around the world for work or pleasure
+----Premise T2: They can develop their careers, broad their knowledge, and interact with many other people from varied cultural backgrounds
+----Premise T5: travels also help to promote the tourist industry development, boost the economy and job markets of many countries
+
+no arguments attacks Claim T3
+

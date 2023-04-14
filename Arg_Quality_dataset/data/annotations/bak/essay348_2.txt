@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: citizens have other important responsibilities to fulfil apart from paying tax
+Supporting Claim T10
+
+    Premise: there are impoverished or disabled people in every society, needing help and support from others
+    Premise: aids from more capable or wealthier citizens are particularly crucial, which are a great complement to government support
+    Premise: it is quite necessary for the local residents to take actions and ensure the safety of the communities, by doing things like reporting suspicious activities to the police department
+    Premise: Another responsibility all citizens should take is to maintain social stability together with the police force
+
+No arguments attacks Claim T10
+

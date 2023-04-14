@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: it is clear that people can freely express their patriotic feelings during international sports events
+supporting Claim T7:
+
+----Premise T8: these sporting occasions are a good opportunity for people to be proud of their country
+----Premise T9: when the Football World Cup was organised in South Africa, its citizens filled up the stadiums, cheered and waved national flags to support their national team on the field
+----Premise T10: South African national and traditional songs were played in the streets throughout the night
+----Premise T11: This example demonstrates how people might take numerous elements from their roots and history to proudly display them while supporting their team
+
+no arguments attacks Claim T7
+

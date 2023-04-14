@@ -1,0 +1,9 @@
+Type: Claim T14
+Text: we need part-time job to teach us how hard the real adult life can be
+Supporting Claim T14
+
+    Premise: it is very difficult for us to really know how tense the adult life can be
+    Premise: parents always tell students that the adult life is much tenser than school life
+
+No arguments attacks Claim T14
+

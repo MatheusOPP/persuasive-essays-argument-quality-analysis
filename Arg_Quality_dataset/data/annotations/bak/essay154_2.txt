@@ -1,0 +1,60 @@
+Type: MajorClaim T3
+Text: I prefer to live with a roommate, and I always will
+Supporting MajorClaim T3
+
+    Type: Claim T5
+    Text: it offers me many advantages, such as less spending, more socializing, and more help
+    Supporting Claim T5
+
+
+    No arguments attacks Claim T5
+
+    Type: Claim T6
+    Text: Living with a roommate saves me a lot of money
+    Supporting Claim T6
+
+        Premise: If you have roommates, you can split the rent and utilities among them
+        Premise: you can get more for less
+        Premise: last year, I shared a room off-campus with my friend, and we decided to split the rent and heating bills into half: I was able to save about fifty dollars for heating, and two hundred dollars for rent monthly
+        Premise: I was able to save a lot of money by sharing wasted heating and rooms with my friend and splitting the bills
+
+    No arguments attacks Claim T6
+
+    Type: Claim T11
+    Text: living with a roommate also enables me to socialize more easily
+    Supporting Claim T11
+
+        Premise: It is always easier to socialize when you have a lot of people around you
+        Premise: You can invite your roommates' friends over to your room and have fun together
+        Premise: one night, my roommate, Millan, brought his friends along
+        Premise: Even though his friends and I were total strangers to each other, we quickly got to know each other
+        Premise: We soon found out that everyone loved playing video games
+        Premise: We played a video game called 'Halo' together all night, and became good friends
+        Premise: Living with a roommate made socializing much easier for me
+
+    No arguments attacks Claim T11
+
+    Type: Claim T19
+    Text: living with a roommate allows me to get help
+    Supporting Claim T19
+
+        Premise: It often is the case that your roommates have the skills or knowledge you need
+        Premise: When you run into a problem, you can ask your roommates if they can help
+        Premise: Some of them may have something to offer
+        Premise: when my computer mysteriously broke down, I dialed up the manufacturer and asked for help
+        Premise: They failed to give me any useful solutions
+        Premise: To my surprise, one of my roommates noticed my problems and offered to help
+        Premise: He was very good with computers, and he managed to fix the problem quickly
+
+    No arguments attacks Claim T19
+
+
+Attacking MajorClaim T3
+    Type: Claim T4
+    Text: many people decide to live alone for various reasons
+    Supporting Claim T4
+
+
+    No arguments attacks Claim T4
+
+

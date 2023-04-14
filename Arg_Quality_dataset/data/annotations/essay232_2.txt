@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: the things that parents say have great power to their child
+supporting Claim T3:
+
+----Premise T4: More power than any friend or other adult could have
+----Premise T5: if someone tells a kid that something is wrong and they shouldn't do it, but his father told him/her that it was right, the kid will listen to the father instead of the other person, even if his father is wrong
+
+no arguments attacks Claim T3
+

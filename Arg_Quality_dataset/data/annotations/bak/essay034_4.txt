@@ -1,0 +1,11 @@
+Type: Claim T12
+Text: children should interrupt their school work and get a job
+Supporting Claim T12
+
+    Premise: there are many subjects that will be of little value to them in the future
+    Premise: children can learn social skills when they have a job
+    Premise: Working helps children be more independent and teach them to esteem and manage the money that they've earned
+    Premise: They can get more experiences that can not be obtained at school
+
+No arguments attacks Claim T12
+

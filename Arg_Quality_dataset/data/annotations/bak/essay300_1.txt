@@ -1,0 +1,37 @@
+Type: MajorClaim T2
+Text: schools should consider giving several small vocations to the students during the year
+Supporting MajorClaim T2
+
+    Type: Claim T4
+    Text: Vacations are not only required by students but also by professionals and housekeepers
+    Supporting Claim T4
+
+        Premise: it not only provide break to them from their regular commitment but also allows them to spend some time on themselves, heel stressful mind and boost desire of resuming to the regular schedule
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: several vacations throughout the year will keep stress level of students low
+    Supporting Claim T5
+
+        Premise: Many educational bodies schedule its small vacations after term exams so that student's get relief form exam pressure
+        Premise: research done by universities proves that student's performance improves if they get regular breaks from their learning, preparation and examination schedule
+        Premise: Many colleges in foreign countries provide vacations to students after each semester that facilitate student to entertain themselves as well as prepare for their next semester
+        Premise: several holidays aid these students to not only amuse themselves but also arrange fund and materials such as books and references material for their upcoming course
+
+    No arguments attacks Claim T5
+
+    Type: Claim T6
+    Text: students learning capability increase after having refreshing vacation
+    Supporting Claim T6
+
+        Premise: in my school we used to get several vacations after our quarterly exams
+        Premise: During those vacations i used to analyze my performance in latest examination and used to go through those question or concept again to avoid making same mistakes
+        Premise: I also used to spend my time on developing some recreational activity or learning some sports or game
+        Premise: During my all vacations, I used to miss my school due to which I used to restart my session with great enthusiasm of learning and scoring good marks in new quarter
+
+    No arguments attacks Claim T6
+
+
+No arguments attacks MajorClaim T2
+

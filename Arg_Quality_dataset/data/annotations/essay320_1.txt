@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: my productivity boosts when style of work is appropriate with my type of temper
+supporting Claim T2:
+
+----Premise T4: Once, when I was working on presentation with strangers, I sat aside and so prepared more than half of work myself instead of making attempts to get acquainted with unknown people
+----Premise T3: Being by nature introvert, I have to spend much time and efforts on adjusting to surroundings and especially new people
+
+no arguments attacks Claim T2
+

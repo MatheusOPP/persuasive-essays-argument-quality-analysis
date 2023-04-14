@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: computers have an important and inevitable role in economic, business, and other part of societies
+supporting MajorClaim T1:
+
+----Claim T2: they make the way of living easier by doing our routine duties
+----type: Claim T4
+----text: People benefit more from coming computers into their lives
+----supporting Claim T4:
+
+--------Premise T5: computers can do most difficult tasks which leads to make life easier
+
+----no arguments attacks Claim T4
+
+----type: Claim T20
+----text: Computers have an important role in social and personal life
+----supporting Claim T20:
+
+--------Premise T13: Computers have opened up a network connection among people
+--------Premise T14: This technology makes easier for people to send and receive personal message
+--------Premise T15: Teenagers and adolescents spend free time in front of computers
+--------Premise T16: People can use computers to extract their essential information easily
+
+----no arguments attacks Claim T20
+
+
+attacking MajorClaim T1:
+----type: Claim T12
+----text: A large number of industries fire many forces because of doing their works by new technologies and computers
+----supporting Claim T12:
+
+--------Premise T6: by using computers in many industries human's role has been reduced
+--------Premise T11: Despite many advantages, by coming computers many jobs has been vanished
+--------Premise T8: Many industries use computers to command to robots in order to do many regular tasks, which were carried out by human early
+--------supporting Premise T8:
+------------Premise T9: many processes of production of cars are carrying out by robots, which are controlled by computers
+------------Premise T10: car companies use computers to simulate and analyze car accident by computers
+
+--------no arguments attacks Premise T8
+
+--------Premise T7: Nowadays, computer can control and perform some routine activities in industries, which were early done by human
+
+----no arguments attacks Claim T12
+
+----type: Claim T17
+----text: excessive use of computers has brought many difficulties
+----supporting Claim T17:
+
+--------Premise T18: The results show that teenagers who are addicted to computer games show more violent and stressful behaviors
+--------Premise T19: People who have type by computers may suffer from such disease related to knees
+
+----no arguments attacks Claim T17
+
+

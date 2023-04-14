@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: If anyone needs help, his neighbor will help as much as possible
+Supporting Claim T6
+
+    Premise: Nowhere else can give me some people like in here
+    Premise: In here, I have a lot of friends, and we usually spend free time to play sports like soccer, basketball and of course we have a lot of fun
+    Premise: Every people in my town have known each others, and we have good relationships
+
+No arguments attacks Claim T6
+

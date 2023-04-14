@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: it is an oppertunity to learn how to deal with money
+supporting Claim T2:
+
+----Premise T6: I finally realized that I should learn to make a plan before I spend my money, and that did influence me in my life now
+----supporting Premise T6:
+--------Premise T3: when I was 16, I found a job during summer vacation and earned some money by own
+--------Premise T4: At the beginning of the semester, I was told to buy a text book
+--------Premise T5: I spent most of my salary hanging out with my friend
+
+----no arguments attacks Premise T6
+
+----Premise T7: when children get a job, they are able to earn money by themselves, instead of getting pocket money from their parents
+
+no arguments attacks Claim T2
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: Studying at home by using technology is convenient
+supporting Claim T3:
+
+----Premise T4: The biggest advantage is that your classroom and instructor are available 24 hours a day
+----Premise T5: you could make your own schedule for completing the requirements of the course
+----Premise T6: You can study any time you want
+
+attacking Claim T3:
+----Premise T7: if you aren't extremely dedicated or have good time management skills, it may be very difficult to complete a course at home
+

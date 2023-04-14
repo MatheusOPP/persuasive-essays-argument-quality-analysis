@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: technology enriches the way of displaying traditional cultural heritage, making it more vivid and appealing
+supporting Claim T7:
+
+----Premise T2: China has successfully promoted traditional techniques in the Shanghai World Expo, using a variety of state-of-the-art technological methods, such as robots and LED screens
+----Premise T8: many tourists around the world marveled at the perfect synthesis of the modern technology and the traditional culture
+
+no arguments attacks Claim T7
+

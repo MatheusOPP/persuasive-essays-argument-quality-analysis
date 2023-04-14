@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: zoo is a good alternative choice for protecting animals
+supporting Claim T3:
+
+----Premise T8: our environment is damaged day by day due to the fact that excessive pursuit of economic development at expense of eco-system, which pose a great threat to the survival of wild animals
+----Premise T9: various animals could be better protected by specialized staff
+----Premise T10: Once the animal got sick, professional vet will help them promptly
+----Premise T11: Thanks to the considerate care, the diversity of wild animal could be guaranteed
+
+no arguments attacks Claim T3
+

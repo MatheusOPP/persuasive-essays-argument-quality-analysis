@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: the advertising expenses lead to a higher product price and some of them express fake information, creating information asymmetry between consumers and companies
+Supporting Claim T5
+
+
+Attacking Claim T5
+    Premise: its merits still outweigh these downsides
+

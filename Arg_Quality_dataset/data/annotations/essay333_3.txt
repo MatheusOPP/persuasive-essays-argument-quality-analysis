@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: the rate of divorces is increasing day by day
+supporting Claim T15:
+
+----Premise T14: by communicating via Internet or phone, we cannot express our ideas and feelings fully
+----supporting Premise T14:
+--------Premise T13: during such conversations, some of our words can make a completely different sense
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T15
+

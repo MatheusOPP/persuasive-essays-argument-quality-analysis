@@ -1,0 +1,9 @@
+Type: Claim T15
+Text: the school should replace some basic science class with some art and music class in order to cultivate student's interest of art without adding extra study pressure
+Supporting Claim T15
+
+    Premise: The education of art and music would not work if students resist it
+    Premise: the study of art and music is supposed to rely on younger student's own interest
+
+No arguments attacks Claim T15
+

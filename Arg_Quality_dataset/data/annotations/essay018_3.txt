@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: universities follow the requirement of job providers and decide subject suitable for particular gender
+supporting Claim T12:
+
+----Premise T14: Every university designs its courses according to the need of employers
+----Premise T13: the current job market affects the decision of universities
+----Premise T15: The job selection criteria are pre decided
+----supporting Premise T15:
+--------Premise T16: employers need male candidates for the heavy work such as repairing and installation of heavy machine
+--------supporting Premise T16:
+------------Premise T18: They want female candidates for soft natured work like counseling, teaching, designing etc
+------------Premise T17: They prefer male staff for night shifts
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T12
+

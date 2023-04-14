@@ -1,0 +1,8 @@
+Type: Claim T16
+Text: cities have better medical facilities than in the countryside
+Supporting Claim T16
+
+    Premise: This can at least assure me that if I feel bad, city can provide a high quality help
+
+No arguments attacks Claim T16
+

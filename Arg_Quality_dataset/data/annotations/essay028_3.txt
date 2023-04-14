@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: advertising alcohol, cigarettes, goods and services with adult content should be prohibited
+supporting Claim T5:
+
+----Premise T6: these kind of ads will have negative effect to our children
+----Premise T7: Youngsters might be tempted to buy cigarettes or alcohol and later to start consume it on a daily basis
+----Premise T8: some countries take this issue seriously and advertising alcohol, cigarettes and materials with adult content is banned on those countries
+
+no arguments attacks Claim T5
+

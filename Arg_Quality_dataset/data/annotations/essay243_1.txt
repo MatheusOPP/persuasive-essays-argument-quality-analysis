@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: e-mail has been a great way of communication
+supporting Claim T2:
+
+----Premise T3: You can talk to others from thousands mile
+----supporting Premise T3:
+--------Premise T4: if you are in Vietnam and another person is in the US - half of the Earth, no matter how far it is, you can keep contact
+
+----no arguments attacks Premise T3
+
+----Premise T5: We will never have to worry if our mails will be sent to the right address
+----supporting Premise T5:
+--------Premise T6: If the address is wrong, then you will know right away
+
+----no arguments attacks Premise T5
+
+----Premise T7: e-mail doesn't take too much time: just a click
+
+no arguments attacks Claim T2
+

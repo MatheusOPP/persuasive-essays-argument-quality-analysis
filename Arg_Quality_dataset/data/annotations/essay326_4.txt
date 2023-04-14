@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: excessive use of computers has brought many difficulties
+supporting Claim T17:
+
+----Premise T18: The results show that teenagers who are addicted to computer games show more violent and stressful behaviors
+----Premise T19: People who have type by computers may suffer from such disease related to knees
+
+no arguments attacks Claim T17
+

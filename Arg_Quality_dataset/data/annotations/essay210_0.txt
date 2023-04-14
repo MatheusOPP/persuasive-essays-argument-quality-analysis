@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: governments should devote a greater portion of their health budgets to health education and means for precautions
+supporting MajorClaim T2:
+
+----type: Claim T5
+----text: society should be educated and became aware of health issues so that the potential precautions on the way of illnesses can be taken instead of trying to provide treatment for the increasing number of patients
+----supporting Claim T5:
+
+--------Premise T4: decreasing the number of patients in the health system can lead hospitals and healthcare centers to be managed effectively which will result in better treatments for current patients
+--------Premise T3: education and preventative measures should receive a greater budget is the potential improvements in health system
+
+----no arguments attacks Claim T5
+
+----type: Claim T6
+----text: governments should allocate more budget on prevention from illness and providing health education is the welfare of the society
+----supporting Claim T6:
+
+--------Premise T7: there is nothing more important than health in a human's life and the happiness and welfare come with health
+--------Premise T9: the marketing campaign of Ministry of Health in Turkey which aimed smoking problem among the youth increased the well-being of those who quit smoking and adapted a better lifestyle after the campaign
+--------Premise T8: a government's role should be providing means that lead its citizens to learn how to prevent from potential illness that can cause misery in people's lives
+
+----no arguments attacks Claim T6
+
+
+no arguments attacks MajorClaim T2
+

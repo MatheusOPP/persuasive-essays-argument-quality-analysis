@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: concerns to save Earth are vital
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: rapid development of infrastructure is eating most of the forest throughout world
+----supporting Claim T2:
+
+--------Premise T4: The so-called Concrete jungles have evolved endangering forests and wild life
+--------Premise T5: life saving oxygen is produced by trees after converting harmful carbon dioxide gas
+--------Premise T6: wild life is very essential to maintain ecological balance on planet Earth
+
+----no arguments attacks Claim T2
+
+----type: Claim T7
+----text: large emissions of carbon monoxide gas from refrigerants like air conditioners have depleted ozone layer
+----supporting Claim T7:
+
+--------Premise T8: Importance of ozone layer is evident by the fact as it protects us from harmful ultra violet rays
+--------Premise T9: excess emission of carbon dioxide gas mainly by vehicles around the world has increased the average temperature at north pole which in turn has increased water level due to gradual melting of glaciers
+
+----no arguments attacks Claim T7
+
+----type: Claim T10
+----text: either industrial waste or domestic waste produced everyday is badly polluting the planet Earth
+----supporting Claim T10:
+
+--------Premise T11: a large amount of unnoticed industrial waste released in oceans effects aquatic life to a large extent
+--------Premise T12: Harmful chemicals present in industrial waste kills lot of sea creatures in oceans or rivers
+
+----no arguments attacks Claim T10
+
+
+no arguments attacks MajorClaim T1
+

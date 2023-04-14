@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: advertisement enables to support users in getting accustomed to enterprises and know thoroughly items sold from these producers
+Supporting Claim T9
+
+    Premise: Take Coca cola for an example, this drinking firm is well-known as one of companies invested a major part of their money in advertising
+    Premise: No wonder why this drinking title becomes more and more familiar with customers around the world
+    Premise: online advertisement is one of the easiest approaches due to their potential gains such as cheaper cost, convenience and easily observing
+
+No arguments attacks Claim T9
+

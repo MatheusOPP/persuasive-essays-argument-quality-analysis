@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: human beings have no moral right to use animals in ways that do not benefit the individual
+supporting Claim T14:
+
+----Premise T15: it is not only inhumane and cruel to cause pain to animals, but also misleading
+----supporting Premise T15:
+--------Premise T13: animals and people's response to a drug can be different
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T14
+

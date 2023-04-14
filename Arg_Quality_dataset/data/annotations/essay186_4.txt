@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: it can do good to protect the endangered animals
+supporting Claim T14:
+
+----Premise T17: we can have more advanced methods to take care of endangered animals
+----supporting Premise T17:
+--------Premise T18: we can invent new technique to help endangered animals to produce offspring to be sure they would not distinct
+
+----no arguments attacks Premise T17
+
+----Premise T16: agriculture and industry make a contribution to the economy
+
+attacking Claim T14:
+----Premise T15: farmland, housing and industry will occupy the land used for endangered animals
+

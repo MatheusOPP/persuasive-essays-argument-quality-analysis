@@ -1,0 +1,54 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: new forms of energy cannot soon replace fossil fuels such as gases, oil, and coal
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: due to the limitation of technology renewable resources are relatively expensive
+----supporting Claim T2:
+
+--------Premise T6: the plan of renewable resources of energy may face challenges in that not every country can afford the reforming
+--------supporting Premise T6:
+------------Premise T5: it is estimated that China has the largest deposit of coal in the world and the government does not want to invest too much money on new forms of energy, say expensive solar batteries and wind farms
+
+--------no arguments attacks Premise T6
+
+--------Premise T3: Researches in renewable energy cost a huge amount of money which developing countries cannot afford
+--------Premise T4: fossil fuels are abundant and inexpensive in many areas
+
+----no arguments attacks Claim T2
+
+----type: Claim T8
+----text: these new forms of energy may not be as clean and green as we think
+----supporting Claim T8:
+
+--------Premise T7: Latest studies have shown that these renewable resources of energy are problematic as well and they are very likely to pose long-term environmental hazards
+--------supporting Premise T7:
+------------Premise T10: the dams built for hydroelectricity influence the water flows of the rivers and sometimes cause drought in areas in front of the dams
+------------Premise T11: This damages the habitats of many valuable fish and wading birds
+------------Premise T12: the accumulation of heavy metal in the silt on the bottom of the rivers behind the dams is extremely difficult and expensive to clean up; leaving problems for the following generations
+
+--------no arguments attacks Premise T7
+
+--------Premise T13: renewable resources are not as reliable as we think
+
+----attacking Claim T8:
+--------Premise T9: utility companies claim that renewable energy is environmentally friendly
+
+
+attacking MajorClaim T1:
+----type: Claim T14
+----text: contemporarily fossil fuels cause serious environmental conundrums such as acid rain, deduction of ozone layer and global warming
+----supporting Claim T14:
+
+
+----attacking Claim T14:
+--------Premise T15: these problems can be solved by improving efficiency of the mechanism and reducing emissions
+--------Premise T16: we can use chemicals to desulfurize the emissions from plants and vehicles to avoid acid rain
+--------Premise T17: These improving methods are often cheaper and simpler compared to the high-tech of renewable energy
+--------Premise T18: With these solutions fossil fuels seem more sustainable
+
+

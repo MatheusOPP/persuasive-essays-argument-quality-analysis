@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: working at home is worse and less efficient than working in the office
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

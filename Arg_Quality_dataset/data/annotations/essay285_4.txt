@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: learning in classroom, student could have healthier life
+supporting Claim T18:
+
+----Premise T14: in school can provide exercise class which train student to move their body
+----Premise T15: Classroom have specialist trainer to teach students to it right way
+----Premise T16: If student do it by themselves, they might be hurt themselves
+----Premise T17: This make students have healthier life which online class cannot provide
+
+no arguments attacks Claim T18
+

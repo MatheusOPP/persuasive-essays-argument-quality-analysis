@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: people who are addicted to games, especially online games, can eventually bear dangerous consequences
+supporting Claim T6:
+
+----Premise T7: several teenagers play games without rest, which leads to health depression
+----supporting Premise T7:
+--------Premise T8: a typical example is the death of Korean gamer, who had a non-stop playing for 3 days
+
+----no arguments attacks Premise T7
+
+----Premise T5: children who play games too much on computer can seriously lack communicating skills
+----supporting Premise T5:
+--------Premise T13: they will know little about the outside life
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T6
+

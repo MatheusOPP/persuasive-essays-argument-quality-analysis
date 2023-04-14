@@ -1,0 +1,47 @@
+Type: MajorClaim T3
+Text: I prefer traditional learning classes
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: the participant with the others like classmates or professors is still an important factor in studying
+    Supporting Claim T4
+
+        Premise: the discussion class results in expanded children vision and their respect to others roommate's ideas
+        Premise: Unlike the distance learning that children have few opportunities to discuss with their friends
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: classroom learning provides other activities than studying
+    Supporting Claim T8
+
+        Premise: During student's free time, they have a number of activities that they can join, such as playing sports, going to lab, or going to library
+        Premise: These activities lead to more interact with their friends
+        Premise: Connection with friends improves their IQ abilities
+        Premise: they have a chance to learn about their societies
+        Premise: the online course keeps the children at their home only
+
+    No arguments attacks Claim T8
+
+    Type: Claim T14
+    Text: in school, there are professors that guided you during you had a problem or needed an advice
+    Supporting Claim T14
+
+        Premise: The professor provides good answers to you
+        Premise: They do not mind helping you, and they never leave you alone when you got a problem
+        Premise: in distance learning, these aspects of the professor had reduced their important
+        Premise: The professor has been assigned to teach only
+        Premise: there will be a long response from the teachers when children ask them a question
+
+    No arguments attacks Claim T14
+
+
+Attacking MajorClaim T3
+    Type: Claim T1
+    Text: online classes have many advantages
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+

@@ -1,0 +1,12 @@
+Type: Claim T17
+Text: cars increase the chance of employment
+Supporting Claim T17
+
+    Premise: people are able to drive to work and can work further away from home
+    Premise: they are more flexible
+    Premise: My father for example has always been working all around Germany and because of that earned more money
+    Premise: He used his car to drive to the other end of the country, worked there during the week and came home for the weekend
+    Premise: If he had no car, he wouldn't be able to see his family at the weekends so for him his automobile is a great benefit - not only in financial but also in social terms
+
+No arguments attacks Claim T17
+

@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: reading fiction is more enjoyable than watching movies
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

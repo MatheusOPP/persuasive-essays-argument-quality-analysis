@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: There is panic among people that their conversation can be intercepted by the third party
+supporting Claim T11:
+
+----Premise T12: This possibility exists all the time
+
+attacking Claim T11:
+----Premise T13: a more efficient and reliable system can also be invented to guarantee the private information of users
+

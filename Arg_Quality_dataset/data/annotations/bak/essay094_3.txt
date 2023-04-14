@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: Health education causes long-term positive effects on our next generations
+Supporting Claim T4
+
+    Premise: thank to a full health education from their childhoods, children will have good habits of taking care of their own health and these habits may be kept in their adolescences
+    Premise: Health education will help people to have right choices of treatment to recover more quickly
+    Premise: if a child is educated to have a hygienic lifestyle at a very young age, he also keeps it when older
+
+No arguments attacks Claim T4
+

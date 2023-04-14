@@ -1,0 +1,8 @@
+Type: Claim T10
+Text: the current cost of medicines is , in fact, reasonable and based on the medicines' effectiveness
+Supporting Claim T10
+
+    Premise: the process of researching, testing and producing drugs in masses costs a substantial amount of money
+
+No arguments attacks Claim T10
+

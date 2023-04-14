@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: school education should not only focus on the academic development of a student
+supporting Claim T7:
+
+----Premise T10: schools are responsible for developing their students into well-rounded people
+----Premise T11: It is more important for a person to success in life than to success only academically
+----Premise T9: Success in life should be the ultimate goal of a student, which requires more than academic knowledge, but also practical life skills such as cooking, good communication skills and teamwork spirit
+----Premise T8: it is much more crucial to teach them how to be independent and live a good life
+
+no arguments attacks Claim T7
+

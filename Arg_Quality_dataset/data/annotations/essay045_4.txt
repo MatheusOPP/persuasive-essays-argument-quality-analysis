@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: this does not mean we should leave alone those who do need assistance
+supporting Claim T12:
+
+----Premise T13: They are already in reverse circumstances and it would be rather difficult for them to overcome the difficulties without external support
+----Premise T14: the government ought to set up free vocational trainings or to provide interest-free bank loans for them, so that they can have the chance to get back to work
+----Premise T11: it is beneficial to the society as a whole when the jobless can make contribution again
+
+no arguments attacks Claim T12
+

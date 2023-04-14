@@ -1,0 +1,9 @@
+Type: Claim T2
+Text: living in a dynamic environment can turn into a very rich experience that sharpens one's personality and open one's eyes on the real world
+Supporting Claim T2
+
+    Premise: Life in big cities cities gives one new challenges every day, let it be deciding which restaurant to go to or deciding which company to work for
+    Premise: For me, this lifestyles is very attractive and is considered a huge advantage of big cities compared with the constant, slow paced life styles of small towns
+
+No arguments attacks Claim T2
+

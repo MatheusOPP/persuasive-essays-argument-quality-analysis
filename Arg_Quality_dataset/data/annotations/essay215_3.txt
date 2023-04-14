@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: having hobbies and doing sports can refresh our mind
+supporting Claim T13:
+
+----Premise T15: at school, students have breaks every class so that they can relax for a few minutes and prepare for the next class
+----Premise T16: Humans are not robots; we can't keep working for twenty-four hours
+----Premise T17: Doing sports or hobbies for a short time can recharge our batteries
+
+attacking Claim T13:
+----Premise T14: doing something for a long time can be boring
+

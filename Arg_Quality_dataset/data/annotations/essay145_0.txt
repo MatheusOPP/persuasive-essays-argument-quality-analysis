@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I prefer to spend money on improving facilities
+supporting MajorClaim T1:
+
+----Claim T3: the advantages of this are relatively greater than that of the other
+----Claim T4: students can procure more advantages from better facilities
+----type: Claim T6
+----text: certain facilities are beneficial to students
+----supporting Claim T6:
+
+--------Premise T8: They can concentrate on the subjects with a tranquil ambience; also, there are a lot of references for students to utilize
+--------Premise T9: With this convenient and versatile facility, students can improve their learning condition
+--------Premise T7: library is a good place for students to study or research
+--------Premise T5: the more advanced facilities we have, the more chances we can increase our knowledge
+
+----no arguments attacks Claim T6
+
+----type: Claim T11
+----text: students would prefer school to spending on improving facilities
+----supporting Claim T11:
+
+--------Premise T15: With this distinguished performance, the student would acquire an unforgettable and valuable experience burring deeply in his mind
+--------Premise T13: Consider a circumstance in which a student who is a member of jazz ensemble in their school
+--------Premise T10: students are not always staying in classrooms
+--------Premise T12: They have numerous activities in school
+--------Premise T14: He must need a better auditorium for him to have an extraordinary performance
+
+----no arguments attacks Claim T11
+
+
+attacking MajorClaim T1:
+----type: Claim T16
+----text: schools should spend money on hiring prestigious teachers
+----supporting Claim T16:
+
+--------Premise T17: they can impart their students well
+
+----attacking Claim T16:
+--------Premise T18: A student is good or not do not depend on whether he has a good teacher but is decided by his effort on study
+--------Premise T19: It is useless to hire a super famous teacher to teach those who behaviors as sluggards
+
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: it is the educational functions traditional games hold that keep them alive today
+supporting Claim T11:
+
+----Premise T14: there is a risk that children may be exposed to unhealthy contents, such as violence or pornography, arranged in the games by such companies to secure financial survival
+----supporting Premise T14:
+--------Premise T13: modern games are developed by game companies for the purpose of profits
+
+----no arguments attacks Premise T14
+
+----Premise T12: these traditional games were elaborately devised by educators and have been proven effective in improving children's skills on different aspects in previous teaching practices
+
+no arguments attacks Claim T11
+

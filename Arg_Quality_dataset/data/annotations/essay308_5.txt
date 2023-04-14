@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T19
+text: Moving some places can give to you a lot of experiences
+supporting Claim T19:
+
+
+attacking Claim T19:
+----Premise T20: living in one place like your hometown can make you feel comfortable about the traffic, people and of course the environment
+

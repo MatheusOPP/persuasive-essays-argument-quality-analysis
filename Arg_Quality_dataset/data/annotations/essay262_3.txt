@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: young people in this generation are exposed to more creative ideas and rather think individually
+supporting Claim T13:
+
+----Premise T17: They have to make decisions between so many possibilities and they are responsible for taking the consequences
+----Premise T16: It is fortunate that they can struggle with these sweet worries and these worries are indeed never easy for them
+----Premise T15: They are eager for finding who they are and what they really want
+
+no arguments attacks Claim T13
+

@@ -1,0 +1,51 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the good technology bringing to us is undeniable
+supporting MajorClaim T1:
+
+----Claim T2: Under proper use of technology, the human being can be benefit a lot and perpetually from the advancement of it
+----type: Claim T3
+----text: most members of our society can benefit from the consequences of technical advancements, especially the poor people
+----supporting Claim T3:
+
+--------Premise T4: the progress of material technology leads to the sharp fall of price of a great number of products
+--------supporting Premise T4:
+------------Premise T5: About ten years ago, mobile phones ware very expensive for most members of my country, only a few of rich individuals have enough money to buy one
+------------Premise T6: Today, mobile phones become a common one of household items, which due to the cheaper materials and better producing technologies
+
+--------no arguments attacks Premise T4
+
+
+----no arguments attacks Claim T3
+
+----type: Claim T10
+----text: technical developments improve productivity, which help people to escape from daily chores, and invest more time and energy in studying and living a more meaningful life
+----supporting Claim T10:
+
+--------Premise T9: With the development of Internet, we can enjoy the pleasure and conveniences which it brings about for us every day
+--------Premise T11: we had to spend a lot of time searching information and waiting for letters of our friends who lived far away from us
+--------Premise T12: we can talk with our friends online, no matter where we are and how far between us
+--------Premise T8: this therefore leads to greater equality between individuals
+--------supporting Premise T8:
+------------Premise T7: the Internet gives everyone access to the same information
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----type: Claim T13
+----text: the gap between rich people and poor is widen by technology
+----supporting Claim T13:
+
+--------Premise T14: only the rich people have ability to afford the expensive high-tech products, and these products can help them to earn more in return
+
+----attacking Claim T13:
+--------Premise T15: it is a limp opposition to the remarkable advantages of technology, and technology is not the root cause of the gap
+
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: such changes do lead to some negative results like an upward trend in divorce rate
+supporting Claim T10:
+
+----Premise T11: women find it difficult to balance their work and their traditional role as the wives
+----Premise T12: children might enjoy less care from parents as they are both busy with their work
+
+no arguments attacks Claim T10
+

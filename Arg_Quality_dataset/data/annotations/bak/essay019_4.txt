@@ -1,0 +1,11 @@
+Type: Claim T13
+Text: Another problem that the young adults may encounter is to find a co-tenant, who they do not like
+Supporting Claim T13
+
+    Premise: His habits may be totally different from theirs, his behavior may be inappropriate, but they will have to live with him or even share a room, in order to have less expenses
+    Premise: Living with such a person may be a huge problem for the young adults
+    Premise: When the co-tenant do not share their interests and points of view, they will not be able to ask him for advice
+    Premise: they are most likely to quarrel every day, instead of to help each other
+
+No arguments attacks Claim T13
+

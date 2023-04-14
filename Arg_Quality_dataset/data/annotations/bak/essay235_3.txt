@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: The idea of free of charge education inspires those scholars who really want to put their efforts and get a degree from best universities
+Supporting Claim T10
+
+    Premise: MPhils and PhDs scholars are probably engage in the research work, which takes their full concentration and surveys
+    Premise: it is hard to get manage two things at a time for instance, working and studying is not an easy job for the scholars, they need to concentrate on their studies
+
+No arguments attacks Claim T10
+

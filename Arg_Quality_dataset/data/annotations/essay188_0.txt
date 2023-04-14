@@ -1,0 +1,42 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: physical exercise is a crucial part of every school day
+supporting MajorClaim T1:
+
+----Claim T2: Exercise is good not only for having a good health body, but also for the mind
+----Claim T3: including exercise in children's daily routine, it is a good way to teach them the importance of physical activity from an early age
+----type: Claim T4
+----text: Physical activity helps children to grow up physically healthier
+----supporting Claim T4:
+
+--------Premise T5: the rate of obesity in children has increased every year, it will be very beneficial for children to have a daily physical activity and get a break from being sitting several hours at school
+--------Premise T6: exercise will help them to not be less exposed to illness related with cardiovascular, higher blood and cholesterol issues
+
+----no arguments attacks Claim T4
+
+----type: Claim T7
+----text: Daily exercise will help also to develop children's brain function
+----supporting Claim T7:
+
+--------Premise T8: It is well known how important it is to exercise regularly to help the body system to work better
+--------Premise T9: When people exercise, the respiratory system's function is enhanced, helping all organs, including the brain, to get more oxygen in
+--------Premise T10: Daily exercise will provide children with a mental break which will boost them to be efficient learners
+
+----no arguments attacks Claim T7
+
+----type: Claim T11
+----text: Having children in the daily exercise routine from an early age will teach them the important value of having physical activity in their every day routine
+----supporting Claim T11:
+
+--------Premise T12: Children are bombarded with lectures about nutrition and physical activity; however, they will be more beneficed if that knowledge can be put in practice
+--------Premise T13: they can stick with the routine and make the daily physical activities a good habit on their whole life
+
+----no arguments attacks Claim T11
+
+----Claim T14: It will meliorate not only mental and body health, but also will establish in children a habit of doing it, giving them the opportunity to measure the worth of including such an important activity in their daily live schedules
+
+no arguments attacks MajorClaim T1
+

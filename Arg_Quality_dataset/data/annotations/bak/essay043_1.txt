@@ -1,0 +1,33 @@
+Type: MajorClaim T2
+Text: it is clear that they not only constitute a tremendous appeal towards a peaceful society, but also guide the public demonstrations of national proudness
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: world sports events strongly participate in eventually pulling back people towards friendship and peace
+    Supporting Claim T3
+
+        Premise: during times of war, people living in badly affected countries can forget about the gloomy environment and maintain a link with the rest of the world by listening to international sports event
+
+    No arguments attacks Claim T3
+
+    Type: Claim T7
+    Text: it is clear that people can freely express their patriotic feelings during international sports events
+    Supporting Claim T7
+
+        Premise: these sporting occasions are a good opportunity for people to be proud of their country
+        Premise: when the Football World Cup was organised in South Africa, its citizens filled up the stadiums, cheered and waved national flags to support their national team on the field
+        Premise: South African national and traditional songs were played in the streets throughout the night
+        Premise: This example demonstrates how people might take numerous elements from their roots and history to proudly display them while supporting their team
+
+    No arguments attacks Claim T7
+
+    Type: Claim T12
+    Text: This has been true for centuries and will certainly not change in the foreseeable future
+    Supporting Claim T12
+
+
+    No arguments attacks Claim T12
+
+
+No arguments attacks MajorClaim T2
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: Another way television has destroyed communication is when some people cannot even seat at the table and have dinner with the family
+supporting Claim T15:
+
+----Premise T11: This is the time, when if they have children, they can share everything about school, a project and even concerns
+----Premise T12: when there is a dinner with friends, some people do not have a fluid conversation
+----supporting Premise T12:
+--------Premise T13: the television is again in between them
+
+----no arguments attacks Premise T12
+
+----Premise T14: When family or friends gather together to have a good time eating and talking, this is not the reality in some cases
+
+no arguments attacks Claim T15
+

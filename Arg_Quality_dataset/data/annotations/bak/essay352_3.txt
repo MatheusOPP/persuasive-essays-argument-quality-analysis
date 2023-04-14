@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: computer impacts children on a positive note
+Supporting Claim T4
+
+    Premise: students preparing for delivering speech on a certain topic can browse through internet to learn each and every minute details of the subject matter
+    Premise: It's hard to get everything at a same place unless children are not familiar with computers
+    Premise: through computer children can access internet to gather knowledge on the subjects they are studying or they are interested about
+
+No arguments attacks Claim T4
+

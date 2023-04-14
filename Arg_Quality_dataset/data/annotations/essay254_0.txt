@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: tackling down environmental problems is of the first priority rather than economic developments
+supporting MajorClaim T1:
+
+----type: Claim T6
+----text: environmental protection is far more urgent than economic developments
+----supporting Claim T6:
+
+--------Premise T3: Just like a man that needs a healthy body, all the living creatures as a whole needs a strong planet as well
+--------Premise T4: Without Earth, whatever great civil constructions and economic achievements will end up in vain
+--------supporting Premise T4:
+------------Premise T2: we will all perish as she's gone
+
+--------no arguments attacks Premise T4
+
+--------Premise T5: All the living creatures live together on our mother Earth and she is the only one
+
+----no arguments attacks Claim T6
+
+----type: Claim T13
+----text: the influence on environmental problems are boarder and more profound than economic issues
+----supporting Claim T13:
+
+--------Premise T7: Environmental problems are global rather than local, which means that no countries can be spared from these problems
+--------Premise T8: Take global warming for example, when the temperature increases, the whole globe is affected, suffering the hotter weather together
+--------Premise T9: The melting ice mountain not only jeopardizes habitats of animals living in the polar region, but its effects of the rising sea level also endangers the residents living in the small island near the equator
+--------supporting Premise T9:
+------------Premise T10: the rising sea water could drown them
+
+--------no arguments attacks Premise T9
+
+--------Premise T11: Environmental issues can not be divided by nationality
+--------supporting Premise T11:
+------------Premise T12: all humans are simply entwined together by our only home-Earth
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Claim T13
+
+
+attacking MajorClaim T1:
+----type: Claim T16
+----text: economic issues are global and critical as well thus can not be put aside
+----supporting Claim T16:
+
+--------Premise T14: if the economic is in a very bad situation, people would revolt instantly, while environmental problems seem to be more like chronic diseases that would not burst out right away
+
+----attacking Claim T16:
+--------Premise T15: the truth is that we've been encountering so many sighs and warnings of global climate anomalies and other environmental crisis right now
+--------Premise T17: It would be unwise to still deny the truth and keep focusing on economic developments and unfortunately, usually the economic developments are even the causes of environmental damages
+
+

@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: with the advent of globalization, one can easily find a teacher in their own country
+Supporting Claim T5
+
+    Premise: in Indian sub-continent there are large number of centers opened for getting trained in variety of languages like french, german etc
+
+Attacking Claim T5
+    Premise: In the earlier periods, it was not easy to find a teacher to learn a foreign languge
+

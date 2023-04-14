@@ -1,0 +1,7 @@
+Type: Claim T1
+Text: it is university level of education, students have enough maturity to choose their choice
+Supporting Claim T1
+
+
+No arguments attacks Claim T1
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: computers through internet made our access to information easier
+supporting Claim T7:
+
+----Premise T4: Through computers we can collect appropriate data very quickly, store it in the hard disc as long as we want and use it when needed
+----Premise T5: Search engines such as google, yandex with many features relevant to the characteristics of the information needed enable search of information in few minutes
+----Premise T6: Social networks such as facebook, twitter have changed traditional sources of information and decreasing the monopolization of the information by the governments
+----Premise T3: with the use of computers we spend less time in search for information, and can get it from different sources
+
+no arguments attacks Claim T7
+

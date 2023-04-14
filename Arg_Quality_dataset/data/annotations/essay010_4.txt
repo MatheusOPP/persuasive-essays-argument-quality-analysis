@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: governments have to turn people' attention on public vehicles to reduce cars and motorbikes
+supporting Claim T12:
+
+----Premise T13: There is the possibility that improving roads and highways does not seem to reach the major cause of traffic congestion
+----Premise T11: It is quiet clear that traffic congestion is a serious problem in many big cities
+----Premise T10: there are a great number of vehicles flowing on roads
+----Premise T14: the policy would play a pivotal part in relieving traffic jam
+
+no arguments attacks Claim T12
+

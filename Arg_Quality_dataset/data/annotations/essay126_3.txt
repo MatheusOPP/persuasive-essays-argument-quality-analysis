@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: a friend is a person you care about
+supporting Claim T17:
+
+----Premise T14: When my friend is sick, I would not only ask if he is okay like an acquaintance but do my best to make him get well as soon as possible
+----Premise T15: If my friend is going to the wrong direction in his life trail, I will try my best to pull him back, but not stand and stare like it's not of my business
+----Premise T16: my friend will do the same to me
+
+no arguments attacks Claim T17
+

@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: some people spend a lot of time watching television
+supporting Claim T10:
+
+----Premise T7: Instead of spend time with family and friends, they like to seat on a chair for hours
+----Premise T9: I know someone who wakes up in the morning and before even eat he turns the television on, he even records the programs he cannot watch during work hours
+----Premise T8: Time with the family is gold, some people have to realize that and take quality of time to talk to them
+----Premise T5: she is used to his habit that she prefers to write him an email
+----supporting Premise T5:
+--------Premise T6: Sometimes his wife wants to talk before they go to work, but he only let her talk during commercials
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T10
+

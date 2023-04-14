@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: communication between family members is visibly destroyed
+supporting Claim T11:
+
+----Premise T12: parents are not able to function their parental care as the necessary thing to children
+
+no arguments attacks Claim T11
+

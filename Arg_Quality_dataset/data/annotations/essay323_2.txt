@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: we will never forget what our parents have taught us
+supporting Claim T5:
+
+----Premise T6: we use it every day
+----Premise T7: I believe I will never forget what my parents told me about how to be grateful to other people who help me
+----Premise T9: we spend most of our time at home with our families than it at school
+----Premise T10: when we leave school, maybe we will forget parts of the lessons we learn at school if we do not experience them in life
+----Premise T8: at school we study bigger things about sciences and languages, but after school we learn from our parents
+
+no arguments attacks Claim T5
+

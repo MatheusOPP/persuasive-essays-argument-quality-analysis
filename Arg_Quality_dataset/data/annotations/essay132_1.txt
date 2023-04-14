@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: people are focusing on doing several jobs or gaining further qualification to secure their economic condition
+supporting Claim T2:
+
+----Premise T4: This overwhelming crisis is prompting delayering and reduction of workers
+----Premise T3: with the recent recession, almost all the countries all over the world are seeing significant economic downfall
+----Premise T5: A full time job with a steady income was enough for a potential employee to support himself and his family
+
+no arguments attacks Claim T2
+

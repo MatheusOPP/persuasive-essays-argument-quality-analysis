@@ -1,0 +1,41 @@
+Type: MajorClaim T2
+Text: it disadvantages may outweigh its advantages with regard to economic and politic issues, making it advisable to seek another options to reduce the use of personal cars
+Supporting MajorClaim T2
+
+    Type: Claim T8
+    Text: people have to turn to cheaper alternatives, which might cause the abundance in goods and later on, economic crisis
+    Supporting Claim T8
+
+        Premise: taxation on flamable resources might backfire by conducing to inflation
+        Premise: the more costly petrol is, the higher the price of necessary product: rice, meat or even vegetable
+
+    No arguments attacks Claim T8
+
+    Type: Claim T12
+    Text: countries that import oil will be more dependent on the exporters, both politically and financially
+    Supporting Claim T12
+
+        Premise: Suppose that the those countries cut down on its oil support, other nations will have to pay more as well as release beneficial policies for them
+        Premise: America, for example, has recently drawn its intervention in Russian crisis only due to the influx of oil
+
+    No arguments attacks Claim T12
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: higher fuel and petrol cost has its own pros and cons
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: Taxation may have tackled the environmental issue simply by diverting people to public transportations such as trains, buses or ferries
+    Supporting Claim T4
+
+        Premise: if petrol and fuel taxation are raised, people might hesitate choosing a personal automobile
+        Premise: for those who have already afforded a car, there is a likelihood it is restraint from usage on long journeys or to crowded cities
+
+    No arguments attacks Claim T4
+
+

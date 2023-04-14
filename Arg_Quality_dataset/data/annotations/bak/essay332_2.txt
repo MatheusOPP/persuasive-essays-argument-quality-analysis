@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: Another advantage of living with parents for a longer period of time is the enhanced emotional attachment with them
+Supporting Claim T9
+
+    Premise: Parents have valuable advice to their children as they go through the changes in their adult life
+    Premise: Living together develops the environment of discussing adult's physiological and psychological changes face to face with their parents
+    Premise: Young adults will feel reluctant to discuss such problems with their parents if they move out and live on their own, and thus missing the valuable input of their parents
+
+No arguments attacks Claim T9
+

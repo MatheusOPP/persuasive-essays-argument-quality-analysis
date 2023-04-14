@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: celebrities nowadays give more good influence on young people than they were previously
+supporting MajorClaim T1:
+
+----Claim T2: people without talents cannot be famous in this changing world and to be accredited they need to contribute positively to young generation
+----type: Claim T3
+----text: it is not easy to influence young people these days when they are well equipped of life skills
+----supporting Claim T3:
+
+--------Premise T5: the young generation these days is very conscious toward positive lifestyles
+--------Premise T4: They are mostly being educated at very early ages by family or schools as to distinguish what is benefit for them
+
+----no arguments attacks Claim T3
+
+----type: Claim T6
+----text: people use their money to become an inspiration are definitely not a good mirror for young people
+----supporting Claim T6:
+
+--------Premise T7: We definitely do not want our children to spend money on luxurious custom or lifestyle just to be similar to someone, especially when these people are not symbols of any talent but showing off
+
+----no arguments attacks Claim T6
+
+----type: Claim T9
+----text: only money and glamour look are not enough for a person to be recognized anymore, it is importance that they have to have achievements in order to be a muse to youngsters
+----supporting Claim T9:
+
+--------Premise T11: to become a star and an inspiration for people, a person need to have real talent to compete with other candidates
+--------supporting Premise T11:
+------------Premise T10: We are giving chances to many teenagers to show their intelligence in different talent shows, for example; The Voice, X Factor or Next Top Models etc
+
+--------no arguments attacks Premise T11
+
+--------Premise T8: not many people can exist in the celebrities' world without any talents or achievements
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

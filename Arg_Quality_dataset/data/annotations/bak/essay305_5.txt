@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: going to classes are sometimes waste of the time
+Supporting Claim T11
+
+    Premise: some lecturers in our university read the same text in the reference books for that particular course module
+    Premise: they didn't explain the contents in order to understand by the students
+    Premise: It was waste of the time
+
+No arguments attacks Claim T11
+

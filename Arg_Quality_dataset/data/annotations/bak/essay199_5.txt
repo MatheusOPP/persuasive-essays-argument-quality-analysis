@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: we are building our personalities when we study alone
+Supporting Claim T10
+
+    Premise: answering our homework alone encourages us to be more responsible and independent
+    Premise: it motivates us to be accurate in our work in the future
+    Premise: when I fix my study plan with a specific time and finish it on time, it improves my ability in the future to become more precise and careful
+
+No arguments attacks Claim T10
+

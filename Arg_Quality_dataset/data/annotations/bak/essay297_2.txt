@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: classroom learning is the best way to provide education comparing to online classes
+Supporting Claim T7
+
+    Premise: In the classroom environment you can learn from your classmates
+    Premise: When I was in First Year in B Com, I was not serious in my study, but when I saw some of my friends who took better grades than me, it influenced me and I intended to do better in my subjects
+    Premise: I got 1st rank in final exam
+
+No arguments attacks Claim T7
+

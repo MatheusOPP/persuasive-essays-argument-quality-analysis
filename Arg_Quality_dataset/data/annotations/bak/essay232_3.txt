@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: their parents have more time to teach him/her than anybody else
+Supporting Claim T7
+
+    Premise: a child normally spends more time with their parents than with other people
+    Premise: They have more contact and more intimacy with their children
+
+No arguments attacks Claim T7
+

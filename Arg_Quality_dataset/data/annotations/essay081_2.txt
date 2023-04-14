@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: without any limitations, there will be more awe inspiring work from our artists
+supporting Claim T8:
+
+----Premise T10: when they are given the opportunity to express themselves, most artists will think out of the box and come up with spectacular Arts such as paintings or movies
+----Premise T11: paintings by Da Vinci and Michallengo are admired even till now as they were not restricted during those times
+----Premise T9: if there is control over artists' ideas, they will definitely lose their sense of creativity in the long run
+
+no arguments attacks Claim T8
+

@@ -1,0 +1,8 @@
+Type: Claim T3
+Text: This is chiefly to shield oneself from being harmed by any intruders or robbers
+Supporting Claim T3
+
+
+Attacking Claim T3
+    Premise: privacies are lost with the use of these cameras
+

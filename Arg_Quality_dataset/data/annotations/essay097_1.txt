@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: they can improve their results, break records and bring victories to their own countries
+supporting Claim T3:
+
+----Premise T6: sports events are good chances for excellent athletes to meet and learn valuable experiences from one another
+
+no arguments attacks Claim T3
+

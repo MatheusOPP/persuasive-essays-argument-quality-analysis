@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: technical developments improve productivity, which help people to escape from daily chores, and invest more time and energy in studying and living a more meaningful life
+Supporting Claim T10
+
+    Premise: With the development of Internet, we can enjoy the pleasure and conveniences which it brings about for us every day
+    Premise: we had to spend a lot of time searching information and waiting for letters of our friends who lived far away from us
+    Premise: we can talk with our friends online, no matter where we are and how far between us
+    Premise: this therefore leads to greater equality between individuals
+
+No arguments attacks Claim T10
+

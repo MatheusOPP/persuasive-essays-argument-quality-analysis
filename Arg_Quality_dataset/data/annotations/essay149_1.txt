@@ -1,0 +1,33 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: they can provide more advices and helps in our career
+supporting Claim T7:
+
+----Premise T6: our parents receive better education than our grandparents did
+----Premise T5: more and more people have the opportunity to receive education from university
+----Premise T8: In the past, seldom people have the chance to attend a collage
+----Premise T10: Things have changed a lot
+----Premise T11: I grow up in a better condition than my father did
+----Premise T12: Whenever I have problems, I can always ask my parents for help
+----supporting Premise T12:
+--------Premise T13: They can solve the problem quickly
+--------supporting Premise T13:
+------------Premise T14: they have learned quite a lot
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Premise T12
+
+----Premise T4: when my father had difficulty in solving a problem in his childhood, he had to go to his teacher for help
+----supporting Premise T4:
+--------Premise T9: my grandparents did not get a education even in high school
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T7
+

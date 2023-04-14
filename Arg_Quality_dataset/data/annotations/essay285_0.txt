@@ -1,0 +1,62 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I completely disagree with this statement that we should replace normal course with online course
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: it should not replace classroom learning
+----supporting Claim T2:
+
+--------Premise T4: learning in classroom are not only learning academic skills but also learning social skills, and learning how to solve problem in real situation
+--------Premise T3: Learning in classroom could provide more information to study
+
+----no arguments attacks Claim T2
+
+----type: Claim T9
+----text: learning in classroom could provide more information and make students more comprehend in subjects that they had learnt
+----supporting Claim T9:
+
+--------Premise T5: in classroom have many equipment to demonstrate real example
+--------Premise T6: in biology class, learning anatomy by operating fog have many benefits
+--------Premise T7: Learner could learn how to use tools and see actual organs of fog
+--------Premise T8: online class just only study in textbook not learnin real situation
+
+----no arguments attacks Claim T9
+
+----type: Claim T10
+----text: online class could not provide knowledge about social skills
+----supporting Claim T10:
+
+--------Premise T12: In a classroom, teacher could give assignment to student to work as a group
+--------Premise T13: This could help students to learn how to deal with people, how to collaborate with people in their group
+--------Premise T11: This important skill cannot be gotten in online classes
+
+----no arguments attacks Claim T10
+
+----type: Claim T18
+----text: learning in classroom, student could have healthier life
+----supporting Claim T18:
+
+--------Premise T14: in school can provide exercise class which train student to move their body
+--------Premise T15: Classroom have specialist trainer to teach students to it right way
+--------Premise T16: If student do it by themselves, they might be hurt themselves
+--------Premise T17: This make students have healthier life which online class cannot provide
+
+----no arguments attacks Claim T18
+
+----type: Claim T20
+----text: having classroom could provide abundant skills to students
+----supporting Claim T20:
+
+--------Premise T23: classroom could provide exercise class to set students to have a good health
+--------Premise T22: classroom courses are also provide students to learn social skill
+--------Premise T21: classroom could provide real actual example to make students more understand in their subject
+
+----no arguments attacks Claim T20
+
+
+no arguments attacks MajorClaim T1
+

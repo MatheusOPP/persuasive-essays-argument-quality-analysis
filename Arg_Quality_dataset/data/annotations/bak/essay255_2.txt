@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: it is much convenience to take a subway or a bus
+Supporting Claim T4
+
+    Premise: with the stations increased people are willing to take a public transportation than drive on their own
+    Premise: the public transportation has improved
+
+No arguments attacks Claim T4
+

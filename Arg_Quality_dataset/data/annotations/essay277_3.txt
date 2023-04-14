@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: when a student understands a fact and its consequences, he or she can encounter it more confidently
+supporting Claim T10:
+
+----Premise T12: these way students are teached to control their fears and concerns in facing facts
+----Premise T11: concerns and anxieties are very destructive in everybody's life
+----Premise T9: It can prevent person to progress and thrive in every position
+
+no arguments attacks Claim T10
+

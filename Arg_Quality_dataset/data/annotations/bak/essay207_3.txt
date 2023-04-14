@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: cities cannot provide adequate space for thousands of dwellers that might lead to poor housing conditions and sanitation
+Supporting Claim T8
+
+    Premise: the burgeoning number of young adults from the countryside flocking to cities gives rise to overpopulation in cities
+    Premise: it might put strain on the environment
+    Premise: If there are more people in the cities, there would be large numbers of vehicles on the road, which causes air pollution
+
+No arguments attacks Claim T8
+

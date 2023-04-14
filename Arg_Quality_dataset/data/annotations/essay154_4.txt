@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Living with a roommate saves me a lot of money
+supporting Claim T6:
+
+----Premise T7: If you have roommates, you can split the rent and utilities among them
+----Premise T8: you can get more for less
+----Premise T9: last year, I shared a room off-campus with my friend, and we decided to split the rent and heating bills into half: I was able to save about fifty dollars for heating, and two hundred dollars for rent monthly
+----Premise T10: I was able to save a lot of money by sharing wasted heating and rooms with my friend and splitting the bills
+
+no arguments attacks Claim T6
+

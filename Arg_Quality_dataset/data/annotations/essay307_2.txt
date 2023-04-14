@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: we live in a society where the most important thing is appearance and gossip
+supporting Claim T8:
+
+----Premise T7: Nowadays, unscrupulous paparazzi constantly follow celebrities just to take a photo while they are eating or training
+----Premise T9: Newspapers often receive accusations of checkbook journalism; this means that magazines pay people a lot of money for stories or photos
+----Premise T10: there are Reality TV, television programs in which people are put into artificial environments and situations, for example like "Big Brother"
+
+no arguments attacks Claim T8
+

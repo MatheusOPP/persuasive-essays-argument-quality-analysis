@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: if the government provides those without work with a mobile phone, they will be able to find themselves an occupation in order to live and survive
+Supporting Claim T4
+
+    Premise: they can surf the The Star Onlines' work section to find a job that is suitable for them
+    Premise: With the help of the net, they can also do more research on the work that they have found apart from looking up on how they can prepare themselves for the job
+    Premise: the mobile phones can also be used to make calls with the companies in which they would like to work with
+    Premise: when people without jobs have hand phones that have access to the Internet, they will be able to browse the net for more job opportunities
+
+No arguments attacks Claim T4
+

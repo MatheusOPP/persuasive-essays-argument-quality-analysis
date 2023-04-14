@@ -1,0 +1,44 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: people's health would therefore be affected negatively
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: Environment pollution one of the primary reasons why life in cities is becoming worse than ever before
+----supporting Claim T7:
+
+--------Premise T4: Exhaust from transportation, especially cars, and factories' tosix fumes can lead people to face with various respiratory deseases
+--------Premise T5: water pollution makes people's health become more critical
+--------supporting Premise T5:
+------------Premise T6: dangerous bacterias and germs in polluted water can go indirectly into people's bodies and create severe problems, which may result in death if the patients are not treated in time
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Claim T7
+
+----type: Claim T10
+----text: living in such cities also means living in high crime rate areas
+----supporting Claim T10:
+
+--------Premise T11: Unemployed workers or school dropouts can easily commit crime from petty offence to felony such as burglary, pickpocketing, trickery, vandalism, smuggling or even murder
+
+----no arguments attacks Claim T10
+
+----type: Claim T12
+----text: it is likely that many foods in big cities are not safe for people to eat or drink
+----supporting Claim T12:
+
+--------Premise T8: Recent investigations reveal that toxic foods are sold pervasively in today's market
+--------Premise T9: overpopulation may make people suffer from infectious deseases, especially cough, sneezing and illness
+
+----no arguments attacks Claim T12
+
+----Claim T13: Earning money for living becomes more difficult, living healthy in such places is getting harder also
+
+attacking MajorClaim T1:
+----Claim T2: life in those cities is good in some ways
+

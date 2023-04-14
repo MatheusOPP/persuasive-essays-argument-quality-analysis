@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Many people are now able to maintain relationships over great distances
+supporting Claim T6:
+
+----Premise T5: they can visit each other regularly by using their vehicle
+----Premise T7: my car has always been a great help to see my childhood friends very often although I lived in another city
+----Premise T8: I was also able to establish a relationship with a man living 89 kilometers away
+----Premise T9: Thanks to my car we could see each other at the weekends and are still a happy couple today
+----Premise T10: Without my automobile we would probably not have been able to develop a relationship
+----Premise T11: people are now able to overcome long distances in a short amount of time, which leads to numerous advantages
+
+no arguments attacks Claim T6
+

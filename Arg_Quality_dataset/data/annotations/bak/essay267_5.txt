@@ -1,0 +1,10 @@
+Type: Claim T15
+Text: Another way television has destroyed communication is when some people cannot even seat at the table and have dinner with the family
+Supporting Claim T15
+
+    Premise: This is the time, when if they have children, they can share everything about school, a project and even concerns
+    Premise: when there is a dinner with friends, some people do not have a fluid conversation
+    Premise: When family or friends gather together to have a good time eating and talking, this is not the reality in some cases
+
+No arguments attacks Claim T15
+

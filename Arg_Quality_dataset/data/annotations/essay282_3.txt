@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: meditation also one of the ways to reduce the stress
+supporting Claim T14:
+
+----Premise T10: Meditation is easy way to relax
+----supporting Premise T10:
+--------Premise T11: it is not require any equipment, and it take few minutes
+--------supporting Premise T11:
+------------Premise T12: A way to do meditation is that I just sit down, close my eyes, and count my breath
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Premise T10
+
+----Premise T13: These could relieve me from stress
+
+no arguments attacks Claim T14
+

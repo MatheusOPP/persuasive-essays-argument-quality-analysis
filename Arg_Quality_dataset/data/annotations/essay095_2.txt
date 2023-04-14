@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: the popularity of news media is beneficial to human beings
+supporting Claim T9:
+
+----Premise T7: today entertainment is easier for people to enjoy than ever before
+----supporting Premise T7:
+--------Premise T8: The fact is that such news media as televisions, radios, or newspapers are bringing many news on entertainment sector from all over the world to everybody
+
+----no arguments attacks Premise T7
+
+----Premise T10: People can sit in front of their televisions and watch whatever they want, from musical concerts to live football match
+----Premise T11: This is a convenient way of relaxation after hard work
+
+no arguments attacks Claim T9
+

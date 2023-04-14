@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: attending in the school having boys and girls might be beneficial for both to increase their motivation to study better
+supporting Claim T15:
+
+----Premise T14: the productivity of the class will be increased
+----supporting Premise T14:
+--------Premise T11: they will study increasingly
+--------supporting Premise T11:
+------------Premise T12: Boys and girls will try to show their capabilities and abilities in the class
+------------Premise T13: Boys do not like to seem weak in front of girls and vice versa
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T15
+

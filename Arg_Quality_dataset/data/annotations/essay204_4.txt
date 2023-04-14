@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: in school, there are professors that guided you during you had a problem or needed an advice
+supporting Claim T14:
+
+----Premise T15: The professor provides good answers to you
+----Premise T16: They do not mind helping you, and they never leave you alone when you got a problem
+----Premise T17: in distance learning, these aspects of the professor had reduced their important
+----Premise T18: The professor has been assigned to teach only
+----Premise T19: there will be a long response from the teachers when children ask them a question
+
+no arguments attacks Claim T14
+

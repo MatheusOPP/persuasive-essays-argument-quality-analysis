@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: there are many institutions that accept the same average number of male and female students in many kinds of course
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: female students are indicated having the same potential and capability as men
+----supporting Claim T2:
+
+--------Premise T6: women tend to work in various fields which in the past normally done by men such as being engineers, and dealing with machines
+--------Premise T3: women can also do the men's works
+
+----no arguments attacks Claim T2
+
+----type: Claim T5
+----text: the issue stimulates the stakeholders from many places to think what kind of preparations they should take for stabilising the economic growth and the quality life of people
+----supporting Claim T5:
+
+--------Premise T4: The proportion of women is rising year by year in many parts of the world recently
+
+----no arguments attacks Claim T5
+
+----type: Claim T8
+----text: giving equal education for both men and women is a must
+----supporting Claim T8:
+
+--------Premise T9: learning from human's history, education provides someone to widen his or her knowledge and experience for facing the real situation of workplace through subject taught in college
+--------Premise T7: These days, it is so hard for young people to get a proper job when they have not degree certificate from Universities
+
+----no arguments attacks Claim T8
+
+----Claim T10: act for distributing education needs are absolutely important to compete the future challenges
+
+no arguments attacks MajorClaim T1
+

@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Many old traditionally cultural things have long gone as a result of modern technology
+supporting Claim T6:
+
+----Premise T4: these newfangled practices has replaced many old traditional ones
+----supporting Premise T4:
+--------Premise T5: factories equipped with new and highly-productive system has replaced old handmade products, the exchange of letters among friends is so hard to be seen as we have had emails and social network instead, new video games has superseded the old-physical ones
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T6
+

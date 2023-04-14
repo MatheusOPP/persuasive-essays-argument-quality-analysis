@@ -1,0 +1,36 @@
+Type: MajorClaim T1
+Text: a quintessence of any visit to an excellent museum of a new place would be the best part of a tour
+Supporting MajorClaim T1
+
+    Type: Claim T4
+    Text: museums can help us know the history and the customs of a new place
+    Supporting Claim T4
+
+        Premise: Through the exhibit, I found that the Statue of Liberty symbolized freedom, and Ellis Island may be the place, where the immigration took their dreams and fears
+        Premise: Last year, I went to Ellis Island and the immigration museum, where is a symbol of American immigration and the immigrant experience in the New York
+        Premise: it is easy to know the history of the new place
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: visiting a well-known museum also can broaden our horizon
+    Supporting Claim T8
+
+        Premise: Those outstanding and diverse range of objects,with classic and magnificent art, is guaranteed to inspire us
+        Premise: In my city, National Palace Museum is celebrated for collection of ancient Chinese artifacts
+        Premise: To my astonishment, Jadeite cabbage is the most famous artistic work, which is made of jade, is vividly shown
+
+    No arguments attacks Claim T8
+
+    Type: Claim T10
+    Text: a local museum could be a top choice and destination for tourist to visit
+    Supporting Claim T10
+
+        Premise: a local museum represent its own typical culture so that visitors may easily acquaint with the new place in a short time
+        Premise: visiting a museum saves their precious time for making a decision
+
+    No arguments attacks Claim T10
+
+
+No arguments attacks MajorClaim T1
+

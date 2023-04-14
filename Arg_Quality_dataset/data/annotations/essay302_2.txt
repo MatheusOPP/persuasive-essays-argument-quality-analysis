@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: The global economic conditions in these days are tough and there are many unpredictable factors that make it necessary to have some money on your bank account
+supporting Claim T6:
+
+----Premise T7: there are several uncertainties about your professional future
+----Premise T5: I remember some friends who lost their jobs recently due to the economic crisis in Europe
+----Premise T3: they had to move back in with their families and they lost their independence
+----supporting Premise T3:
+--------Premise T4: They could not afford the rent
+
+----no arguments attacks Premise T3
+
+
+no arguments attacks Claim T6
+

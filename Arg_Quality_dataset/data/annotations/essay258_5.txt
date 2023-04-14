@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: I will learn faster and better and won't get discouraged and confused
+supporting Claim T7:
+
+----Premise T11: And then he or she will teach me the course efficiently in a short time
+----Premise T10: In this situation, I'll look for a teacher and request for help from him or her
+----Premise T9: Sometimes when learning a course by myself which is hard and confusing to understand and has few sources available, I get discouraged after spending a lot of time
+----Premise T8: A good and experienced teacher can help me learn faster and easier
+
+no arguments attacks Claim T7
+

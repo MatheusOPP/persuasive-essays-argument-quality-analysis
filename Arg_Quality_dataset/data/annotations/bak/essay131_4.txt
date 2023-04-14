@@ -1,0 +1,8 @@
+Type: Claim T8
+Text: investing in art could bring employment opportunities and could end in return of capital occasionally
+Supporting Claim T8
+
+    Premise: The investment could be paid back through the values of the created works of art which as a matter of fact should be considered as national possessions
+
+No arguments attacks Claim T8
+

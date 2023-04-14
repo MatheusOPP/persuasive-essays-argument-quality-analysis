@@ -1,0 +1,9 @@
+Type: Claim T13
+Text: the culture heritage and nation identity vanish
+Supporting Claim T13
+
+    Premise: English is making lesser-known languages disappear ever year
+
+Attacking Claim T13
+    Premise: this is really short-sighted, ignoring the rapid development of native economy and society
+

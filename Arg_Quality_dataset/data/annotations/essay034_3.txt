@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: children should interrupt their school work and get a job
+supporting Claim T12:
+
+----Premise T14: there are many subjects that will be of little value to them in the future
+----Premise T15: children can learn social skills when they have a job
+----Premise T17: Working helps children be more independent and teach them to esteem and manage the money that they've earned
+----Premise T16: They can get more experiences that can not be obtained at school
+
+no arguments attacks Claim T12
+

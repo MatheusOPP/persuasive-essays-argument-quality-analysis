@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: people who learn a foreign language in the country in which it is spoken have a deeper understanding of different language skills than those who learn the same languages in their own countries
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

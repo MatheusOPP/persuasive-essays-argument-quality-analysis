@@ -1,0 +1,66 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: children should learn music and art in a young age
+supporting MajorClaim T1:
+
+----Claim T2: they do contribute several merits to them
+----Claim T4: Music and art can accompany a spirit as long as they are given the chance to enter his/her life
+----type: Claim T12
+----text: even if children are not going to be great musicians or artists, learning music and art is still worthy
+----supporting Claim T12:
+
+--------Premise T14: They teach us how to appreciate beauty and express feelings in a creative way
+--------Premise T13: music and art are life-long cultivation worthy of investing
+--------Premise T15: They are essential to our spiritual life
+--------Premise T16: it can nourish your temper and serve as a leisure
+
+----no arguments attacks Claim T12
+
+----type: Claim T7
+----text: it's very suitable for children to develop senses of music and art when they are young
+----supporting Claim T7:
+
+--------Premise T8: Children absorb things quickly and they bear exact the ability needed in music and art-imagination
+--------Premise T9: Music and art are not like math or language which has more strict rules
+--------supporting Premise T9:
+------------Premise T10: They are more abstract, requiring creativity and imagination to be enriched
+
+--------no arguments attacks Premise T9
+
+--------Premise T6: Children are privileged to have these abilities
+--------supporting Premise T6:
+------------Premise T5: they are given more freedom and their imagination has not yet been killed due to reality circumstances
+
+--------no arguments attacks Premise T6
+
+--------Premise T11: Even if their performances are just some simple drawings and melodies, music and art still bring out children's joy of flying in imagination
+
+----no arguments attacks Claim T7
+
+----Claim T23: they are indeed valuable to people not only in their young stage, but in every stage
+
+attacking MajorClaim T1:
+----type: Claim T17
+----text: parents shouldn't put so much stress on children
+----supporting Claim T17:
+
+--------Premise T18: learning too many skills seems to be a burden for them
+
+----attacking Claim T17:
+--------Premise T19: it depends on how you value these learning activities to be like
+--------supporting Premise T19:
+------------Premise T20: If parents push their 5 years old child to play piano 8 hours a day just like a professional performer, that might be too much
+
+--------no arguments attacks Premise T19
+
+--------Premise T22: it will not be such pressure on children
+--------supporting Premise T22:
+------------Premise T21: In a child stage, music and art are more like an open door to introduce the art world than training area to acquire specific skills
+
+--------no arguments attacks Premise T22
+
+
+

@@ -1,0 +1,28 @@
+Type: MajorClaim T3
+Text: modern communication technologies will benefit more people in the future as the pace of life increases
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: these new forms of communication do bring a great deal of convenience to humankind
+    Supporting Claim T4
+
+        Premise: With a mobile phone or a laptop, a person can talk or send messages online at a bus stop, in a corner shop or anywhere they could imagine
+        Premise: it is generally felt that the access to these tools of communication is available in every corner of the world
+        Premise: With the click of a button, the vast amount of information can be transmitted from America to China in just a few seconds
+        Premise: mobile phones and other tools of modern communication facilitate not only contact with friends and relatives in faraway places but also global business
+
+    No arguments attacks Claim T4
+
+
+Attacking MajorClaim T3
+    Type: Claim T9
+    Text: people who live in poverty are less likely to be benefited from modern communication technologies
+    Supporting Claim T9
+
+        Premise: the more privileged are able to enjoy the benefits
+        Premise: the wide spread use of these efficient and effective ways of communication costs a considerable amount of money
+        Premise: Anyone who aims to use these innovations have to not only pay for the appliances such as a mobile phone or a computer but also cover up costs for communication services
+
+    No arguments attacks Claim T9
+
+

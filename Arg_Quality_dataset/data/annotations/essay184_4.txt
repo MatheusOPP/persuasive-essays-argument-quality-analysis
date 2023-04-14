@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: attending a live football match is very fulfilling
+supporting Claim T6:
+
+----Premise T7: Before the match starts, thousands of fans gathering outside of the stadium with team flags, colorful outfits, sound of trumpets and rattles
+----Premise T8: As the game kicks off, the atmosphere inside the stadium is even more exciting
+----Premise T9: You are watching football stars play the game with your own eyes and sharing your feelings with about 40,000 people at the stadium, such an excitement you can never have when you are watching it at home
+----Premise T10: Everybody yells and sings together, the stadium is like bursted out whenever a goal is scored
+----Premise T11: See, you will be bored if you are watching it alone
+
+no arguments attacks Claim T6
+

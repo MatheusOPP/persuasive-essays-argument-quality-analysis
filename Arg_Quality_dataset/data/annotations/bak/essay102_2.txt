@@ -1,0 +1,46 @@
+Type: MajorClaim T6
+Text: we still need museums and art galleries
+Supporting MajorClaim T6
+
+    Type: Claim T12
+    Text: In order to help visitors to learn more about the exhibits, museums hold various activities which make visitors be part of what they are seeing
+    Supporting Claim T12
+
+        Premise: at American Museum of Natural History, you can make a bone-by-bone reproduction of the museum's stegosaurus
+        Premise: at Museum of Art in New York, you can look at 17th century instruments while listening to their music
+        Premise: While if you "visit" the museum online, you may not able to get this kind of experience
+
+    No arguments attacks Claim T12
+
+    Type: Claim T16
+    Text: Seeing an art work on computer screen is not the same as you watch it by your own eyes
+    Supporting Claim T16
+
+        Premise: you can't see the texture of the artwork which is very important to study the skills used by the artist
+        Premise: not all the details of the artwork can be shown on the computer screen
+        Premise: Some details might be dim
+        Premise: These may influence the comprehension of the art work or historical objects
+
+    No arguments attacks Claim T16
+
+
+Attacking MajorClaim T6
+    Type: Claim T7
+    Text: computers can be introduced to museums and galleries in order to help visitors to know more about the art works or historical objects
+    Supporting Claim T7
+
+
+    No arguments attacks Claim T7
+
+    Type: Claim T9
+    Text: Most people nowadays prefer to use the Internet to search for art work
+    Supporting Claim T9
+
+        Premise: the Internet really brings them convenience
+        Premise: We can browse the art work from all over the world at home
+
+    Attacking Claim T9
+        Premise: the exhibits in museums or galleries are all life size and visitors can get a more direct felling
+        Premise: people may not get a spiritual experience
+
+

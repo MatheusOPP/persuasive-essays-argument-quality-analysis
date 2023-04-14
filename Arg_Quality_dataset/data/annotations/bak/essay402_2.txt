@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: studying hard will give children a better future
+Supporting Claim T8
+
+    Premise: children who always studying hard and getting high achievement, it will be easy to pass qualification for work and they are more likely to find great work at multinational company
+    Premise: Studying hard gives children with a plenty of knowledge and skills for their future
+    Premise: when you always studying harder than others you will get best results
+
+No arguments attacks Claim T8
+

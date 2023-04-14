@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: with the risen of the aware to the environment, people will think more about whether to drive on their own or not
+supporting Claim T7:
+
+----Premise T8: a driving car can make a lot of different pollutions to the world
+----Premise T9: instead of driving each one's car, if we put forty people in a bus, it will solve the traffic jam by decrease the cars use and also reduce the air pollution for the city
+
+no arguments attacks Claim T7
+

@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: all languages should be preserved and developed as much as possible
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: Governments should spend money on keeping and preserving these things for the rich diversity of cultures which make our world more interesting
+----supporting Claim T3:
+
+--------Premise T4: It helps people distinguish between nations and even regions in a country
+--------Premise T5: The clearance of minority of language means that a national traditional, customs and habitants do not exist
+--------Premise T2: it is easy to realize that languages, especially oral language, are a quite major part of culture of a country
+--------Premise T6: it is a pride of the country with a rage of culture which is easy to educate people to love their country more
+
+----no arguments attacks Claim T3
+
+
+attacking MajorClaim T1:
+----type: Claim T7
+----text: there are some drawbacks from saving minority languages
+----supporting Claim T7:
+
+--------Premise T8: governments invest money on doing that, it is hard to gain the good results
+--------Premise T9: there are a few people, particularly the youngsters, do not pay attention on collecting and studying those
+--------Premise T10: These kinds of languages are usually difficult and unpopular
+--------Premise T11: the preservations need a long time to gather, restore all information as well as train in the educational centre
+--------Premise T12: If they do not try their best, their protection can be halted and waste of money
+
+----no arguments attacks Claim T7
+
+

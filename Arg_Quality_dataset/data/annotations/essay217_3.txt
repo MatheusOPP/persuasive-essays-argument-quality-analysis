@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: experiencing the real life by myself, I could learn more than just obey the advice
+supporting Claim T14:
+
+----Premise T13: growth is a long process that experience is indispensable
+
+no arguments attacks Claim T14
+

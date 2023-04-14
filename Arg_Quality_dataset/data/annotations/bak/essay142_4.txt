@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: the increase in life expectancy puts a high pressure on the economic system
+Supporting Claim T11
+
+    Premise: more pension have to spend for Medicare instead of investing in other sectors of the economic system
+
+Attacking Claim T11
+    Premise: they are worth to have good care
+

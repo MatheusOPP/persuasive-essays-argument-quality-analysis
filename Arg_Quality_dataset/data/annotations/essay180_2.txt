@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: the groups play an essential role in the process of socialization, from children to adults
+supporting Claim T5:
+
+----Premise T3: humans are a part of the society, and the society includes a wide variety of groups
+
+no arguments attacks Claim T5
+

@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: when hand phones are provided for free, many would want to take advantage of this opportunity
+Supporting Claim T12
+
+    Premise: the public's money is spent worthlessly
+    Premise: It will not be surprising that in order to obtain a mobile phone, they make themselves jobless
+
+No arguments attacks Claim T12
+

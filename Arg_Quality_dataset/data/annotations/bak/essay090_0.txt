@@ -1,0 +1,21 @@
+Type: MajorClaim T2
+Text: personality is the most important
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: We can never judge about a person with his or her appearance
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+
+Attacking MajorClaim T2
+    Type: Claim T1
+    Text: although appearance is important
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+

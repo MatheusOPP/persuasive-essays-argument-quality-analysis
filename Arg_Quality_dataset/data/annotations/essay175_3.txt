@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: gossip involves misleading images for the purpose of boosting newspaper sales or exciting public opinion
+supporting Claim T12:
+
+----Premise T13: The audience may see a lot of photos in the kind of reports, which seems to tell a story
+----Premise T14: it is unfair that the ridiculous coverage may be a vexation for the famous people who are reported
+
+no arguments attacks Claim T12
+

@@ -1,0 +1,14 @@
+Type: MajorClaim T15
+Text: the fast responding internet media with vast information will be replacing newspapers and magazines as new and information provider
+Supporting MajorClaim T15
+
+
+Attacking MajorClaim T15
+    Type: Claim T16
+    Text: considering the current infrastructure and mindset of people, paper media will continue for another few years
+    Supporting Claim T16
+
+
+    No arguments attacks Claim T16
+
+

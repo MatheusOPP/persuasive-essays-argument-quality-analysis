@@ -1,0 +1,12 @@
+Type: Claim T5
+Text: watching a live football game is an exceptional experience
+Supporting Claim T5
+
+    Premise: You can cherish your experience for a long time
+    Premise: You can watch it at home, but "easy come, easy go", you will quickly forget it, like a movie
+    Premise: it can be an exclusive experience
+    Premise: If it is a crucial win to acclaim a trophy, you will be "on site" to witness and celebrate the victory
+
+Attacking Claim T5
+    Premise: The tickets to get in the stadium may be a little expensive
+

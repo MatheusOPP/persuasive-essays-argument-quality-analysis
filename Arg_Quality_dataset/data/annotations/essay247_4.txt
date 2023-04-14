@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T22
+text: people who own a vehicle have greater access to more places and will see more of the world
+supporting Claim T22:
+
+----Premise T19: If people do not own cars they are likely to stay in their hometown or village most of their life
+----Premise T20: They are mainly using public transport and are thus limited in accessing certain areas
+----Premise T21: There are still places in nearly every country in the world that cannot be reached by public transportation and can only be visited by car
+----Premise T18: the automobile allows people to travel more often and thus get to know the world
+
+no arguments attacks Claim T22
+

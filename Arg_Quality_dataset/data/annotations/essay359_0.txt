@@ -1,0 +1,57 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: international tourism not only causes tension but also leads to understanding between people from different culture
+supporting MajorClaim T1:
+
+----Claim T2: most people will be trying to understand each other after they have conflict or debates
+----Claim T4: people are looking for the solution such as understanding each other while they encounter the conflicts caused by international tourism
+----type: Claim T11
+----text: some behaviors of the tourists are not welcome in the local area
+----supporting Claim T11:
+
+--------Premise T7: tourists may offend the local people due to their different culture background
+--------supporting Premise T7:
+------------Premise T8: Indians don't eat beef
+------------supporting Premise T8:
+----------------Premise T9: they worship cows
+
+------------no arguments attacks Premise T8
+
+------------Premise T10: if tourists want to respect the tradition, they will not order any beef in the local restaurant
+
+--------no arguments attacks Premise T7
+
+--------Premise T16: the new batch of tourists will have a tidy and neat environment
+--------supporting Premise T16:
+------------Premise T5: those local residents have to clean the place frequently
+------------supporting Premise T5:
+----------------Premise T6: some people leave the rubbish after visiting the attractions
+
+------------no arguments attacks Premise T5
+
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Claim T11
+
+----type: Claim T15
+----text: in order to avoid the conflicts between foreigners and locals, people are trying to understand different culture and find solutions
+----supporting Claim T15:
+
+--------Premise T12: tourists are given the brochures about the local traditions and customs before they visit the place
+--------Premise T13: the possibility of the conflicts is reduced because the understanding between both parties
+--------supporting Premise T13:
+------------Premise T14: the tour guide are willing to help tourists to understand the culture from other countries
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Claim T15
+
+
+no arguments attacks MajorClaim T1
+

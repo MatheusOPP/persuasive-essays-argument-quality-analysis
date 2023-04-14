@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: People often want to access news from past for various reasons like to prepare for research, satisfy interest, etc
+supporting Claim T13:
+
+----Premise T10: one research fellow may want to know how a small village named Oramaki in Japan was suffering after Second World War
+----Premise T11: It is very difficult to get this sort of information from past in newspapers and magazines as one has to know before where to look at
+----Premise T12: internet provides efficient search facility where one can search the topic and get the details
+----Premise T14: This feature of digital media is not supported by newspapers and magazines
+
+no arguments attacks Claim T13
+

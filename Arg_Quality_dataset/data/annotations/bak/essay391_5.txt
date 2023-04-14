@@ -1,0 +1,8 @@
+Type: Claim T13
+Text: mobile phones have shortened the distance of communication
+Supporting Claim T13
+
+    Premise: Mobile phones , such as smart phones, has made our communication easy and convenience
+
+No arguments attacks Claim T13
+

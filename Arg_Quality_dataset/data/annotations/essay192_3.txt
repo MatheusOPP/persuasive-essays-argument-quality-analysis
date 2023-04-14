@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: When you have just few close friends, on one hand you develop a more intimate relationship with them and you feel you can trust them more
+supporting Claim T7:
+
+
+attacking Claim T7:
+----Premise T8: they often will give you viewpoints not so different from yours, adding less to your experience
+

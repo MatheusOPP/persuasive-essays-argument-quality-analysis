@@ -1,0 +1,51 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: individuals should pay their college tuition
+supporting MajorClaim T1:
+
+----Claim T2: it would cost too much, the college education is a personal's choice, and there are many ways to fund a college education
+----Claim T4: it would cause too much cost from taxpayers and the governmen
+----type: Claim T10
+----text: those people should make the financial investment in their own choice; not the government
+----supporting Claim T10:
+
+--------Premise T13: People who want to make more money, and live a better life than other people decide to take a college education
+--------Premise T12: Not everyone wants to go to a college
+--------Premise T11: it is a personal choice to go to a college
+
+----no arguments attacks Claim T10
+
+----type: Claim T14
+----text: there are many ways to fund a college education
+----supporting Claim T14:
+
+--------Premise T15: People who cannot afford to pay their tuition benefit from the scholarship, financial aids, and other funds
+--------Premise T16: the government already helps pay college expense through indirect means
+--------Premise T17: They often provide services such as fire departments, medical assistance, and police protection for the schools and their students
+--------Premise T18: They also provide funds for academic research
+--------Premise T19: While the money is not given to individual students, these contributions are not trivial
+
+----no arguments attacks Claim T14
+
+----type: Claim T6
+----text: making college education free would cost too much
+----supporting Claim T6:
+
+--------Premise T7: It would divert public funds from other needs such as law enforcement, infrastructure and so forth
+--------Premise T5: it would affect all taxpayers whether or not they benefit from the use of the funds
+--------supporting Premise T5:
+------------Premise T9: it would cause to raise our taxes again and again to fund college education
+
+--------no arguments attacks Premise T5
+
+--------Premise T8: There are many other needs which should come first, such as providing health care to all American, or improving public schools
+
+----no arguments attacks Claim T6
+
+----Claim T20: it is a personal choice
+
+no arguments attacks MajorClaim T1
+

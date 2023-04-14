@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: classroom learning is the best way to provide education comparing to online classes
+supporting Claim T7:
+
+----Premise T3: In the classroom environment you can learn from your classmates
+----supporting Premise T3:
+--------Premise T4: if you see any of your classmates who is performing better, it will force you for making your performance more better
+
+----no arguments attacks Premise T3
+
+----Premise T5: When I was in First Year in B Com, I was not serious in my study, but when I saw some of my friends who took better grades than me, it influenced me and I intended to do better in my subjects
+----Premise T6: I got 1st rank in final exam
+
+no arguments attacks Claim T7
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: handwriting still plays a vital role in students' learning
+supporting Claim T6:
+
+----Premise T3: this approach is a basis tool used in several fields such as taking notes, doing homework and writing
+----supporting Premise T3:
+--------Premise T4: It enables to improve learners' spelling capacity and accompany reading or writing disabilities as well
+
+----no arguments attacks Premise T3
+
+----Premise T5: Under the guidance of parents or teachers, children can benefit from practicing handwriting
+----Premise T7: This way of writing will encourage them to pay more attention on content, elaborate in details and develop their organization abilities
+
+no arguments attacks Claim T6
+

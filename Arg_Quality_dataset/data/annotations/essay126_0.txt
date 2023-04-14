@@ -1,0 +1,49 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: it's better to have one or two close friends than to have a large number of casual acquaintances
+supporting MajorClaim T2:
+
+----type: Claim T1
+----text: it's much easier to have some casual acquaintances than have some close friends
+----supporting Claim T1:
+
+--------Premise T7: Sometimes acquaintances are just acquaintances
+--------Premise T8: We spend time together but we could never be friend
+--------Premise T3: being a friend with someone is different from only being acquaintant
+--------supporting Premise T3:
+------------Premise T4: it's not easy to make friend with anyone
+------------Premise T5: friends are people who have great compatibility with each other
+------------Premise T6: After two years in college I have found sometimes there is more differences between people than similarities, for we are growing in the different families and was educated in various ways
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Claim T1
+
+----type: Claim T9
+----text: close friends can easily understand each others feelings
+----supporting Claim T9:
+
+--------Premise T10: acquaintances probably not able to understand you better than your friends
+--------Premise T11: they wouldn't even spare time to consider your feelings
+--------Premise T12: Everyone play the role of acquaintance and friend at the same time
+--------Premise T13: Being friendly is a good way to treat a acquaintance but way not enough for a friend
+
+----no arguments attacks Claim T9
+
+----type: Claim T17
+----text: a friend is a person you care about
+----supporting Claim T17:
+
+--------Premise T14: When my friend is sick, I would not only ask if he is okay like an acquaintance but do my best to make him get well as soon as possible
+--------Premise T15: If my friend is going to the wrong direction in his life trail, I will try my best to pull him back, but not stand and stare like it's not of my business
+--------Premise T16: my friend will do the same to me
+
+----no arguments attacks Claim T17
+
+
+no arguments attacks MajorClaim T2
+

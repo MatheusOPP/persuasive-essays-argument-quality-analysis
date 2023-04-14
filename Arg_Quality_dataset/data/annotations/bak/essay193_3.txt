@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: The use of public transportation make us live more sociable
+Supporting Claim T12
+
+    Premise: When we drive a private car, we are alone or only our family members that we already know and lost the opportunity to make friends with others or to see that we are a part of this society
+    Premise: When using public transportation, we have a chance to meet more people and more chances to discovery new aspects of life
+
+No arguments attacks Claim T12
+

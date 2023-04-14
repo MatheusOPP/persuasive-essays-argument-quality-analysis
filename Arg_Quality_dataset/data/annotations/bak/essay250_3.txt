@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: the gap between the rich athletes and normal people is so huge that it seems to be unfair
+Supporting Claim T12
+
+
+Attacking Claim T12
+    Premise: Fairness is not about equal payments for everyone, but equal chances to acquire the same goal or accomplishment
+    Premise: as long as everyone has equal chances to pursue his/her dreams and careers, that would be fair
+

@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: They can make mistakes which can sometimes affect an innocent, circumstantially marred criminals
+supporting Claim T15:
+
+----Premise T16: They have the life of a person at their discretion
+----Premise T14: the jury giving the verdict are also humans
+----Premise T17: The jury must therefore, take into account the circumstances of committing a crime
+----supporting Premise T17:
+--------Premise T18: if an individual murders someone for self-defense, then such a crime is not heinous
+--------Premise T19: Only deserving criminals, who commit such hateful crimes in their proper senses are subjected to capital punishment
+
+----no arguments attacks Premise T17
+
+
+no arguments attacks Claim T15
+

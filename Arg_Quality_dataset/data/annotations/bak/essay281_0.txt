@@ -1,0 +1,39 @@
+Type: MajorClaim T1
+Text: government should pay attention on basic needs of people first
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: government should invest to create more jobs
+    Supporting Claim T2
+
+        Premise: people have a good quality life
+        Premise: quality of life were dropping and this make people unhappy
+        Premise: after great economic recession, many people in many countries were unemployed
+
+    No arguments attacks Claim T2
+
+    Type: Claim T14
+    Text: government should invest in alternative energy such as using solar energy instead of coal energy
+    Supporting Claim T14
+
+        Premise: If we lived in good environment, our life would be better
+        Premise: government take care of this issue by declare regulate to control emission of carbon dioxide
+        Premise: environment is also important issue that everyone depend on it
+
+    No arguments attacks Claim T14
+
+    Type: Claim T17
+    Text: government should create campaign to fill love to family
+    Supporting Claim T17
+
+        Premise: When family understand each other, it mean society and a nation will not have much trouble
+        Premise: setting event once a week to gather everyone in family to spend time with each other
+        Premise: family is a root of society
+        Premise: If everyone in family did not have time to spend with each other, that family could have problems, If family had problems, it mean society could have problems
+        Premise: When society had problems, it could impact to a nation
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T1
+

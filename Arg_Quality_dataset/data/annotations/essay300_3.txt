@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: students learning capability increase after having refreshing vacation
+supporting Claim T6:
+
+----Premise T11: in my school we used to get several vacations after our quarterly exams
+----Premise T12: During those vacations i used to analyze my performance in latest examination and used to go through those question or concept again to avoid making same mistakes
+----Premise T13: I also used to spend my time on developing some recreational activity or learning some sports or game
+----Premise T14: During my all vacations, I used to miss my school due to which I used to restart my session with great enthusiasm of learning and scoring good marks in new quarter
+
+no arguments attacks Claim T6
+

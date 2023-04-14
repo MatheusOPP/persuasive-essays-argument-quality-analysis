@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: most of young people prefer to have meals at restaurants
+supporting Claim T10:
+
+----Premise T8: they find hard to have time to prepare and cook a meal
+----supporting Premise T8:
+--------Premise T9: 89% of people have come to think that, since they have been put in the situation which is filled with competitions and pressures, they have to use a lot of time to work hard, to update themselves, to acquire all kinds of skills and so on
+
+----no arguments attacks Premise T8
+
+----Premise T11: Even they have some spare time, they prefer to go out with friends to relax and relieve the pressure from work and study
+----Premise T18: they want to invest more time in their work or study to improve themselves
+
+no arguments attacks Claim T10
+

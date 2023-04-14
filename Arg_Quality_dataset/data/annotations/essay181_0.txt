@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: I will be happy to hear that the government has a plan to build a new university in my community
+supporting MajorClaim T3:
+
+----Claim T4: There are many advantages setting up the university such as more opportunities to people in the community to pursue their studies, creation of jobs
+----type: Claim T5
+----text: This new university will allow a great number of people in my community to have a chance to study
+----supporting Claim T5:
+
+--------Premise T6: suppose you live in a faraway community where there is no single university and you might not want to leave your family
+--------Premise T7: If you would like to attend a business school, you have to travel across the country to get to a distant university
+--------Premise T8: He or she definitely can get in the business school in the proposed community's university
+
+----no arguments attacks Claim T5
+
+----type: Claim T12
+----text: This can also help stimulate the local economy
+----supporting Claim T12:
+
+--------Premise T9: a number vacant positions need to be filled
+--------supporting Premise T9:
+------------Premise T10: the university will have to hire professors, employees and etc
+------------Premise T11: there will be more opportunities to work in the community
+
+--------no arguments attacks Premise T9
+
+--------Premise T13: when people have jobs, they will have money to spend on goods and services
+
+----no arguments attacks Claim T12
+
+----type: Claim T14
+----text: building the university may lead to some social problems
+----supporting Claim T14:
+
+--------Premise T15: A number of people then may come from any other communities in order to get in to or get the jobs at the university
+--------Premise T16: When many people congregate in one place, I think that some kinds of social problems will follow
+--------Premise T17: Traffic may worsen
+--------Premise T18: More wastes have to be managed
+--------Premise T19: Maybe crime rate will also increase
+--------Premise T20: These social problems may impair the quality of life in the community
+
+----no arguments attacks Claim T14
+
+
+no arguments attacks MajorClaim T3
+

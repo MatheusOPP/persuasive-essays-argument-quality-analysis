@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: they can gain a deep sight into what are they studying
+supporting Claim T6:
+
+----Premise T4: people are able to strengthen their knowledge
+----supporting Premise T4:
+--------Premise T3: in this wonderful academic environment, everyone is provided with varieties and gigantic number of information by a lot of professors and well-trained teachers
+
+----no arguments attacks Premise T4
+
+----Premise T5: through the instructions of teachers, the sufficient infrastructure such as laboratory, library, students is capable of doing research on every academic aspect
+----Premise T7: for most people, university is an ideal place for them to develop their understanding
+
+no arguments attacks Claim T6
+

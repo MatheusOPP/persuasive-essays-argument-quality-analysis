@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: the image of a healthy nation can be promoted when government restricts public smoking by imposing stern penalty to the offender
+Supporting Claim T7
+
+    Premise: the Brunei government had recently enforced a law against smoking in public areas such as cafés, hospital and shopping street
+    Premise: This step has curbed down the numbers of smokers in the country and as a result, Brunei remains a place known for its tranquility and cleanliness
+    Premise: This example shows the benefit of restricting public smoking to a country as a whole
+
+No arguments attacks Claim T7
+

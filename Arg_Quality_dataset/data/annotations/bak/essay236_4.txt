@@ -1,0 +1,9 @@
+Type: Claim T13
+Text: a professor who is concentrate in his or her research is thinking and creating new ideas all the time
+Supporting Claim T13
+
+    Premise: He or she may stimulate us students to come up with some creative sugesstions
+    Premise: That is good for both of the professor and students
+
+No arguments attacks Claim T13
+

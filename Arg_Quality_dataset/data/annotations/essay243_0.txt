@@ -1,0 +1,74 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I prefer e-mail due to 3 reasons: convenience, honest expression and fluency in communicating
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: e-mail has been a great way of communication
+----supporting Claim T2:
+
+--------Premise T3: You can talk to others from thousands mile
+--------supporting Premise T3:
+------------Premise T4: if you are in Vietnam and another person is in the US - half of the Earth, no matter how far it is, you can keep contact
+
+--------no arguments attacks Premise T3
+
+--------Premise T5: We will never have to worry if our mails will be sent to the right address
+--------supporting Premise T5:
+------------Premise T6: If the address is wrong, then you will know right away
+
+--------no arguments attacks Premise T5
+
+--------Premise T7: e-mail doesn't take too much time: just a click
+
+----no arguments attacks Claim T2
+
+----type: Claim T15
+----text: E-mail helps me arrange my idea perfectly and make it persuasive
+----supporting Claim T15:
+
+--------Premise T18: Voice email or face-to-face conversations sometimes make reserve people feel not very confident
+--------supporting Premise T18:
+------------Premise T19: when I face my parents, I can't speak out every idea and express consecutively
+------------Premise T20: They may stop me, speak something against it and that makes me forget what I want to say
+------------Premise T21: Anyone can meet this problem once in any conversation
+
+--------no arguments attacks Premise T18
+
+--------Premise T17: people can understand each other exactly and remember it for a long time
+--------supporting Premise T17:
+------------Premise T16: every communication needs fluency
+
+--------no arguments attacks Premise T17
+
+
+----no arguments attacks Claim T15
+
+----Claim T23: Its convenience saves our time
+----type: Claim T9
+----text: writing e-mail helps people express honestly
+----supporting Claim T9:
+
+--------Premise T10: the face-to-face conversations make them feel stupid
+--------supporting Premise T10:
+------------Premise T11: Sometimes, their ideas are not expressed as exactly as they expect
+
+--------no arguments attacks Premise T10
+
+--------Premise T8: e-mail will be a good tool to help me speak out
+--------supporting Premise T8:
+------------Premise T12: I want to talk to my friend about a ticklish problem like her behavior, it's hard for me to face her and explain what she should do
+------------Premise T13: She will just read my e-mail instead of listening to my voice which can make her annoyed
+------------Premise T14: I don't have to worry about any other thing can make my opinion become unpersuasive
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

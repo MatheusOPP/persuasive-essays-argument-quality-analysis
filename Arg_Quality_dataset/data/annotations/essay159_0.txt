@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the popularity of mobile phones to the young generation is a bad development
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: many young owners of cellular phones are struggling at school because they are distracted most of the time with their phones
+----supporting Claim T3:
+
+--------Premise T4: Games and applications installed in phones have occupied much of their time, leaving them lesser time for their studies and other school activities
+--------Premise T5: internet capable phones help influence the young ones to become more interested in chatting and social sites rather than doing school works
+--------supporting Premise T5:
+------------Premise T6: In my college days, I was once addicted to a certain game on my cellular phone
+------------Premise T7: I have spent most of my time trying to reach a higher level to show-off to my friends
+------------Premise T8: That goal has led me to my lost in interest on doing my homework and I ended up failing one subject in that semester
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Claim T3
+
+----type: Claim T9
+----text: juveniles who possess mobile phones have great tendencies to become materialistic
+----supporting Claim T9:
+
+--------Premise T11: they would need their parents to support them financially for what they want
+--------supporting Premise T11:
+------------Premise T12: most of these juveniles are students
+
+--------no arguments attacks Premise T11
+
+--------Premise T10: They would not only purchase a phone because of its functionality but also for its brand
+--------Premise T13: An illustration of this unfortunate trend can be seen almost everywhere these days, wherein most teens at an early age own phones which are worth twice the salary of their parents
+--------Premise T14: these do not come at a significant and inexpensive cost
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

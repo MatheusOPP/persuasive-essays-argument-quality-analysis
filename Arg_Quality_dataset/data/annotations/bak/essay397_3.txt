@@ -1,0 +1,8 @@
+Type: Claim T7
+Text: Thanks to modern technology, our life has been improved with many gadgets
+Supporting Claim T7
+
+    Premise: The invention of mobile phone and internet has changed our traditional ways of communicating as well as working, it has also been much less labourous than in the pass with the assistance of electrical machineries
+
+No arguments attacks Claim T7
+

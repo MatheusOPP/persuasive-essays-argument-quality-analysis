@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: having experienced in working environment during student time offers a distinct advantage when they apply for jobs after their graduation
+supporting Claim T4:
+
+----Premise T5: students who get part time jobs have not only academic knowledge but also hands-on experience
+----supporting Premise T5:
+--------Premise T6: that seems to be more essential the present shortage of sufficiently practical conditions supplied in universities
+
+----no arguments attacks Premise T5
+
+----Premise T7: Part-time jobs furnish them with precious chance to practice what they are learning at their universities
+----Premise T3: It is undoubtedly certain that students can gain their practical experience by getting involved extra jobs
+
+no arguments attacks Claim T4
+

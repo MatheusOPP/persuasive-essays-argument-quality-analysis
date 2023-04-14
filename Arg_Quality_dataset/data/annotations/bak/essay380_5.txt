@@ -1,0 +1,9 @@
+Type: Claim T12
+Text: countries that import oil will be more dependent on the exporters, both politically and financially
+Supporting Claim T12
+
+    Premise: Suppose that the those countries cut down on its oil support, other nations will have to pay more as well as release beneficial policies for them
+    Premise: America, for example, has recently drawn its intervention in Russian crisis only due to the influx of oil
+
+No arguments attacks Claim T12
+

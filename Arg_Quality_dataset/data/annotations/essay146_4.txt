@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: high school students should learn broadly and prepare future learning at university
+supporting Claim T13:
+
+----Premise T9: General education plays a significant role in specialized education
+----Premise T10: Science today, for example, is said to be more and more specialized, but in order to solve a problem scientists have to combine knowledge from chemistry to physics
+----Premise T11: textbooks used in higher education are labelled particular subjects, in fact they require basic understanding of other subjects
+----supporting Premise T11:
+--------Premise T12: you sometimes need knowledge about physics to read a text on chemistry
+
+----no arguments attacks Premise T11
+
+----Premise T8: students should obtain knowledge from a variety of academic fields
+
+no arguments attacks Claim T13
+

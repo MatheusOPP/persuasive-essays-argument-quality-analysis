@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: by paying taxes for public school, affluent people effectively contribute to narrowing down the gap between rich and poor
+supporting Claim T2:
+
+----Premise T3: many poor families are not able to afford tuition fees for their kids to attend a course
+----Premise T4: With the the tax amount for which they pay, the rich may help a vast number of students from families with poverty background to continue their studies, and earn a better quality of life
+
+no arguments attacks Claim T2
+

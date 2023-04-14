@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: if children always watch the TV programs that good people get rewarded, they may think it will be true in the real world
+supporting Claim T10:
+
+----Premise T17: it happen more often in the real world than in those movies
+----Premise T11: They will be misleading by those movies
+----Premise T16: Even in the real world, good people can get a bad ending sometimes
+----Premise T12: they may act like good people in order to get reward
+----Premise T13: Once they find the good people are not always get rewarded, they may feel upset and not to be a good person
+----Premise T15: we should tell this to the young children to avoid the misunderstanding
+----supporting Premise T15:
+--------Premise T14: the good people do good things no matter the ending is good or not
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T10
+

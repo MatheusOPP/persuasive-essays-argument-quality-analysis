@@ -1,0 +1,25 @@
+Type: MajorClaim T3
+Text: it will bring the higher level of violence
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: a society that its police force carries guns will be definitely seen as a highly violent one
+    Supporting Claim T4
+
+        Premise: while on duty, not only are private citizens affected but facilities such as cars, houses, streets are likely to be destroyed by guns
+        Premise: citizens in that society can be shot by both police and offenders accidentally
+        Premise: we need to consider that police armed with guns or any other kinds of legal weapons just attempts to protect not only civilians but also himself
+
+    No arguments attacks Claim T4
+
+    Type: Claim T9
+    Text: Those are possibly the strongest evidences to determine a society suffering a high level of violence
+    Supporting Claim T9
+
+        Premise: people and police in those ones usually deal with dangerous diverse crime's categories such as theft, robbery, murder, rape, vandalism, arson
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T3
+

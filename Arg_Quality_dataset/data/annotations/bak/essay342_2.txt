@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: A strong competition sense helps children having urge to learn or to practice for being the best among peers, and this factor is initially arises from the schools and parents, to encourage children to get the highest scores through the grading system
+Supporting Claim T5
+
+    Premise: a competitive child is usually more motivated to pursue a goal or to face difficulties independently
+
+Attacking Claim T5
+    Premise: Being competitive leads them to success, but could also restrict them in many ways
+

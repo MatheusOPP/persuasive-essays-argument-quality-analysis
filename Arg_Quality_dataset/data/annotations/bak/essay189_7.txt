@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: would affect their mental and physical health
+Supporting Claim T8
+
+    Premise: They won't be able to get proper time for relaxation, sleep
+    Premise: jobs has various responsibilities like attendance, sometimes extra work and so on
+    Premise: This would result in stress, tension and tiredness
+
+No arguments attacks Claim T8
+

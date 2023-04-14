@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: the classmates themselves creat a competitive atmoshphere which incent the children
+Supporting Claim T6
+
+    Premise: In high school, for instance, an individual cannot resist studying painstakingly through day and night when the others who are astoundingly ambitious and set sights on prestigious universities around the globe are doing the same
+    Premise: From a psychological perspective, the feeling of being subordinate to their peers exert enormous pressure on the children, which subsequently transforms into some sort of stimulants and boosts the children's academic performances
+
+No arguments attacks Claim T6
+

@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: those who are paid high salaries must exceed others and achieve something incredible in certain ways
+supporting Claim T2:
+
+----Premise T3: a worker's salary can properly reflect his/her competence and value on his/her career
+----Premise T4: They are not paid for no reason
+----Premise T5: As we are now live in a competent world, we must show ourselves to be great enough so as to convince the employer that we deserve a better payment
+----Premise T6: It's all the same in every profession
+----Premise T7: the richest athletes usually correspond to the greatest athletes in their fields, namely Michael Jordan or Tiger Woods
+
+no arguments attacks Claim T2
+

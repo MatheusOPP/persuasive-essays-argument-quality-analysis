@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: museums can help us know the history and the customs of a new place
+supporting Claim T4:
+
+----Premise T7: Through the exhibit, I found that the Statue of Liberty symbolized freedom, and Ellis Island may be the place, where the immigration took their dreams and fears
+----Premise T6: Last year, I went to Ellis Island and the immigration museum, where is a symbol of American immigration and the immigrant experience in the New York
+----Premise T5: it is easy to know the history of the new place
+
+no arguments attacks Claim T4
+

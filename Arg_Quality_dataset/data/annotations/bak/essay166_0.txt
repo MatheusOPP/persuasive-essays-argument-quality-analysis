@@ -1,0 +1,67 @@
+Type: MajorClaim T1
+Text: I would prefer to live in a city
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: I am eager to get a good job and explore different places
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: a big city can offer me many more vacancies than a small town
+    Supporting Claim T3
+
+        Premise: Big city life provides many opportunities
+        Premise: it will be easier for me to find an engineering job in the city
+        Premise: Electrical engineering deals with problems concerning electricity supply
+
+    No arguments attacks Claim T3
+
+    Type: Claim T10
+    Text: At the weekends, there is a great number of things to do in the metropolis
+    Supporting Claim T10
+
+        Premise: There are numerous bars, cafes and restaurants where I can go with my friends
+        Premise: Multinational cities have restaurants with different national cuisines
+        Premise: I am fond of Italian food, and if there is an Italian restaurant in the city, I will definitely visit it
+
+    No arguments attacks Claim T10
+
+    Type: Claim T11
+    Text: Cultural life of a metropolis is always an entertaining one
+    Supporting Claim T11
+
+        Premise: There a person can listen to music, make new friends or enjoy a a drink alone
+        Premise: A night club is an interesting place to visit for young people
+        Premise: I am keen on museums and it would be a pleasure for me to spend several hours a week in front of famous paintings, sculptures or artifacts
+        Premise: On special dates, city offers free exhibitions which are available for everyone who is interested in art
+
+    No arguments attacks Claim T11
+
+    Type: Claim T16
+    Text: cities have better medical facilities than in the countryside
+    Supporting Claim T16
+
+        Premise: This can at least assure me that if I feel bad, city can provide a high quality help
+
+    No arguments attacks Claim T16
+
+    Type: Claim T19
+    Text: big cities offer countless amount of opportunities and entertainment places
+    Supporting Claim T19
+
+
+    No arguments attacks Claim T19
+
+
+Attacking MajorClaim T1
+    Type: Claim T18
+    Text: while small towns have picturesque nature and pure air
+    Supporting Claim T18
+
+
+    No arguments attacks Claim T18
+
+

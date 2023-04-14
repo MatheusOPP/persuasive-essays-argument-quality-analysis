@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: The more prepared food we eat the more cooking skills we lose
+supporting Claim T11:
+
+----Premise T12: At the increasing living pace, the majority of people tend to choose microwave as their unique cooker that help them prepare a dish in five minutes
+----Premise T13: rare people have been aware that this has contributed to a modification of cooking habits, which may cause the loss of our custom and culture about cooking
+
+no arguments attacks Claim T11
+

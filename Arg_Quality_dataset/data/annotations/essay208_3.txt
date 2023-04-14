@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: students can also gain knowledge more practical and vivid
+supporting Claim T11:
+
+----Premise T10: there is also an intimate connection between economy and enterprises
+----Premise T8: economy is always correlate with politics
+----supporting Premise T8:
+--------Premise T9: students can study specialized knowledge along with some Politian status, which may open their vision toward the nation and don't get limited in the textbooks
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T11
+

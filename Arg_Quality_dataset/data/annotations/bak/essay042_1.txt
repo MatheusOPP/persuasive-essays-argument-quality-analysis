@@ -1,0 +1,32 @@
+Type: MajorClaim T2
+Text: providing a more secured and relaxing environment for workers can fundamentally boost their productivity
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: they will be feeling more cared for and therefore do their best for their bosses
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: A raise or a promotion can no doubt increase the morale in the working places
+    Supporting Claim T4
+
+        Premise: Workers understand they have to work harder to meet the boss' expectations and to make themselves worthwhile
+        Premise: junior high school teachers have great responsibility not only for students' private lives as they are going through adolescence but also their school work
+
+    No arguments attacks Claim T4
+
+
+Attacking MajorClaim T2
+    Type: Claim T5
+    Text: creating an enjoyable working environment is more realistic and essential if one wishes an increase in productivity and better employee performances
+    Supporting Claim T5
+
+        Premise: Take Google for example, the company offers recreation rooms and extra personal leaves for their workers to develop a more relaxing and supportive workforce
+        Premise: the employers can make sure the employees can actually focus and concentrate on their projects instead of thinking about their children or feeling pressured
+
+    No arguments attacks Claim T5
+
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: tourism has threatened the nature environments
+supporting Claim T5:
+
+----Premise T9: tourism increasingly create harms to the natural habitats of the destination appeals
+----Premise T11: many marine lives have been endangered, in the extremes part of the reef become uninhabitable for these marine species
+----supporting Premise T11:
+--------Premise T10: As the Australia’s Great Barrier Reef has shown, the billion visitors per annum has generated immense destruction to this nature wonder, namely breaking the corals caused by walking or throwing boat’s anchors, dropping fuel and other sorts of pollutions
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T5
+

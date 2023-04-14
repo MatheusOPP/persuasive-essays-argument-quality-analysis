@@ -1,0 +1,11 @@
+Type: Claim T9
+Text: the importance of social skills have been recognized by increasing number of employers
+Supporting Claim T9
+
+    Premise: Excellent social skills can help employees maintain strong relationship with their clients which thus lead to a better customer satisfaction
+    Premise: people nowadays are required to work as a team in their jobs frequently
+    Premise: Interpersonal skill plays an essential role in helping colleagues to cooperate with each other, especially when conflicts arise
+    Premise: Better social skills allow them to resolve disagreements in a much more harmony way
+
+No arguments attacks Claim T9
+

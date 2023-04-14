@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: most violent crimes are related to the abuse of guns, especially in some countries where guns are available for people
+supporting Claim T4:
+
+----Premise T7: some terrorists are able to possess more advanced weapons than the police, which makes citizens always live in danger
+----Premise T6: in American, young adults and even juveniles can get access to guns, which leads to the tragedies of school gun shooting
+----Premise T5: guns will create a violent society if the trend continues
+
+no arguments attacks Claim T4
+

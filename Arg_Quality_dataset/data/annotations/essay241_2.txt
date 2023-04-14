@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: city provides more work opportunities than the countryside
+supporting Claim T4:
+
+----Premise T5: There are not only more jobs, but they are also well-paid
+
+attacking Claim T4:
+----Premise T6: living in a city is more expensive
+----supporting Premise T6:
+
+----attacking Premise T6:
+--------Premise T7: incomes are higher
+
+

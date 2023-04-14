@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: it is very easy to learn a foreign in our own country
+Supporting Claim T9
+
+    Premise: Students can choose any language from the set of languages available at a university
+    Premise: colleges and universities have introduced foreign language course as a part of their curriculum
+    Premise: highly qualified foreign language teachers are easily accessible in various schools and colleges
+
+No arguments attacks Claim T9
+

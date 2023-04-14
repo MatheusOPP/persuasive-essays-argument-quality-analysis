@@ -1,0 +1,8 @@
+Type: Claim T4
+Text: it teaches me everything that I certainly wants to learn in my life
+Supporting Claim T4
+
+    Premise: learning all those characteristics would really help me in leading successful life
+
+No arguments attacks Claim T4
+

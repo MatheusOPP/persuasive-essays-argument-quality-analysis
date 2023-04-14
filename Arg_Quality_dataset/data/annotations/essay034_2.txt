@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: they have more opprotunities to find a job and to be successful in the future
+supporting Claim T6:
+
+----Premise T7: employer always prefer to hire an employee of high degree who have professional skills
+----Premise T8: schools offer to students a good environment with experienced professors and high quality programs for studying
+----supporting Premise T8:
+--------Premise T11: It creates the best conditions for students education and can force them to focus on their school work instead of wasting their time to do useless things
+
+----no arguments attacks Premise T8
+
+----Premise T9: schools provide lots of academic knowledge to students
+----supporting Premise T9:
+--------Premise T10: Students may learn professional skills, expand their understandings and gain experiences
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T6
+

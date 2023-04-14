@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: teaching staff are professional and experienced in terms of promoting children's communication skills
+supporting Claim T7:
+
+----Premise T8: after many years of teaching experience, teacher are able to know how to help children to develop important life skills such as learning personal boundaries, facing future problems and learning important conflict resolution skills
+----Premise T9: parents are facing difficult generation gap with their children because they are less likely to know how to handle family conflicts in an efficient way
+
+no arguments attacks Claim T7
+

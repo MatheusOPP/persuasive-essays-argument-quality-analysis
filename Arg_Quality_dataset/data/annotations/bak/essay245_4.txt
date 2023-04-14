@@ -1,0 +1,8 @@
+Type: Claim T14
+Text: there is no chance to disturb people by sending them an e-mail
+Supporting Claim T14
+
+    Premise: You should not worry about interrupting an important conversation or some other business
+
+No arguments attacks Claim T14
+

@@ -1,0 +1,9 @@
+Type: Claim T17
+Text: excessive use of computers has brought many difficulties
+Supporting Claim T17
+
+    Premise: The results show that teenagers who are addicted to computer games show more violent and stressful behaviors
+    Premise: People who have type by computers may suffer from such disease related to knees
+
+No arguments attacks Claim T17
+

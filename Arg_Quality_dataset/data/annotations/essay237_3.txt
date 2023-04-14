@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: Television and movies also make people to spend more time on their couch than with their family and friends, especially children
+supporting Claim T8:
+
+----Premise T11: When people are watching television or movies together, they also talk less to each other, compare to when playing social games, such as parlor games, together
+----Premise T9: They communicate less with their parents
+----supporting Premise T9:
+--------Premise T10: a lot of their time is used watching television and movies
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T8
+

@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: Assuming new opportunities is indispensable to have diverse experiences
+supporting Claim T8:
+
+----Premise T5: some people abandon their job, family and friends and go to other country without knowing what the future holds for them
+
+attacking Claim T8:
+----Premise T9: life may not be easy; it will have various challenges especially when you take risks
+----Premise T6: In the beginning, it can be tough to fit in this new place and find any opportunity
+

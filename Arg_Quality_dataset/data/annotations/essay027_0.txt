@@ -1,0 +1,35 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T10
+text: it is disagreed that this can be the best and only way to assist developing countries
+supporting MajorClaim T10:
+
+----Claim T2: it has been proven that developing education and improving national technology and science level are the path they have to undergo if they really want to alter current situation
+----type: Claim T7
+----text: developing countries should not totally depend on the financial support from powerful countries
+----supporting Claim T7:
+
+--------Premise T9: they rarely provide local residents with any technological aid and even cause contamination in some areas
+--------Premise T8: some powerful countries provide financial support in order to acquire the right to exploit the local resources and target the local labour market
+
+----no arguments attacks Claim T7
+
+----type: Claim T6
+----text: if the developed countries are unwilling to share their successful experience in education, the developing countries will remain undeveloped, even though they gain a great deal of economic support
+----supporting Claim T6:
+
+--------Premise T3: the critical method to improve the condition of poor countries is to help them build up a complete educational system instead of financial aid
+--------Premise T4: education is an essential part in development
+--------supporting Premise T4:
+------------Premise T5: most developing countries are lack of educational resources, such as experienced teachers, evaluation systems and teaching facilities, which is usually neglected by local authorities
+
+--------no arguments attacks Premise T4
+
+
+----no arguments attacks Claim T6
+
+
+no arguments attacks MajorClaim T10
+

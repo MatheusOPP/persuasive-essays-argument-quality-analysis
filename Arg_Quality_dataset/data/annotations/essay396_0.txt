@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: both public services and arts worth investment
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: indispensable public services like hospital and school worth every penny investing
+----supporting Claim T3:
+
+--------Premise T4: Investing in hospitals helps improve people's health, also, in schools assists with raising our children's education level
+--------Premise T5: if these facilities were not spent adequately, our standard of living would deteriorate
+
+----no arguments attacks Claim T3
+
+----type: Claim T9
+----text: our standard of living also depend on another factor - spiritual life which is related closely with arts
+----supporting Claim T9:
+
+--------Premise T6: Arts include many forms and music as well as cinema are the most typical
+--------Premise T7: These two art forms not only provide the public with entertainment but also contribute significantly to the economy
+--------Premise T8: The income of film and music industries produce millions of dollars each year for the Goverment, for instance K-pop and Hollywood, and these industries can not survive without goverment's financial assistance
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

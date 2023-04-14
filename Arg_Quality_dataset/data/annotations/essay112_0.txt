@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: exams have a role to play in ensuring proper and objective assessment of achievement
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: There are clearly advantages to exams
+----supporting Claim T3:
+
+--------Premise T4: They help to ensure fairness by imposing the same conditions on all exam candidates
+--------Premise T5: They are also relatively versatile; different types of exam questions, for example, multiple-choice questions and essay tasks, can test different sorts of reasoning ability
+
+----no arguments attacks Claim T3
+
+
+attacking MajorClaim T1:
+----Claim T2: exams need to be carefully designed and supplemented with other forms of evaluation if they are to be a truly useful component of the education system
+----type: Claim T6
+----text: exams also have some drawbacks
+----supporting Claim T6:
+
+--------Premise T9: teachers and learners focus only on theses aspects of the curriculum that are likely to be tested, thus narrowing the educational experience for all
+--------supporting Premise T9:
+------------Premise T8: some test-takers perform cannot achieve a satisfying result because of anxiety
+
+--------no arguments attacks Premise T9
+
+--------Premise T7: Test-wise candidates can often perform well on exams without having good underlying knowledge or skills
+
+----no arguments attacks Claim T6
+
+----type: Claim T10
+----text: A number of measures should be taken to address these concerns
+----supporting Claim T10:
+
+--------Premise T11: exams should match the content and activities of the learning environment
+--------Premise T12: Exam task should be varied to give fair opportunities to candidates with different types of skills
+--------Premise T13: Other types of assessment should also be considered, assignment writing, for example, to assess independent learning and research skills, or group projects, to measure teamwork ability
+
+----no arguments attacks Claim T10
+
+

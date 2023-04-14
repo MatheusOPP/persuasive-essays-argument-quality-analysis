@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: Using your imagination and saying what you think freely is another great thing about being a child
+supporting Claim T15:
+
+----Premise T12: Children are not judged about the things they say as much as the adults, and freedom to express yourself is a very important for developing a colorful imagination
+----Premise T14: they are in no way free to think or use their imagination
+----supporting Premise T14:
+--------Premise T13: In adulthood, people are forced to express themselves in boundaries
+
+----no arguments attacks Premise T14
+
+
+no arguments attacks Claim T15
+

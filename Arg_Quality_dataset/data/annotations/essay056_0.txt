@@ -1,0 +1,56 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: it's a reasonable loss in globalization
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: No one can deny the huge benefits of the trend that English is being accepted universally
+----supporting Claim T3:
+
+--------Premise T4: communication between countries and cultures become convenient
+--------supporting Premise T4:
+------------Premise T8: enhances relationship and promotes international business
+------------supporting Premise T8:
+----------------Premise T7: language obstacle is no longer a problem, which results in mutual understanding and trust between their mother land and the host country
+
+------------no arguments attacks Premise T8
+
+------------Premise T6: studying abroad is easy and becomes hot among youngsters
+------------supporting Premise T6:
+----------------Premise T5: In my country, English is a required course from elementary school
+
+------------no arguments attacks Premise T6
+
+
+--------no arguments attacks Premise T4
+
+--------Premise T9: researchers, especially those who work on high-tech, would have wider range of references if they are good at English
+--------supporting Premise T9:
+------------Premise T10: Taking IT industry for an example, top technical science is published in English
+------------Premise T12: they have no choice but choosing English as a second language
+------------supporting Premise T12:
+----------------Premise T11: It's neither to get a translated version of these articles, nor to always have a translator besides
+
+------------no arguments attacks Premise T12
+
+
+--------no arguments attacks Premise T9
+
+
+----no arguments attacks Claim T3
+
+
+attacking MajorClaim T1:
+----type: Claim T13
+----text: the culture heritage and nation identity vanish
+----supporting Claim T13:
+
+--------Premise T14: English is making lesser-known languages disappear ever year
+
+----attacking Claim T13:
+--------Premise T15: this is really short-sighted, ignoring the rapid development of native economy and society
+
+

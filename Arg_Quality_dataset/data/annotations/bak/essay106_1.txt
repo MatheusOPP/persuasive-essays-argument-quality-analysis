@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: the number of fatality can be significantly reduced if a total ban on public smoking is implemented
+Supporting Claim T3
+
+    Premise: A large proportion of death involved second hand smoker particularly young children and pregnant women who were vulnerable to these lethal diseases
+    Premise: Recent death statistic released by the Malaysian Ministry of Health shows that the top killer was lung related diseases caused by smoking
+    Premise: it is well known and clinically proven that smoking is extremely hazardous to the smoker and others who have been exposed to the fume over a period of time
+
+No arguments attacks Claim T3
+

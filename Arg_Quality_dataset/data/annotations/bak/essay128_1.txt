@@ -1,0 +1,9 @@
+Type: Claim T2
+Text: students should have a right to choose what they want to study
+Supporting Claim T2
+
+    Premise: Not allowing students their desired subjects to be chosen is a restriction of human rights
+    Premise: As children of independent country we should know our rights and opportunities we have in order to achieve our goals and dreams
+
+No arguments attacks Claim T2
+

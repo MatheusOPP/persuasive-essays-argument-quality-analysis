@@ -1,0 +1,11 @@
+Type: Claim T19
+Text: Employees will obtain reward from hard-work pursuing excellent knowledge
+Supporting Claim T19
+
+    Premise: Through our whole study life, undergraduate and graduate, we keep learning with the purpose of exerting these knowledge and experience on our job, just like an old Chinese scholar said, the essence of study is utilizing it
+    Premise: After we get a job, the destination of we keep accumulating and collecting knowledge is rooted not in fawn on our manager with the ability to adapt this kind of business culture, but in making us excellent and totally master this job
+    Premise: we will be rewarded with pride
+    Premise: we can obtain reward from out excellent knowledge
+
+No arguments attacks Claim T19
+

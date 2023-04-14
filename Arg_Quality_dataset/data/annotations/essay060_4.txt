@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: A break can disturb the focus of students and prove detrimental
+supporting Claim T12:
+
+----Premise T14: When students work during these breaks, the feel of money gives them an illusion that such salary is enough for them and they go in a utopia
+----supporting Premise T14:
+--------Premise T15: my cousin started working in a customer care centre after high school and got distracted
+--------Premise T16: When he started his university studies, he failed miserably
+
+----no arguments attacks Premise T14
+
+----Premise T13: Students can also indulge in smoking or drinking during this time
+
+attacking Claim T12:
+----Premise T17: A break gives students more benefits than harms
+----Premise T18: It varies from individual to individual, how they utilize that period
+

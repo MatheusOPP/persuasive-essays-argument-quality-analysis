@@ -1,0 +1,9 @@
+Type: Claim T10
+Text: governments are liable for providing societies with appropriate public services and adequate facilities in an efficient way
+Supporting Claim T10
+
+    Premise: no one should suffer from any sort of deficiency in field of health, education, transportation and communication
+
+Attacking Claim T10
+    Premise: There is also a burden on the government to highly concern about the people mental health initiatives which would be unconsciously or sensibly provided by the arts
+

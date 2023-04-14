@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: it would certainly be a violation of adults’ civil liberties, if governments implement such a restricted regulation on these TV shows or movies that only for mature audiences
+Supporting Claim T11
+
+    Premise: adults watch horror video or war movies for relaxing themselves after a busy day
+    Premise: For whom, such media sources are mere materials of relaxation and entertainment
+    Premise: Considering that these mature minds are capable of being responsible for their own behaviors, they certainly have the right to watch TV shows or movies that are appealing to them
+
+No arguments attacks Claim T11
+

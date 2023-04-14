@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: zoos afford a platform to education teenagers, helping to establish eco-friendly behavior towards animals
+supporting Claim T4:
+
+----Premise T13: When children pay a visit to the zoos, they still could observe the eating behavior or leisure activities among animals, which would definitely enrich their knowledge associated with different animals
+----supporting Premise T13:
+--------Premise T12: In the zoos, even though wild animals are caged, they have capability to walk in a limited area
+
+----no arguments attacks Premise T13
+
+----Premise T14: children could acquire the information regarding how to protect wild animals according to guided tour or volunteers
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: such aid could also create a win-win situation
+supporting Claim T6:
+
+----Premise T10: The potential market in those poor countries, most of which has a huge population, is also a thing worth mentioning
+----supporting Premise T10:
+--------Premise T12: The underdeveloped nations, in return, may export local agricultural products, mineral products with discount to the former, boosting each other's economy
+--------Premise T11: By building a good relationship with them, wealthy nations can not only broaden their global market, but also facilitate future international commerce
+
+----no arguments attacks Premise T10
+
+----Premise T7: Underdeveloped nations no doubt receive direct benefits through such deeds
+----Premise T9: related research is conducted accordingly to conquer the problem, promoting the development of the pharmaceutical industry
+----supporting Premise T9:
+--------Premise T8: For developed nations, new medical problems may very well arise from the work in underdeveloped nations
+
+----no arguments attacks Premise T9
+
+
+no arguments attacks Claim T6
+

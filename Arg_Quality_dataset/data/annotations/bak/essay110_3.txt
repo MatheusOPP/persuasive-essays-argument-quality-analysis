@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: individuals of a country are responsible for many other things apart from paying tax
+Supporting Claim T7
+
+    Premise: in order to develop a country, citizens must obey laws, which were imposed by the government
+    Premise: a person has to unite with other people in the community so as to develop their nation
+    Premise: being a citizen in society should protect the country's culture and history
+
+No arguments attacks Claim T7
+

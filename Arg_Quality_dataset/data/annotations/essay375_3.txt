@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: saving regional languages could be seen as a waste of money
+supporting Claim T9:
+
+----Premise T4: we need to consider that if the government expands the use scope of that languages, it can be really expensive
+----supporting Premise T4:
+--------Premise T5: educational programmes will need to be given so as to keep young people learning and using them
+--------Premise T7: the local government has recently struggled with their costly investments on language teachers, facilities and appropriate materials
+--------supporting Premise T7:
+------------Premise T6: some certain areas in the Southern Vietnam have been trying to help their secondary school students who are originally from khmer people speak their language beside Vietnamese
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T9
+

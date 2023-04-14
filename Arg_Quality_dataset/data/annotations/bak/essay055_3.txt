@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: this education model can cultivate more talents who specialized in different areas and increase studying effectiveness
+Supporting Claim T9
+
+    Premise: students can devote more time and efforts in one subject and reduce pressure from other subjects
+
+Attacking Claim T9
+    Premise: under such target-oriented education environment, teenagers may be hard to regret their original choice and change their specialized field in their further study
+    Premise: the dullness of course may deeply influence their passion on study
+

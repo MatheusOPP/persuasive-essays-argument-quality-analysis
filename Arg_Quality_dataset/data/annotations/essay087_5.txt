@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: there are some authorities in privat jobs that workers are always looking for them while they are working for the others
+supporting Claim T10:
+
+----Premise T12: Sometimes some occasions happen to people for example a disease, sticking in a traffic jam and sometime going on a vacation
+----Premise T11: When you work for yourself you can punch in and punch out whenever you want
+----Premise T13: For all of them we have to ask for a permission, and most of the time we are not allowed
+
+no arguments attacks Claim T10
+

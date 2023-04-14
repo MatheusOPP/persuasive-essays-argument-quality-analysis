@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: by the help of teachers, students can understand ideas faster and easier
+supporting Claim T5:
+
+----Premise T6: teachers explain them thoroughly in the class and after that give them a lot of examples to clarify the points
+----Premise T7: In this way attending classes not only wastes their time but also facilitates their understanding process that takes them less time for comprehending materials in comparison with self-study
+
+no arguments attacks Claim T5
+

@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: if persons work rapidly, they will have more chance to study
+supporting Claim T10:
+
+----Premise T6: If people learn how should increase their speed at work by studying, they can stares in their workplace
+----supporting Premise T6:
+--------Premise T7: I have a friend who was working so slowly
+--------Premise T8: He has been threatened by his boss who was going to fire him
+--------Premise T9: My friend went to a course where he learned how should work rapidly and now he is working
+
+----no arguments attacks Premise T6
+
+----Premise T5: Attending in some classes which try to increase the skills of employees can be considered as an absolutely effective parameter
+
+no arguments attacks Claim T10
+

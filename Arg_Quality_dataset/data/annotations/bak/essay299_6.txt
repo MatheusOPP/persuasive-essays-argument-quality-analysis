@@ -1,0 +1,8 @@
+Type: Claim T14
+Text: technology has also played a great role in reducing the separation between learning a foreign languge in our own country
+Supporting Claim T14
+
+    Premise: A large number of foreign language courses are available online and there are various forums where people can discuss their problems on different foreign languages
+
+No arguments attacks Claim T14
+

@@ -1,0 +1,25 @@
+Type: MajorClaim T16
+Text: public transportation systems even have more important advantages
+Supporting MajorClaim T16
+
+    Type: Claim T17
+    Text: They not only ease traffic jam but also protect the atmosphere
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+    Type: Claim T12
+    Text: governments have to turn people' attention on public vehicles to reduce cars and motorbikes
+    Supporting Claim T12
+
+        Premise: There is the possibility that improving roads and highways does not seem to reach the major cause of traffic congestion
+        Premise: It is quiet clear that traffic congestion is a serious problem in many big cities
+        Premise: there are a great number of vehicles flowing on roads
+        Premise: the policy would play a pivotal part in relieving traffic jam
+
+    No arguments attacks Claim T12
+
+
+No arguments attacks MajorClaim T16
+

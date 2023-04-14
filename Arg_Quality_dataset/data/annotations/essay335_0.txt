@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: IT discoveries are likely to have more disadvantages than benefits and people should know how to use their developments properly
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: All this inventions will try to take control of the Earth
+----supporting Claim T2:
+
+--------Premise T3: Scientists believe that one day people will face their developments, for instance robots, and they will not succeed to control them
+
+----no arguments attacks Claim T2
+
+
+attacking MajorClaim T1:
+----type: Claim T5
+----text: nowadays technology is entering into our society really quick
+----supporting Claim T5:
+
+--------Premise T6: scientists develop robots, which help people cope with their problems or just invent coffee machines, engines with integrated computers and etc
+--------Premise T4: before centeries, there were not washing machines, which clean your clothes, while a person do another job
+
+----no arguments attacks Claim T5
+
+----Claim T7: connecting people by email is easy and fast
+----Claim T8: World Wide Web offers humanity to access to information, which they want to know for less than 10 seconds
+

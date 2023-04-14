@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: sustaining the cultural values of immigrants is paramount essential
+supporting Claim T4:
+
+----Premise T5: Take Australia for example, immigrants from varieties of nations have a day called multicultural day where people from each country prepare their food and traditional activities for displaying in the public venues
+----Premise T6: Many Australians come this day to enjoy the shows, learn about the cultures and admire the diverse values
+----Premise T7: These feedbacks, in turn, help raise one’s pride of their cultures and help people understand each other more
+----Premise T3: maintaining one’s cultural identity is a key important rule to help individuals emerge in the new multicultural environments
+
+no arguments attacks Claim T4
+

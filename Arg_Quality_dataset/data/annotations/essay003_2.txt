@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: tourism has survived many non-tangible cultural values and beauty scenes
+supporting Claim T8:
+
+----Premise T10: Without this support and profit from tourism, many traditional cultures would disappear due to its low income works
+----Premise T9: in Vietnam, many cultural costumes and natural scenes, namely ‘Trong Dong’ drum performance and ‘Ha Long’ bay, are being encouraged to preserve and funded by the tourism ministry
+----Premise T7: through tourism industry, many cultural values have been preserved and natural environments have been protected
+
+no arguments attacks Claim T8
+

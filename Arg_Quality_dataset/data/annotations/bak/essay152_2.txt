@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: We live in an era that technology is developing in the speed of light, steering the world toward a much more convenient place
+Supporting Claim T5
+
+    Premise: A clear-cut example that supports this idea is the invention of smart phones
+
+No arguments attacks Claim T5
+

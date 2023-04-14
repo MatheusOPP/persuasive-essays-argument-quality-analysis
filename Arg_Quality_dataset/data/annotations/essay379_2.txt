@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: people tend to choose high salary jobs so as to not only help themselves but also support partially or wholly their family's living needs such as food , clothes, accommodation, education, medication
+supporting Claim T6:
+
+----Premise T7: money is very essential in order to meet human' basic needs
+----Premise T4: people who are woking in art or painting industries, for example, will find it quite difficult to live comfortably and enjoyably
+----supporting Premise T4:
+--------Premise T5: they are doing what they love, their income however seems to be quite low compared to many other career paths
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T6
+

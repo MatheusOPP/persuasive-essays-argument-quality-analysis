@@ -1,0 +1,9 @@
+Type: Claim T8
+Text: advanced technology enables people to enhance their living-level and health care standard
+Supporting Claim T8
+
+    Premise: With the improvement of medical technology, it is obvious that the life expectancy in many countries has been significantly longer than before, and many serious diseases are under control
+    Premise: we could get more happiness from technology
+
+No arguments attacks Claim T8
+

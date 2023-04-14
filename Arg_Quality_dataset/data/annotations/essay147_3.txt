@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: adults often do not pursue games as a competitive activity, while children are always keen on competition and winning
+supporting Claim T10:
+
+----Premise T11: For youngsters, maintaining their desire to win often develops many outstanding characteristics whether they participate sport events or not
+----supporting Premise T11:
+--------Premise T12: my younger sister likes fencing, and thanks to her desire to win, she never gives up when facing a difficult situation, or even becoming hurt
+
+----no arguments attacks Premise T11
+
+----Premise T13: adults often consider such behaviors as childish and drop them immediately
+----Premise T15: they no longer play games for any moderate achievements, and gradually lose their interest in such activities
+----supporting Premise T15:
+--------Premise T14: a competitive person usually finds it difficult to cooperate with friends and colleagues
+
+----no arguments attacks Premise T15
+
+
+no arguments attacks Claim T10
+

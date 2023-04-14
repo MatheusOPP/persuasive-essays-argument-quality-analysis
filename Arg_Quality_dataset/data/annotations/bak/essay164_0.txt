@@ -1,0 +1,35 @@
+Type: MajorClaim T1
+Text: providing professional training can be effective in encouraging further good work
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: we can unleash uncomfortable in training classes by making new friends, joking in class, enjoying new knowledge
+    Supporting Claim T2
+
+        Premise: in company we always have to deal with so many stressful situations such as negotiating with difficult customer, complaining from boss, etc
+        Premise: training time can provide employee interesting time outside working office to refresh their mind
+
+    No arguments attacks Claim T2
+
+    Type: Claim T7
+    Text: employees fell that they are valuable if they are trained
+    Supporting Claim T7
+
+        Premise: they will think about develop long term career with their company
+        Premise: employees will be very proud of themselves when they are provided training while others don't have this opportunity
+
+    No arguments attacks Claim T7
+
+    Type: Claim T9
+    Text: providing training will make employees happy with their current job
+    Supporting Claim T9
+
+        Premise: it help them improve their professional business knowledge
+        Premise: they will finish their jobs with excellent result
+        Premise: excellent working result will make them very happy as well as their boss
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: it is our responsibility to create a natural and safe environment for animals to live in
+supporting Claim T3:
+
+----Premise T5: Given the fact that human beings are responsible for the heavy pollution and severe damage to the natural habitats of many wild animals
+----Premise T4: it is the right of wild species to live in a environment away from human beings
+
+no arguments attacks Claim T3
+

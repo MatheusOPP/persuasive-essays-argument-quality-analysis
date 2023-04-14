@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: the way of learning life through listening to the advice of family and friends is more realistic than the latter
+supporting Claim T2:
+
+----Premise T3: Family members such as your parents are experienced in life so they can give you proper and sincere guidance on every aspect of life
+----Premise T4: And friends, people who are the same generation with you, they are understand your favorite and ability enough to tell you which is suitable for you, which is not
+----Premise T5: By listening to your family and friends advice, you can definitely avoid many unexpected things
+
+no arguments attacks Claim T2
+

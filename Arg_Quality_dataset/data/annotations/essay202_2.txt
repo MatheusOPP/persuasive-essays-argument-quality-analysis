@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: The co-workers need to trust each other
+supporting Claim T7:
+
+----Premise T9: They should not act on suspicion
+----Premise T17: This is a very important aspect in the work environment
+----Premise T18: I came across a situation once such that one of my subordinates used to suspect his co-worker for carrying tales to me
+----Premise T19: To a certain extent his suspicion was valid as his co-worker made several attempts to highlight the drawbacks of him
+----Premise T20: I never encourage tale carriers as a principle and therefore his co-worker gave up talking ill against him with me
+----Premise T21: But this mistrust continued and created very unpleasant situations for everybody in my department
+
+no arguments attacks Claim T7
+

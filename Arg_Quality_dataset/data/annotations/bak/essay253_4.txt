@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: by bridging the theories with daily life events, students are given the chance to apply knowledge to their lives and develop their own ability of problem-solving
+Supporting Claim T9
+
+    Premise: This will address students' interests
+    Premise: in law class, students are informed their rights and duties and they are taught how they can apply law to different situations that might happen upon them
+    Premise: When any one of the situations occurs, they can think independently and figure out how to react
+
+No arguments attacks Claim T9
+

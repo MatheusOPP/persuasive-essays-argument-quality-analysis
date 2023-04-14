@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: citizens have other important responsibilities to fulfil apart from paying tax
+supporting Claim T10:
+
+----Premise T11: there are impoverished or disabled people in every society, needing help and support from others
+----Premise T14: aids from more capable or wealthier citizens are particularly crucial, which are a great complement to government support
+----Premise T17: it is quite necessary for the local residents to take actions and ensure the safety of the communities, by doing things like reporting suspicious activities to the police department
+----supporting Premise T17:
+--------Premise T16: There are criminals in every society, and the number of policemen the government can hire is limited
+
+----no arguments attacks Premise T17
+
+----Premise T15: Another responsibility all citizens should take is to maintain social stability together with the police force
+
+no arguments attacks Claim T10
+

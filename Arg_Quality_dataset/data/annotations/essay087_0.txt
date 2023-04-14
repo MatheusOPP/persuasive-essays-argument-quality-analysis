@@ -1,0 +1,40 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I would prefer to work for myself, and have my own business
+supporting MajorClaim T1:
+
+----Claim T4: They have more opportunities, profits, and authorities
+----type: Claim T5
+----text: there are a large number of opportunities in privat works that you cannot find them when you work for the others
+----supporting Claim T5:
+
+--------Premise T6: In your job you can be boss of yourself; however, in the other jobs someone else are your boss
+--------Premise T7: You always have to be responsible for your task, and it make a stressful situation that I never like it
+
+----no arguments attacks Claim T5
+
+----type: Claim T8
+----text: when people work for themselves they make more profit for themselves, but in the other jobs you make profits for the other such as your manager
+----supporting Claim T8:
+
+--------Premise T9: nowadays most of them pick up this profit without sharing a small sum of it with their workers, and from my point of view it is unfair
+
+----no arguments attacks Claim T8
+
+----type: Claim T10
+----text: there are some authorities in privat jobs that workers are always looking for them while they are working for the others
+----supporting Claim T10:
+
+--------Premise T12: Sometimes some occasions happen to people for example a disease, sticking in a traffic jam and sometime going on a vacation
+--------Premise T11: When you work for yourself you can punch in and punch out whenever you want
+--------Premise T13: For all of them we have to ask for a permission, and most of the time we are not allowed
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----Claim T2: working for the other have some advantages
+

@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: adults often do not pursue games as a competitive activity, while children are always keen on competition and winning
+Supporting Claim T10
+
+    Premise: For youngsters, maintaining their desire to win often develops many outstanding characteristics whether they participate sport events or not
+    Premise: adults often consider such behaviors as childish and drop them immediately
+    Premise: they no longer play games for any moderate achievements, and gradually lose their interest in such activities
+
+No arguments attacks Claim T10
+

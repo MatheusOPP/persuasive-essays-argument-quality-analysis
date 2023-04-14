@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: museums provide a tremendous amount of information about different aspects of the history and culture of that place
+supporting Claim T5:
+
+----Premise T6: And also taking the chance for making friends
+----Premise T7: Visit museums can bring you the opportunity to establish relations and knowledge to participate in conversations
+----Premise T8: And that kind of knowledge speaks very highly of you
+
+no arguments attacks Claim T5
+

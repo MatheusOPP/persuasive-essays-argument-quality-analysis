@@ -1,0 +1,26 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: relating well to people is also another important factor
+supporting Claim T9:
+
+----Premise T12: we will have a wide network of communication
+----supporting Premise T12:
+--------Premise T11: By relating well to people, we are likely to have a lot of friends
+
+----no arguments attacks Premise T12
+
+----Premise T15: they respect you as well, you can achieve your goal
+----supporting Premise T15:
+--------Premise T14: if you need help with getting a job, by commuincating with people offering jobs whom you treat well
+
+----no arguments attacks Premise T15
+
+----Premise T16: if you are a salesman in a store or any other place, by relating well to your customers, you will increase the chance of their coming back again and becoming your regular customers
+----Premise T10: One of the other factors for success in a future job is effective commuincation
+----Premise T13: Commuincation can bring many benefits
+
+no arguments attacks Claim T9
+

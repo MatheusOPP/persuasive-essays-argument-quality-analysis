@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: when hand phones are provided for free, many would want to take advantage of this opportunity
+supporting Claim T12:
+
+----Premise T15: the public's money is spent worthlessly
+----supporting Premise T15:
+--------Premise T14: Some might even go to the extent of lying that they are on unemployment to make them eligible to get the phones
+
+----no arguments attacks Premise T15
+
+----Premise T13: It will not be surprising that in order to obtain a mobile phone, they make themselves jobless
+
+no arguments attacks Claim T12
+

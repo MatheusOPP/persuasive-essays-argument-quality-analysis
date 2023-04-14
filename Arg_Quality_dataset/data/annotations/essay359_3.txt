@@ -1,0 +1,34 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: some behaviors of the tourists are not welcome in the local area
+supporting Claim T11:
+
+----Premise T7: tourists may offend the local people due to their different culture background
+----supporting Premise T7:
+--------Premise T8: Indians don't eat beef
+--------supporting Premise T8:
+------------Premise T9: they worship cows
+
+--------no arguments attacks Premise T8
+
+--------Premise T10: if tourists want to respect the tradition, they will not order any beef in the local restaurant
+
+----no arguments attacks Premise T7
+
+----Premise T16: the new batch of tourists will have a tidy and neat environment
+----supporting Premise T16:
+--------Premise T5: those local residents have to clean the place frequently
+--------supporting Premise T5:
+------------Premise T6: some people leave the rubbish after visiting the attractions
+
+--------no arguments attacks Premise T5
+
+
+----no arguments attacks Premise T16
+
+
+no arguments attacks Claim T11
+

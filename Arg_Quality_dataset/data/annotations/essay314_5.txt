@@ -1,0 +1,23 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: Even when we managed to keep up with the pace by neglecting the details of a project and only aim for a general frame of the project, this will not be something satisfy for the company and clients
+supporting Claim T16:
+
+----Premise T17: other than the importance of accuracy, the world also seeks efficiency, which concludes both minimum time completion and also criterion of quality
+----Premise T13: We soon will be out of the picture even when we kept up with the pace
+----supporting Premise T13:
+--------Premise T14: when the problem reveals itself we'll have to go back and fix the mistakes we have made
+--------supporting Premise T14:
+------------Premise T15: This might be even more costly and time consuming than a neat completion of work at the start
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Premise T13
+
+
+no arguments attacks Claim T16
+

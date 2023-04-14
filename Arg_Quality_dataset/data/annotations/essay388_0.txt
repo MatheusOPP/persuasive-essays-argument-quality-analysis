@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: criminal minds that breed violence not stringent gun control
+supporting MajorClaim T1:
+
+----Claim T3: criminal mind seems to be more related to violence
+----type: Claim T7
+----text: stringent gun control does not decrease violence and crime
+----supporting Claim T7:
+
+--------Premise T8: most gun violence is committed with guns obtained illegally
+--------Premise T9: People who are intent to commit crime and control cities through gang violence and other means will find a way to continue to use guns, regardless of gun control
+
+----no arguments attacks Claim T7
+
+----type: Claim T10
+----text: if a government wants to control crime in a community, it is important to manage their people's actions rather than gun used in violent crimes
+----supporting Claim T10:
+
+--------Premise T11: the root of violence is criminal mind not the weapon itself
+--------supporting Premise T11:
+------------Premise T12: there will be law non-abiding people anywhere in the world, either polices or common citizens
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Claim T10
+
+
+attacking MajorClaim T1:
+----type: Claim T4
+----text: if there is gun control somehow crime has to decrease
+----supporting Claim T4:
+
+--------Premise T5: fewer guns available mean less crime
+
+----attacking Claim T4:
+--------Premise T6: this is not as simple as it sounds
+
+

@@ -1,0 +1,71 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: pets should be treated like human beings
+supporting MajorClaim T1:
+
+----type: Claim T11
+----text: pets are our friends as well as certain human beings are
+----supporting Claim T11:
+
+--------Premise T12: Similarly to friends, indeed, they are always with us and they are there if we feel alone
+--------Premise T3: We can talk to them
+--------supporting Premise T3:
+------------Premise T2: they listen to us, more than some people will ever do
+------------supporting Premise T2:
+----------------Premise T4: When I was 14 years old, my uncle passed away and I felt like everything was no longer important
+----------------Premise T5: Talking to my friends was frustrating
+----------------supporting Premise T5:
+--------------------Premise T6: none of them have ever felt that way
+
+----------------no arguments attacks Premise T5
+
+----------------Premise T8: my dog was near me and it seemed to me that only him could understand my deeply feelings
+----------------supporting Premise T8:
+--------------------Premise T7: I was all alone at home for a long time
+
+----------------no arguments attacks Premise T8
+
+
+------------attacking Premise T2:
+----------------Premise T9: pets aren't able to speak with us
+----------------supporting Premise T9:
+
+----------------attacking Premise T9:
+--------------------Premise T10: we can nonetheless count on them
+
+
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Claim T11
+
+----type: Claim T20
+----text: pets are useful for a variety of things
+----supporting Claim T20:
+
+--------Premise T13: nowadays the pet therapy is becoming more popular than before
+--------Premise T14: Researchers have discovered that pets can bring benefits in a huge amount of illnesses
+--------Premise T17: without them they could not go around all alone
+--------supporting Premise T17:
+------------Premise T15: There are dogs who lead blind people around the city
+
+--------no arguments attacks Premise T17
+
+--------Premise T16: pets are important for depressed people as well
+--------supporting Premise T16:
+------------Premise T18: their presence make them feel better
+
+--------no arguments attacks Premise T16
+
+--------Premise T19: there are dogs who are educated in order to find out criminals or to use their sense of smell to find drugs
+
+----no arguments attacks Claim T20
+
+----Claim T22: they are our friends and they can be useful in many situations
+
+no arguments attacks MajorClaim T1
+

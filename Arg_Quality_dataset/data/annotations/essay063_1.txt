@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: it is certain that spending less time on cooking will be the main trend in near future
+supporting Claim T3:
+
+----Premise T7: And this figure still continuously go up along with the improvement of science and technology
+----Premise T6: in recent years, there was a significant increase in the number of people from all walks of life realizing this valuable benefit of those technologies in doing their housework
+----Premise T4: people nowadays just spend one hour to prepare a meal instead of two, even three hours like in the last 10 years
+----supporting Premise T4:
+--------Premise T5: with the development of science and technology, more advanced kitchen facilities, such as the modern microwaves or the advanced pressure cookers, have been created and invented to help people prepare and cook food in a very short time
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T3
+

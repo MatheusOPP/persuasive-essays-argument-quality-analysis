@@ -1,0 +1,10 @@
+Type: Claim T16
+Text: individuals born with talents have also a high chance to be successful
+Supporting Claim T16
+
+    Premise: The introduction of increasing number of reality shows have made it possible for all those lucky ones to triumph
+    Premise: This is especially true in sectors like entertainment and sports
+    Premise: people with natural talents are also most likely to excel in their life
+
+No arguments attacks Claim T16
+

@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: government should invest in alternative energy such as using solar energy instead of coal energy
+supporting Claim T14:
+
+----Premise T15: If we lived in good environment, our life would be better
+----Premise T13: government take care of this issue by declare regulate to control emission of carbon dioxide
+----supporting Premise T13:
+--------Premise T10: industrial in many countries still emit high intense of carbon dioxide, which caused of greenhouse effect
+--------Premise T12: These impact on every living creature in the world
+--------Premise T11: Greenhouse effect causes of climate change
+
+----no arguments attacks Premise T13
+
+----Premise T16: environment is also important issue that everyone depend on it
+
+no arguments attacks Claim T14
+

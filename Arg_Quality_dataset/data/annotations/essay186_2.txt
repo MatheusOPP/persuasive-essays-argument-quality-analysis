@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: the needs for farmland, housing and industry are more important
+supporting Claim T9:
+
+----Premise T7: the society will be stable and harmony due to more farmland and industry
+----supporting Premise T7:
+--------Premise T8: more farmlands and industries can provide more job opportunities which can decrease the unemployment rate and crime rate
+
+----no arguments attacks Premise T7
+
+----Premise T4: land used for farmland, housing and industry can benefit more to the whole society
+----Premise T5: the economy of the whole society will be developed with the help of agriculture, real estate industry and industry, in particularly industry which is the pillar industry of national economy
+----supporting Premise T5:
+--------Premise T6: they produce plenty of profits
+
+----no arguments attacks Premise T5
+
+
+no arguments attacks Claim T9
+

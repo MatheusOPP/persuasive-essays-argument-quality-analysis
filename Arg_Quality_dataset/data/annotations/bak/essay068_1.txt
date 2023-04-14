@@ -1,0 +1,32 @@
+Type: MajorClaim T2
+Text: What the government should do immediately is to strengthen censorship to control the amount of violence in media
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: our society is occupied with the violent scenes and plots at present
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes
+    Supporting Claim T4
+
+        Premise: they regard the violence as reasonable and justifiable
+
+    No arguments attacks Claim T4
+
+    Type: Claim T5
+    Text: excessive violence would offer misleading information to the public and exert detrimental influence to the society as well
+    Supporting Claim T5
+
+        Premise: It is recently reported in the news that a seventeen-year-old boy killed all his family members, one sister and two parents out of hatred and jealousy
+        Premise: In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure
+
+    Attacking Claim T5
+        Premise: Violence, as one of the facts in the real world, certainly has to be reported
+
+
+No arguments attacks MajorClaim T2
+

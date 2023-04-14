@@ -1,0 +1,10 @@
+Type: Claim T3
+Text: When pupils make a group for studying, all member of group have the same chance to help each other
+Supporting Claim T3
+
+    Premise: They can work together for understanding the complicated aspect of a course
+    Premise: when a group faces with complex math problem, they can share their opinions to solve it
+    Premise: such a remarkable effect has incorporation that all students can improve their weak points in a group
+
+No arguments attacks Claim T3
+

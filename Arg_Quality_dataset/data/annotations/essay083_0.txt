@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I find myself aligned with opponents of the usages of nuclear power
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: pursuit of nuclear technology one way or the other leads towards atomic weapons
+----supporting Claim T3:
+
+--------Premise T4: Last century has witnessed the horrors of such weapons
+--------Premise T5: If each country pursues the fusion and fission process some of them may try to mold it for military usage
+
+----no arguments attacks Claim T3
+
+----type: Claim T6
+----text: even civil usages of atomic power pose a dire threat of radio activity
+----supporting Claim T6:
+
+--------Premise T7: recently there has been an incident in which an atomic power house leaked tons of radio active material into air when an earthquake hit the surrounding area
+--------Premise T8: This unfortunate event proves that no matter how much careful we are such accidents are inevitable
+
+----no arguments attacks Claim T6
+
+----type: Claim T9
+----text: Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it
+----supporting Claim T9:
+
+--------Premise T10: while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power
+--------Premise T11: This waste is many times more lethal to our environment than any of the other hazardous material
+
+----no arguments attacks Claim T9
+
+
+no arguments attacks MajorClaim T1
+

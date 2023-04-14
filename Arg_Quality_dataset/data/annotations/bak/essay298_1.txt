@@ -1,0 +1,34 @@
+Type: MajorClaim T2
+Text: part time job will be good for students
+Supporting MajorClaim T2
+
+    Type: Claim T15
+    Text: students can learn lots of things from part time job, before starting their real job
+    Supporting Claim T15
+
+        Premise: Students can learn about time management, money management and convince people by their words
+        Premise: when I was in my high school I worked as a sales-man in a shop for a year
+
+    No arguments attacks Claim T15
+
+    Type: Claim T16
+    Text: from part time jobs students can earn money, which can help their parents
+    Supporting Claim T16
+
+        Premise: By tutoring them, i earned some money and bought me books with it
+        Premise: after taking that part time job i stopped taking my pocket money form my parents
+        Premise: part time job can help students earn money and which can help their parents financially
+
+    No arguments attacks Claim T16
+
+
+Attacking MajorClaim T2
+    Type: Claim T3
+    Text: it can destruct students from their study
+    Supporting Claim T3
+
+
+    Attacking Claim T3
+        Premise: i did part time job in my high school and it did not hurt my academic result
+
+

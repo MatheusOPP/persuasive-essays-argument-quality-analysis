@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: many young owners of cellular phones are struggling at school because they are distracted most of the time with their phones
+Supporting Claim T3
+
+    Premise: Games and applications installed in phones have occupied much of their time, leaving them lesser time for their studies and other school activities
+    Premise: internet capable phones help influence the young ones to become more interested in chatting and social sites rather than doing school works
+
+No arguments attacks Claim T3
+

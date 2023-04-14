@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: tourism can have a negative impact on the natural environment
+supporting Claim T6:
+
+----Premise T4: In order to meet the needs of tourists, local governments are likely to build more facilities and infrastructures around tourist attractions, which may result in the destruction of natural habitats
+----Premise T5: Tourism also creates more pollution and waste, including growing emission of greenhouse gases, dumped leftovers and overuse of water, power and other kind of energy in luxurious hotels
+----Premise T7: tourism puts great pressure on ecosystem and local resources, and it should not be encouraged
+
+no arguments attacks Claim T6
+

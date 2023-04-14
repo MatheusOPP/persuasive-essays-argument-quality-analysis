@@ -1,0 +1,51 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I do really prefer to improve my ability of relating people and make more friends rather than studying hard in school
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: Relating well to people can bring plenty of merits to future job
+----supporting Claim T2:
+
+--------Premise T4: Having a good ability of relate to people means you have a number of friends in a variety of fields, imagine when you are in trouble, you have a lot of people who have good relationship with you, so you can ask for your friends to help you solve this problem as soon as possible, even an esy phone call, instend of a series of complex solutions
+--------Premise T3: friends is a treasure with respect to either our daylife or our career
+
+----no arguments attacks Claim T2
+
+----type: Claim T7
+----text: make a good relationship with them
+----supporting Claim T7:
+
+--------Premise T5: If top-level managers want to make a project successful, have a good relationship with their subordinaries is the prerequisit for the managers' work complete successfully, managers should listen to their employees needs and complaints about this job, pay much patiant and care to them
+--------Premise T6: no matter who you are a top-level managers of a company or a low-level employee of that company, relating well to people is also a importent issue
+
+----no arguments attacks Claim T7
+
+----type: Claim T8
+----text: if a low-level employee desire to enhance his position, it's fairly important to have a good relationship with their boss
+----supporting Claim T8:
+
+--------Premise T9: only if the employee is considered excellent in his boss's eyes, he will be more possible to enhance position
+
+----no arguments attacks Claim T8
+
+
+attacking MajorClaim T1:
+----type: Claim T10
+----text: good specify knowledge is more crucial for future job
+----supporting Claim T10:
+
+--------Premise T11: Studying harder in school, getting a good resume and absorbing lots of working knowledge, which can make these graduates more competitive than other applicants in one certain job
+--------Premise T12: majority of people would choose the former
+--------supporting Premise T12:
+------------Premise T13: it has more chance than the latter in terms of getting good jobs in the future
+
+--------no arguments attacks Premise T12
+
+
+----no arguments attacks Claim T10
+
+

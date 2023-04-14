@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T19
+text: choosing a job similar to one's parents' is not always a correct decision
+supporting Claim T19:
+
+----Premise T20: the condition of job market is completely different
+----Premise T23: there is no way to predict any job can be popular for 30 years or more
+----supporting Premise T23:
+--------Premise T22: The condition of job market changes enormously fast like a flash
+
+----no arguments attacks Premise T23
+
+
+attacking Claim T19:
+----Premise T21: when it comes to the trend, no one can predict it correctly
+

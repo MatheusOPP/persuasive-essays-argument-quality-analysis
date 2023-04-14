@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: Telephones and email make me feel personal
+supporting Claim T14:
+
+----Premise T15: I could directly connect with people that I love
+----Premise T16: I could express my personal thought through telephones and email
+
+no arguments attacks Claim T14
+

@@ -1,0 +1,27 @@
+Type: MajorClaim T5
+Text: they will grow up in a good neighborhood of a big city and they will be very happy about it
+Supporting MajorClaim T5
+
+    Type: Claim T11
+    Text: In a big city you have more qualified teachers and a better access to technology
+    Supporting Claim T11
+
+        Premise: I have a friend that grew up in the countryside
+        Premise: He said that he had to study a lot to pass the test to enter the university
+
+    No arguments attacks Claim T11
+
+
+Attacking MajorClaim T5
+    Type: Claim T6
+    Text: if a child grows up in a big city they will be all day at home at the computer or at the video-game
+    Supporting Claim T6
+
+
+    Attacking Claim T6
+        Premise: this is not true if you live in a neighborhood with other people about your age as I did
+        Premise: My friends and I used to play soccer, bike, climb trees and do a lot of other stuff every day
+        Premise: We did play video-games, but that wasn't our main activity
+        Premise: In a big city there are more kinds of people and more things to do
+
+

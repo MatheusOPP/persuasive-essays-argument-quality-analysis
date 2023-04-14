@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: the ability to adapt oneself to the new environment has been proven to be part of job
+supporting Claim T9:
+
+----Premise T6: This ability is helpful in communicating with other workmates, cooperating with other workers needs this ability, too
+
+attacking Claim T9:
+----Premise T7: working alone is a longer-term job than communicating
+----supporting Premise T7:
+--------Premise T8: the excellent knowledge of this job will be benefit till one leave
+
+----attacking Premise T7:
+--------Premise T10: the ability of adapting oneself to a new environment may be necessary for a fresh worker
+
+

@@ -1,0 +1,48 @@
+Type: MajorClaim T2
+Text: both companies and private individuals should take the main part to clean up the air pollution
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: governments are responsible to provide a healthy environment for their inhabitants and they should be responsible from cleaning up the air pollution
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: If these companies were obliged to pay to clean up the air pollution, they would at least make an effort to reduce the amount of air pollution they cause
+    Supporting Claim T4
+
+        Premise: While these companies make a huge amount of money from their businesses, most of them are not considering to take precautions to reduce the amount of air pollution
+        Premise: The waste products and harmful gases produced by these factories cause a significant amount of air pollution
+        Premise: in most industrialized countries, there is a number of companies that holds heavy factories in their constitutions
+
+    No arguments attacks Claim T4
+
+    Type: Claim T8
+    Text: by charging private individuals for causing air pollution, that will at least contribute to reduce the amount of the pollution
+    Supporting Claim T8
+
+        Premise: some expensive vehicles cause a huge amount of pollution
+        Premise: As house heating is a major need in the winter time, some households do not consider to use filters to reduce the amount of pollution that the heating causes
+        Premise: private individuals cause air pollution in several ways such as inessential use of cars and house heating
+
+    No arguments attacks Claim T8
+
+    Type: Claim T12
+    Text: governments should restrict the use of products that cause air pollution for both individuals and companies
+    Supporting Claim T12
+
+
+    No arguments attacks Claim T12
+
+    Type: Claim T13
+    Text: Governments also should use an amount of money from their budgets to clean up the air, instead of putting all the responsibility to companies and private individuals
+    Supporting Claim T13
+
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T2
+

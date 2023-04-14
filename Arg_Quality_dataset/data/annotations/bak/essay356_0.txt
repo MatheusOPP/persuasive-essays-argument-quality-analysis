@@ -1,0 +1,45 @@
+Type: MajorClaim T1
+Text: the prosperity of tourism can provide benefits for people on a global scale
+Supporting MajorClaim T1
+
+    Type: Claim T11
+    Text: flourishing tourism in a place can be very rewarding in terms of local economy
+    Supporting Claim T11
+
+        Premise: Holiday makers flocking to other countries are not only bound to spend on tickets of attractions, but also pay for food, accommodation, transportation and entertainment
+        Premise: Both local people and governments can make a large amount of money through these services, and more employment opportunities can be created as well
+        Premise: the revenue earned form tourism can be used in turn to reduce pollution and protect the environment
+
+    No arguments attacks Claim T11
+
+    Type: Claim T12
+    Text: the increasing development of tourism is a boon to travelers as well
+    Supporting Claim T12
+
+        Premise: The provision of direct airlines makes it possible for them to travel conveniently and comfortably
+        Premise: With adequate local facilities and services available, they can spend more of their holidays having fun and relaxing
+        Premise: both locals and tourists can experience more cultures than ever before, and they can be more open-minded to eliminate preconceptions and deepen mutual understanding among nations
+
+    No arguments attacks Claim T12
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: there are some inevitable problems
+    Supporting Claim T2
+
+
+    Attacking Claim T2
+        Premise: they are outweighed by advantages and can be tackled if proper measures are taken
+
+    Type: Claim T6
+    Text: tourism can have a negative impact on the natural environment
+    Supporting Claim T6
+
+        Premise: In order to meet the needs of tourists, local governments are likely to build more facilities and infrastructures around tourist attractions, which may result in the destruction of natural habitats
+        Premise: Tourism also creates more pollution and waste, including growing emission of greenhouse gases, dumped leftovers and overuse of water, power and other kind of energy in luxurious hotels
+        Premise: tourism puts great pressure on ecosystem and local resources, and it should not be encouraged
+
+    No arguments attacks Claim T6
+
+

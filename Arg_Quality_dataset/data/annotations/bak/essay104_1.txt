@@ -1,0 +1,34 @@
+Type: MajorClaim T2
+Text: I would like to reiterate the necessity of the Internet in learning process
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: the Internet is an adequate source of academic information, which will potentially fulfill the needs of university pupils
+    Supporting Claim T3
+
+        Premise: the Internet has grown to become the largest virtual library ever
+        Premise: with the use of the Internet, distance and time seem to be no more a hindrance
+        Premise: the Internet offers a more effective and practical method of studying
+
+    No arguments attacks Claim T3
+
+    Type: Claim T10
+    Text: the Internet will become an indispensable part in academic training
+    Supporting Claim T10
+
+        Premise: Have you ever imagined what it would be like to stay at home and attend a lecture by a famous speaker in Finland simultaneously
+        Premise: This fairy tale turns out to be true thanks to technical and internet advances
+
+    No arguments attacks Claim T10
+
+
+Attacking MajorClaim T2
+    Type: Claim T13
+    Text: the Internet have several drawbacks which can affect the education system negatively, for instance internet abuse and black webs
+    Supporting Claim T13
+
+
+    Attacking Claim T13
+        Premise: what we are to do is a change in learners' attitude not an elimination of the Internet from academic study
+
+

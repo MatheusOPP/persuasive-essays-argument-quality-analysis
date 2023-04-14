@@ -1,0 +1,7 @@
+Type: Claim T11
+Text: this improvement will decrease a bad traffic on the road indirectly
+Supporting Claim T11
+
+
+No arguments attacks Claim T11
+

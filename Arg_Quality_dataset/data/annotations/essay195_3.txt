@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: the centre for research in agriculture helps the economy of my country to improve
+supporting Claim T7:
+
+----Premise T8: The agriculture field has only thirty percent as a market part
+----Premise T9: The centre of research can raise the market part of this field by developing the agriculture products
+----Premise T10: the dates are the most important agriculture product in my country
+----Premise T11: The centre of research for agriculture can make some research in how to get a good quality of this product, how to treat the Palme and maybe how to treat the land of the palms
+
+no arguments attacks Claim T7
+

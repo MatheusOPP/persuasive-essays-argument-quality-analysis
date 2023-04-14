@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: it has some advantages such as less stress, because of better weather conditions and also, better relationship within a town
+supporting Claim T4:
+
+----Premise T6: on big cities people feel alone and depress more than small cities
+----supporting Premise T6:
+--------Premise T5: In small town people know each other and have better deal together than big cities
+
+----no arguments attacks Premise T6
+
+----Premise T7: people in small town have more happiness and friendship and less illness and stress
+
+no arguments attacks Claim T4
+

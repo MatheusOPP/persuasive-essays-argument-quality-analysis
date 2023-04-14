@@ -1,0 +1,17 @@
+Type: MajorClaim T19
+Text: I personally disagree this this notion that we should replace classroom with online class
+Supporting MajorClaim T19
+
+    Type: Claim T20
+    Text: having classroom could provide abundant skills to students
+    Supporting Claim T20
+
+        Premise: classroom could provide exercise class to set students to have a good health
+        Premise: classroom courses are also provide students to learn social skill
+        Premise: classroom could provide real actual example to make students more understand in their subject
+
+    No arguments attacks Claim T20
+
+
+No arguments attacks MajorClaim T19
+

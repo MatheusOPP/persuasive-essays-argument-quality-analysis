@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: Not cooking fresh food will also lead to the lack of nutrition
+supporting Claim T9:
+
+----Premise T10: Whereas some research has apparently demonstrated that prepared food is unable to support enough nutrients we need, especially for children who are growing up
+
+no arguments attacks Claim T9
+

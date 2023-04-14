@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: Taxation may have tackled the environmental issue simply by diverting people to public transportations such as trains, buses or ferries
+supporting Claim T4:
+
+----Premise T5: if petrol and fuel taxation are raised, people might hesitate choosing a personal automobile
+----Premise T6: for those who have already afforded a car, there is a likelihood it is restraint from usage on long journeys or to crowded cities
+
+no arguments attacks Claim T4
+

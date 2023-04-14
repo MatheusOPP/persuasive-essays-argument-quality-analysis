@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: media provide information about an event that recently occurred somewhere and which is important to the people
+supporting Claim T4:
+
+----Premise T5: The most important of all is that the essence of coverage accurate and not based on gossip
+
+attacking Claim T4:
+----Premise T6: journalism is changing
+----Premise T7: Some reporters are more interested with gossip than news relating to public issues, paying too much attention to the personal lives of famous people
+

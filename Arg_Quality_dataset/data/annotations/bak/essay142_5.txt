@@ -1,0 +1,14 @@
+Type: MajorClaim T16
+Text: the development of the health care system helps people have a better life
+Supporting MajorClaim T16
+
+    Type: Claim T17
+    Text: It helps people build a sustainable society where people can live a happy life when they are old
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T16
+

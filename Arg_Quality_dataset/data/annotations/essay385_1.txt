@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: some military weapons need encouraging for police officers to protect the public and minimize the rate of violence
+supporting Claim T3:
+
+----Premise T6: police officers can force a criminal to surrender
+----supporting Premise T6:
+--------Premise T2: they have a weapon which will prevent an escaping criminal who poses a serious danger to the public
+
+----no arguments attacks Premise T6
+
+----Premise T5: An obvious example of this happens in The United State, a man killed more than ten people in the cinema using a weapon, while a police shot in the foot to paralyze him
+----Premise T4: a police holds a responsibility to tackle of violence in the urban or suburban areas using a gun
+
+no arguments attacks Claim T3
+

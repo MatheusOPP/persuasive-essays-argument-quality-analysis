@@ -1,0 +1,39 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: fatherhood is a as vital part of a healty parantage as much as motherhood
+supporting MajorClaim T1:
+
+----type: Claim T5
+----text: The first reason why the father's role should be equal to the mother's role is the nature of parantage
+----supporting Claim T5:
+
+--------Premise T3: the role models within a family play a significant role in the development of the child's characteristics
+--------supporting Premise T3:
+------------Premise T4: in a traditional Turkish family, while a mother has a sincere and thoughtful approach to the child, a father role must be present as authoritarian and conversative to raise a well-behaved child
+
+--------no arguments attacks Premise T3
+
+
+----no arguments attacks Claim T5
+
+----type: Claim T8
+----text: The second reason why I believe that fatherood is as important as motherhood is the dynamics of the relationships today
+----supporting Claim T8:
+
+--------Premise T10: having and raising children should not be different than any other daily activity
+--------Premise T9: all of the couple duties are performed equally and interchangeably by individuals
+--------Premise T6: we are living in a society that puts a significant importance to gender equality in every aspect of the life, including relationships
+--------supporting Premise T6:
+------------Premise T7: a family formed by a woman with a housewife role who looks after the home and takes care of children and a man who brings money home can not be seen anymore in today's society
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Claim T8
+
+
+no arguments attacks MajorClaim T1
+

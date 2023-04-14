@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T17
+text: we are capable of stating that it is important to talk to people face-to-face
+supporting Claim T17:
+
+----Premise T15: I just shocked and did not know what happened
+----Premise T16: I realized that his facebook account was stolen
+----Premise T13: I had received some harmful words on facebook from my best friend, Eric
+----Premise T14: He said that I was totally failed in building a good friendship and he did not want to be one of my friends anymore
+----Premise T12: it is easy to be deceived without face-to face communication
+
+no arguments attacks Claim T17
+

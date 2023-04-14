@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: Families usually tend to watch television either with each other or friends
+Supporting Claim T6
+
+    Premise: my friends and I used to sit together and enjoy watching movies using VHS player at nights
+    Premise: It was fun and a little bit similar to the cinema
+
+No arguments attacks Claim T6
+

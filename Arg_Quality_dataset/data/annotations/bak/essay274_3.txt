@@ -1,0 +1,11 @@
+Type: Claim T16
+Text: by doing what you are good at, you will be better at it
+Supporting Claim T16
+
+    Premise: I used to be good at math when I was in junior high school
+    Premise: When you're doing something well, you will feel more satisfied and more interested in it
+    Premise: you will motivate yourself to do more
+    Premise: If you keep doing what you already do well, you can be better good at it
+
+No arguments attacks Claim T16
+

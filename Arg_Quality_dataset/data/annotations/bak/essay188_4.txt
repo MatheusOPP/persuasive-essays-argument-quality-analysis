@@ -1,0 +1,10 @@
+Type: Claim T7
+Text: Daily exercise will help also to develop children's brain function
+Supporting Claim T7
+
+    Premise: It is well known how important it is to exercise regularly to help the body system to work better
+    Premise: When people exercise, the respiratory system's function is enhanced, helping all organs, including the brain, to get more oxygen in
+    Premise: Daily exercise will provide children with a mental break which will boost them to be efficient learners
+
+No arguments attacks Claim T7
+

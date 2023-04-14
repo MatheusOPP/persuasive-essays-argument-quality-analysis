@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: even when the world operates in fast pace, it still requires accuracy
+supporting Claim T6:
+
+----Premise T7: Even simple issues in our daily life like homework require accuracy
+----Premise T8: If we rush through the work by taking risk of making mistakes, we are actually making zero effort going through our study roughly only for the purpose of fill in before the deadline
+----Premise T9: it only fulfills the work itself which is rather worthless
+----Premise T10: It is our capability of work that we should improve rather than holding the belief in completing it
+
+attacking Claim T6:
+----Premise T11: it may take time to keep up with the others if w need to review our work multiple times
+----supporting Premise T11:
+
+----attacking Premise T11:
+--------Premise T12: with consistent work soon enough we'll be able to bring up our speed in completion of work
+
+

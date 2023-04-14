@@ -1,0 +1,11 @@
+Type: Claim T5
+Text: the core of group working is "consensus"
+Supporting Claim T5
+
+    Premise: It's the idea that everyone’s opinion accounts
+    Premise: It doesn't work if one member solely insists on his/her idea and doesn't take other member's criticism
+    Premise: It's every member's duty to respect other's opinion
+    Premise: In group works, group members gather together to have brain-storming discussion, think over every possible solutions and then finally reach an agreement
+
+No arguments attacks Claim T5
+

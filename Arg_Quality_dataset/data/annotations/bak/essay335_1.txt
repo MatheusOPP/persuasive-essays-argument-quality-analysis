@@ -1,0 +1,8 @@
+Type: Claim T2
+Text: All this inventions will try to take control of the Earth
+Supporting Claim T2
+
+    Premise: Scientists believe that one day people will face their developments, for instance robots, and they will not succeed to control them
+
+No arguments attacks Claim T2
+

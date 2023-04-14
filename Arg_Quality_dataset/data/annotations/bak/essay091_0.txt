@@ -1,0 +1,25 @@
+Type: MajorClaim T1
+Text: a universal language playing the dominant role in the international community is of vital significance to global people
+Supporting MajorClaim T1
+
+    Type: Claim T3
+    Text: a single international language serves an economic purpose
+    Supporting Claim T3
+
+        Premise: without the availability of the same language, there might be a chance that misunderstanding and conflicts would ensue over business negotiations, impeding collaborations between them
+        Premise: As businessmen from different countries have access to the same language, they can communicate with each other more efficiently and deeply on trade, which can intensify the transnational cooperation
+        Premise: a single international language plays a pivotal role in global economic cooperation
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: a universal language is an integral part of cultural communication and interactions
+    Supporting Claim T6
+
+        Premise: If people are equipped with a single international language, they can tell each other smoothly about their countries' specific cultures such as the traditional customs or the modern lifestyles, which enables people to expand their outlooks, viewing the world in new angles
+
+    No arguments attacks Claim T6
+
+
+No arguments attacks MajorClaim T1
+

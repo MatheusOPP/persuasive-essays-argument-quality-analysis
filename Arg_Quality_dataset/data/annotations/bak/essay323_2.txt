@@ -1,0 +1,12 @@
+Type: Claim T5
+Text: we will never forget what our parents have taught us
+Supporting Claim T5
+
+    Premise: we use it every day
+    Premise: I believe I will never forget what my parents told me about how to be grateful to other people who help me
+    Premise: we spend most of our time at home with our families than it at school
+    Premise: when we leave school, maybe we will forget parts of the lessons we learn at school if we do not experience them in life
+    Premise: at school we study bigger things about sciences and languages, but after school we learn from our parents
+
+No arguments attacks Claim T5
+

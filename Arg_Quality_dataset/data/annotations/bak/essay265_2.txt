@@ -1,0 +1,31 @@
+Type: MajorClaim T3
+Text: we should notice to both of them
+Supporting MajorClaim T3
+
+    Type: Claim T4
+    Text: studying hard in school is an important factor to succeed in a job
+    Supporting Claim T4
+
+        Premise: if someone wants to become a good industrial engineer, he should study his technical courses very well so that he will be able to utilize them well in his future job
+        Premise: If we study them hard, we will have the chance of doing our job better and quicker in the future
+        Premise: In school, we are able to identify skills required for our future job and work on mastering and learning them
+        Premise: This can be done in school
+        Premise: We need to know and learn about the theoritical basis of our future job
+
+    No arguments attacks Claim T4
+
+    Type: Claim T9
+    Text: relating well to people is also another important factor
+    Supporting Claim T9
+
+        Premise: we will have a wide network of communication
+        Premise: they respect you as well, you can achieve your goal
+        Premise: if you are a salesman in a store or any other place, by relating well to your customers, you will increase the chance of their coming back again and becoming your regular customers
+        Premise: One of the other factors for success in a future job is effective commuincation
+        Premise: Commuincation can bring many benefits
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T3
+

@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: all people who are able to work should pay tax to the government
+supporting Claim T9:
+
+----Premise T3: it is the most important source of government's revenue, which is mainly used to serve all citizens
+----Premise T5: every one can work and live in a peaceful environment
+----supporting Premise T5:
+--------Premise T4: a large proportion of the tax is spent on national defence and in maintaining social stability
+
+----no arguments attacks Premise T5
+
+----Premise T6: The tax is also used to pay the salaries of workers working in public service sectors, such as teachers and police officers
+
+no arguments attacks Claim T9
+

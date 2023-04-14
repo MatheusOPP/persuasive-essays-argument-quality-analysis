@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: doing something which an individual doesn't enjoy can led to enjoyment
+supporting Claim T13:
+
+----Premise T10: People sometimes can attend any activities by insisting on any of their friends although they don't really want
+----Premise T11: one of our friends tell my husband and me about a dance course which we both don't like
+----Premise T12: After insisting on some of our friends, we attended, and got really enjoyable time, we continued the course about six months although most of our friends left the course after a month
+
+no arguments attacks Claim T13
+

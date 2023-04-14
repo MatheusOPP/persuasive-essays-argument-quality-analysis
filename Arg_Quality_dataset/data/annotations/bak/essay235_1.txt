@@ -1,0 +1,8 @@
+Type: Claim T2
+Text: now-a-days universities with good name charge high fees and this leads one to think about affordability
+Supporting Claim T2
+
+    Premise: many of the interested scholars failed to get the admission in good universities
+
+No arguments attacks Claim T2
+

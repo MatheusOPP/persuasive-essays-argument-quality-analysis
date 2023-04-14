@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: they have to schedule the lectures time, studying time and working time
+supporting Claim T16:
+
+----Premise T15: Students need to work as part time basis
+----Premise T14: most of the university students are working students in order to manage the expenses during the education time
+----Premise T18: mostly university has taken whole day for the lectures
+
+no arguments attacks Claim T16
+

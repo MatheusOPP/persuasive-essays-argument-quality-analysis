@@ -1,0 +1,25 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: E-mail helps me arrange my idea perfectly and make it persuasive
+supporting Claim T15:
+
+----Premise T18: Voice email or face-to-face conversations sometimes make reserve people feel not very confident
+----supporting Premise T18:
+--------Premise T19: when I face my parents, I can't speak out every idea and express consecutively
+--------Premise T20: They may stop me, speak something against it and that makes me forget what I want to say
+--------Premise T21: Anyone can meet this problem once in any conversation
+
+----no arguments attacks Premise T18
+
+----Premise T17: people can understand each other exactly and remember it for a long time
+----supporting Premise T17:
+--------Premise T16: every communication needs fluency
+
+----no arguments attacks Premise T17
+
+
+no arguments attacks Claim T15
+

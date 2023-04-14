@@ -1,0 +1,41 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: i discern that several small breaks will help students to be active in their academics
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: Vacations are not only required by students but also by professionals and housekeepers
+----supporting Claim T4:
+
+--------Premise T3: it not only provide break to them from their regular commitment but also allows them to spend some time on themselves, heel stressful mind and boost desire of resuming to the regular schedule
+
+----no arguments attacks Claim T4
+
+----type: Claim T5
+----text: several vacations throughout the year will keep stress level of students low
+----supporting Claim T5:
+
+--------Premise T7: Many educational bodies schedule its small vacations after term exams so that student's get relief form exam pressure
+--------Premise T8: research done by universities proves that student's performance improves if they get regular breaks from their learning, preparation and examination schedule
+--------Premise T9: Many colleges in foreign countries provide vacations to students after each semester that facilitate student to entertain themselves as well as prepare for their next semester
+--------Premise T10: several holidays aid these students to not only amuse themselves but also arrange fund and materials such as books and references material for their upcoming course
+
+----no arguments attacks Claim T5
+
+----type: Claim T6
+----text: students learning capability increase after having refreshing vacation
+----supporting Claim T6:
+
+--------Premise T11: in my school we used to get several vacations after our quarterly exams
+--------Premise T12: During those vacations i used to analyze my performance in latest examination and used to go through those question or concept again to avoid making same mistakes
+--------Premise T13: I also used to spend my time on developing some recreational activity or learning some sports or game
+--------Premise T14: During my all vacations, I used to miss my school due to which I used to restart my session with great enthusiasm of learning and scoring good marks in new quarter
+
+----no arguments attacks Claim T6
+
+
+no arguments attacks MajorClaim T1
+

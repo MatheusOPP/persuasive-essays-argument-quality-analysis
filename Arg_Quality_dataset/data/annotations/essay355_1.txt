@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: children might not be really comfortable with the use of a language other than their native tongue when they are in their kindergarten years
+supporting Claim T6:
+
+----Premise T5: Learning at school must be convenient for them if they speak in a way that they are used to
+----Premise T3: teachers think that foreign language most likely leads to confusion for children who are yet to start learning
+----Premise T4: the teacher should be well-trained in the use of this specific language, so quality education will be delivered
+
+no arguments attacks Claim T6
+

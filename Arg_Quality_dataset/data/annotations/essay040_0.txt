@@ -1,0 +1,46 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: having a part time job during your student time will offer students many clear benefits
+supporting MajorClaim T1:
+
+----Claim T2: By taking on an extra job, students can partly alleviate some their problematic matters such as working experience, confidence and accommodation
+----type: Claim T4
+----text: having experienced in working environment during student time offers a distinct advantage when they apply for jobs after their graduation
+----supporting Claim T4:
+
+--------Premise T5: students who get part time jobs have not only academic knowledge but also hands-on experience
+--------supporting Premise T5:
+------------Premise T6: that seems to be more essential the present shortage of sufficiently practical conditions supplied in universities
+
+--------no arguments attacks Premise T5
+
+--------Premise T7: Part-time jobs furnish them with precious chance to practice what they are learning at their universities
+--------Premise T3: It is undoubtedly certain that students can gain their practical experience by getting involved extra jobs
+
+----no arguments attacks Claim T4
+
+----type: Claim T8
+----text: students who take on a part time job are often more confident and independent than other ones
+----supporting Claim T8:
+
+--------Premise T9: By constant communicating with other colleagues daily in a company environment where their new ideas can be raised without hesitation, then students' confidence could be significantly gained
+--------Premise T10: working conditions require students the independency in thinking, working, and solving problems, which is greatly helpful when the characteristic is applied to tackle subjects in their universities
+
+----no arguments attacks Claim T8
+
+----type: Claim T11
+----text: doing extra jobs helps student with money for their accommodation
+----supporting Claim T11:
+
+--------Premise T12: high studying tuition, added with raising accommodation expenses are becoming a huge burden to students
+--------Premise T13: With the money they earn from extra jobs, which normally is not much, those difficulties could be partially solved
+
+----no arguments attacks Claim T11
+
+----Claim T14: that helps students from being reliant on their families as well as is a well-prepared condition for their independent later life
+
+no arguments attacks MajorClaim T1
+

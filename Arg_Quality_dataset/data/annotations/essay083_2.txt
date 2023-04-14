@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: even civil usages of atomic power pose a dire threat of radio activity
+supporting Claim T6:
+
+----Premise T7: recently there has been an incident in which an atomic power house leaked tons of radio active material into air when an earthquake hit the surrounding area
+----Premise T8: This unfortunate event proves that no matter how much careful we are such accidents are inevitable
+
+no arguments attacks Claim T6
+

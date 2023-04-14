@@ -1,0 +1,13 @@
+Type: Claim T8
+Text: there are also a significant number of people who are very successful in their fields without going to university
+Supporting Claim T8
+
+    Premise: Take for instance those who start their own business
+    Premise: These people depend solely on hard work and luck
+    Premise: for some of them it proved to be a profitable job
+    Premise: Michael Dell who is the founder and the CEO of Dell left college at 19
+    Premise: he started his computer company in his college dorm room
+    Premise: he used his earnings as well as his family's loan in order to progress to be who he is now
+
+No arguments attacks Claim T8
+

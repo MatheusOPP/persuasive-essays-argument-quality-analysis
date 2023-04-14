@@ -1,0 +1,12 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: some people make the television a priority
+supporting Claim T16:
+
+----Premise T17: I remember a friend told me one day that because she was watching a telenovela I could not go to her house a certain time during the night
+
+no arguments attacks Claim T16
+

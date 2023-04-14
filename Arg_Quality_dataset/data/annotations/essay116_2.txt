@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: the governments should help arts
+supporting Claim T6:
+
+----Premise T7: their work crafts are very necessary to boost the tourist industry
+----Premise T5: some countries depend on tourism as their main source of revenue
+----Premise T3: art helps to improve the quality of our lives as well as attracting tourists
+----supporting Premise T3:
+--------Premise T4: monuments that represent each city do not only illustrate the city's history and culture, but also make the city more beautiful and an attractive place for tourists
+
+----no arguments attacks Premise T3
+
+
+no arguments attacks Claim T6
+

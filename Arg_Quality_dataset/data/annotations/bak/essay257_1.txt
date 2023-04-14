@@ -1,0 +1,8 @@
+Type: Claim T2
+Text: luck is one factor in reaching goal
+Supporting Claim T2
+
+
+Attacking Claim T2
+    Premise: its impact is extraneous and we must not reckon on luck in our plans
+

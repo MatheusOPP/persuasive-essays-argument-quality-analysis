@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: due to the limitation of technology renewable resources are relatively expensive
+supporting Claim T2:
+
+----Premise T6: the plan of renewable resources of energy may face challenges in that not every country can afford the reforming
+----supporting Premise T6:
+--------Premise T5: it is estimated that China has the largest deposit of coal in the world and the government does not want to invest too much money on new forms of energy, say expensive solar batteries and wind farms
+
+----no arguments attacks Premise T6
+
+----Premise T3: Researches in renewable energy cost a huge amount of money which developing countries cannot afford
+----Premise T4: fossil fuels are abundant and inexpensive in many areas
+
+no arguments attacks Claim T2
+

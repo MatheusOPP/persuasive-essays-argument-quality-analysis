@@ -1,0 +1,10 @@
+Type: Claim T14
+Text: it can do good to protect the endangered animals
+Supporting Claim T14
+
+    Premise: we can have more advanced methods to take care of endangered animals
+    Premise: agriculture and industry make a contribution to the economy
+
+Attacking Claim T14
+    Premise: farmland, housing and industry will occupy the land used for endangered animals
+

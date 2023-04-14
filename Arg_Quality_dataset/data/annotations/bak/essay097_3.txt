@@ -1,0 +1,9 @@
+Type: Claim T4
+Text: sport events with the spirit of healthiness, honesty and fairness can help strengthen understanding, friendship and solidarity among nations
+Supporting Claim T4
+
+    Premise: there are many good opportunities for discovering different cultures
+    Premise: After sharing competitive but interesting moments in each competition, the competitors often shake hands friendly and congratulate the winners, which can lead to an improvement in the relationships among nations
+
+No arguments attacks Claim T4
+

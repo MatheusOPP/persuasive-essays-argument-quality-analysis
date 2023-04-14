@@ -1,0 +1,44 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the teacher is the best option for children's education in some aspects
+supporting MajorClaim T1:
+
+----Claim T3: Not only do they contribute much to children's professional skills but also they can teach their students important social communication techniques in order to survive in this competitive world
+----type: Claim T6
+----text: school teachers are more qualified than parents in the field of education
+----supporting Claim T6:
+
+--------Premise T4: to be able to obtain the teacher certificates, people need years of training at their normal schools to learn theoretical knowledge
+--------Premise T5: in comparison to teachers, parents tend to have less knowledge to teach their children's subjects such as mathematics and physics
+
+----no arguments attacks Claim T6
+
+----type: Claim T7
+----text: teaching staff are professional and experienced in terms of promoting children's communication skills
+----supporting Claim T7:
+
+--------Premise T8: after many years of teaching experience, teacher are able to know how to help children to develop important life skills such as learning personal boundaries, facing future problems and learning important conflict resolution skills
+--------Premise T9: parents are facing difficult generation gap with their children because they are less likely to know how to handle family conflicts in an efficient way
+
+----no arguments attacks Claim T7
+
+----type: Claim T10
+----text: it was impossible for them to be a good teacher
+----supporting Claim T10:
+
+--------Premise T13: there is only limited time for them to teach their children
+--------supporting Premise T13:
+------------Premise T12: Nowadays we are facing a global economic crisis and it is necessary for both parents to work
+
+--------no arguments attacks Premise T13
+
+--------Premise T11: compared with teachers, parents do not have enough time to spend with their children
+
+----no arguments attacks Claim T10
+
+
+no arguments attacks MajorClaim T1
+

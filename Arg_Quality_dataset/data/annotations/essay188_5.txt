@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: Having children in the daily exercise routine from an early age will teach them the important value of having physical activity in their every day routine
+supporting Claim T11:
+
+----Premise T12: Children are bombarded with lectures about nutrition and physical activity; however, they will be more beneficed if that knowledge can be put in practice
+----Premise T13: they can stick with the routine and make the daily physical activities a good habit on their whole life
+
+no arguments attacks Claim T11
+

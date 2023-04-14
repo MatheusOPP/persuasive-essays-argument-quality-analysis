@@ -1,0 +1,21 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: the advantages of early introduction of foreign language outweigh its disadvantages
+supporting Claim T13:
+
+----Premise T7: kids are amazing learners, and the best time to hone them is in their younger years
+----Premise T11: the positive impact of this strategy is beneficial to both learners and teachers
+----Premise T12: Teachers will not find it difficult to make students learn such new concept in their teenage years
+
+attacking Claim T13:
+----Premise T8: The introduction of foreign language will be new to them
+----supporting Premise T8:
+
+----attacking Premise T8:
+--------Premise T9: their curiosity will drive them to learn and comprehend
+--------Premise T10: grasping a new language will be natural to them
+
+

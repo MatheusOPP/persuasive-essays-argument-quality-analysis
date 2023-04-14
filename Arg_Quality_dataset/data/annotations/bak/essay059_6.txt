@@ -1,0 +1,8 @@
+Type: Claim T13
+Text: Criminals who don't have any chance of improvement or who have a past record of such crimes are, therefore, given capital punishment
+Supporting Claim T13
+
+    Premise: capital punishment saves a lot of government funding which is wasted in maintenance of these hardcore criminals
+
+No arguments attacks Claim T13
+

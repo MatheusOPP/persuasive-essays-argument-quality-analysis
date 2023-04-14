@@ -1,0 +1,38 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: government should provide those education to their people; however, for the more higher education like university, the students or their parents should pay for the fees
+supporting MajorClaim T1:
+
+----type: Claim T12
+----text: this will encourage all the parents to think of the way to help their children to achieve more in their lives
+----supporting Claim T12:
+
+--------Premise T13: they need to make some contribution too for their children future
+
+----no arguments attacks Claim T12
+
+----type: Claim T3
+----text: I don't think it is also fair for the government as the government has been paying a lot of money for their students' primary and secondary education
+----supporting Claim T3:
+
+--------Premise T4: It is better for them to use the money to pay for the other students' education so that all people in their country could receive the same education
+
+----no arguments attacks Claim T3
+
+----Claim T15: this will make both the parents and students in charge for their future themselves not just depend on the government to do all their responsibilities for them
+----type: Claim T6
+----text: They will be more responsible with their studies when they pay the fees themselves
+----supporting Claim T6:
+
+--------Premise T5: students that already have a basic knowledge and education can get a part-time job and they can pay for their own studies when their parent could not afford to pay it
+--------Premise T7: the students will become more independent and it will build their characters in the marketplace as well
+
+----no arguments attacks Claim T6
+
+
+attacking MajorClaim T1:
+----Claim T2: Some parents might not have enough money to pay for their children university fees
+

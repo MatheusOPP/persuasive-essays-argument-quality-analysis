@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T22
+text: people who work slowly can no longer handle more tasks
+supporting Claim T22:
+
+----Premise T18: If you show in your workplace that you are the one who can work more than other even carelessly, your boss will assign you more tasks
+----Premise T19: If you do them fast too, the first acknowledgement of your boss encourages you to work harder
+----Premise T20: It turns you to a person who has skill of working without hesitation
+----Premise T21: Even if we ignore this result, by the same token, you can get higher position and more money
+
+no arguments attacks Claim T22
+

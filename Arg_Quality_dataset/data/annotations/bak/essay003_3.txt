@@ -1,0 +1,10 @@
+Type: Claim T8
+Text: tourism has survived many non-tangible cultural values and beauty scenes
+Supporting Claim T8
+
+    Premise: Without this support and profit from tourism, many traditional cultures would disappear due to its low income works
+    Premise: in Vietnam, many cultural costumes and natural scenes, namely ‘Trong Dong’ drum performance and ‘Ha Long’ bay, are being encouraged to preserve and funded by the tourism ministry
+    Premise: through tourism industry, many cultural values have been preserved and natural environments have been protected
+
+No arguments attacks Claim T8
+

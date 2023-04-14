@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: successful people do not have to try new things or take risks
+supporting Claim T9:
+
+----Premise T8: He does not have to invest some dangerous companies to get higher profit which might lead him to bankrupt in a short time
+----Premise T7: He can focus on certain companies which he thinks is worth it to invest, and then just waits for the not so high but constant income
+----Premise T6: Consider a circumstance in which one person is rich because he knows a lot of knowledge of investment
+----Premise T5: The lower the factors making us fail we have, the higher probability to success we own
+----Premise T4: to be successful, we all try to reduce the risk we might encounter
+
+no arguments attacks Claim T9
+

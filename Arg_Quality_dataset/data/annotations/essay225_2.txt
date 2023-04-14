@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: during our childhood, though responsibilies exist, we are much more free to do what we would like to
+supporting Claim T3:
+
+----Premise T4: Being late for school or laughing at a place where you aren't supposed to do not have consequences as serious as that would be if you were an adult
+----Premise T7: Every action we make are watched closely and judged by the community
+----Premise T6: We are told at what hour we shall wake up, how we shall dress up and how we shall behave
+----Premise T5: Starting with our adulthood, we are strictly bounded with our responsibilities in our daily lives
+
+no arguments attacks Claim T3
+

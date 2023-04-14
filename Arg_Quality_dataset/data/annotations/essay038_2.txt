@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: most members of our society can benefit from the consequences of technical advancements, especially the poor people
+supporting Claim T3:
+
+----Premise T4: the progress of material technology leads to the sharp fall of price of a great number of products
+----supporting Premise T4:
+--------Premise T5: About ten years ago, mobile phones ware very expensive for most members of my country, only a few of rich individuals have enough money to buy one
+--------Premise T6: Today, mobile phones become a common one of household items, which due to the cheaper materials and better producing technologies
+
+----no arguments attacks Premise T4
+
+
+no arguments attacks Claim T3
+

@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: The first reason why the father's role should be equal to the mother's role is the nature of parantage
+Supporting Claim T5
+
+    Premise: the role models within a family play a significant role in the development of the child's characteristics
+
+No arguments attacks Claim T5
+

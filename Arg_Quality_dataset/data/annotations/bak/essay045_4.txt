@@ -1,0 +1,8 @@
+Type: Claim T9
+Text: to survive in this competitive world, one has to work hard and equip themselves well
+Supporting Claim T9
+
+    Premise: If they could get free financial help from the government, they might end up with out any motivation to work at all
+
+No arguments attacks Claim T9
+

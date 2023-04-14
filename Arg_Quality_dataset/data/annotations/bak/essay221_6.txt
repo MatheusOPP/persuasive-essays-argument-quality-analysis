@@ -1,0 +1,11 @@
+Type: Claim T19
+Text: It benefits to a certain country
+Supporting Claim T19
+
+    Premise: because of all weird, acute, and beautiful animals in the zoo, it can be a great tourist attraction
+    Premise: There are a lot of tourists who seek to see those animals closely
+    Premise: If the zoo has a large number of both national and foreign tourists, it will receive a great deal of money
+    Premise: That also make money flow, and then economics become better
+
+No arguments attacks Claim T19
+

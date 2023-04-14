@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: advertisers push the limits of creativity to dispose the consumers to purchase the product
+supporting Claim T6:
+
+----Premise T9: We are mainly introduced to products through advertisements
+----Premise T10: When the consumers are impressed by the way a product is advertised, they can be convinced to consider that the product is a need in some cases
+----Premise T13: the number of that product being sold will increases
+----supporting Premise T13:
+--------Premise T11: Recently, there is a very creative advertisements of a soft drink product on TV
+--------Premise T12: The story delivers a desired call to drink that soft drink that people tend to drink when the weather is too hot
+
+----no arguments attacks Premise T13
+
+
+no arguments attacks Claim T6
+

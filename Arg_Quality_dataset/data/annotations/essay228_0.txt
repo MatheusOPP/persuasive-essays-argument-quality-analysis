@@ -1,0 +1,43 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: TV programs are among the popular topics in every day talk as well as a great time for gathering
+supporting MajorClaim T1:
+
+----Claim T2: Modern TV has smart system that let you be connected with people
+----Claim T5: people like having meals while they are watching TV
+----type: Claim T6
+----text: Families usually tend to watch television either with each other or friends
+----supporting Claim T6:
+
+--------Premise T7: my friends and I used to sit together and enjoy watching movies using VHS player at nights
+--------Premise T8: It was fun and a little bit similar to the cinema
+
+----no arguments attacks Claim T6
+
+----type: Claim T12
+----text: we can communicate with each other through TV
+----supporting Claim T12:
+
+--------Premise T10: TV can be connected to multimedia devices that have smart operating system like Google TV, WDTV using Skype, tango and other apps
+--------Premise T11: Teenagers can play games online with their friends
+--------Premise T9: TV can be one of communication ways
+
+----no arguments attacks Claim T12
+
+----Claim T15: it can also make family get together and help to get in conversation
+----Claim T16: it's one way of recent communications
+
+attacking MajorClaim T1:
+----type: Claim T3
+----text: watching TV take a lot of your day
+----supporting Claim T3:
+
+
+----attacking Claim T3:
+--------Premise T4: it makes people meet and start a conversation about what they watch at other times like weather forecast and sport programs
+
+----Claim T14: TV may take some of your time away from your family and friends
+

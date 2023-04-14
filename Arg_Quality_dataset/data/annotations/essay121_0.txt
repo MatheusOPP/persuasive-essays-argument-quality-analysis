@@ -1,0 +1,30 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I completely disagree with the idea that businesses should be allowed to do anything they want to make a profit
+supporting MajorClaim T1:
+
+----Claim T2: With this permission they are allowed to hit and damage everything for just making a profit
+----type: Claim T3
+----text: if there is not any control on the businesses and they are permitted to do everything they want, they will threaten the beings' life such as human, animals and plants
+----supporting Claim T3:
+
+--------Premise T4: As every day we read and hear in televisions and newspapers that some factories hit the environment by their toxic substances
+
+----no arguments attacks Claim T3
+
+----type: Claim T6
+----text: they might hit consumer's life
+----supporting Claim T6:
+
+--------Premise T5: if we let them do anything they can to just make a profit, they will produce products with low qualities and high prices
+--------Premise T7: a few months ago it was broadcast from TV that a company which produced baby milk, sold milk which did not have quality and it caused a few babies die
+
+----no arguments attacks Claim T6
+
+----Claim T9: They can hit both the environment and human's life easily
+
+no arguments attacks MajorClaim T1
+

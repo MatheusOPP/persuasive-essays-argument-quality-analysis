@@ -1,0 +1,29 @@
+Type: MajorClaim T19
+Text: if the students choose the classes as optional, it would provide more benefits than drawbacks
+Supporting MajorClaim T19
+
+    Type: Claim T22
+    Text: When the students go to university, they have matured mentally and physically
+    Supporting Claim T22
+
+
+    No arguments attacks Claim T22
+
+    Type: Claim T23
+    Text: They have enough knowledge to choose what they need to do
+    Supporting Claim T23
+
+
+    No arguments attacks Claim T23
+
+
+Attacking MajorClaim T19
+    Type: Claim T20
+    Text: few brilliant lecturers deliver more informative lectures
+    Supporting Claim T20
+
+
+    Attacking Claim T20
+        Premise: some are boring the students in the class and wasting the students' time
+
+

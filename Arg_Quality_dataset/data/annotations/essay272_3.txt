@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T9
+text: using telephones and email could express some important words better than face-to-face communication
+supporting Claim T9:
+
+----Premise T12: these types of communications make me feel personal
+----supporting Premise T12:
+--------Premise T11: when I have a time to realize what had happened, I could explain the real thought that I want to express without emotion
+--------supporting Premise T11:
+------------Premise T10: sometime when I argue with my friends, I cannot express my self to my friends at that moment
+
+--------no arguments attacks Premise T11
+
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T9
+

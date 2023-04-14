@@ -1,0 +1,16 @@
+Type: MajorClaim T1
+Text: students should always attend class no matter what the outcome of the exam is
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: in terms of learning, attending class is more effective than simply studying alone to pass the exams
+    Supporting Claim T2
+
+        Premise: Classes are designed diligently for the students and professors absolutely bear more knowledge than the students
+        Premise: Professors not only have the knowledge, but also equip with experiences, knowing how to guide their students toward their academic achievements
+
+    No arguments attacks Claim T2
+
+
+No arguments attacks MajorClaim T1
+

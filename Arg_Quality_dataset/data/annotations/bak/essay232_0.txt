@@ -1,0 +1,41 @@
+Type: MajorClaim T1
+Text: parents are the best teacher
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: Children normally think that their parents are somehow special and that makes them the most important people in the children’s lives
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: the things that parents say have great power to their child
+    Supporting Claim T3
+
+        Premise: More power than any friend or other adult could have
+        Premise: if someone tells a kid that something is wrong and they shouldn't do it, but his father told him/her that it was right, the kid will listen to the father instead of the other person, even if his father is wrong
+
+    No arguments attacks Claim T3
+
+    Type: Claim T7
+    Text: their parents have more time to teach him/her than anybody else
+    Supporting Claim T7
+
+        Premise: a child normally spends more time with their parents than with other people
+        Premise: They have more contact and more intimacy with their children
+
+    No arguments attacks Claim T7
+
+
+Attacking MajorClaim T1
+    Type: Claim T11
+    Text: children usually mirror themselves on their parents
+    Supporting Claim T11
+
+        Premise: even if the parents don’t intend to teach their children something, they are always observing and learning by themselves
+        Premise: if there is a man that beats his wife and treats her bad, his child probably is going to be rude and treat girls bad
+
+    No arguments attacks Claim T11
+
+

@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T11
+text: Outdoor activities not only improves my health but also gives me chances to communicate with more people
+supporting Claim T11:
+
+----Premise T12: When I was ten years old, I was a shy girl
+----Premise T14: At first, I just ate and played alone
+----Premise T15: But on the third day, while I was swimming, a friendly girl came and greeted me, we became friend later and she taught me how to swim effectively
+----Premise T13: My mother took me to The National Camp
+----Premise T16: On the next day, we played together and she introduced me to her friends
+----Premise T17: Thanks to her and outdoor activities such as going skiing, climbing the mountain, I had a lot of friends since The National Camp
+----Premise T18: If, for example, I hadn't participate in that camping, I wouldn't have had many friends like today
+
+no arguments attacks Claim T11
+

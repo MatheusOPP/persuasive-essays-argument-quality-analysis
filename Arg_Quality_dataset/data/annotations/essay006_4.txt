@@ -1,0 +1,22 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T6
+text: Most important is the cultural aspect of the experience
+supporting Claim T6:
+
+----Premise T13: While living in a foreign country, students can learn a lot about the culture of that country
+----Premise T14: they can meet different people of the country
+----Premise T15: They can learn about their way of thinking, their customs and traditions, and way of life
+----Premise T16: Learning about others' cultures is so important
+----supporting Premise T16:
+--------Premise T17: It contributes in building a new understanding in us of how we see the world
+--------Premise T18: It makes us more open, and willing to accept different ideas and thoughts
+--------Premise T19: it educates us about the world we are living in
+
+----no arguments attacks Premise T16
+
+
+no arguments attacks Claim T6
+

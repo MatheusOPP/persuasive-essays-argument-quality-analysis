@@ -1,0 +1,61 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: I would prefer to live in an apartment in the community rather than in the university dormitories
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: an apartment provides a lot more freedom than a dormitory
+----supporting Claim T3:
+
+--------Premise T4: While in a dormitory you have to obey preset rules, in the apartment you set your own rules
+--------Premise T5: You are free to have visits at any time or to be left alone if you want
+--------Premise T6: An apartment offers more privacy
+--------supporting Premise T6:
+------------Premise T7: you can choose to have your own room instead of sharing with another student
+
+--------no arguments attacks Premise T6
+
+--------Premise T8: you also get more space than you would in a dormitory
+
+----no arguments attacks Claim T3
+
+----type: Claim T14
+----text: the studying conditions are better in an apartment
+----supporting Claim T14:
+
+--------Premise T17: you would be able to concentrate better
+--------supporting Premise T17:
+------------Premise T19: you won't have this problem
+------------supporting Premise T19:
+----------------Premise T18: in an apartment you don't have a roommate
+
+------------no arguments attacks Premise T19
+
+
+--------no arguments attacks Premise T17
+
+--------Premise T16: A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times
+--------Premise T15: you don't have all the noise and distractions that you often have in dormitories
+--------Premise T20: you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night
+--------Premise T21: You set your own schedules
+
+----attacking Claim T14:
+--------Premise T22: living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them
+
+
+attacking MajorClaim T1:
+----type: Claim T9
+----text: an apartment is more expensive
+----supporting Claim T9:
+
+--------Premise T11: Transportation is another issue, you have to go to and return from the university everyday
+--------Premise T12: You could choose to use public transportation, a cheaper option, or to have a car
+--------Premise T13: The car is an expensive option, but also offers freedom of schedule and destination
+
+----attacking Claim T9:
+--------Premise T10: you could rent the extra rooms in the apartment to other people and rent would be a lot cheaper
+
+

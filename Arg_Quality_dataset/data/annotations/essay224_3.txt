@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T18
+text: the businesses ought to recruit many workers so as to tackle this aching issue
+supporting Claim T18:
+
+----Premise T21: the factories and companies will have abundant human sources to ensure the pace of manufacture and also devising lots of unique ideas
+----Premise T19: the economic crisis and financial recession result in a tremendous increase in unemployment
+----Premise T20: It enables the jobless to better their life and earn a living
+
+no arguments attacks Claim T18
+

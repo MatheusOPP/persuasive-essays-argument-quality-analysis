@@ -1,0 +1,33 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: the majority of people in the globe have benefited greatly from these powerful and effective means of modern communication
+supporting MajorClaim T2:
+
+----type: Claim T4
+----text: these new forms of communication do bring a great deal of convenience to humankind
+----supporting Claim T4:
+
+--------Premise T8: With a mobile phone or a laptop, a person can talk or send messages online at a bus stop, in a corner shop or anywhere they could imagine
+--------Premise T7: it is generally felt that the access to these tools of communication is available in every corner of the world
+--------Premise T6: With the click of a button, the vast amount of information can be transmitted from America to China in just a few seconds
+--------Premise T5: mobile phones and other tools of modern communication facilitate not only contact with friends and relatives in faraway places but also global business
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T2:
+----Claim T1: there are valid arguments to the contrary
+----type: Claim T9
+----text: people who live in poverty are less likely to be benefited from modern communication technologies
+----supporting Claim T9:
+
+--------Premise T10: the more privileged are able to enjoy the benefits
+--------Premise T11: the wide spread use of these efficient and effective ways of communication costs a considerable amount of money
+--------Premise T12: Anyone who aims to use these innovations have to not only pay for the appliances such as a mobile phone or a computer but also cover up costs for communication services
+
+----no arguments attacks Claim T9
+
+

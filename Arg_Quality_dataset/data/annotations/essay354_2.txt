@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: sedentary lifestyle lead to many serious health problems
+supporting Claim T4:
+
+----Premise T5: The main reason why people are becoming so addicted to sitting at their homes even for the whole day is an advance technology
+----Premise T6: they had more outdoor activities
+----supporting Premise T6:
+--------Premise T7: In earlier times, for instance, even the types of entertainment tools were not in large numbers and all of them required physical presence
+
+----no arguments attacks Premise T6
+
+----Premise T8: Nowadays people, especially inhabitants of cities, are spending most of their time on sitting in front of TV or other tools
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,41 @@
+Type: MajorClaim T2
+Text: government cannot take steps to make the salary between modern artists and other job similar
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: art price is about taste
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T10
+    Text: Proficiency brings perfectness in terms of art work
+    Supporting Claim T10
+
+        Premise: the modern artists who implement their creative thinking onto high value creation are paid with immense sum by the art collector
+        Premise: the high sum which modern artists receive is related to the quality instead of the quantity and their rare talent
+        Premise: modern artists also devote themselves find a unique concept in which ordinary people cannot do, such making impossible become possible
+
+    No arguments attacks Claim T10
+
+    Type: Claim T13
+    Text: government cannot equalize the price of creation of modern artist
+    Supporting Claim T13
+
+        Premise: there is no certain parameter to value it
+        Premise: labor working in the merchandise factory receive coin of dollar even they make a hundred of 15 cm Buddha temples a day
+        Premise: a musician playing "I swear" several times receives different earnings that Padang got
+
+    No arguments attacks Claim T13
+
+    Type: Claim T17
+    Text: the huge sums of modern artists receives related to their struggle in the field of art, while the term of struggle might different with other field of job
+    Supporting Claim T17
+
+
+    No arguments attacks Claim T17
+
+
+No arguments attacks MajorClaim T2
+

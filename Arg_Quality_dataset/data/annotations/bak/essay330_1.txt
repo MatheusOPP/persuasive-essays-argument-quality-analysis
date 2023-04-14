@@ -1,0 +1,36 @@
+Type: MajorClaim T2
+Text: there are sometimes unpleasant and boring parts which is not liked by anyone, but most of them are about responsibilities which is the part of individual's live
+Supporting MajorClaim T2
+
+    Type: Claim T5
+    Text: In personal live, we have some responsibilities towards to other people, there is nobody who likes all of these responsibilities
+    Supporting Claim T5
+
+        Premise: most people's lives are filled with tasks that they don't enjoy doing
+        Premise: housework is very difficult for me, although my husband helps me some of them, but it is my responsibility
+        Premise: I really don't like any of them, however I should do
+
+    No arguments attacks Claim T5
+
+    Type: Claim T7
+    Text: professional lives are filled with tasks that is neccessary parts of the jobs
+    Supporting Claim T7
+
+        Premise: Nobody likes attending boring conferences, or working a person who isn't well in with anyone
+        Premise: I'm a research asistant at a university, and as any of the univesity in ours we have a professor who isn't good at human relationships, most of the asistans don't enjoy to talk with him about any situation, although we have to ask about his field
+
+    No arguments attacks Claim T7
+
+    Type: Claim T13
+    Text: doing something which an individual doesn't enjoy can led to enjoyment
+    Supporting Claim T13
+
+        Premise: People sometimes can attend any activities by insisting on any of their friends although they don't really want
+        Premise: one of our friends tell my husband and me about a dance course which we both don't like
+        Premise: After insisting on some of our friends, we attended, and got really enjoyable time, we continued the course about six months although most of our friends left the course after a month
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T2
+

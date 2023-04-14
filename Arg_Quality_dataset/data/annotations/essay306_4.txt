@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: technology may make people's life more complicated
+supporting Claim T14:
+
+----Premise T10: the cell phone, which used to be simply a tool to deliver messages to your contacts in a distance, now are playing a role more than just a phone in social communications
+----Premise T11: folks have to check their Facebooks, Twitters, and Forums accounts every minute, which add too much pressure to them
+----Premise T12: games on their phone exert a tremendous fascination on teenagers, leading to a large problem that they got addicted to their phones
+----Premise T13: making their life more complicated and tired
+
+no arguments attacks Claim T14
+

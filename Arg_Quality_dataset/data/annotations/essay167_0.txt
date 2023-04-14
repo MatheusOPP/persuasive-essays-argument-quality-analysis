@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: computers brought convenience and easiness to our life
+supporting MajorClaim T1:
+
+----Claim T2: they enabled easier access to information and increased qualities of the communication
+----type: Claim T7
+----text: computers through internet made our access to information easier
+----supporting Claim T7:
+
+--------Premise T4: Through computers we can collect appropriate data very quickly, store it in the hard disc as long as we want and use it when needed
+--------Premise T5: Search engines such as google, yandex with many features relevant to the characteristics of the information needed enable search of information in few minutes
+--------Premise T6: Social networks such as facebook, twitter have changed traditional sources of information and decreasing the monopolization of the information by the governments
+--------Premise T3: with the use of computers we spend less time in search for information, and can get it from different sources
+
+----no arguments attacks Claim T7
+
+----type: Claim T14
+----text: communication has become cheaper, faster and visual
+----supporting Claim T14:
+
+--------Premise T10: it is convenient
+--------supporting Premise T10:
+------------Premise T11: you do not need to mile to the post office, but just click the mouse of your computer from the convenience of your arm chair in order to reach your friends, family members in any part of the world
+
+--------no arguments attacks Premise T10
+
+--------Premise T9: With the use of email our messages can be delivered to any person in any part of the world in few minutes
+--------Premise T12: Internet facilities such as msn, skype made visual communication possible
+--------supporting Premise T12:
+------------Premise T13: via skype people not just communicate with their family members and friends, but also make interviews for employment, enrolment into universities
+
+--------no arguments attacks Premise T12
+
+--------Premise T8: in a globalized world that we live computers made communications faster, visual and cheaper
+
+----no arguments attacks Claim T14
+
+----Claim T16: it broadened the sources of information and made access more quick, a long with the improving quality of the communication in many ways
+
+no arguments attacks MajorClaim T1
+

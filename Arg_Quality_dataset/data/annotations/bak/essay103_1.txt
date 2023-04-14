@@ -1,0 +1,9 @@
+Type: Claim T1
+Text: past behaviour determines the future actions
+Supporting Claim T1
+
+    Premise: complete data concerning the history of a sued person creates more opportunity for jury members to build an overall picture of defendant's personality
+    Premise: past record might be useful to decide whether a person was able to perform a certain type of crime when it concerns serious crimes, such as kidnapping or a murder
+
+No arguments attacks Claim T1
+

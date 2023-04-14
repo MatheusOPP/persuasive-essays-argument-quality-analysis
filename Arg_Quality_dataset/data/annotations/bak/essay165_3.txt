@@ -1,0 +1,14 @@
+Type: MajorClaim T12
+Text: attending classes in the university will not be required to the students anymore
+Supporting MajorClaim T12
+
+    Type: Claim T13
+    Text: the students should know what activities they should do at the time and have good management for their learning time
+    Supporting Claim T13
+
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T12
+

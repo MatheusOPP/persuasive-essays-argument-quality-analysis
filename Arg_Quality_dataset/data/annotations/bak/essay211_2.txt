@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: Removing physical classes from school education will not only be harmful to young people’s health, it will also decrease their learning capability
+Supporting Claim T6
+
+    Premise: from the health point of view, schools should not only deliver academic subjects
+    Premise: If physical education is removed from the syllabus, there will be considerable negative effects on students’ health
+    Premise: after studying and sitting in the classroom for the whole morning, it is better for students to do some outdoor activities, such as stretching, jogging and playing ball games, in order to improve their learning ability during the afternoon classes
+
+No arguments attacks Claim T6
+

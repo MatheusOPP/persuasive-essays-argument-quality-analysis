@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: when it comes to knowledge and the acquisition of such, classmates are second to none
+Supporting Claim T10
+
+    Premise: students share even more time together than with their parents, explaining a great deal of wisdom they absorb from each others
+    Premise: it can be, for example, lessons on the class, social skills or general etiquettes that are sometimes overlooked by parents
+    Premise: Sharing the same age, children are at their most comfort to exchange ideas, to query and interpret abstract concepts without fear of parental punishments, resulting in deeper comprehension
+
+No arguments attacks Claim T10
+

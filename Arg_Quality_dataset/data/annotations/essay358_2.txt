@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: These factors affect people who work or study from home
+supporting Claim T14:
+
+----Premise T12: Teachers think that students get affected too as they can not clear their doubts in study topics instantly
+----Premise T11: This harms an employee's deliverable
+----Premise T10: once an employee works from isolation, he or she spends a lot of time in communication via phone or email with colleagues
+
+no arguments attacks Claim T14
+

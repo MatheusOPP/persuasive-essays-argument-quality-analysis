@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: there are other measures to improve the situation
+supporting Claim T7:
+
+----Premise T8: It is advisable for the government to encourage medical production by supplying land for building factories and reducing part of the taxes
+----Premise T9: charitable organizations can buy medicines from developed countries and distribute to the undeveloped world for free
+
+no arguments attacks Claim T7
+

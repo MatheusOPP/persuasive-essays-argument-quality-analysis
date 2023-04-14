@@ -1,0 +1,42 @@
+Type: MajorClaim T1
+Text: governments should certainly spend money on the public transportation system
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: it would deal with problems that the rising number of private cars is creating
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: the using of public transportation reduces the amount of resources using on transportation
+    Supporting Claim T3
+
+        Premise: the more cars we use means that the faster gasoline in this world is used up
+        Premise: if the public transportation is efficiently used, the amount of gasoline consuming per person will be much lower
+        Premise: this definitely helps to reserve our invaluable natural resource, gasoline
+
+    No arguments attacks Claim T3
+
+    Type: Claim T8
+    Text: public transportation helps to solve the air pollution problems
+    Supporting Claim T8
+
+        Premise: public transports use much less gasoline to carry people than private cars
+        Premise: It means that by using public transports, the less gas exhaust is pumped to the air and people will no longer have to bear the stuffy situation on the roads, which is always full of fumes
+
+    No arguments attacks Claim T8
+
+    Type: Claim T13
+    Text: there is no reason that governments should hesitate to invest in public transportation, a healthy, safe and economical way of transporting
+    Supporting Claim T13
+
+        Premise: According to National Safety Council, riding the bus is over 170 times safer than private care
+        Premise: using public transportation is much safer than private transportation
+
+    No arguments attacks Claim T13
+
+
+No arguments attacks MajorClaim T1
+

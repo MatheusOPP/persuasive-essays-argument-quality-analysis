@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: This can also help stimulate the local economy
+supporting Claim T12:
+
+----Premise T9: a number vacant positions need to be filled
+----supporting Premise T9:
+--------Premise T10: the university will have to hire professors, employees and etc
+--------Premise T11: there will be more opportunities to work in the community
+
+----no arguments attacks Premise T9
+
+----Premise T13: when people have jobs, they will have money to spend on goods and services
+
+no arguments attacks Claim T12
+

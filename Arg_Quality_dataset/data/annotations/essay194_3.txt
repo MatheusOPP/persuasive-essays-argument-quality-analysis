@@ -1,0 +1,18 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T5
+text: Many scientific studies have revealed the detriment that zoos have caused to animals
+supporting Claim T5:
+
+----Premise T6: like we, human beings, animals are delivered to this world with genetic instincts
+----Premise T8: when they are released or in the worst case, when they escape, they act disorientated and this contributes to the animal mortality rate
+----supporting Premise T8:
+--------Premise T7: When we captivate animals and put them to live a style of life that they are unfamiliar with, they begin to loose those in-born instincts
+
+----no arguments attacks Premise T8
+
+
+no arguments attacks Claim T5
+

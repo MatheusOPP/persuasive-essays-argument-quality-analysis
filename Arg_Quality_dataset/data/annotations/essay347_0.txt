@@ -1,0 +1,55 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T3
+text: buying habit is people's choice to make, not entirely affected by advertisements
+supporting MajorClaim T3:
+
+----type: Claim T4
+----text: it is important that government needs to impose rules on particularly advertisement company (for example, toys company) to avoid youngster have bias thought on what they really need
+----supporting Claim T4:
+
+--------Premise T5: for children or adolescents who is not mentally develop, it might be hard for them not to swayed by advertising
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: the advertisement is not the only cause for people to buy
+----supporting Claim T9:
+
+--------Premise T11: buying habit is a very personal things for individuals
+--------Premise T10: sometimes it depends on one's needs and ability of consumption
+--------Premise T12: It is unlikely to buy things impulsively for adults who have concern of arranging disposable income
+--------Premise T13: Most of them have to allocate the money if they doing other purchase
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T3:
+----type: Claim T2
+----text: people will be swayed by the advertising and buy things they do not need it for their life
+----supporting Claim T2:
+
+--------Premise T1: in most asian countries, advertisement company usually hire popular singers or actors to advertise the products to boosts the sales, and some people, especially adolescent may buy things from their favourite singer advertised to support their idol instead of to fill their needs
+
+----no arguments attacks Claim T2
+
+----type: Claim T7
+----text: A good advertisement can convince people to believe that it is what they want, even though it is not the real needs of the society
+----supporting Claim T7:
+
+--------Premise T8: products usually look more gorgeous and with good quality in advertisement, people are more likely to buy goods impulsively without a second thought
+--------Premise T6: there are always people purchase particular products swayed by advertising which makes it a trend to follow for other people who is unnecessarily need it
+
+----no arguments attacks Claim T7
+
+----type: Claim T14
+----text: children and adolescents who is not economic independence is more possible to buy things impulsively without considering whether they need it or not
+----supporting Claim T14:
+
+--------Premise T15: they do not have financial pressure from life and ability to define what is necessary
+
+----no arguments attacks Claim T14
+
+

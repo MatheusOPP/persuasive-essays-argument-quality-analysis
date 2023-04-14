@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: the capability of working independly is more significant
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

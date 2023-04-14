@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: it is necessary that we should reduce and cope with our stress in the goal of balancing our mind and body
+supporting Claim T13:
+
+----Premise T14: stress takes a toll on our health
+----Premise T12: Melancholia, the most fatal problem, even leads some people to commit suicide
+----Premise T11: some people have physical problems, such as insomnia and headaches
+----supporting Premise T11:
+--------Premise T16: It is known that the modern life is frequently full of hassles, frustrations, and demands
+--------Premise T15: This is one of the reasons why people were overwhelmed by constant stress
+
+----no arguments attacks Premise T11
+
+
+no arguments attacks Claim T13
+

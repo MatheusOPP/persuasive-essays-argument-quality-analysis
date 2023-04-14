@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: this great invention causes many social problems
+supporting MajorClaim T1:
+
+----type: Claim T2
+----text: spending too much time on phones may exert adverse effects on social life
+----supporting Claim T2:
+
+--------Premise T4: distraction may be developed during study or social activities
+--------supporting Premise T4:
+------------Premise T3: as people increasingly tend to focus and relay on phones, they may lose their interest on daily activities like meeting with their friends
+
+--------no arguments attacks Premise T4
+
+--------Premise T5: continuous use of mobile phone may damage both eyesight and physical posture of the children
+
+----no arguments attacks Claim T2
+
+----type: Claim T9
+----text: the hardship of communication may be developed
+----supporting Claim T9:
+
+--------Premise T6: many games involve children helping their character to kill or shoot, which many lead to increased aggressive feelings, thoughts and behaviours
+--------Premise T7: In those games, children are rewarded for being more violent, and this violence is repeated again and again
+--------Premise T8: there are many types of games available in the phone and many of them are very aggressive in nature such as "Iron man"
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----type: Claim T11
+----text: mobile phones have shortened the distance of communicatio
+----supporting Claim T11:
+
+--------Premise T10: as lots of chatting apps available online such as "Weichat", people tend to send instant messages free of charge by using their phones rather than face to face communication
+--------Premise T12: With rapid development of the internet, people are able to enjoy quick electronic communication via internet
+
+----no arguments attacks Claim T11
+
+----Claim T13: mobile phones brings convenience of communication
+

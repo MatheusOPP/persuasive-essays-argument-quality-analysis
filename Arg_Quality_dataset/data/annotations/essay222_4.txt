@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: parents train their child how to become a good person
+supporting Claim T8:
+
+----Premise T9: They always make their children basically say thanks and apology in the right way
+----Premise T10: it is common that they try to explain who is a good or bad person
+----Premise T11: children are shown how to behave well with others
+----Premise T12: this can influence positively their future children and makes children's behavior better before they face the real world
+
+no arguments attacks Claim T8
+

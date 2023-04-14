@@ -1,0 +1,9 @@
+Type: Claim T5
+Text: without the prevention on criminal details, the unlawful behavior would be more and more severe and the social harmony would be broken
+Supporting Claim T5
+
+    Premise: This may help those who are in the process of panning a criminal act perfect their plans, avoid the pitfalls and make themselves harder to be tracked down by the police
+    Premise: detailed reports of crimes exposured on the press may provide the potential criminals with instructive learning materials, which would be hard to obtain otherwise
+
+No arguments attacks Claim T5
+

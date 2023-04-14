@@ -1,0 +1,10 @@
+Type: Claim T13
+Text: it is necessary that we should reduce and cope with our stress in the goal of balancing our mind and body
+Supporting Claim T13
+
+    Premise: stress takes a toll on our health
+    Premise: Melancholia, the most fatal problem, even leads some people to commit suicide
+    Premise: some people have physical problems, such as insomnia and headaches
+
+No arguments attacks Claim T13
+

@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: They make the product preferable
+supporting Claim T8:
+
+----Premise T18: advertisements have undeniable affects on the society about the product being advertised
+----Premise T16: When a product is commonly used, it becomes trustworthy for the society, no matter what quality it is
+
+no arguments attacks Claim T8
+

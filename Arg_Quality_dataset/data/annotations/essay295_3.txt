@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T15
+text: the learning with a teacher is more efficient than by myself
+supporting Claim T15:
+
+----Premise T11: We can accomplish our assignments with little help of a teacher within less time than do it by ourself
+----Premise T12: the teachers play important role in leading us to right direction
+----Premise T13: This gives us opportunity to rise our educational level to an exited degree
+----Premise T14: knowledge may be thereby better improved and strengthened
+
+no arguments attacks Claim T15
+

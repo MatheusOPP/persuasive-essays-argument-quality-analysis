@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T12
+text: Students may find that it is hard to study without being kept under supervision
+supporting Claim T12:
+
+----Premise T13: If you are the type that gets easily distracted, a distance-learning program may not be for you
+----Premise T15: Unlike traditional classes, distance education courses don't take place in a classroom, where you are surrounded by your teachers and classmates
+----Premise T14: studying at home is very different from traditional learning
+
+no arguments attacks Claim T12
+

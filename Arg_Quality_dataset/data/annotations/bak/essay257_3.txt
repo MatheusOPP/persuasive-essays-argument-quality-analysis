@@ -1,0 +1,9 @@
+Type: Claim T18
+Text: we cannot always lean on our luck to be successful
+Supporting Claim T18
+
+    Premise: I don't want to disavow the role of luck in success, but as you know it hardly accompany us
+    Premise: it is wise advice which you have hard study to success on exam
+
+No arguments attacks Claim T18
+

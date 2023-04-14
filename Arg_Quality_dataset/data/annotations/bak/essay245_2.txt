@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: you can write an e-mail at any time of the day
+Supporting Claim T10
+
+    Premise: I work and study at the university and I don't have spare time during the day
+    Premise: I get home at about midnight and I still need to answer some questions and to solve some routine problems
+    Premise: for me it is better to leave a voice mail
+
+No arguments attacks Claim T10
+

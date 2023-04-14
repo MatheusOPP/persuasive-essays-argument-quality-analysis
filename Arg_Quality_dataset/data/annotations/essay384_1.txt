@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: it would be rather necessary for governments to establish an intensive law that prevents teenagers from watching these violent and brutal TV Shows and movies
+supporting Claim T7:
+
+----Premise T3: reducing the proportion of violent content in TV shows could, to some degree, decrease the overall crime rate
+----Premise T5: As a result of mental immaturity, most youngsters are incapable of distinguishing right from wrong
+----Premise T6: by watching these violent TV programs and videos, juveniles will become very aggressive and offensive and have a great tendency to commit crimes
+----Premise T4: governments must first prohibit any types of violent content in all children’s television programs
+
+no arguments attacks Claim T7
+

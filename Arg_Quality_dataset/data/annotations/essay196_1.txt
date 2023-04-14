@@ -1,0 +1,16 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: learning by doing things develops our maturity
+supporting Claim T2:
+
+----Premise T4: When you do things by your self, you learn to depend on yourself
+----Premise T3: You will not be in need to refer to books or persons
+----Premise T6: if some one wants to learn how to be a leader, they have to experience this by being in a real situation of leading a team or a group, or even a situation
+----Premise T7: We can not be leaders by reading books or by listening to person talking about leading
+----Premise T5: The fact of doing things by ourselves can help us to get some experiences that would strong our maturity
+
+no arguments attacks Claim T2
+

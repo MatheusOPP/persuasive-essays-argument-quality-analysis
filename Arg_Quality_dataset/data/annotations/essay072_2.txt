@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: exercise play a crucial role in ameliorating physical health
+supporting Claim T4:
+
+----Premise T5: Any kinds of sports, such as jogging, swimming, or playing basketball, can effectively facilitate human respiration and circulation system
+----Premise T6: these sports can also strengthen muscles and lessen surplus adipose tissues in human body
+----Premise T7: The latter one is of particular importance because nowadays more and more people are suffer from obesity
+----Premise T8: Many studies has points out that numbers of overweight people have increased in developed countries in recent years, which mainly results from insufficient exercises
+
+no arguments attacks Claim T4
+

@@ -1,0 +1,10 @@
+Type: Claim T6
+Text: the governments should help arts
+Supporting Claim T6
+
+    Premise: their work crafts are very necessary to boost the tourist industry
+    Premise: some countries depend on tourism as their main source of revenue
+    Premise: art helps to improve the quality of our lives as well as attracting tourists
+
+No arguments attacks Claim T6
+

@@ -1,0 +1,11 @@
+Type: Claim T4
+Text: Computers provide speed, increase efficiency, accuracy, precision, help to increase productivity and other countless benefits are provided by it
+Supporting Claim T4
+
+    Premise: In the modern world, computers are used everywhere
+    Premise: Right from flying planes to sending a small document, computers are needed
+    Premise: They are used in space programs, wars, hospitals, schools and so on
+    Premise: Computers have made human life more easy, convenient and lightning fast
+
+No arguments attacks Claim T4
+

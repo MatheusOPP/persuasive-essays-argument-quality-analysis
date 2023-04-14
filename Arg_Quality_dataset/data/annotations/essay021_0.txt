@@ -1,0 +1,54 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: advertising is the major reason for high sales of a product
+supporting MajorClaim T1:
+
+----type: Claim T3
+----text: The most effective way to convince consumers to purchase a product is through advertising
+----supporting Claim T3:
+
+--------Premise T5: The product also should satisfy the needs of the consumers
+--------Premise T4: it is not sufficient in itself
+
+----no arguments attacks Claim T3
+
+----type: Claim T6
+----text: advertisers push the limits of creativity to dispose the consumers to purchase the product
+----supporting Claim T6:
+
+--------Premise T9: We are mainly introduced to products through advertisements
+--------Premise T10: When the consumers are impressed by the way a product is advertised, they can be convinced to consider that the product is a need in some cases
+--------Premise T13: the number of that product being sold will increases
+--------supporting Premise T13:
+------------Premise T11: Recently, there is a very creative advertisements of a soft drink product on TV
+------------Premise T12: The story delivers a desired call to drink that soft drink that people tend to drink when the weather is too hot
+
+--------no arguments attacks Premise T13
+
+
+----no arguments attacks Claim T6
+
+----type: Claim T7
+----text: Advertisement is the most effective way to create a well-known product
+----supporting Claim T7:
+
+--------Premise T14: the more an advertisement of a product takes place in mass media, the more popular the product becomes
+--------Premise T15: Consumers tend to purchase the most known product when it comes to picking one out of two different brands of the same product
+
+----no arguments attacks Claim T7
+
+----type: Claim T8
+----text: They make the product preferable
+----supporting Claim T8:
+
+--------Premise T18: advertisements have undeniable affects on the society about the product being advertised
+--------Premise T16: When a product is commonly used, it becomes trustworthy for the society, no matter what quality it is
+
+----no arguments attacks Claim T8
+
+
+no arguments attacks MajorClaim T1
+

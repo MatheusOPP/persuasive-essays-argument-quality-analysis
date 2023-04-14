@@ -1,0 +1,11 @@
+Type: Claim T2
+Text: The reduction in cost of medicines therefore shows the sign of humanity
+Supporting Claim T2
+
+    Premise: If people in poorer countries gain access to these drugs, their health situations may be better
+    Premise: With advanced technology, the developed world has achieved remarkable breakthroughs in making medicines, which can cure a variety of serious illnesses
+    Premise: The medical industry in developing countries is incapable of producing high-quality drugs
+    Premise: more lives will be saved by the use of effective medicines
+
+No arguments attacks Claim T2
+

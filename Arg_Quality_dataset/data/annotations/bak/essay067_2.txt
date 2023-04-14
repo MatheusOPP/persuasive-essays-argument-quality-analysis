@@ -1,0 +1,7 @@
+Type: Claim T3
+Text: this world needs them to make itself colourful
+Supporting Claim T3
+
+
+No arguments attacks Claim T3
+

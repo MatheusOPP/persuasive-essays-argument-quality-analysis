@@ -1,0 +1,7 @@
+Type: MajorClaim T1
+Text: smoking should be made prohibited in public places such as bus and railway stations
+Supporting MajorClaim T1
+
+
+No arguments attacks MajorClaim T1
+

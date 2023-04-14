@@ -1,0 +1,45 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: a single modern culture is being created by modern technology
+supporting MajorClaim T1:
+
+----Claim T3: new technology has influences on educational system, jobs and foods in the world
+----type: Claim T4
+----text: most of the countries have the same educational system based on technology
+----supporting Claim T4:
+
+--------Premise T5: Teachers give topics to the students who should research on the internet to find data, and then students should type their research by using computer and even give a presentation by using PowerPoint
+--------Premise T6: students who are studying in Iran use the same software, Microsoft, to type their homework or have presentation compared to Canadian students
+
+----no arguments attacks Claim T4
+
+----type: Claim T9
+----text: new technology has created some similar jobs all around the world
+----supporting Claim T9:
+
+--------Premise T10: Computer technology is a growing job in most of the countries, and students are being encouraged to study in this field
+--------Premise T8: jobs that are related to technology are in demand in most of the countries
+--------supporting Premise T8:
+------------Premise T7: many immigrants in Canada who have the degree in computer technology fields can easily go to Canadian universities and find jobs with good salaries
+
+--------no arguments attacks Premise T8
+
+
+----no arguments attacks Claim T9
+
+
+attacking MajorClaim T1:
+----type: Claim T11
+----text: there are some cultures such as making foods which are unicq in each culture, and technology cannot affect them
+----supporting Claim T11:
+
+
+----attacking Claim T11:
+--------Premise T12: many countries such as Canada, the USA, and British have many restaurants which serve many foods form different countries and cultures
+--------Premise T13: cooks can find many new food recipes easily on the Internet
+--------Premise T14: two days ago, I went to a Canadian restaurant, and I ate noodle, sushi, which are Chinese foods, and Greek salad
+
+

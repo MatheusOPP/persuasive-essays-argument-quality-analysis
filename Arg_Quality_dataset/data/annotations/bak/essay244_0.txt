@@ -1,0 +1,30 @@
+Type: MajorClaim T1
+Text: television has more bad than good
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: it has made people not to have conversation each other
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T9
+    Text: television shows make people forget what is really important
+    Supporting Claim T9
+
+        Premise: they cannot make appointment or go out with their family or friends at that time
+
+    No arguments attacks Claim T9
+
+    Type: Claim T15
+    Text: even when people watch television together, there is no chance for them to have conversation in front of television
+    Supporting Claim T15
+
+        Premise: it is not good for them to watch television if they want to improve their sense of closeness
+
+    No arguments attacks Claim T15
+
+
+No arguments attacks MajorClaim T1
+

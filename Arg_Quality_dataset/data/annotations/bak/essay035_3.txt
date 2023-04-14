@@ -1,0 +1,10 @@
+Type: Claim T10
+Text: it plays and important role economically
+Supporting Claim T10
+
+    Premise: Advertising also helps to keep prices at reasonable levels, creates a fair environment for commercial competition
+    Premise: They introduce new products, and provide various choices, not to mention they are often visually enjoyable
+
+Attacking Claim T10
+    Premise: advertisements can be falseful and exaggerated
+

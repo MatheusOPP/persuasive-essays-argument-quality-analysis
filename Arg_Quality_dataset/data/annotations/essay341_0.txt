@@ -1,0 +1,47 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the importance of traditions should be valued and paid attention to
+supporting MajorClaim T1:
+
+----type: Claim T4
+----text: Traditional skills and lifestyles play important role in modern society, in terms of healthcare, environmental protection and cultural inherit
+----supporting Claim T4:
+
+--------Premise T5: traditional ways of life is a great complimentary for modern life and highlight the importance of work life balance
+--------Premise T7: it is more environmentally-friendly, which should be promoted to reduce the threat of climate change
+--------supporting Premise T7:
+------------Premise T6: traditional skills rely little on fossil energy
+
+--------no arguments attacks Premise T7
+
+--------Premise T8: those tradition-related things convey traditional culture and values
+--------supporting Premise T8:
+------------Premise T9: These are important foundation of modern civilization
+
+--------no arguments attacks Premise T8
+
+--------Premise T10: Protection of tradition can provide the possibility to better understand ancient culture and utilize them to tackle modern problems
+
+----attacking Claim T4:
+--------Premise T2: technology takes convenience to humankind
+--------supporting Premise T2:
+
+--------attacking Premise T2:
+------------Premise T3: it also contributes to unhealthy behaviors of life, like sedentary lifestyle
+
+
+----Claim T14: the government authorities and education institutes should work closely together to promote the traditional skills and ways of life, so as to make people to realize the value of them
+
+attacking MajorClaim T1:
+----type: Claim T11
+----text: protecting traditions consume too much financial budget compared with the incoming it takes
+----supporting Claim T11:
+
+--------Premise T12: this kind of business bring limited contribution to government finance
+
+----no arguments attacks Claim T11
+
+

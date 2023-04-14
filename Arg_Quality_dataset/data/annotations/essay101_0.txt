@@ -1,0 +1,50 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: the right age for a person to retire should be around 60 years old
+supporting MajorClaim T1:
+
+----type: Claim T7
+----text: it would indeed be better if at an older age, opportunities are given to the younger ones
+----supporting Claim T7:
+
+--------Premise T8: not all elderly workers are physically well
+--------Premise T11: they will not be able to give their best in whatever they are doing
+--------supporting Premise T11:
+------------Premise T10: the stressful life that an aged teacher goes through will definitely take a toll on him
+
+--------no arguments attacks Premise T11
+
+--------Premise T9: Beyond that age, a large proportion of them have an elevated chance of contracting a multitude of health problems such as stress related diseases and cardiovascular illnesses
+--------Premise T12: the academic institution will have to pay for his medical bills, resulting in more loss for the institution
+
+----no arguments attacks Claim T7
+
+----type: Claim T4
+----text: most of them will be forced to take up careers which are poles apart from what they had studied for
+----supporting Claim T4:
+
+--------Premise T3: if senior workers dominate the working sector, there will be lesser job opportunities for the fresh graduates
+--------Premise T5: a medical graduate might find it very disheartened when he had to spend around five precious years studying medicine and at the end of the day, he will have to take up another profession rather than doctor due to the insufficient job opportunities available
+--------Premise T6: due to the lack of genuine passion on the work which was not of their option, there is a greater possibility for their performance standard to dwindle at their workplace
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T1:
+----type: Claim T14
+----text: the expertise of the senior workers who had retired should never be underestimated
+----supporting Claim T14:
+
+--------Premise T16: it is highly recommended that the retiree come over to the companies or hospitals to have regular sessions with the present staffs to bridge the gap between them and to pass on their knowledge
+--------supporting Premise T16:
+------------Premise T15: Their invaluable experiences and knowledge in their respective fields such as engineering, medicine, and law can certainly be beneficial to the younger generation
+
+--------no arguments attacks Premise T16
+
+
+----no arguments attacks Claim T14
+
+

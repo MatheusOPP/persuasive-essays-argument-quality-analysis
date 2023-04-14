@@ -1,0 +1,27 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: the studying conditions are better in an apartment
+supporting Claim T14:
+
+----Premise T17: you would be able to concentrate better
+----supporting Premise T17:
+--------Premise T19: you won't have this problem
+--------supporting Premise T19:
+------------Premise T18: in an apartment you don't have a roommate
+
+--------no arguments attacks Premise T19
+
+
+----no arguments attacks Premise T17
+
+----Premise T16: A lot of students often complain about their roommate playing music too loud or bringing friends over at inappropriate times
+----Premise T15: you don't have all the noise and distractions that you often have in dormitories
+----Premise T20: you won't have a problem if you are the one who wants to play music, bring friends over, or study late at night
+----Premise T21: You set your own schedules
+
+attacking Claim T14:
+----Premise T22: living in a dormitory, and being surrounded by students also has some advantages, like being able to get help with any academic issues from them
+

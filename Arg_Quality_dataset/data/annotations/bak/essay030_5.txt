@@ -1,0 +1,9 @@
+Type: Claim T6
+Text: They will be more responsible with their studies when they pay the fees themselves
+Supporting Claim T6
+
+    Premise: students that already have a basic knowledge and education can get a part-time job and they can pay for their own studies when their parent could not afford to pay it
+    Premise: the students will become more independent and it will build their characters in the marketplace as well
+
+No arguments attacks Claim T6
+

@@ -1,0 +1,8 @@
+Type: Claim T5
+Text: the groups play an essential role in the process of socialization, from children to adults
+Supporting Claim T5
+
+    Premise: humans are a part of the society, and the society includes a wide variety of groups
+
+No arguments attacks Claim T5
+

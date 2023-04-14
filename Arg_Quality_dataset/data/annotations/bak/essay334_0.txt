@@ -1,0 +1,39 @@
+Type: MajorClaim T4
+Text: we cannot ignore its negative effects
+Supporting MajorClaim T4
+
+    Type: Claim T18
+    Text: the disadvantages of machines that bring to us should not be neglected by people
+    Supporting Claim T18
+
+        Premise: because of extensive of using machines, many people loss their job
+        Premise: using of machines are also pose serious pollution and energy dissipation
+
+    No arguments attacks Claim T18
+
+
+Attacking MajorClaim T4
+    Type: Claim T1
+    Text: we cannot deny machines are play a vital role in people living and working
+    Supporting Claim T1
+
+
+    No arguments attacks Claim T1
+
+    Type: Claim T3
+    Text: although using machines have many benefits
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T10
+    Text: machines can bring many benefits
+    Supporting Claim T10
+
+        Premise: machines are more effective than human
+        Premise: using machines can save company's money
+
+    No arguments attacks Claim T10
+
+

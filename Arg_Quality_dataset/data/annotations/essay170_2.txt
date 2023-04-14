@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: the development of technology can prompt economic growth and the improvement of living standards
+supporting Claim T4:
+
+----Premise T5: Scientists and engineers have invented many novel products and tools, which play an important role in economic activity
+----Premise T6: Because of the technology of internet and air transportation, businessmen are able to handle plenty of international trade and financial transactions
+----Premise T7: This also helps many countries to more efficiently export their products to the world and increase their revenue
+
+no arguments attacks Claim T4
+

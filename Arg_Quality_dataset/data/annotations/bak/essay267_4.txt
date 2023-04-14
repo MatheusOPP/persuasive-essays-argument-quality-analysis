@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: some people spend a lot of time watching television
+Supporting Claim T10
+
+    Premise: Instead of spend time with family and friends, they like to seat on a chair for hours
+    Premise: I know someone who wakes up in the morning and before even eat he turns the television on, he even records the programs he cannot watch during work hours
+    Premise: Time with the family is gold, some people have to realize that and take quality of time to talk to them
+    Premise: she is used to his habit that she prefers to write him an email
+
+No arguments attacks Claim T10
+

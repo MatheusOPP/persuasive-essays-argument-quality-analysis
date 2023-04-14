@@ -1,0 +1,12 @@
+Type: Claim T5
+Text: the zoo gives humans new knowledge
+Supporting Claim T5
+
+    Premise: the zoo is the important place for innate learning
+    Premise: The zoo also let students have a chance to learning biology practically
+    Premise: They are able to observe animals' behaviors and features
+    Premise: practical learning help students relax from a boring lecture class
+    Premise: researchers need the zoo to pick up some examples of animals for their researches
+
+No arguments attacks Claim T5
+

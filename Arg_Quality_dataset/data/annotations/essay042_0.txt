@@ -1,0 +1,36 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: a higher pay can be one of the incentive if were to encourage harder-working employees
+supporting MajorClaim T1:
+
+----Claim T3: they will be feeling more cared for and therefore do their best for their bosses
+----type: Claim T4
+----text: A raise or a promotion can no doubt increase the morale in the working places
+----supporting Claim T4:
+
+--------Premise T6: Workers understand they have to work harder to meet the boss' expectations and to make themselves worthwhile
+--------Premise T7: junior high school teachers have great responsibility not only for students' private lives as they are going through adolescence but also their school work
+--------supporting Premise T7:
+------------Premise T8: it is an important phase for them to study hard and get into the high school they want
+------------Premise T9: If the teachers receive higher salaries, they will be willing to spend more extra time mentoring the youngsters rather than hoping they learn in cram schools and so forth, as this is what is happening in Taiwan
+
+--------no arguments attacks Premise T7
+
+
+----no arguments attacks Claim T4
+
+
+attacking MajorClaim T1:
+----type: Claim T5
+----text: creating an enjoyable working environment is more realistic and essential if one wishes an increase in productivity and better employee performances
+----supporting Claim T5:
+
+--------Premise T10: Take Google for example, the company offers recreation rooms and extra personal leaves for their workers to develop a more relaxing and supportive workforce
+--------Premise T11: the employers can make sure the employees can actually focus and concentrate on their projects instead of thinking about their children or feeling pressured
+
+----no arguments attacks Claim T5
+
+

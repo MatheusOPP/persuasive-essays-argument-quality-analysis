@@ -1,0 +1,10 @@
+Type: Claim T5
+Text: these sports events are not essential in other issues such as politics or other international affairs
+Supporting Claim T5
+
+    Premise: if the general atmosphere during the show is peaceful and fraternal, the reality is different
+    Premise: After the Olympics games are finished, everything came back to normal and all the game competition is forgotten by the majority
+    Premise: recently, Putin was pleased to open the last winter Olympic games and gather international countries, but actually it has been just facade and Putin didn't listen international warning after he conquered the Crimea
+
+No arguments attacks Claim T5
+

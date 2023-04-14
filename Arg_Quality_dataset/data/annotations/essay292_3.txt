@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: time on this activity is really time wasting
+supporting Claim T7:
+
+----Premise T8: children could learn nothing from these computer games
+----Premise T10: majority of the games use war, violence, bloody, or sexual subjects to lure the students
+----supporting Premise T10:
+--------Premise T9: all these games are developed for commercial purpose and in order to catch the eyes of the children
+
+----no arguments attacks Premise T10
+
+----Premise T11: those subjects are not suitable for the students and will bring bad effects to the youths
+
+no arguments attacks Claim T7
+

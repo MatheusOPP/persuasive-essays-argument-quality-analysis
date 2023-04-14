@@ -1,0 +1,8 @@
+Type: Claim T6
+Text: Many old traditionally cultural things have long gone as a result of modern technology
+Supporting Claim T6
+
+    Premise: these newfangled practices has replaced many old traditional ones
+
+No arguments attacks Claim T6
+

@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: while working in the office, people can interact with their colleges instantly
+supporting Claim T8:
+
+----Premise T5: They can either get help from colleges or discuss about the work together
+----Premise T4: Think about the big project that a group is working on, if any group member has new idea about the project, he/she can assemble his/her colleges right away and discuss
+----Premise T6: It's more efficient and straight-forward than talking in the phone
+----Premise T7: if one’s computer or Internet has any breakdown, he/she can call the MIS staff to fix
+
+no arguments attacks Claim T8
+

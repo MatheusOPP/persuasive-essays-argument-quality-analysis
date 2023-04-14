@@ -1,0 +1,11 @@
+Type: Claim T2
+Text: a person with good manner will give others a fine personal impression
+Supporting Claim T2
+
+    Premise: Through those impressions, a person was easily to get acquired with others and blended with the community that surrounded him as soon as possible
+    Premise: I worked in a new company, if I am a guy with good manners and treating everyone well, my new colleagues will accept me, even then I will be approved by the employers
+    Premise: I will be fired and have no other choice but lost my job
+    Premise: In opposite situation if I am being rude, I can not get along well with each other
+
+No arguments attacks Claim T2
+

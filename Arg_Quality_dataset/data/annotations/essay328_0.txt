@@ -1,0 +1,55 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: boys and girls should study together
+supporting MajorClaim T1:
+
+----Claim T2: they have a chance to know each other and learn how to behave with an opposite sex
+----type: Claim T3
+----text: By attending to the same school, students can learn how to view the opposite gender in classes as a friend or a classmate
+----supporting Claim T3:
+
+--------Premise T10: School is a small society for students, which prepares them for the future life
+--------Premise T4: a boy would know how to speak with a girl in every situation and vice versa
+--------Premise T5: They would know how to ask her in order to cooperate with his study, how communicate with girls in a group, etc
+--------Premise T6: when they study together and help each other, they exercise the the real life as they age
+
+----attacking Claim T3:
+--------Premise T7: attending both girls and boys in a same school cause many disadvantages for them
+--------supporting Premise T7:
+------------Premise T8: their thoughts deviate from the studies
+------------supporting Premise T8:
+----------------Premise T9: outdoors relationships may expand and it may accompany with sexual relationship
+
+------------no arguments attacks Premise T8
+
+
+--------no arguments attacks Premise T7
+
+
+----Claim T17: Taking part in the study groups would increase student's motivation to study more
+----Claim T18: they would be able to know the opposite gender, which help them to be prepared for the adult life where they almost will live or work together
+----type: Claim T15
+----text: attending in the school having boys and girls might be beneficial for both to increase their motivation to study better
+----supporting Claim T15:
+
+--------Premise T14: the productivity of the class will be increased
+--------supporting Premise T14:
+------------Premise T11: they will study increasingly
+------------supporting Premise T11:
+----------------Premise T12: Boys and girls will try to show their capabilities and abilities in the class
+----------------Premise T13: Boys do not like to seem weak in front of girls and vice versa
+
+------------no arguments attacks Premise T11
+
+
+--------no arguments attacks Premise T14
+
+
+----no arguments attacks Claim T15
+
+
+no arguments attacks MajorClaim T1
+

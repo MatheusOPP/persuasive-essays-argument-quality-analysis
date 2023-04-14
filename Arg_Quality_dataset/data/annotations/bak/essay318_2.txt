@@ -1,0 +1,7 @@
+Type: Claim T3
+Text: "rush hours" are usually not the direct consequence of drivers
+Supporting Claim T3
+
+
+No arguments attacks Claim T3
+

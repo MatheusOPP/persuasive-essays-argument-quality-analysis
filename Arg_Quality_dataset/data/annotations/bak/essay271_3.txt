@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: appearing in class makes students more conscientious
+Supporting Claim T11
+
+    Premise: they have to obey class’s disciplines and they practice to be more perseverance in the process of doing their assignments
+    Premise: they may miss some important parts in virtue of the chaotic and incoherent study
+
+No arguments attacks Claim T11
+

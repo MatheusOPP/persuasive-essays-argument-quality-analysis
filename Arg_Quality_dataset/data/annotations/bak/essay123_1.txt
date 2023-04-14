@@ -1,0 +1,10 @@
+Type: Claim T2
+Text: they are the best advisor for their children
+Supporting Claim T2
+
+    Premise: parents and other adult relatives are more experienced towards children
+    Premise: if children listen to their advices they can prevent happening worst things
+    Premise: they can save value things in their life such as time and money, and enjoy they life with the best way
+
+No arguments attacks Claim T2
+

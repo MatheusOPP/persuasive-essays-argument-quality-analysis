@@ -1,0 +1,60 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T2
+text: the thing that I really want to change is to have more public transportation
+supporting MajorClaim T2:
+
+----Claim T3: I’m facing the traffic congestion every day
+----Claim T11: this improvement will decrease a bad traffic on the road indirectly
+----type: Claim T12
+----text: it should have more alternatives to use public transportation, such as a subway train or a sky train
+----supporting Claim T12:
+
+--------Premise T6: It makes people in this area have no choice
+--------supporting Premise T6:
+------------Premise T5: now buses are only a kind of public transportation in this community
+------------Premise T7: They must take only a bus to go to another place
+
+--------no arguments attacks Premise T6
+
+--------Premise T8: If a subway and a sky train are available here, it will be more convenience to them
+--------supporting Premise T8:
+------------Premise T9: people can estimate time from taking a subway train due to the train schedule
+------------Premise T10: On the contrary they cannot do so in case of a bus
+
+--------no arguments attacks Premise T8
+
+--------Premise T4: people will have more ways to go to a place
+
+----no arguments attacks Claim T12
+
+----type: Claim T13
+----text: They should increase more routes to make people transport more easily
+----supporting Claim T13:
+
+--------Premise T14: it is waste of time
+--------supporting Premise T14:
+------------Premise T17: if a place I intend to go is not in the route of buses, I still have to take a bus that does not bring me to my destination but go to the center station first to exchange to another bus
+
+--------no arguments attacks Premise T14
+
+--------Premise T15: the buses provide merely two routes in this community
+--------Premise T16: It is absolutely a major problem
+
+----no arguments attacks Claim T13
+
+----type: Claim T19
+----text: The necessary energy will slowly be used up
+----supporting Claim T19:
+
+--------Premise T20: people use less their own cars
+--------Premise T18: having more kinds of public transportation can dwindle the number of people using their own cars
+--------Premise T21: people can save their expenses form gasoline, which nowadays is getting more expensive
+
+----no arguments attacks Claim T19
+
+
+no arguments attacks MajorClaim T2
+

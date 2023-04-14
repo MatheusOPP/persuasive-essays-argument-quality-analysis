@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: they have fulfilled their duty as a citizen
+Supporting Claim T3
+
+    Premise: If people are paying taxes, that means they are taking part in the development of their country as well as the country's economy
+    Premise: Taxes are the income for every country in the world and they are extremely important for developing countries
+
+No arguments attacks Claim T3
+

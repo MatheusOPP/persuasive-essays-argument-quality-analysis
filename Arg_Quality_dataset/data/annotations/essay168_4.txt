@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T14
+text: Interaction has been an advantage for workers at offices
+supporting Claim T14:
+
+----Premise T19: Interaction is a factor increasing working quality
+----Premise T15: Discussing and debating Projects together increase working ability
+----supporting Premise T15:
+--------Premise T16: all we know that the target can be reached fast thanks to working of many people
+
+----no arguments attacks Premise T15
+
+----Premise T18: they will have more and more friends and relationships
+----supporting Premise T18:
+--------Premise T17: interaction help employees improve their communicational skills
+
+----no arguments attacks Premise T18
+
+
+no arguments attacks Claim T14
+

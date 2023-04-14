@@ -1,0 +1,9 @@
+Type: Claim T3
+Text: making quick decisions leads to probable bad results
+Supporting Claim T3
+
+    Premise: if someone decided to quit his job without really thinking about the alternative, or a plan B, he could end up being unemployed, because of his speedy decision
+    Premise: making a quick decision means that it's not very thought out, and that it hasn't been checked from all its aspects
+
+No arguments attacks Claim T3
+

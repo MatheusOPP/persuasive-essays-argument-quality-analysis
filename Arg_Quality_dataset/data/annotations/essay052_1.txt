@@ -1,0 +1,17 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: the prevalent of English brings a great number of benefits for people
+supporting Claim T2:
+
+----Premise T5: it promotes the communication and interaction between different countries more conveniently and clearly
+----Premise T6: In the ancient time, the different languages and geography set barriers for people to exchange their goods and ideas
+----Premise T7: the innovation of plane and train solved the geographical barriers
+----Premise T8: If we can popularize the use of English, the language hinder will disappear as well
+----Premise T9: English is a beautiful language, which is more systematical and extensive than many other languages
+----Premise T10: Learning English can foster people's sentiment and nourish their literature and art
+
+no arguments attacks Claim T2
+

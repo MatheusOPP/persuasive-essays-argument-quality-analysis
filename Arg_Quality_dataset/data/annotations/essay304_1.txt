@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T8
+text: the natural diversity is very important for further generations
+supporting Claim T8:
+
+----Premise T7: further generations will never have the opportunity to see and study these animals
+----supporting Premise T7:
+--------Premise T6: If we don't preserve this important part of our ecosystem many endangered animals will loose their natural habitat and go extinct
+--------supporting Premise T6:
+------------Premise T5: every day a massive part of the Rainforest in South America is destroyed to provide wood and farmland
+
+--------no arguments attacks Premise T6
+
+
+----no arguments attacks Premise T7
+
+----Premise T3: If we don't change our behavior we will extinct many species living for millions of years on the planet
+----Premise T4: As we destroy the natural habitat, like forests, jungles and lakes, to make place for our industry and farmland, we rob the ecosystem
+
+no arguments attacks Claim T8
+

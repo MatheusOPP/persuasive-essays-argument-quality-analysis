@@ -1,0 +1,11 @@
+Type: Claim T10
+Text: living in dormitory is always helpful to students
+Supporting Claim T10
+
+    Premise: it is easier for students to get help when facing problem such as if students have problem in solving their math question, they can easily ask for help to their roommates, classmates, or teachers
+    Premise: Students can also have more chance of interaction with their teachers and classmates
+    Premise: students can have an opportunity to take part in many kind of extracurricular activities happing around the campus such as attending conversation club, or joining sports club
+    Premise: living in a dormitory helps students to familiarize themselves with the academic environment of the university
+
+No arguments attacks Claim T10
+

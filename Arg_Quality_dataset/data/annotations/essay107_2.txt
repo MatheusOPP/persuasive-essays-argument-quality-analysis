@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: large emissions of carbon monoxide gas from refrigerants like air conditioners have depleted ozone layer
+supporting Claim T7:
+
+----Premise T8: Importance of ozone layer is evident by the fact as it protects us from harmful ultra violet rays
+----Premise T9: excess emission of carbon dioxide gas mainly by vehicles around the world has increased the average temperature at north pole which in turn has increased water level due to gradual melting of glaciers
+
+no arguments attacks Claim T7
+

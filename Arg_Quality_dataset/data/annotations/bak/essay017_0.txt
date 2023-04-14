@@ -1,0 +1,14 @@
+Type: MajorClaim T1
+Text: television devastate families ties
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: most of people do not have a plan for make a limitation or schedule for watching television
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+
+No arguments attacks MajorClaim T1
+

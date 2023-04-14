@@ -1,0 +1,13 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T7
+text: people can know more about the planet earth itself
+supporting Claim T7:
+
+----Premise T8: By observing planet earth from outer space, people can find out ample things for example about the atmosphere of the planet earth
+----Premise T9: With this knowledge, people can work on something to prevent earth hazards such as global warming
+
+no arguments attacks Claim T7
+

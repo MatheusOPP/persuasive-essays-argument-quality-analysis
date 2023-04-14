@@ -1,0 +1,10 @@
+Type: Claim T9
+Text: This is sure to lead to more carbon emitted into the atmosphere, which can cause skin cancer and destroy the natural environment
+Supporting Claim T9
+
+    Premise: If governments use more money to improve roads, there is a strong likelihood that more people drive their private cars work
+    Premise: carbon emission cut is significantly essential for protecting the atmosphere
+    Premise: the more cars and motorbikes are on roads, the more seriously the ozone layer is damaged
+
+No arguments attacks Claim T9
+

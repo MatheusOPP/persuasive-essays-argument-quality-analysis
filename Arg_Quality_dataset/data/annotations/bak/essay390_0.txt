@@ -1,0 +1,40 @@
+Type: MajorClaim T1
+Text: celebrities nowadays give more good influence on young people than they were previously
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: people without talents cannot be famous in this changing world and to be accredited they need to contribute positively to young generation
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: it is not easy to influence young people these days when they are well equipped of life skills
+    Supporting Claim T3
+
+        Premise: the young generation these days is very conscious toward positive lifestyles
+        Premise: They are mostly being educated at very early ages by family or schools as to distinguish what is benefit for them
+
+    No arguments attacks Claim T3
+
+    Type: Claim T6
+    Text: people use their money to become an inspiration are definitely not a good mirror for young people
+    Supporting Claim T6
+
+        Premise: We definitely do not want our children to spend money on luxurious custom or lifestyle just to be similar to someone, especially when these people are not symbols of any talent but showing off
+
+    No arguments attacks Claim T6
+
+    Type: Claim T9
+    Text: only money and glamour look are not enough for a person to be recognized anymore, it is importance that they have to have achievements in order to be a muse to youngsters
+    Supporting Claim T9
+
+        Premise: to become a star and an inspiration for people, a person need to have real talent to compete with other candidates
+        Premise: not many people can exist in the celebrities' world without any talents or achievements
+
+    No arguments attacks Claim T9
+
+
+No arguments attacks MajorClaim T1
+

@@ -1,0 +1,10 @@
+Type: Claim T4
+Text: most of them will be forced to take up careers which are poles apart from what they had studied for
+Supporting Claim T4
+
+    Premise: if senior workers dominate the working sector, there will be lesser job opportunities for the fresh graduates
+    Premise: a medical graduate might find it very disheartened when he had to spend around five precious years studying medicine and at the end of the day, he will have to take up another profession rather than doctor due to the insufficient job opportunities available
+    Premise: due to the lack of genuine passion on the work which was not of their option, there is a greater possibility for their performance standard to dwindle at their workplace
+
+No arguments attacks Claim T4
+

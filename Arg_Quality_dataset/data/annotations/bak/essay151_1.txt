@@ -1,0 +1,35 @@
+Type: MajorClaim T2
+Text: change is inevitable and that usage of one language across the world is a positive one
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: Communication in single language would improve the productivity of the world and brings everyone on to the same page
+    Supporting Claim T3
+
+
+    No arguments attacks Claim T3
+
+    Type: Claim T4
+    Text: A world with fewer languages helps us interact with each other in a better way
+    Supporting Claim T4
+
+        Premise: communicating in single language will reduce the problems of travelers in daily activities like ordering food in a restaurant or in going around places
+        Premise: students who migrate for better education would not have to go through lot of stress
+        Premise: Single language also reduces misunderstandings between people
+        Premise: exchange of knowledge in different sectors of research like electronics, medical, astronomy etc would become easier
+
+    No arguments attacks Claim T4
+
+    Type: Claim T11
+    Text: few people are worried about the dying local languages
+    Supporting Claim T11
+
+        Premise: These languages are the basis for the origination and initial communication between different cultures
+        Premise: As the usage of these languages decrease, culture also changes accordingly
+        Premise: these languages are tightly coupled with history; all the olden day literature and scripts will be impossible to decipher if these languages are lost
+
+    No arguments attacks Claim T11
+
+
+No arguments attacks MajorClaim T2
+

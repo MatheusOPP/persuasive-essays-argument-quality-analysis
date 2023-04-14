@@ -1,0 +1,43 @@
+Type: MajorClaim T1
+Text: in general television and movies influence our behavior in bad ways more than in good ways
+Supporting MajorClaim T1
+
+    Type: Claim T2
+    Text: They make people to eat more rubbish food, spend less time with their friends and family, and be someone that are not themselves
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+    Type: Claim T3
+    Text: There are a lot of people eating foods or snacks when they are watching television
+    Supporting Claim T3
+
+        Premise: It is not rocket science to know that these foods are not good for people’s health
+        Premise: Most of the foods they eat are fat foods like chips or pizzas
+        Premise: Many companies know about this behavior and use advertisements on television to make people buy more of these foods
+        Premise: In turn, people will consume these rubbish foods more and we have to deal with a lot of fat diseases
+
+    No arguments attacks Claim T3
+
+    Type: Claim T8
+    Text: Television and movies also make people to spend more time on their couch than with their family and friends, especially children
+    Supporting Claim T8
+
+        Premise: When people are watching television or movies together, they also talk less to each other, compare to when playing social games, such as parlor games, together
+        Premise: They communicate less with their parents
+
+    No arguments attacks Claim T8
+
+    Type: Claim T14
+    Text: These advertisements build ideal images that make people to feel bad about themselves and want to be more like these images
+    Supporting Claim T14
+
+        Premise: When a cool hero characters in a movie smokes and yet a lot of people like him, then people who idolize him may also begin to smoke although they don’t prefer it
+        Premise: they spend a lot of money to buy a lot of beauty products or go to gym to get better appearance or body
+
+    No arguments attacks Claim T14
+
+
+No arguments attacks MajorClaim T1
+

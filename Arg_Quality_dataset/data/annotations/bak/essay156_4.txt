@@ -1,0 +1,11 @@
+Type: Claim T12
+Text: the study of a youngster would affected terribly
+Supporting Claim T12
+
+    Premise: it is obvious that he wouldn’t be able to concentrate on his study perfectly
+    Premise: he has to study for the exam
+    Premise: a child watches a frightening movie
+    Premise: the study of youngsters shall always been controlled
+
+No arguments attacks Claim T12
+

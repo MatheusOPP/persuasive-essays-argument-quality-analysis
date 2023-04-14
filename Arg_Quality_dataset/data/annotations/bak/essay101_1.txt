@@ -1,0 +1,18 @@
+Type: MajorClaim T2
+Text: strongly agree that age should be set as a criterion for people to retire at the aforementioned age
+Supporting MajorClaim T2
+
+    Type: Claim T7
+    Text: it would indeed be better if at an older age, opportunities are given to the younger ones
+    Supporting Claim T7
+
+        Premise: not all elderly workers are physically well
+        Premise: they will not be able to give their best in whatever they are doing
+        Premise: Beyond that age, a large proportion of them have an elevated chance of contracting a multitude of health problems such as stress related diseases and cardiovascular illnesses
+        Premise: the academic institution will have to pay for his medical bills, resulting in more loss for the institution
+
+    No arguments attacks Claim T7
+
+
+No arguments attacks MajorClaim T2
+

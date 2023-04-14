@@ -1,0 +1,19 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T4
+text: a society that its police force carries guns will be definitely seen as a highly violent one
+supporting Claim T4:
+
+----Premise T8: while on duty, not only are private citizens affected but facilities such as cars, houses, streets are likely to be destroyed by guns
+----Premise T7: citizens in that society can be shot by both police and offenders accidentally
+----supporting Premise T7:
+--------Premise T6: criminals todays are very sophisticated so they spend a large amount of money to acquire modern weapons to cope with the police and serve their own nefarious needs
+
+----no arguments attacks Premise T7
+
+----Premise T5: we need to consider that police armed with guns or any other kinds of legal weapons just attempts to protect not only civilians but also himself
+
+no arguments attacks Claim T4
+

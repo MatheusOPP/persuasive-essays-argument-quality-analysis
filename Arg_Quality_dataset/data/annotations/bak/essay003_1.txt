@@ -1,0 +1,27 @@
+Type: MajorClaim T2
+Text: international tourism has both triggered economic development and maintained cultural and environment values of the tourist countries
+Supporting MajorClaim T2
+
+    Type: Claim T3
+    Text: tourism has clearly improved lives in the tourist country
+    Supporting Claim T3
+
+        Premise: These demands trigger related business in the surrounding settings which in turn create many jobs for local people improve infrastructure and living standard
+        Premise: Take Cambodia for example, a large number of visitors coming to visit the Angkowat ancient temple need services like restaurants, hotels, souvenir shops and other stores
+        Premise: international tourism promotes many aspects of the destination country’s economy in order to serve various demands of tourists
+
+    No arguments attacks Claim T3
+
+    Type: Claim T8
+    Text: tourism has survived many non-tangible cultural values and beauty scenes
+    Supporting Claim T8
+
+        Premise: Without this support and profit from tourism, many traditional cultures would disappear due to its low income works
+        Premise: in Vietnam, many cultural costumes and natural scenes, namely ‘Trong Dong’ drum performance and ‘Ha Long’ bay, are being encouraged to preserve and funded by the tourism ministry
+        Premise: through tourism industry, many cultural values have been preserved and natural environments have been protected
+
+    No arguments attacks Claim T8
+
+
+No arguments attacks MajorClaim T2
+

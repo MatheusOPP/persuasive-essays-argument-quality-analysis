@@ -1,0 +1,14 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T16
+text: from part time jobs students can earn money, which can help their parents
+supporting Claim T16:
+
+----Premise T18: By tutoring them, i earned some money and bought me books with it
+----Premise T19: after taking that part time job i stopped taking my pocket money form my parents
+----Premise T17: part time job can help students earn money and which can help their parents financially
+
+no arguments attacks Claim T16
+

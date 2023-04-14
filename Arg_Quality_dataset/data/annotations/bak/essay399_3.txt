@@ -1,0 +1,9 @@
+Type: Claim T7
+Text: without proper parenting, children may perceive that this is the cool life people are supposed to be living
+Supporting Claim T7
+
+    Premise: It is not uncommon to see on the media that some of them are committing to crimes or misbehaving such as being addicted to drugs or alcohols, having messy sex lives
+    Premise: not all celebrities are role models
+
+No arguments attacks Claim T7
+

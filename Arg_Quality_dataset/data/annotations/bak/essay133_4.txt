@@ -1,0 +1,9 @@
+Type: Claim T11
+Text: using computer can make people easier to complete their work
+Supporting Claim T11
+
+    Premise: Communication by feature-computer such as email and internet help busy businessmen to make deal with relation even in different country
+    Premise: Businessmen, for example, use computer device to presentation or communication with their colleagues
+
+No arguments attacks Claim T11
+

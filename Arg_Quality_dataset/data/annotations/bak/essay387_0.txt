@@ -1,0 +1,14 @@
+Type: MajorClaim T1
+Text: people's health would therefore be affected negatively
+Supporting MajorClaim T1
+
+
+Attacking MajorClaim T1
+    Type: Claim T2
+    Text: life in those cities is good in some ways
+    Supporting Claim T2
+
+
+    No arguments attacks Claim T2
+
+

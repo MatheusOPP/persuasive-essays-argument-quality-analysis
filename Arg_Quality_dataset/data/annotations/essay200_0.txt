@@ -1,0 +1,54 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: human activities are having a bad effect upon our planet
+supporting MajorClaim T1:
+
+----Claim T2: human are polluting the Earth's environment, exhausting natural resource and threatening the living of other species
+----type: Claim T3
+----text: People are corrupting their ecosphere
+----supporting Claim T3:
+
+--------Premise T4: In recent decades, concurrently with the increase of human consume, the waste discarded by human also multiplies
+--------Premise T5: These wastes including household waste and industrial waste are so big that a "new" continent is now being formed in the sea from garbage
+--------Premise T6: the industrial exhaust gases are adulterating the air, causing the insalubrious phenomenon such as acid rain, global warming or climate change
+
+----no arguments attacks Claim T3
+
+----type: Claim T7
+----text: people are draining the Earth's natural resources
+----supporting Claim T7:
+
+--------Premise T9: nowadays, the exploitation activities of these resources are increasing dramatically to adapt to the infinite need of people
+--------supporting Premise T9:
+------------Premise T8: These resources such as oil, coal are vital for human activity
+
+--------no arguments attacks Premise T9
+
+--------Premise T10: Researchers indicated that most of natural resources are un-recyclable and only several decades after, the Earth's natural resources are totally exhausted
+--------Premise T11: At that time, human activity will be seriously affected due to the dependence on these resources
+
+----no arguments attacks Claim T7
+
+----type: Claim T12
+----text: people are endangering other species' live
+----supporting Claim T12:
+
+--------Premise T16: the living area of other species narrowed
+--------supporting Premise T16:
+------------Premise T15: people, suffering from the population pressure, are expanding their living area
+------------Premise T17: This narrowing of living region is pushing many creatures to the brink of extinction
+
+--------no arguments attacks Premise T16
+
+--------Premise T13: Hunting has been a fundamental activity of human for having food
+--------Premise T14: Through million years of hunting, especially in recent centuries with the innovation of rifle and dynamite, people have killed many animals and even have made some kinds of them become extinct
+
+----no arguments attacks Claim T12
+
+----Claim T19: it is polluting the Earth environment, depleting the resource and imperiling other species' lives
+
+no arguments attacks MajorClaim T1
+

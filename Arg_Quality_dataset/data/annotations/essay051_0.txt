@@ -1,0 +1,63 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: MajorClaim T1
+text: universities should invest in libraries more than anywhere else
+supporting MajorClaim T1:
+
+----Claim T3: They are critical part of universities and a good university has to have a modern library
+----type: Claim T5
+----text: All professors and students need to have a modern and well-equipped library
+----supporting Claim T5:
+
+--------Premise T4: a library is vital and strategical part of a university
+--------Premise T6: after internet, library plays an important role in research
+
+----no arguments attacks Claim T5
+
+----type: Claim T14
+----text: there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income
+----supporting Claim T14:
+
+--------Premise T11: universities support is vital for libraries
+--------supporting Premise T11:
+------------Premise T12: Most libraries are free not for students also for public
+------------Premise T13: usually libraries do not have income
+
+--------no arguments attacks Premise T11
+
+--------Premise T15: sport activities have a good income
+--------supporting Premise T15:
+------------Premise T17: they have this chance to sell their important matches tickets
+------------Premise T16: every sport has different matches and for each match they have a lot sponsors
+
+--------no arguments attacks Premise T15
+
+
+----no arguments attacks Claim T14
+
+----type: Claim T18
+----text: investing in libraries has a long-time result
+----supporting Claim T18:
+
+--------Premise T19: a library can buy a lot of new books or they can buy more computers
+--------Premise T20: Most of the library facilities are stable and you can use them for a long time
+--------Premise T21: in the far future, they become more valuable
+--------Premise T22: most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time
+
+----no arguments attacks Claim T18
+
+
+attacking MajorClaim T1:
+----type: Claim T8
+----text: it does not have the same priority of library has
+----supporting Claim T8:
+
+--------Premise T9: only small part of students attend sport activities
+--------Premise T10: in my university number of students who use the library is much more than students do sports activities
+
+----attacking Claim T8:
+--------Premise T7: sport is important
+
+

@@ -1,0 +1,10 @@
+Type: Claim T11
+Text: the convicted will also receive a fair action
+Supporting Claim T11
+
+    Premise: exposing them to the past records of the criminal can give them more room to think rationally and finally put the pieces together in order to produce a more meaningful decision
+    Premise: the juries will have a sense of relief that they have come up with better conclusion based on plenty of evidences
+    Premise: a fair trial can be achieved
+
+No arguments attacks Claim T11
+

@@ -1,0 +1,8 @@
+Type: Claim T16
+Text: some people make the television a priority
+Supporting Claim T16
+
+    Premise: I remember a friend told me one day that because she was watching a telenovela I could not go to her house a certain time during the night
+
+No arguments attacks Claim T16
+

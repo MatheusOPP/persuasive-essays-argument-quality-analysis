@@ -1,0 +1,11 @@
+Type: Claim T13
+Text: high school students should learn broadly and prepare future learning at university
+Supporting Claim T13
+
+    Premise: General education plays a significant role in specialized education
+    Premise: Science today, for example, is said to be more and more specialized, but in order to solve a problem scientists have to combine knowledge from chemistry to physics
+    Premise: textbooks used in higher education are labelled particular subjects, in fact they require basic understanding of other subjects
+    Premise: students should obtain knowledge from a variety of academic fields
+
+No arguments attacks Claim T13
+

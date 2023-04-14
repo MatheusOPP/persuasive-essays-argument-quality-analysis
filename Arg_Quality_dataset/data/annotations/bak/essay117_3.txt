@@ -1,0 +1,11 @@
+Type: Claim T8
+Text: There are a lot of advances going on technology which are helping the environment a lot
+Supporting Claim T8
+
+    Premise: One prime example is finding solutions to water problems in developing countries such as Africa
+    Premise: Japan is working to build a working space solar power system by 2030
+    Premise: By drawing on the colossal energy of the sun, it could meet the entire world's electricity requirements indefinitely without nuclear or GHG emissions
+    Premise: If successful, the impact on the world would be monumental
+
+No arguments attacks Claim T8
+

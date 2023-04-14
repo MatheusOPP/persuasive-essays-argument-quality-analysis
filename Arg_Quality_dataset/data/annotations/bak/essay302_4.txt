@@ -1,0 +1,10 @@
+Type: Claim T13
+Text: Working hard and saving money for later on investments is a great way of getting a satisfying feeling and to reward yourself for something you have accomplished
+Supporting Claim T13
+
+    Premise: with savings you can afford some luxurious goods and fulfill your dreams
+    Premise: I made a month-long backpack trip through Southeast Asia last summer with my girlfriend
+    Premise: Without our savings we could not have pursued our long-time dream
+
+No arguments attacks Claim T13
+

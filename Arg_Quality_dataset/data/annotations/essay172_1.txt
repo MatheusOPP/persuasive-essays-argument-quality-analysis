@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T3
+text: an apartment provides a lot more freedom than a dormitory
+supporting Claim T3:
+
+----Premise T4: While in a dormitory you have to obey preset rules, in the apartment you set your own rules
+----Premise T5: You are free to have visits at any time or to be left alone if you want
+----Premise T6: An apartment offers more privacy
+----supporting Premise T6:
+--------Premise T7: you can choose to have your own room instead of sharing with another student
+
+----no arguments attacks Premise T6
+
+----Premise T8: you also get more space than you would in a dormitory
+
+no arguments attacks Claim T3
+

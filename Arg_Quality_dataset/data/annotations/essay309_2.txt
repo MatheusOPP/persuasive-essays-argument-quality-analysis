@@ -1,0 +1,15 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T10
+text: living in dormitory is always helpful to students
+supporting Claim T10:
+
+----Premise T7: it is easier for students to get help when facing problem such as if students have problem in solving their math question, they can easily ask for help to their roommates, classmates, or teachers
+----Premise T6: Students can also have more chance of interaction with their teachers and classmates
+----Premise T5: students can have an opportunity to take part in many kind of extracurricular activities happing around the campus such as attending conversation club, or joining sports club
+----Premise T8: living in a dormitory helps students to familiarize themselves with the academic environment of the university
+
+no arguments attacks Claim T10
+

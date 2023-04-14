@@ -1,0 +1,20 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T2
+text: If you don't make yourself outstanding enough or you fail to distinguish yourself from others, you will be easily replaced and eliminated by someone who is better than you
+supporting Claim T2:
+
+----Premise T3: when I was in college, I was always chosen to be the presenter of group report
+----supporting Premise T3:
+--------Premise T4: I was the only one in my group who could present the report thoroughly and fluently
+
+----no arguments attacks Premise T3
+
+----Premise T7: Only who has the sharpest weapon can survive
+----Premise T6: As living in a competent world, we are like playing a survival game
+----Premise T5: being positively different from everyone else usually means that you've achieved something that is superior than others
+
+no arguments attacks Claim T2
+

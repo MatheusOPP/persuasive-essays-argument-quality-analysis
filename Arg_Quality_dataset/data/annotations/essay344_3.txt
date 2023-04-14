@@ -1,0 +1,24 @@
+Evaluate Cogency based on the following scale:  0, 10, 15, 20, 25;
+ONLY if there are attacks against the Main Claim in the argument proceed to evaluate Reasonableness following the same scale;
+Finally evaluate Argumentation Rhetoric with one or more of the following labels “Logos”, “Pathos”, “Ethos or No_Rethorics”.
+          
+type: Claim T13
+text: government cannot equalize the price of creation of modern artist
+supporting Claim T13:
+
+----Premise T14: there is no certain parameter to value it
+----supporting Premise T14:
+--------Premise T15: art value is about taste
+
+----no arguments attacks Premise T14
+
+----Premise T16: labor working in the merchandise factory receive coin of dollar even they make a hundred of 15 cm Buddha temples a day
+----Premise T12: a musician playing "I swear" several times receives different earnings that Padang got
+----supporting Premise T12:
+--------Premise T11: the musician re-plays the song without any creation
+
+----no arguments attacks Premise T12
+
+
+no arguments attacks Claim T13
+
