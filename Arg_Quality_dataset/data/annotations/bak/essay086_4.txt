@@ -1,8 +1,0 @@
-Type: Claim T5
-Text: they can learn a lot of things by watching television and surfing through the net
-Supporting Claim T5
-
-    Premise: in big cities children access to media easily
-
-No arguments attacks Claim T5
-

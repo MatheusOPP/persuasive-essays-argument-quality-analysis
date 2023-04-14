@@ -1,7 +1,0 @@
-Type: Claim T15
-Text: Mind can not work when it is chained in boundaries
-Supporting Claim T15
-
-
-No arguments attacks Claim T15
-

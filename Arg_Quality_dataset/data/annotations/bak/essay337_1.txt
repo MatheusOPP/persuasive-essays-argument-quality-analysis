@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: spending too much time on phones may exert adverse effects on social life
-Supporting Claim T2
-
-    Premise: distraction may be developed during study or social activities
-    Premise: continuous use of mobile phone may damage both eyesight and physical posture of the children
-
-No arguments attacks Claim T2
-

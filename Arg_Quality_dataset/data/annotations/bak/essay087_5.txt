@@ -1,8 +1,0 @@
-Type: Claim T8
-Text: when people work for themselves they make more profit for themselves, but in the other jobs you make profits for the other such as your manager
-Supporting Claim T8
-
-    Premise: nowadays most of them pick up this profit without sharing a small sum of it with their workers, and from my point of view it is unfair
-
-No arguments attacks Claim T8
-

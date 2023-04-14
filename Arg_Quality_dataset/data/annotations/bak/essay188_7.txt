@@ -1,7 +1,0 @@
-Type: MajorClaim T15
-Text: Including physical activity in children's school day should be strongly considered
-Supporting MajorClaim T15
-
-
-No arguments attacks MajorClaim T15
-

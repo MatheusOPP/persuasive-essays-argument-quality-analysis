@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: hasty decisions, not only goes to waste, but also, could affect the entire life of the person
-Supporting Claim T9
-
-    Premise: his life had taken a turn to the worst
-
-No arguments attacks Claim T9
-

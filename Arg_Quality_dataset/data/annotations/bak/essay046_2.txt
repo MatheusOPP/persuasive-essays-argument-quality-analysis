@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: a university should provide access to information, rather than offer selected courses that are suitable for employers' taste
-Supporting Claim T7
-
-    Premise: It is, therefore, not necessary for a certain course or type of training to be offered to the students by a university, but instead, these must be made available when needed
-    Premise: universities are regarded as institutions where abundant educational resources gather
-
-No arguments attacks Claim T7
-

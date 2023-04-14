@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: preparing for career is an essential function of university
-Supporting Claim T8
-
-    Premise: they can have some experiences in the outside world and discover what their life goals are
-    Premise: they know where and what to put high emphasis on in order to achieve their objectives
-
-No arguments attacks Claim T8
-

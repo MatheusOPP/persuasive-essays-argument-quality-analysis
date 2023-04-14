@@ -1,9 +1,0 @@
-Type: Claim T13
-Text: with a slower pace can enjoy their lives more
-Supporting Claim T13
-
-    Premise: it is not necessary for them to notice the time control or acquire the fame of succeed
-
-Attacking Claim T13
-    Premise: I do not think that those people with slower pace losing the piano competition can be really happy
-

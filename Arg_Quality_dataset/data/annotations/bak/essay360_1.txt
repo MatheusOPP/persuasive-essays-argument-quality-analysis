@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: some celebrities misguide young people by showing their external wealth and appearance
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: giving equal education for both men and women is a must
-Supporting Claim T8
-
-    Premise: learning from human's history, education provides someone to widen his or her knowledge and experience for facing the real situation of workplace through subject taught in college
-    Premise: These days, it is so hard for young people to get a proper job when they have not degree certificate from Universities
-
-No arguments attacks Claim T8
-

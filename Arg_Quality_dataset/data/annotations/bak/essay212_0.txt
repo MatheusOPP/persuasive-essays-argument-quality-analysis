@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: I would follow the new customs, if I migrated to another country
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

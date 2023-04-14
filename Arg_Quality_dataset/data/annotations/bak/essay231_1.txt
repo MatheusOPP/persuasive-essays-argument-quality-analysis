@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: I hold this belief because of two main reasons, academic and social reasons
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

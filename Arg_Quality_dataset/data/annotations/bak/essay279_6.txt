@@ -1,9 +1,0 @@
-Type: Claim T12
-Text: people can gain more knowledge by using the internet, the most useful technology in the world
-Supporting Claim T12
-
-    Premise: Many people such as students can take online courses to study at home or they can watch beneficial videos which also teach them knowledge
-    Premise: Not only students but also everyone could get more information and knowledge
-
-No arguments attacks Claim T12
-

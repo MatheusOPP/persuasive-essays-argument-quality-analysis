@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: even people who are not interested in online game can still be negatively affected by using computer too much
-Supporting Claim T9
-
-    Premise: Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc. instead
-
-No arguments attacks Claim T9
-

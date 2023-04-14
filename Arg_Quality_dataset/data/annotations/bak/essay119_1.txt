@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: Internet can be a useful tool for education
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

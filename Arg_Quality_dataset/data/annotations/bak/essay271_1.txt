@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: being present at classes provide students with opportunity of communicating with other students that is beneficial for understanding new material by reviewing them throughout the free times in college
-Supporting Claim T2
-
-    Premise: if they do not attend classes they cannot use the help of others for assisting them to comprehend difficult problems
-    Premise: they can help each other for learning materials better
-
-No arguments attacks Claim T2
-

@@ -1,8 +1,0 @@
-Type: Claim T22
-Text: indoor activities are fun
-Supporting Claim T22
-
-    Premise: There's no doubt that indoor activities like reading a book, watching TV or listening to music can bring us lots of joy
-
-No arguments attacks Claim T22
-

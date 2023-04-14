@@ -1,7 +1,0 @@
-Type: Claim T13
-Text: mobile phones brings convenience of communication
-Supporting Claim T13
-
-
-No arguments attacks Claim T13
-

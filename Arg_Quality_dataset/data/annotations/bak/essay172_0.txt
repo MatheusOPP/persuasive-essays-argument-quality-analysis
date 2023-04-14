@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: I would prefer to live in an apartment in the community rather than in the university dormitories
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: co-operative child will have a potential of structuring and implementing new and innovative ideas with the help of a team
-Supporting Claim T9
-
-
-Attacking Claim T9
-    Premise: competitive children will be far more clever and faster than the co-operative child in an initial level
-

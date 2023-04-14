@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: we should attach more importance to cooperation during primary education
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

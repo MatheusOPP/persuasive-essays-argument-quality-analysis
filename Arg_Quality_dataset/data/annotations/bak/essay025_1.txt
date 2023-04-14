@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: a large factory can stimulate local economic growth and reduce the unemployment rate
-Supporting Claim T2
-
-    Premise: To manufacture goods, there must be the demand of laborers, from which the local residents can benefit
-    Premise: the factory is not isolated, other industries and business will be quickly established, resulting in economic growth of local area
-
-No arguments attacks Claim T2
-

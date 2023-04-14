@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: I agree that face-to-face communication is better
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

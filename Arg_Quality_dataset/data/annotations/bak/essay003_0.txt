@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: it has contributed to the economic development as well as preserved the culture and environment of the tourist destinations
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

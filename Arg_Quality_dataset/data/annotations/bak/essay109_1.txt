@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: One of the strong arguments in favour of tighter media control is to limit the violent and sexual content
-Supporting Claim T3
-
-    Premise: They have a serious impact on people in their puberty
-
-No arguments attacks Claim T3
-

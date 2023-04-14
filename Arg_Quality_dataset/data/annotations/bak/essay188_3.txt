@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: Physical activity helps children to grow up physically healthier
-Supporting Claim T4
-
-    Premise: the rate of obesity in children has increased every year, it will be very beneficial for children to have a daily physical activity and get a break from being sitting several hours at school
-    Premise: exercise will help them to not be less exposed to illness related with cardiovascular, higher blood and cholesterol issues
-
-No arguments attacks Claim T4
-

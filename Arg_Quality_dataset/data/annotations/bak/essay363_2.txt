@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: The negative effects on health can be put on the back seat
-Supporting Claim T3
-
-    Premise: there are many other ways to exercise and stay healthy
-
-No arguments attacks Claim T3
-

@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: they can improve their results, break records and bring victories to their own countries
-Supporting Claim T3
-
-    Premise: sports events are good chances for excellent athletes to meet and learn valuable experiences from one another
-
-No arguments attacks Claim T3
-

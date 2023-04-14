@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: mistake is terrible
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

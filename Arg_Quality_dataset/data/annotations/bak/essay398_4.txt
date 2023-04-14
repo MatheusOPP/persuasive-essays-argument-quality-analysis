@@ -1,9 +1,0 @@
-Type: Claim T12
-Text: universities should encourage more girls to choose science subjects and more boys to study the humanities
-Supporting Claim T12
-
-    Premise: this could avoid imbalance of gender in some subjects
-    Premise: It would affect students' mental health to study in the environment of single gender
-
-No arguments attacks Claim T12
-

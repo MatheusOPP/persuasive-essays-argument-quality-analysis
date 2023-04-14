@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: thanks to modern technology invented recently, human life has been improved dramatically
-Supporting Claim T3
-
-    Premise: Air-conditioners, computers, cellphones, washing machines, for example, is likely to be seen as greatest inventions helping people to reduce stress and time for other activities
-    Premise: applying technological science into the preparation of medications also plays a significant role in saving the number of patients' lives
-
-No arguments attacks Claim T3
-

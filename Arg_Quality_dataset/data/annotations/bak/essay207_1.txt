@@ -1,8 +1,0 @@
-Type: Claim T1
-Text: young people tend to study or work in urban areas
-Supporting Claim T1
-
-    Premise: these provide them many educational opportunities and career potentials
-
-No arguments attacks Claim T1
-

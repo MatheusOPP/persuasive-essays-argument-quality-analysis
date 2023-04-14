@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: it is good for health and keep my body fit
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

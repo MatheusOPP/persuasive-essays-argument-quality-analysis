@@ -1,9 +1,0 @@
-Type: Claim T17
-Text: alternative forms of transportation and international laws to control automobiles ownership and use can work effectively
-Supporting Claim T17
-
-    Premise: the introduction of international laws can be also effective
-    Premise: alternative forms which emit less carbon dioxides and gasses than automobiles are ideal
-
-No arguments attacks Claim T17
-

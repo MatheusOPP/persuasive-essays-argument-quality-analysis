@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: we must help animals live safely and comfortably in their own environment
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

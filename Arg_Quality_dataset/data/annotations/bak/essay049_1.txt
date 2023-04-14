@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: there are valid arguments to the contrary
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

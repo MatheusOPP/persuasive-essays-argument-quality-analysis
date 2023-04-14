@@ -1,8 +1,0 @@
-Type: Claim T4
-Text: they help alleviate traffic congestion and decrease the amount of carbon released into the air
-Supporting Claim T4
-
-    Premise: Such public vehicles are used to serve a large number of people in society
-
-No arguments attacks Claim T4
-

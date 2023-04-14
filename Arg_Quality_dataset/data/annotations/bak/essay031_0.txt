@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: alternative means of transportation and international laws in controlling automobiles should be introduced
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

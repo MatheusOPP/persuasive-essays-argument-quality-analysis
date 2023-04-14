@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: other people visit museums are the most boring expirience of a trip
-Supporting Claim T9
-
-    Premise: My cousin Pedro literaly hates to visit museums but he really enjoyed his visit to the famous London - Madame Tussaud museum, it was kind of art entertainment but also that visit helped him to understand the artist works, and in addition he started to respect and admire other types of arts that offers in other museums
-
-No arguments attacks Claim T9
-

@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: cooperation is also an essential quality for children, no matter in school activities or in communities
-Supporting Claim T10
-
-    Premise: in society, there is hardly anyone who could has big achievement by oneself
-    Premise: Having a good cooperating spirit helps kids to communicate and get along with others, which gives them more possibility to solve problems or to achieve a goal easily by working as a team
-
-No arguments attacks Claim T10
-

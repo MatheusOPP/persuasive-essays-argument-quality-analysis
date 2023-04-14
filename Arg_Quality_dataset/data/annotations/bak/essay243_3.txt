@@ -1,9 +1,0 @@
-Type: Claim T15
-Text: E-mail helps me arrange my idea perfectly and make it persuasive
-Supporting Claim T15
-
-    Premise: Voice email or face-to-face conversations sometimes make reserve people feel not very confident
-    Premise: people can understand each other exactly and remember it for a long time
-
-No arguments attacks Claim T15
-

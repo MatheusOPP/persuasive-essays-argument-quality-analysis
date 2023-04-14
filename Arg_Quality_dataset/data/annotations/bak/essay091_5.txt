@@ -1,8 +1,0 @@
-Type: Claim T11
-Text: a single international language may, to some extent, erode the cultural identity of a nation
-Supporting Claim T11
-
-    Premise: people may be impressed by the cultural values brought with the universal language, eroding a sense of national belong
-
-No arguments attacks Claim T11
-

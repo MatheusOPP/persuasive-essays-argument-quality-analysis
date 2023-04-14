@@ -1,7 +1,0 @@
-Type: Claim T11
-Text: people who are born in well-off families have access to good education, which will have a positive impact on their later life
-Supporting Claim T11
-
-
-No arguments attacks Claim T11
-

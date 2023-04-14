@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: it would be easier for the juries to make a decision if they know about the past information about the criminal
-Supporting Claim T4
-
-    Premise: knowing their background very well will enable the juries to analyze the crime before coming up with a judgment
-    Premise: punishment can be given in accordance to the condition
-
-No arguments attacks Claim T4
-

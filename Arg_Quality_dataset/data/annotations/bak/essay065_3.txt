@@ -1,8 +1,0 @@
-Type: Claim T4
-Text: providing education and medical care is more essential and prioritized to the government
-Supporting Claim T4
-
-    Premise: Taking care of thousands of citizens who suffer from disease or illiteracy is more urgent and pragmatic than building theaters or sports stadiums
-
-No arguments attacks Claim T4
-

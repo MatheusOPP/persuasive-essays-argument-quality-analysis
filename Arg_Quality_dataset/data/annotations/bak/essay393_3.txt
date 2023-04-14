@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: particular coverage of heinous crimes may further traumatize the victims of crimes
-Supporting Claim T10
-
-    Premise: they have already suffered greatly for what they have experienced
-    Premise: Without their consent, this could only add to theses innocent people's mental suffering and they may do some extreme actions
-
-No arguments attacks Claim T10
-

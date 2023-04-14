@@ -1,7 +1,0 @@
-Type: Claim T3
-Text: it seems to me that testing on animals has no clear result
-Supporting Claim T3
-
-
-No arguments attacks Claim T3
-

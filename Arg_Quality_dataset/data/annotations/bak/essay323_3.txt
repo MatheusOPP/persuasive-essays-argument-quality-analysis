@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: even when we grow older, get married and then have our own families with spouses and children, parents always keep watching us and help us to realize which is right and which is wrong in life
-Supporting Claim T11
-
-    Premise: my older brother has got married and lived independently for two years but when he faces difficulties in his work or his life, he comes back to meet our parents and ask for advice
-    Premise: parents love their sons or daughters unconditionally
-
-No arguments attacks Claim T11
-

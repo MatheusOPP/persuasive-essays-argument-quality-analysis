@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: it is a waste of public money for the government to subsidize health care and education of each citizen in society
-Supporting Claim T8
-
-    Premise: the government should give priority to more pressing problems related to social members' wellbeing, such as soaring crime rate, AIDS epidemic or the shortage of infrastructure, which are requiring financial resources from the government to address
-    Premise: a great number of people, in fact, have had the capacity to pay for the both privately
-
-No arguments attacks Claim T8
-

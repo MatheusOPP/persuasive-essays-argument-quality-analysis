@@ -1,8 +1,0 @@
-Type: Claim T11
-Text: Smoking in restaurants also can affect the elders' health, especially if they have problems with their hearts and lungs
-Supporting Claim T11
-
-    Premise: The most dangerous people that would be affected by smoke are the pregnant women
-
-No arguments attacks Claim T11
-

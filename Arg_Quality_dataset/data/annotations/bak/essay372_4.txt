@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: a person should look back at the past, mainly by means of custom handcraft or antique lifestyle, to progress
-Supporting Claim T9
-
-    Premise: Understanding why, and how our predecessors survived through thick and thin will probably be invaluable lessons for us today
-    Premise: study form their mistakes helps us accomplish our goal with smooth sailing
-
-No arguments attacks Claim T9
-

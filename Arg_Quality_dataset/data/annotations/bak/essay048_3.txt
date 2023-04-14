@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: distance-learning brings significant convenience for students in every corner of the world
-Supporting Claim T4
-
-    Premise: In earlier times, students who were tired of commuting had to attend schools nearby, regardless of any differences in teaching facilities, teacher's qualifications or the school reputation
-    Premise: Now, however, students are able to apply for online-courses provided by top-of-the-range universities and colleges worldwide
-
-No arguments attacks Claim T4
-

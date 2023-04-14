@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: professors could teach students through research and projects
-Supporting Claim T9
-
-    Premise: Some students enjoy taking part in some research
-    Premise: Through to use the equipment and invent their own work, they may get more experience in the process of research
-
-No arguments attacks Claim T9
-

@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: Person 'A' who learns a non-native language in his country may receive benefit from a step-by-step teaching method
-Supporting Claim T11
-
-    Premise: he can set aside enough time and energy dedicated to learning the language
-    Premise: all these people most likely have learned the language, more or less, in the same way
-
-No arguments attacks Claim T11
-

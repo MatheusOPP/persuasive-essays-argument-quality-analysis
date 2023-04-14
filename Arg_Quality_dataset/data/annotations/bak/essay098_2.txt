@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: they are likely to understand their parents' hardship, to respect values of money and to form a good habit of saving
-Supporting Claim T3
-
-    Premise: children can learn about the hardship of earning money
-    Premise: When they take some kind of paid work such as looking after babies, doing housework and keeping shops, they will have some life experience and skills which make them mature and can deal with many different situations in real life
-
-No arguments attacks Claim T3
-

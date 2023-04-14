@@ -1,7 +1,0 @@
-Type: Claim T14
-Text: many people are not eager to work for themselves
-Supporting Claim T14
-
-
-No arguments attacks Claim T14
-

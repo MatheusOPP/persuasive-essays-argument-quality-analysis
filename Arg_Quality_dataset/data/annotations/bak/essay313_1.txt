@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: pets are our friends as well as certain human beings are
-Supporting Claim T11
-
-    Premise: Similarly to friends, indeed, they are always with us and they are there if we feel alone
-    Premise: We can talk to them
-
-No arguments attacks Claim T11
-

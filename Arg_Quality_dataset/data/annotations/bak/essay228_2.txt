@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: watching TV take a lot of your day
-Supporting Claim T3
-
-
-Attacking Claim T3
-    Premise: it makes people meet and start a conversation about what they watch at other times like weather forecast and sport programs
-

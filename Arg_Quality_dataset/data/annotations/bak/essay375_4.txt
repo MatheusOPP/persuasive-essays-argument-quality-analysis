@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: saving regional languages could be seen as a waste of money
-Supporting Claim T9
-
-    Premise: we need to consider that if the government expands the use scope of that languages, it can be really expensive
-
-No arguments attacks Claim T9
-

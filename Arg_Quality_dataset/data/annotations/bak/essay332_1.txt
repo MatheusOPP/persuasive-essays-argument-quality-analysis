@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: living with parents is a wise choice for adults until they get a head start to their professional career with a reasonable income
-Supporting Claim T2
-
-    Premise: It can be a difficult task to pay for rent, food, utilities and other expenses to sustain yourself
-    Premise: Living on your own is a huge financial commitment
-
-No arguments attacks Claim T2
-

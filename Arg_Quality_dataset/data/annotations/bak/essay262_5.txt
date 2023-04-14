@@ -1,8 +1,0 @@
-Type: Claim T14
-Text: this generation is encountering the self-recognition issue which could not be experienced by the previous generation
-Supporting Claim T14
-
-    Premise: The past generation was given less freedom and was usually asked to follow the paths their parents had prepared for them
-
-No arguments attacks Claim T14
-

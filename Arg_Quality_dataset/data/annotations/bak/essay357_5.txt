@@ -1,8 +1,0 @@
-Type: Claim T14
-Text: watching television is a very passive action and should not be promoted by increasing periods spent on it
-Supporting Claim T14
-
-    Premise: children who have had such activities that interrelate to creativity, cooperation, competition tend to perform significantly better in general terms
-
-No arguments attacks Claim T14
-

@@ -1,7 +1,0 @@
-Type: Claim T18
-Text: while small towns have picturesque nature and pure air
-Supporting Claim T18
-
-
-No arguments attacks Claim T18
-

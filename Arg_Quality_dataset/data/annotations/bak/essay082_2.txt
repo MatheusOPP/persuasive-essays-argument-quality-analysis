@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: Advertisements are, therefore, very important for many businesses to increase sales and hence profits
-Supporting Claim T3
-
-    Premise: advertising is carried out with the main purpose of promoting different products and services or encouraging people to consume more
-
-No arguments attacks Claim T3
-

@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: the participant with the others like classmates or professors is still an important factor in studying
-Supporting Claim T4
-
-    Premise: the discussion class results in expanded children vision and their respect to others roommate's ideas
-    Premise: Unlike the distance learning that children have few opportunities to discuss with their friends
-
-No arguments attacks Claim T4
-

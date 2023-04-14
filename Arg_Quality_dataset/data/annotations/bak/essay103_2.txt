@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: in order for the jury to come up with an objective decision not depending on the past experience, the court should provide with details relevant to a particular case only
-Supporting Claim T4
-
-    Premise: a defendant with number of past crimes has more chance to be found guilty compared to a person with no or lighter criminal record
-    Premise: Innocent suspects, eventually, can face unfair juridical decision and pay twice for their previous inadequate actions
-
-No arguments attacks Claim T4
-

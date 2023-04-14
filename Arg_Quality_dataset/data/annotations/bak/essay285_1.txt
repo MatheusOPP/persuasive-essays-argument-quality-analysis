@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: it should not replace classroom learning
-Supporting Claim T2
-
-    Premise: learning in classroom are not only learning academic skills but also learning social skills, and learning how to solve problem in real situation
-    Premise: Learning in classroom could provide more information to study
-
-No arguments attacks Claim T2
-

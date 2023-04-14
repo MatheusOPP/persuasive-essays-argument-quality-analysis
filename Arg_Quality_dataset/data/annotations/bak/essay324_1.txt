@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: the same task give us opportunities to be an expert
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

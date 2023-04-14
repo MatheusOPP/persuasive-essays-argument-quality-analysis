@@ -1,8 +1,0 @@
-Type: Claim T8
-Text: richer countries can allocate experienced educators to train more teachers and lecturers in poorer countries
-Supporting Claim T8
-
-    Premise: in the area of education, it is generally agreed that poorer countries often lack of teachers in schools as well as lecturers in higher education institutions
-
-No arguments attacks Claim T8
-

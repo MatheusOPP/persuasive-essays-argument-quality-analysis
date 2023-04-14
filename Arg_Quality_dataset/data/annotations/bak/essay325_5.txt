@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: the ability to adapt oneself to the new environment has been proven to be part of job
-Supporting Claim T9
-
-    Premise: This ability is helpful in communicating with other workmates, cooperating with other workers needs this ability, too
-
-Attacking Claim T9
-    Premise: working alone is a longer-term job than communicating
-

@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: students can learn invaluable experiences through the period of time working for the institutions they are assigned to
-Supporting Claim T2
-
-    Premise: the internship, although without pay, can give them the experiences that money cannot buy
-
-No arguments attacks Claim T2
-

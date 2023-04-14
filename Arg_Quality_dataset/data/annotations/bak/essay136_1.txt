@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: learners can obtain more useful knowledge from teachers than from other sources
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

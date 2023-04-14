@@ -1,8 +1,0 @@
-Type: Claim T5
-Text: This centre can also help people there to solve their issues related to their land
-Supporting Claim T5
-
-    Premise: Especially, if they have no knowledge or education in this field
-
-No arguments attacks Claim T5
-

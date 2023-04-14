@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: future developments in IT will put the users at their own expense
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

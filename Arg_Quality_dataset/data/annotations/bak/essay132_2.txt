@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: The best way to ensure a flexible earning is getting more jobs
-Supporting Claim T6
-
-    Premise: many people's jobs are now at high stake
-    Premise: corporational policy to to pay less to inferiors is another reason that drives labours to work on different sectors
-
-No arguments attacks Claim T6
-

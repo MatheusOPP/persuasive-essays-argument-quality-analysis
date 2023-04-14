@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: it can destruct students from their study
-Supporting Claim T3
-
-
-Attacking Claim T3
-    Premise: i did part time job in my high school and it did not hurt my academic result
-

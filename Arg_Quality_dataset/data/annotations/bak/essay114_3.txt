@@ -1,7 +1,0 @@
-Type: Claim T4
-Text: Teachers are not just teachers, they are also friends and conseilieurs
-Supporting Claim T4
-
-
-No arguments attacks Claim T4
-

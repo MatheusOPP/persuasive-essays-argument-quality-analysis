@@ -1,8 +1,0 @@
-Type: Claim T6
-Text: they can exchange their knowledge, they can learn different cultures
-Supporting Claim T6
-
-    Premise: Via internet they can have connection with the other children all around the world
-
-No arguments attacks Claim T6
-

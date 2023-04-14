@@ -1,8 +1,0 @@
-Type: Claim T16
-Text: children should watch TV and movies for their rich contents that could give children some topics in conversation
-Supporting Claim T16
-
-
-Attacking Claim T16
-    Premise: it doesn't mean that children should do it overtime and without being taken care what they are watching
-

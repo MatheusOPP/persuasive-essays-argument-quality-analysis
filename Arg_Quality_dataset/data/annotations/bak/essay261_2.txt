@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: art and music would broaden student's horizon and therefore make them thoughtful
-Supporting Claim T7
-
-    Premise: It is well known that the art and music are not bound by country border, and they are something that is shared by the people from every parts of this world and is symbols of various cultures
-    Premise: learning art and music enables students to appreciate the fruits of eminent artists and musicians and to feel the fascination of different cultures
-
-No arguments attacks Claim T7
-

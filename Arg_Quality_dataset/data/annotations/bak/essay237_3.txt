@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: Television and movies also make people to spend more time on their couch than with their family and friends, especially children
-Supporting Claim T8
-
-    Premise: When people are watching television or movies together, they also talk less to each other, compare to when playing social games, such as parlor games, together
-    Premise: They communicate less with their parents
-
-No arguments attacks Claim T8
-

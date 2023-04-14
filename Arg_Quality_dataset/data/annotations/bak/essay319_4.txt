@@ -1,8 +1,0 @@
-Type: Claim T16
-Text: the part-time job can make people understand future life better
-Supporting Claim T16
-
-    Premise: some questionnaires indicate that if students have taken part-time jobs, they will make the best use of their time to prepare their future and more importantly; they will not expect too much for their future than students who have not taken the part-time job
-
-No arguments attacks Claim T16
-

@@ -1,7 +1,0 @@
-Type: Claim T4
-Text: it is a interesting travel location
-Supporting Claim T4
-
-
-No arguments attacks Claim T4
-

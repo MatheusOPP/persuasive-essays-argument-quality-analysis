@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: when you want to translate your major, it is important to know some of the things about different fields
-Supporting Claim T7
-
-    Premise: Thanks to Jeff's hard working during his leisure time, he learned a lot about the history of art
-    Premise: Things ended up that he joined in a great team, while his friend who only knew financing issues can do nothing but worked in a bank
-
-No arguments attacks Claim T7
-

@@ -1,7 +1,0 @@
-Type: Claim T15
-Text: technology may make people's life complicated in some cases
-Supporting Claim T15
-
-
-No arguments attacks Claim T15
-

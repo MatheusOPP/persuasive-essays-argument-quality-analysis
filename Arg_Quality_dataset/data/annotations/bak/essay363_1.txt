@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: machines make work easy and smooth
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

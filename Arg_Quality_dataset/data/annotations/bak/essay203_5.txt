@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: all my accomplishments were backed by my hard work, not my luck
-Supporting Claim T9
-
-    Premise: I never did encounter any disappointments of missing my goals
-    Premise: if you strive hard to achieve what you want, then your hard work would take you at least closer to your final goal
-
-No arguments attacks Claim T9
-

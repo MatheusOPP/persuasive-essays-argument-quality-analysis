@@ -1,8 +1,0 @@
-Type: Claim T15
-Text: some male chauvinists think that women are incapable in particular fields, like maths, mechanical engineering, defense etc
-Supporting Claim T15
-
-
-Attacking Claim T15
-    Premise: This kind of gender biased approach is detrimental for the development of the society
-

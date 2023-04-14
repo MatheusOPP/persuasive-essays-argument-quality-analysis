@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: the classmates should be regarded as the most important influence on individual achievements
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

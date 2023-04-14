@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: modern people are facing up to a new health problems and ailments than before
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: zoos have irreplaceable benefits in terms of animal preservation and children education
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

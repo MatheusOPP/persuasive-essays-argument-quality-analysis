@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: we clearly have to change our attitude towards the environment
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

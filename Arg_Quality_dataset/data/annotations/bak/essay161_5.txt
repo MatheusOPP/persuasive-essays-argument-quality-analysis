@@ -1,8 +1,0 @@
-Type: Claim T19
-Text: you can also enjoy the beautiful nature when doing some outdoor activities like going hiking, sunbathing, going biking
-Supporting Claim T19
-
-    Premise: If you spend your spare time at home or something like that, you can't enjoy beautiful nature
-
-No arguments attacks Claim T19
-

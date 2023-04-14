@@ -1,8 +1,0 @@
-Type: Claim T15
-Text: attending in the school having boys and girls might be beneficial for both to increase their motivation to study better
-Supporting Claim T15
-
-    Premise: the productivity of the class will be increased
-
-No arguments attacks Claim T15
-

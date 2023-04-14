@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: Relating well to people can bring plenty of merits to future job
-Supporting Claim T2
-
-    Premise: Having a good ability of relate to people means you have a number of friends in a variety of fields, imagine when you are in trouble, you have a lot of people who have good relationship with you, so you can ask for your friends to help you solve this problem as soon as possible, even an esy phone call, instend of a series of complex solutions
-    Premise: friends is a treasure with respect to either our daylife or our career
-
-No arguments attacks Claim T2
-

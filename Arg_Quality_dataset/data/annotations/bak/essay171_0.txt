@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: governments should devote a greater portion of their health budgets to health education and means for precautions
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

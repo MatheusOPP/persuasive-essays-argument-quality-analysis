@@ -1,8 +1,0 @@
-Type: Claim T6
-Text: in order for people to cover their daily and general needs they need money as well
-Supporting Claim T6
-
-
-Attacking Claim T6
-    Premise: aspects such as: friendly colleagues, environment and work-place condition, sometimes, have even more impact on person's happiness and quality of life
-

@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: people who are addicted to games, especially online games, can eventually bear dangerous consequences
-Supporting Claim T6
-
-    Premise: several teenagers play games without rest, which leads to health depression
-    Premise: children who play games too much on computer can seriously lack communicating skills
-
-No arguments attacks Claim T6
-

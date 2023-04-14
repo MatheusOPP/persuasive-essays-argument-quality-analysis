@@ -1,8 +1,0 @@
-Type: Claim T11
-Text: The third reason why the death penalty should be banned is the chance that innocent people are wrongly convicted
-Supporting Claim T11
-
-    Premise: many people are executed for the crime they did not commit, which leads to a question of fairness in judicial system
-
-No arguments attacks Claim T11
-

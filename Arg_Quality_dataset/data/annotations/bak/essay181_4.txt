@@ -1,9 +1,0 @@
-Type: Claim T12
-Text: This can also help stimulate the local economy
-Supporting Claim T12
-
-    Premise: a number vacant positions need to be filled
-    Premise: when people have jobs, they will have money to spend on goods and services
-
-No arguments attacks Claim T12
-

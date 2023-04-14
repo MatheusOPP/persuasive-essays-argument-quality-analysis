@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: although appearance is important
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

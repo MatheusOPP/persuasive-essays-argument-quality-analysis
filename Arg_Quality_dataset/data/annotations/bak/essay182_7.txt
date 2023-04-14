@@ -1,7 +1,0 @@
-Type: Claim T20
-Text: it is a personal choice
-Supporting Claim T20
-
-
-No arguments attacks Claim T20
-

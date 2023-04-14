@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: the Internet will become an indispensable part in academic training
-Supporting Claim T10
-
-    Premise: Have you ever imagined what it would be like to stay at home and attend a lecture by a famous speaker in Finland simultaneously
-    Premise: This fairy tale turns out to be true thanks to technical and internet advances
-
-No arguments attacks Claim T10
-

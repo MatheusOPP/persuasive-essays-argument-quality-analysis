@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: large emissions of carbon monoxide gas from refrigerants like air conditioners have depleted ozone layer
-Supporting Claim T7
-
-    Premise: Importance of ozone layer is evident by the fact as it protects us from harmful ultra violet rays
-    Premise: excess emission of carbon dioxide gas mainly by vehicles around the world has increased the average temperature at north pole which in turn has increased water level due to gradual melting of glaciers
-
-No arguments attacks Claim T7
-

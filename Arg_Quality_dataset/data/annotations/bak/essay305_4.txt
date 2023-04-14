@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: some lecturers deliver lectures very informative and interesting way
-Supporting Claim T9
-
-    Premise: When the students attend that lectures, they can obviously feel that it was very useful and they did not waste their time
-
-No arguments attacks Claim T9
-

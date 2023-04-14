@@ -1,8 +1,0 @@
-Type: Claim T18
-Text: the part-time job will effect student' study
-Supporting Claim T18
-
-
-Attacking Claim T18
-    Premise: it will not effect on their study
-

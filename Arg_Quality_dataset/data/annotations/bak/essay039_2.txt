@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: people can know more about the planet earth itself
-Supporting Claim T7
-
-    Premise: By observing planet earth from outer space, people can find out ample things for example about the atmosphere of the planet earth
-    Premise: With this knowledge, people can work on something to prevent earth hazards such as global warming
-
-No arguments attacks Claim T7
-

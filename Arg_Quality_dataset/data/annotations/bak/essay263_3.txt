@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: if one can’t success one’s own major, what else things he can do in different filed
-Supporting Claim T9
-
-
-Attacking Claim T9
-    Premise: what if one finally find out him or her has the talent in other filed
-

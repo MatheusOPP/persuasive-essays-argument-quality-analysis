@@ -1,7 +1,0 @@
-Type: Claim T9
-Text: They can hit both the environment and human's life easily
-Supporting Claim T9
-
-
-No arguments attacks Claim T9
-

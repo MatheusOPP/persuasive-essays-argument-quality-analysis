@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: professional lives are filled with tasks that is neccessary parts of the jobs
-Supporting Claim T7
-
-    Premise: Nobody likes attending boring conferences, or working a person who isn't well in with anyone
-    Premise: I'm a research asistant at a university, and as any of the univesity in ours we have a professor who isn't good at human relationships, most of the asistans don't enjoy to talk with him about any situation, although we have to ask about his field
-
-No arguments attacks Claim T7
-

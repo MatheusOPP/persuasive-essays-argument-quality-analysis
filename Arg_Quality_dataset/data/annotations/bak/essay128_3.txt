@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: this type of opportunities can raise future geniuses
-Supporting Claim T10
-
-    Premise: When schools can give such kind of opportunity the students are likely do their best and succeed in their future lives which is one of the point most people get education
-    Premise: he or she can explore in an area she/he has an aptitude
-
-No arguments attacks Claim T10
-

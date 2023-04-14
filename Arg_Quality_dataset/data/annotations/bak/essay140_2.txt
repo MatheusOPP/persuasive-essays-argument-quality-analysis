@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: female students are highly interested in learning courses such as mechanical engineering which demands physical activities in their lab workshops, unlike previous generation females
-Supporting Claim T5
-
-    Premise: due to increasing exposure on current affairs and knowledge on cutting-edge technological developments, female graduates are more willing to take huge responsibilities in their workplace, despite its intensive stress and pressure
-    Premise: Chanda Kochhar, who is the CEO of India's second largest bank called ICICI bank and prominently awarded as the country's most powerful female head in business sector
-
-No arguments attacks Claim T5
-

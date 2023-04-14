@@ -1,8 +1,0 @@
-Type: Claim T5
-Text: there is a tendency for social vices to rise if university is to be restricted to only the best people
-Supporting Claim T5
-
-    Premise: Apart from the disheartened ones, many devoiding of neccessary preparations are likely to be recipes for failure when applying for jobs, mostly the white-collar ones
-
-No arguments attacks Claim T5
-

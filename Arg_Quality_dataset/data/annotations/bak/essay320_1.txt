@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: my productivity boosts when style of work is appropriate with my type of temper
-Supporting Claim T2
-
-    Premise: Once, when I was working on presentation with strangers, I sat aside and so prepared more than half of work myself instead of making attempts to get acquainted with unknown people
-    Premise: Being by nature introvert, I have to spend much time and efforts on adjusting to surroundings and especially new people
-
-No arguments attacks Claim T2
-

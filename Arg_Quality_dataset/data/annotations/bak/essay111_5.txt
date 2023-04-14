@@ -1,8 +1,0 @@
-Type: Claim T14
-Text: human beings have no moral right to use animals in ways that do not benefit the individual
-Supporting Claim T14
-
-    Premise: it is not only inhumane and cruel to cause pain to animals, but also misleading
-
-No arguments attacks Claim T14
-

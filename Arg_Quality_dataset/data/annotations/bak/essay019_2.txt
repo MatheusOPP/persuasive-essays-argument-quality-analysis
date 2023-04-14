@@ -1,7 +1,0 @@
-Type: Claim T5
-Text: They will not need to worry about financial problems or if they will get on well with their roommate
-Supporting Claim T5
-
-
-No arguments attacks Claim T5
-

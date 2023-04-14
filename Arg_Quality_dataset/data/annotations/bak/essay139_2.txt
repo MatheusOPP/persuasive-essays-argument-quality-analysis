@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: it is our responsibility to keep as many species on the Earth as possible
-Supporting Claim T5
-
-    Premise: If certain species are absent from this system, such kind of balance is likely to be disrupted and other species, including human beings, will come under threat
-    Premise: biodiversity is essential to maintain the balance of ecosystem
-
-No arguments attacks Claim T5
-

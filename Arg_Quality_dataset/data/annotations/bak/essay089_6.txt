@@ -1,9 +1,0 @@
-Type: Claim T13
-Text: they need land to build their houses on it
-Supporting Claim T13
-
-    Premise: people need shelters to protect themselves from mother nature such as wind and flood and wild animals
-    Premise: Dwelling is one of the most important human needs after food which is undeniable
-
-No arguments attacks Claim T13
-

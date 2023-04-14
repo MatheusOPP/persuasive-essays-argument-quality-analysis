@@ -1,9 +1,0 @@
-Type: Claim T12
-Text: keeping our pace higher is important
-Supporting Claim T12
-
-    Premise: If I can avoid being a sluggish person, I can have a higher probability of fulfilling my dream successfully
-    Premise: keeping in high pace condition can prevent me from getting lazy
-
-No arguments attacks Claim T12
-

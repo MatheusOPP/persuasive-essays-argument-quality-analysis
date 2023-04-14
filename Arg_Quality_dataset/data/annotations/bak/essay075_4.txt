@@ -1,8 +1,0 @@
-Type: Claim T5
-Text: Art is not the key determination of quality of life, but education is
-Supporting Claim T5
-
-    Premise: In order to make people better off, it is more urgent for governments to commit money to some fundamental help such as setting more scholarships in education section for all citizens
-
-No arguments attacks Claim T5
-

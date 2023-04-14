@@ -1,9 +1,0 @@
-Type: Claim T13
-Text: the measure cannot be adopted, otherwise those companies will go into liquidation
-Supporting Claim T13
-
-    Premise: Suppose companies were forced to reduce the cost of drugs, they would make no profit, even running up debt because of production expenditure
-    Premise: these products prove to ensure human health completely
-
-No arguments attacks Claim T13
-

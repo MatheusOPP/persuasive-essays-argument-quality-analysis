@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: city provides more work opportunities than the countryside
-Supporting Claim T4
-
-    Premise: There are not only more jobs, but they are also well-paid
-
-Attacking Claim T4
-    Premise: living in a city is more expensive
-

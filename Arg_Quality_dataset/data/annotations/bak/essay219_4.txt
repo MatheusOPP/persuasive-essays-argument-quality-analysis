@@ -1,8 +1,0 @@
-Type: Claim T8
-Text: since food preparation has become easier and more convenient, it is certainly great to preserve diverse kinds of foods at home
-Supporting Claim T8
-
-    Premise: People can have a variety of dishes even in a small meal and choose whatever they like
-
-No arguments attacks Claim T8
-

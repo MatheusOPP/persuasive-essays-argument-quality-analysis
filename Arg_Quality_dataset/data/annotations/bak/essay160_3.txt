@@ -1,8 +1,0 @@
-Type: Claim T8
-Text: fixed punishment will reduce the time taken by judges to give their judgement and it will be effective economically for the Government
-Supporting Claim T8
-
-    Premise: Everyone should be treated equally
-
-No arguments attacks Claim T8
-

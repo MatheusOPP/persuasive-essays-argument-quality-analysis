@@ -1,7 +1,0 @@
-Type: Claim T3
-Text: I have to improve myself to communicate with other people
-Supporting Claim T3
-
-
-No arguments attacks Claim T3
-

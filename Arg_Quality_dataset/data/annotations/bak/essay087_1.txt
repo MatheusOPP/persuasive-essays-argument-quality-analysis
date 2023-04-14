@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: working for the other have some advantages
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

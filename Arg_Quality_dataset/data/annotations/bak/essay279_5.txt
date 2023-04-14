@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: everybody would like to know what is going on around the world in their everyday lives
-Supporting Claim T8
-
-    Premise: Sometimes, they want an information that can help them in daily life which the internet can provide all of these to people
-    Premise: a businessman who has no time to watch a television or read a newspaper can receive news and check stock markets easily via the internet
-
-No arguments attacks Claim T8
-

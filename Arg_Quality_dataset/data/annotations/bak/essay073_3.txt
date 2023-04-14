@@ -1,8 +1,0 @@
-Type: Claim T4
-Text: pictures can influence the way people think
-Supporting Claim T4
-
-    Premise: statistics show a slight reduction in the number of smokers, indicating that they realize the effects of the negative habit
-
-No arguments attacks Claim T4
-

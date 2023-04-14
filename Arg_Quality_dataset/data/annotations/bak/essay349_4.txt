@@ -1,7 +1,0 @@
-Type: MajorClaim T15
-Text: the effects of learning music, sports are profound
-Supporting MajorClaim T15
-
-
-No arguments attacks MajorClaim T15
-

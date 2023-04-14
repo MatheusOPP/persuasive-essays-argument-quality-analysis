@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: Only by developing students, can we have a better academic field
-Supporting Claim T2
-
-
-Attacking Claim T2
-    Premise: conducting research is helpful for professors and students to some extent
-

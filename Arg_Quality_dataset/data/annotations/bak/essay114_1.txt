@@ -1,7 +1,0 @@
-Type: MajorClaim T2
-Text: there can be no school without a teacher
-Supporting MajorClaim T2
-
-
-No arguments attacks MajorClaim T2
-

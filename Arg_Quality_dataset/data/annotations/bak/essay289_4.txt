@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: schools are also improve their quality
-Supporting Claim T5
-
-    Premise: they have high performance teachers
-    Premise: students are easy to understand their subjects
-
-No arguments attacks Claim T5
-

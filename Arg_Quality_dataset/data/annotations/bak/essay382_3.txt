@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: technology was introduced, student have been exposed to a wide range of information, which neccessarily broaden their minds
-Supporting Claim T4
-
-    Premise: The internet, for example, provide knowledge in the form of news, radio talks, tapes or reseachs on any particular fields
-    Premise: There, the students can not only ascertain concerned subjects but they can also get access to relevant issues and discuss with people worldwide
-
-No arguments attacks Claim T4
-

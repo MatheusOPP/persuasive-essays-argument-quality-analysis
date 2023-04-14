@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: No one can deny the huge benefits of the trend that English is being accepted universally
-Supporting Claim T3
-
-    Premise: communication between countries and cultures become convenient
-    Premise: researchers, especially those who work on high-tech, would have wider range of references if they are good at English
-
-No arguments attacks Claim T3
-

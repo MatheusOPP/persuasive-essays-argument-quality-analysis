@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: some behaviors of the tourists are not welcome in the local area
-Supporting Claim T11
-
-    Premise: tourists may offend the local people due to their different culture background
-    Premise: the new batch of tourists will have a tidy and neat environment
-
-No arguments attacks Claim T11
-

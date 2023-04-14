@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: students can also gain knowledge more practical and vivid
-Supporting Claim T11
-
-    Premise: there is also an intimate connection between economy and enterprises
-    Premise: economy is always correlate with politics
-
-No arguments attacks Claim T11
-

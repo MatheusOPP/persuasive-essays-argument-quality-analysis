@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: it is important for children to be taught with a secondary language as early as kindergarten
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

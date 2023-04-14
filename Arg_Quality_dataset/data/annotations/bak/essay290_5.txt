@@ -1,8 +1,0 @@
-Type: Claim T12
-Text: large companies have an international reputation, as they organize international conferences, meetings and workshops which will give me the opportunity to travel in different countries and meet new people
-Supporting Claim T12
-
-    Premise: As well as learning new skills in my field from these workshops
-
-No arguments attacks Claim T12
-

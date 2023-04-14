@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: in this occasion the government is not granted to hand in
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

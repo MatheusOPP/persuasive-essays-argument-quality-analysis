@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: it is crucial to alter automobiles to the other means of transportation and to legislate to control automobiles
-Supporting Claim T4
-
-    Premise: the air gets to be polluted and it causes respiratory disease of the local inhabitants
-    Premise: an increase in the number of automobiles brings about environmental pollution
-
-No arguments attacks Claim T4
-

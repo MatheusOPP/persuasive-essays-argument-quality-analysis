@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: formal education approaches are also indispensable
-Supporting Claim T9
-
-    Premise: At schools, students' development has been orchestrated stage by stage, step by step by experienced teachers, and their acquisition of knowledge is guided and backed up in a systematic way
-    Premise: schools and university are places in which students gather to be educated and learn from each others as well as formal educators
-
-No arguments attacks Claim T9
-

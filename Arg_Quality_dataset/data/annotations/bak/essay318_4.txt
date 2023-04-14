@@ -1,8 +1,0 @@
-Type: Claim T10
-Text: Charging drivers one more fee makes no sense and is ridiculous
-Supporting Claim T10
-
-    Premise: charging them too much fee adds a lot to their burden and is actually jeopardizing their rights
-
-No arguments attacks Claim T10
-

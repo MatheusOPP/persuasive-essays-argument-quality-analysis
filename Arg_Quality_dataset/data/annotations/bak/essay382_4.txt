@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: Another point that students may benefit from technology is the shortened time for learning
-Supporting Claim T10
-
-    Premise: students will develop their skills at a greater pace
-    Premise: the internet again, is an inexhaustible resource of visual aids, such as educational games, sounds or images with which students may absorb abstract concepts taught at school more briskly and thoroughly
-
-No arguments attacks Claim T10
-

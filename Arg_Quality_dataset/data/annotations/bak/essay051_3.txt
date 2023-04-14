@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: All professors and students need to have a modern and well-equipped library
-Supporting Claim T5
-
-    Premise: a library is vital and strategical part of a university
-    Premise: after internet, library plays an important role in research
-
-No arguments attacks Claim T5
-

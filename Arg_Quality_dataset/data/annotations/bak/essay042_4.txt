@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: creating an enjoyable working environment is more realistic and essential if one wishes an increase in productivity and better employee performances
-Supporting Claim T5
-
-    Premise: Take Google for example, the company offers recreation rooms and extra personal leaves for their workers to develop a more relaxing and supportive workforce
-    Premise: the employers can make sure the employees can actually focus and concentrate on their projects instead of thinking about their children or feeling pressured
-
-No arguments attacks Claim T5
-

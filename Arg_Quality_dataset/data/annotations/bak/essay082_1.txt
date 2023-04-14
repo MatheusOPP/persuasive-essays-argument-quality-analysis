@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: more good comes from advertising than bad
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

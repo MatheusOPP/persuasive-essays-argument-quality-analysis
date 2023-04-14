@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: people have to turn to cheaper alternatives, which might cause the abundance in goods and later on, economic crisis
-Supporting Claim T8
-
-    Premise: taxation on flamable resources might backfire by conducing to inflation
-    Premise: the more costly petrol is, the higher the price of necessary product: rice, meat or even vegetable
-
-No arguments attacks Claim T8
-

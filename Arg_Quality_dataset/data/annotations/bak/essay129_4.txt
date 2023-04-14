@@ -1,8 +1,0 @@
-Type: Claim T6
-Text: we have to be eager in our lives
-Supporting Claim T6
-
-    Premise: we need to save time for accomplishing some important tasks, and a fitting example of which can be found in my experience of missing exam
-
-No arguments attacks Claim T6
-

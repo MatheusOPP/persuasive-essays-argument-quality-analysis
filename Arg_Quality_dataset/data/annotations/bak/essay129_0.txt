@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: I prefer to live in a higher pace condition
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

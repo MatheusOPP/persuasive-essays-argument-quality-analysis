@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: technology enriches the way of displaying traditional cultural heritage, making it more vivid and appealing
-Supporting Claim T7
-
-    Premise: China has successfully promoted traditional techniques in the Shanghai World Expo, using a variety of state-of-the-art technological methods, such as robots and LED screens
-    Premise: many tourists around the world marveled at the perfect synthesis of the modern technology and the traditional culture
-
-No arguments attacks Claim T7
-

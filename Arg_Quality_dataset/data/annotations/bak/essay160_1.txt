@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: if there will be a fixed punishment for each type of crime then it will lead to increase the crime
-Supporting Claim T3
-
-    Premise: the punishment will be clear in the mind of professional criminals and they will not feel fear while committing a crime
-
-No arguments attacks Claim T3
-

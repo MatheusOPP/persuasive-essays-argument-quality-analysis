@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: children will learn behavior from what they see on TV not from their parents
-Supporting Claim T8
-
-    Premise: Parents and even children do not want to communicate with each other instead of watching TV in their own room
-    Premise: with the rapid change of the standard of life, each family has three or four TV in each room is more common
-
-No arguments attacks Claim T8
-

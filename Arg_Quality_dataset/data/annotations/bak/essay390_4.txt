@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: only money and glamour look are not enough for a person to be recognized anymore, it is importance that they have to have achievements in order to be a muse to youngsters
-Supporting Claim T9
-
-    Premise: to become a star and an inspiration for people, a person need to have real talent to compete with other candidates
-    Premise: not many people can exist in the celebrities' world without any talents or achievements
-
-No arguments attacks Claim T9
-

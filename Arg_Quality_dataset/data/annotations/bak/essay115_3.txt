@@ -1,8 +1,0 @@
-Type: Claim T6
-Text: high-tech fertilizers pose a potential threat to individuals' health well-being
-Supporting Claim T6
-
-    Premise: consumers who intake those fertilized products on a regular base tend to suffer a series of disease in the future
-
-No arguments attacks Claim T6
-

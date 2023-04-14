@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: meditation also one of the ways to reduce the stress
-Supporting Claim T14
-
-    Premise: Meditation is easy way to relax
-    Premise: These could relieve me from stress
-
-No arguments attacks Claim T14
-

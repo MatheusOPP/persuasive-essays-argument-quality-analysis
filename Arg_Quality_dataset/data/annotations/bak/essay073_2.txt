@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: it is undeniable that images in the absence of words can obviously claim the attraction of many
-Supporting Claim T3
-
-    Premise: images are also widely used in newspapers, magazines and advertisements
-    Premise: the magnificent photograph captured by Kevin Carter, which portrayed a starving Sudanese child struck by extreme poverty has successfully highlighted the plight faced by the citizens in Sudan
-
-No arguments attacks Claim T3
-

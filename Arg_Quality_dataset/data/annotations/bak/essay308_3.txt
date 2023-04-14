@@ -1,8 +1,0 @@
-Type: Claim T13
-Text: I want to live here
-Supporting Claim T13
-
-    Premise: I love the traffic system in here
-
-No arguments attacks Claim T13
-

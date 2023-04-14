@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: The main advantage of high-tech medical care is that people are better taken care so that they have a good health
-Supporting Claim T4
-
-    Premise: They can contribute effectively to the development of the economy
-    Premise: this saves an amount of time as well as cost
-
-No arguments attacks Claim T4
-

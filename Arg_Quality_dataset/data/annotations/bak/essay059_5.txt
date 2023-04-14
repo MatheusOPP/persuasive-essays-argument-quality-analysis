@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: the rate of crime and violence is effectively decreased
-Supporting Claim T9
-
-    Premise: capital punishment curbs the inspiration and prospects of other hateful crimes
-    Premise: When a criminal mind knows the quantum of punishment, they will fear and not commit such crimes
-
-No arguments attacks Claim T9
-

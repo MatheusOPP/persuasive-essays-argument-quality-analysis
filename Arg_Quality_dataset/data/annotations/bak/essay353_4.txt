@@ -1,8 +1,0 @@
-Type: Claim T12
-Text: children from rich families have better skills on how to use money
-Supporting Claim T12
-
-    Premise: they use it a lot of times
-
-No arguments attacks Claim T12
-

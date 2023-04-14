@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: capital punishment is certainly not the only option to control the amount of crimes, life imprisonment is just as effective by detaining the criminals in prison for the rest of their lives
-Supporting Claim T9
-
-    Premise: in terms of punishment, living a miserable life with restriction to the world outside and sustaining the feeling of guilt every day in a dark bounded room are much more obsessing than being killed right away
-
-No arguments attacks Claim T9
-

@@ -1,9 +1,0 @@
-Type: Claim T15
-Text: There are some practical subjects that you can only learn them with a teacher or an instructor
-Supporting Claim T15
-
-    Premise: if you are going to learn some things by yourself, you may learn and understand them incorrectly
-    Premise: if you want to learn driving a car or some jobs like medicine and engineering and some sports like skiing and swimming, you'll have to find a teacher
-
-No arguments attacks Claim T15
-

@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: art is a very valuable object for every country and the talent in this area cannot be discovered everywhere
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

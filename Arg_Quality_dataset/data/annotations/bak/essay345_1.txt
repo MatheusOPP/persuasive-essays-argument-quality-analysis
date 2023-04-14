@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: people working for extended hours have been found having adverse effects on their health and personal life
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: a centre of business research is more important
-Supporting Claim T14
-
-    Premise: we have to be in parallel with the advanced countries which have focused in business field
-
-Attacking Claim T14
-    Premise: being a developed country does not mean that we have to focus only in business, but we have to focus on what really bring us to the level of self satisfaction, and the agriculture for our country is the field that can realize that
-

@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: the improvement of medical care makes a better life for all people
-Supporting Claim T2
-
-    Premise: young people will be happy as their parents, grandparents are healthy
-    Premise: a community with the elderly who have a good health has a major role to play in a sustainable development of a society
-
-No arguments attacks Claim T2
-

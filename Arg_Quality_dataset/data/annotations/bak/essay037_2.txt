@@ -1,7 +1,0 @@
-Type: Claim T3
-Text: International sporting events will draw the international concern
-Supporting Claim T3
-
-
-No arguments attacks Claim T3
-

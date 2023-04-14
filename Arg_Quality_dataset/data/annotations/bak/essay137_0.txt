@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: they are important somehow, but not essential
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

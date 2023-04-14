@@ -1,7 +1,0 @@
-Type: Claim T21
-Text: we should realize that in a project, there are numerous coordination works are required, if each opinion is communicated via email, there will be hundreds or thousands of emails there that we know this is not a good experience
-Supporting Claim T21
-
-
-No arguments attacks Claim T21
-

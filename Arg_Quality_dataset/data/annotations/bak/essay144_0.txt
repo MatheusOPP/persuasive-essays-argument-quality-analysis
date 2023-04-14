@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: it should be better to leave this type of type of training for a certain group of good, knowledgeable learners
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

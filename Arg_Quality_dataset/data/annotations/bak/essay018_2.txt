@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: Universities should accept equal numbers of students of both genders
-Supporting Claim T6
-
-    Premise: women have proved themselves in every field whether it is indoor or outdoor
-    Premise: university authority must not be biased on ground of the gender discrimination
-
-No arguments attacks Claim T6
-

@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: we can unleash uncomfortable in training classes by making new friends, joking in class, enjoying new knowledge
-Supporting Claim T2
-
-    Premise: in company we always have to deal with so many stressful situations such as negotiating with difficult customer, complaining from boss, etc
-    Premise: training time can provide employee interesting time outside working office to refresh their mind
-
-No arguments attacks Claim T2
-

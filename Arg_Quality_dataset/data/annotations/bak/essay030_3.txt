@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: Some parents might not have enough money to pay for their children university fees
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

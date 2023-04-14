@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: spending the budget for space exploration is an important activity to save living of humanity in the future
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

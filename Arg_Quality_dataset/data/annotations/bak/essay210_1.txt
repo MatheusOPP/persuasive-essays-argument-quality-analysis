@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: society should be educated and became aware of health issues so that the potential precautions on the way of illnesses can be taken instead of trying to provide treatment for the increasing number of patients
-Supporting Claim T5
-
-    Premise: decreasing the number of patients in the health system can lead hospitals and healthcare centers to be managed effectively which will result in better treatments for current patients
-    Premise: education and preventative measures should receive a greater budget is the potential improvements in health system
-
-No arguments attacks Claim T5
-

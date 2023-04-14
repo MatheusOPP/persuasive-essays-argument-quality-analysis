@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: when it comes to the field of transportation, there is no doubt that the technology in automobile has made people's life simpler
-Supporting Claim T5
-
-    Premise: With a private car, you can reach the destination in another city just sitting in the vehicle
-    Premise: if you would like to have a trip across the ocean, a plane can carry you there in only a few hours, which is hard to imagine in the ancient times
-
-No arguments attacks Claim T5
-

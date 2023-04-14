@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: committing to our goal helps creating personal worth
-Supporting Claim T6
-
-    Premise: I realized the true potential of my body and mind as I decided to train myself hard
-    Premise: Even if I were not to win this medal, I acknowledged the great amount of my endeavor as I could keep my tired legs running
-
-No arguments attacks Claim T6
-

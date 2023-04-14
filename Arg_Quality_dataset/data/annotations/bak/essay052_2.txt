@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: the dominated status of English has destroyed culture diversity and many less-used languages become extinct
-Supporting Claim T3
-
-    Premise: English is a sophisticated language
-    Premise: these languages have special significance for people who belong to them and using English to replace them is crudity
-
-No arguments attacks Claim T3
-

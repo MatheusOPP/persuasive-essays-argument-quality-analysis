@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: in the city there is much better education system
-Supporting Claim T2
-
-    Premise: the schools and the universities have well equipped classes and the famous professors would like to work in such places
-
-No arguments attacks Claim T2
-

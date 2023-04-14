@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: The professors are essential
-Supporting Claim T2
-
-
-Attacking Claim T2
-    Premise: the schools are established for students
-

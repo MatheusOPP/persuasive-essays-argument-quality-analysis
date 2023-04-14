@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it
-Supporting Claim T9
-
-    Premise: while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power
-    Premise: This waste is many times more lethal to our environment than any of the other hazardous material
-
-No arguments attacks Claim T9
-

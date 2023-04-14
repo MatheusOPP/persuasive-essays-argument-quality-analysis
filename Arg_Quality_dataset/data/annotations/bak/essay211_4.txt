@@ -1,9 +1,0 @@
-Type: Claim T12
-Text: students can learn practical skills after school hours from their parents
-Supporting Claim T12
-
-
-Attacking Claim T12
-    Premise: it is not a good idea
-    Premise: parents are usually too busy with their daily jobs to teach their children the life skills
-

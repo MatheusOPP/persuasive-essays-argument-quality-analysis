@@ -1,8 +1,0 @@
-Type: Claim T10
-Text: children will be more material, neglect their study for earning money or be exploited by the employers
-Supporting Claim T10
-
-
-Attacking Claim T10
-    Premise: if children get good care and instructions from their parents, they can take advantages of the work to learn valuable things and avoid going in a wrong way
-

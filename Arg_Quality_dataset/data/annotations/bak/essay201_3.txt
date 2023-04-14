@@ -1,8 +1,0 @@
-Type: Claim T4
-Text: supporting environment protection will benefit the company eventually
-Supporting Claim T4
-
-    Premise: sponsoring conservation is a more efficient method of advertising
-
-No arguments attacks Claim T4
-

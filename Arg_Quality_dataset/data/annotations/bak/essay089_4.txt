@@ -1,8 +1,0 @@
-Type: Claim T7
-Text: they do not need so much land that people need
-Supporting Claim T7
-
-    Premise: the population of endangered animals are less than people's population
-
-No arguments attacks Claim T7
-

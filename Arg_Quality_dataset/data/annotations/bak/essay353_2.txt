@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: wealthy families can afford better health services and costly medicines, which will be very beneficial for the health of a child
-Supporting Claim T9
-
-    Premise: many good medicines cost vast amounts of money, which cannot be afforded by poorer families
-
-No arguments attacks Claim T9
-

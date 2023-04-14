@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: good specify knowledge is more crucial for future job
-Supporting Claim T10
-
-    Premise: Studying harder in school, getting a good resume and absorbing lots of working knowledge, which can make these graduates more competitive than other applicants in one certain job
-    Premise: majority of people would choose the former
-
-No arguments attacks Claim T10
-

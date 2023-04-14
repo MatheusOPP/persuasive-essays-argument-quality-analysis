@@ -1,8 +1,0 @@
-Type: Claim T4
-Text: Growing up in the countryside is not such a good experience
-Supporting Claim T4
-
-    Premise: you won’t know a lot of people, there are gossips everywhere, and your life will be really limited
-
-No arguments attacks Claim T4
-

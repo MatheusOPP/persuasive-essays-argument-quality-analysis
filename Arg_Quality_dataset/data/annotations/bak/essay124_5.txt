@@ -1,7 +1,0 @@
-Type: Claim T11
-Text: in this age they are not expected to be responsible
-Supporting Claim T11
-
-
-No arguments attacks Claim T11
-

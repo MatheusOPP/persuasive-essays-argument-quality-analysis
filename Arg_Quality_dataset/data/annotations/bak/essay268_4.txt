@@ -1,9 +1,0 @@
-Type: Claim T16
-Text: spending money on social activities looks like wasting money
-Supporting Claim T16
-
-    Premise: For students who want to gather with their friends or want to go out to meet new people, university programs are the last place they would choose
-    Premise: when I and my friends want to spend time with each other, we prefer to go out of university to the places where we do not want to be disturbed by any familiar people
-
-No arguments attacks Claim T16
-

@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: The more prepared food we eat the more cooking skills we lose
-Supporting Claim T11
-
-    Premise: At the increasing living pace, the majority of people tend to choose microwave as their unique cooker that help them prepare a dish in five minutes
-    Premise: rare people have been aware that this has contributed to a modification of cooking habits, which may cause the loss of our custom and culture about cooking
-
-No arguments attacks Claim T11
-

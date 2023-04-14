@@ -1,8 +1,0 @@
-Type: Claim T4
-Text: when people face with a failure they can learn a large number of things from that failure, therefore in the next effort they try to avoid doing and repeating that mistakes
-Supporting Claim T4
-
-    Premise: most of inventors in the first phases of their job face with some problems and defeats, but in the next stages they learn how to deal with problems
-
-No arguments attacks Claim T4
-

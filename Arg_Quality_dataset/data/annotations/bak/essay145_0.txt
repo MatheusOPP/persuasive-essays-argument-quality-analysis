@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: I prefer to spend money on improving facilities
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

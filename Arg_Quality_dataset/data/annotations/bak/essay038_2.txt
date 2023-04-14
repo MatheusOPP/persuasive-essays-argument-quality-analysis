@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: most members of our society can benefit from the consequences of technical advancements, especially the poor people
-Supporting Claim T3
-
-    Premise: the progress of material technology leads to the sharp fall of price of a great number of products
-
-No arguments attacks Claim T3
-

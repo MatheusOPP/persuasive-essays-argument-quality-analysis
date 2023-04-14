@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: students have to find one or more fields of study in which they are really interested
-Supporting Claim T5
-
-    Premise: They should not decide their future major without trying a broad range of subjects, otherwise they might miss valuable encounter with the subject
-    Premise: a would-be mathematician student may be strongly intrigued by philosophy and make a success in the field
-
-No arguments attacks Claim T5
-

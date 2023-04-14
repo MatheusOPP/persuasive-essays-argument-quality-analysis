@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: in some cases that traditional way can not replace by a new technology
-Supporting Claim T14
-
-    Premise: Lot of people like to use traditional things because if their quality and durability
-    Premise: there are plenty of works that using traditional way is unique method
-
-No arguments attacks Claim T14
-

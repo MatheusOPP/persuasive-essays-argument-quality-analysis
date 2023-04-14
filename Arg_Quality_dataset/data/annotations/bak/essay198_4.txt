@@ -1,9 +1,0 @@
-Type: Claim T13
-Text: there is no reason that governments should hesitate to invest in public transportation, a healthy, safe and economical way of transporting
-Supporting Claim T13
-
-    Premise: According to National Safety Council, riding the bus is over 170 times safer than private care
-    Premise: using public transportation is much safer than private transportation
-
-No arguments attacks Claim T13
-

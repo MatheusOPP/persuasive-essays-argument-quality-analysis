@@ -1,8 +1,0 @@
-Type: Claim T6
-Text: information from those sources is subject to question
-Supporting Claim T6
-
-    Premise: Much information as the Internet may provide, most of the sources are unjustified by experts
-
-No arguments attacks Claim T6
-

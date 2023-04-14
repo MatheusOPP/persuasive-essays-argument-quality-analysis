@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: Environment pollution one of the primary reasons why life in cities is becoming worse than ever before
-Supporting Claim T7
-
-    Premise: Exhaust from transportation, especially cars, and factories' tosix fumes can lead people to face with various respiratory deseases
-    Premise: water pollution makes people's health become more critical
-
-No arguments attacks Claim T7
-

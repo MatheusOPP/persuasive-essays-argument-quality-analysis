@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: No one can argue the importance to include health lessons in school programmes, especially at primary level, in the hope of raising people's awareness
-Supporting Claim T7
-
-    Premise: they will have a fundamental grasp of how to lead a healthy lifestyle
-    Premise: it is much easier for people at early ages to form a habit of, for instance, not consuming too much fast food, over-fried food or intoxicants
-
-No arguments attacks Claim T7
-

@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: employees fell that they are valuable if they are trained
-Supporting Claim T7
-
-    Premise: they will think about develop long term career with their company
-    Premise: employees will be very proud of themselves when they are provided training while others don't have this opportunity
-
-No arguments attacks Claim T7
-

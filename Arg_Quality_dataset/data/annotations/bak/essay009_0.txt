@@ -1,7 +1,0 @@
-Type: MajorClaim T2
-Text: the most important quality of roommates is being considered
-Supporting MajorClaim T2
-
-
-No arguments attacks MajorClaim T2
-

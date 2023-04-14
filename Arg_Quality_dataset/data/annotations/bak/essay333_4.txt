@@ -1,8 +1,0 @@
-Type: Claim T15
-Text: the rate of divorces is increasing day by day
-Supporting Claim T15
-
-    Premise: by communicating via Internet or phone, we cannot express our ideas and feelings fully
-
-No arguments attacks Claim T15
-

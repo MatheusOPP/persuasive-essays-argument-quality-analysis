@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: solving some environmental problems needs large budgets and various technologies, and the government and corporations have the ability to deal with these problems
-Supporting Claim T3
-
-    Premise: air pollution and water quality has concerned many countries, and the government is able to implement some policies and invest money to reduce air pollution, while companies also can enhance their technologies to curb emission of contaminated water and substances
-    Premise: individuals are unable to cope with these things
-
-No arguments attacks Claim T3
-

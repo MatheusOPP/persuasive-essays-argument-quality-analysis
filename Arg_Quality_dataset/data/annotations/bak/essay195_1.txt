@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: The centre for research in agriculture can help my co-citizens to better exploit these land
-Supporting Claim T4
-
-    Premise: Most of these lands are left without any treatment
-    Premise: my country has a lot of land which is useful for the agriculture
-
-No arguments attacks Claim T4
-

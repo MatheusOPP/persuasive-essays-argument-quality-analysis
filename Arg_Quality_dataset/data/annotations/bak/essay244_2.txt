@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: television shows make people forget what is really important
-Supporting Claim T9
-
-    Premise: they cannot make appointment or go out with their family or friends at that time
-
-No arguments attacks Claim T9
-

@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: this investment in field of the arts would be in the best interest of a society
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

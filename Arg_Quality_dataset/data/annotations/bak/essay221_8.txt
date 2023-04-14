@@ -1,7 +1,0 @@
-Type: MajorClaim T22
-Text: the zoo is so useful for the earth
-Supporting MajorClaim T22
-
-
-No arguments attacks MajorClaim T22
-

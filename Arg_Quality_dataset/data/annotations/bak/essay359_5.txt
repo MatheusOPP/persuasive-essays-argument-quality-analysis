@@ -1,9 +1,0 @@
-Type: Claim T15
-Text: in order to avoid the conflicts between foreigners and locals, people are trying to understand different culture and find solutions
-Supporting Claim T15
-
-    Premise: tourists are given the brochures about the local traditions and customs before they visit the place
-    Premise: the possibility of the conflicts is reduced because the understanding between both parties
-
-No arguments attacks Claim T15
-

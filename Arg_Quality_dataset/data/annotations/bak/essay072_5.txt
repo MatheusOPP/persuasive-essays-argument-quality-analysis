@@ -1,9 +1,0 @@
-Type: Claim T13
-Text: Sports activities can improve mental health
-Supporting Claim T13
-
-    Premise: When people exercise, the neuron cells in the brain release a chemical compound named Dopamine
-    Premise: good exercises can often successfully alleviating one's heavy burdens
-
-No arguments attacks Claim T13
-

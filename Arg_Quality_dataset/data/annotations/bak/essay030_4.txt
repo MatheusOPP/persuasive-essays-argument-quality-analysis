@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: I don't think it is also fair for the government as the government has been paying a lot of money for their students' primary and secondary education
-Supporting Claim T3
-
-    Premise: It is better for them to use the money to pay for the other students' education so that all people in their country could receive the same education
-
-No arguments attacks Claim T3
-

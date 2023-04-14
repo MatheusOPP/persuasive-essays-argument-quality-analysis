@@ -1,8 +1,0 @@
-Type: Claim T13
-Text: financial sustainability of a region mostly depends on how healthy the population is
-Supporting Claim T13
-
-    Premise: the money invested into physical education program can save allocations into healthcare
-
-No arguments attacks Claim T13
-

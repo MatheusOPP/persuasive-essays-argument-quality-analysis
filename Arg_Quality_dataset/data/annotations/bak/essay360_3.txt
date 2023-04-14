@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: other celebrities do set up role models to young people because of their visible accomplishments
-Supporting Claim T11
-
-    Premise: this kind of self-made celebrity can inspire children to develop their talents through application and perseverance
-    Premise: other celebrities such as musician also have achieved great success in their career
-
-No arguments attacks Claim T11
-

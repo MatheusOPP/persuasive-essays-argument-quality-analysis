@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: by advertising companies, businesses, firms and individuals promote their goods and services
-Supporting Claim T9
-
-    Premise: Thanks to ads we learn about new products, we can compare them and choose what’s the best for us
-
-No arguments attacks Claim T9
-

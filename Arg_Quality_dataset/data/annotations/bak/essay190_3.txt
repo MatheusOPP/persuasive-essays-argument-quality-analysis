@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: zoos just take away freedom of animals
-Supporting Claim T9
-
-    Premise: Being confined, animals may lose their own nature as well as wildness and feel upset and discontented
-    Premise: zoos are some kind of prisons and it's so cruel and wrong to keep animal in such prisons
-
-No arguments attacks Claim T9
-

@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: taking environmental consequences seriously can enhance working efficiencies
-Supporting Claim T14
-
-    Premise: it may spur its economic development
-    Premise: without the requirement of environmental preservation, the firm would still consume a vast amount of energy which constitutes a large part of its operational costs, being a hurdle to the economic development
-
-No arguments attacks Claim T14
-

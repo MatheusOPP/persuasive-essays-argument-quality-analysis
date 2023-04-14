@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: students who study outside their countries can get a lot of experience living in a foreign country
-Supporting Claim T4
-
-    Premise: Living in a new country requires a great amount of flexibility and adaptability in one's character
-    Premise: they should be able to deal with the obstacles that they may encounter
-
-No arguments attacks Claim T4
-

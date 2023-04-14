@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: female students are indicated having the same potential and capability as men
-Supporting Claim T2
-
-    Premise: women tend to work in various fields which in the past normally done by men such as being engineers, and dealing with machines
-    Premise: women can also do the men's works
-
-No arguments attacks Claim T2
-

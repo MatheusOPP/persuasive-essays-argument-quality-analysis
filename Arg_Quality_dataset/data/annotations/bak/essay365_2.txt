@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: The city itself will be absolved of enduring the influx of immigrants as well as unemployed people
-Supporting Claim T8
-
-    Premise: huge centers of attention distributed equally in a wide region means that residential areas will come along thus exert less pressure on the public facilities
-    Premise: if some of the enormous shopping malls or universities were relocated in the commuter belt, the city street would be les burstling and overly-teemed as it is now
-
-No arguments attacks Claim T8
-

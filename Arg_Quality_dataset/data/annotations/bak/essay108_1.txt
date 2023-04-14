@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: encouraging the workers to retire at age of fifty-five to release the positions for younger job seekers has some merits
-Supporting Claim T6
-
-    Premise: fresh graduates are likely to bring a number of practical and applicable ideas to meet the current needs of the organisation
-    Premise: having a larger proportion of young adults could enhance the working effectiveness and efficiency
-
-No arguments attacks Claim T6
-

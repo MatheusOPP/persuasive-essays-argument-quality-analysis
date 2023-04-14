@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: for the issue of education fee, richer countries should offer scholarships and loan to the qualified students
-Supporting Claim T9
-
-    Premise: education for these countries normally is not free so only certain group of students can afford it
-
-No arguments attacks Claim T9
-

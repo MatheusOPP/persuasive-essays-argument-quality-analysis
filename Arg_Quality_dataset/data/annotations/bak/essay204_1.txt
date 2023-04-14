@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: online classes have many advantages
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

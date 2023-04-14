@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: many different characters exist between male and female students
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

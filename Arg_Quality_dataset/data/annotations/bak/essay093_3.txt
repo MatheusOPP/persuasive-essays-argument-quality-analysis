@@ -1,8 +1,0 @@
-Type: Claim T4
-Text: it is inhumane to watch one's fellowman struggle against famine and poverty without doing anything to help, especially when the onlooker takes no effort to do so
-Supporting Claim T4
-
-    Premise: Compassion, a virtue preached in almost all religions from Buddhism to Mohammedanism, is what distinguishes us human beings from animals
-
-No arguments attacks Claim T4
-

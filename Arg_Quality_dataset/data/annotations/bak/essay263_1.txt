@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: when one knows different region's works, it will help one to get a friend much easier
-Supporting Claim T2
-
-    Premise: It is much easier for us to contact than any other person in my department, which made me popular there, and much easier to get the help that I need
-    Premise: While some of the problems are the Engineering department's part, I went there and discussed with the colleagues there
-
-No arguments attacks Claim T2
-

@@ -1,8 +1,0 @@
-Type: Claim T8
-Text: they can manage the time spending on classes to do other benefit things if they already understand topic in the class very well
-Supporting Claim T8
-
-    Premise: I spent the time of biology class to do my Chemistry research and got A+ for both biology and chemistry
-
-No arguments attacks Claim T8
-

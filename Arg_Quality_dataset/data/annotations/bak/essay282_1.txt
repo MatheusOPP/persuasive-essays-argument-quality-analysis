@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: listening to music is a great way to relax
-Supporting Claim T5
-
-    Premise: I feel happy when I listen music
-    Premise: I always listen music from my mp3 player
-
-No arguments attacks Claim T5
-

@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: young adults living with parents will not be free to do what they want
-Supporting Claim T10
-
-
-Attacking Claim T10
-    Premise: most young adults are inclined to take unprecedented advantages of the freedom they have
-    Premise: It is good thing if living with parents does not give freedom for young people to party all night, smoke or do drugs
-

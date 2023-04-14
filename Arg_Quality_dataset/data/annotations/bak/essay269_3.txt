@@ -1,8 +1,0 @@
-Type: Claim T8
-Text: if a low-level employee desire to enhance his position, it's fairly important to have a good relationship with their boss
-Supporting Claim T8
-
-    Premise: only if the employee is considered excellent in his boss's eyes, he will be more possible to enhance position
-
-No arguments attacks Claim T8
-

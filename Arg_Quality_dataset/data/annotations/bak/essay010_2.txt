@@ -1,8 +1,0 @@
-Type: Claim T1
-Text: the policy that concentrates money on developing public transportation brings an advantageous impact on earth
-Supporting Claim T1
-
-    Premise: if there are more good buses, trains, or subways, people are inclined to use less private vehicles, which decreases the amount of carbon released
-
-No arguments attacks Claim T1
-

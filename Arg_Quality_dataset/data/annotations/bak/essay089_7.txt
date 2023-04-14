@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: some lands should be assigned to industry
-Supporting Claim T14
-
-    Premise: human need some crucial things to continue their life, and most of them are industrial such as medicine
-    Premise: Todays life has some difficulty which become comfortable with the help of industry
-
-No arguments attacks Claim T14
-

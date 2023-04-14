@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: the revolution in females' right has brought about many benefits not only to themselves but society as well
-Supporting Claim T7
-
-    Premise: The financial burden of families, for instance, has decreased significantly with both the wives and the husbands working to earn money
-    Premise: women have the outstanding instinct to take up some careers like healthcare or human resource management due to their patience and elaboration
-
-No arguments attacks Claim T7
-

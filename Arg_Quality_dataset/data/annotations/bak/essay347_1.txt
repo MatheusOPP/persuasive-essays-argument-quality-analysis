@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: people will be swayed by the advertising and buy things they do not need it for their life
-Supporting Claim T2
-
-    Premise: in most asian countries, advertisement company usually hire popular singers or actors to advertise the products to boosts the sales, and some people, especially adolescent may buy things from their favourite singer advertised to support their idol instead of to fill their needs
-
-No arguments attacks Claim T2
-

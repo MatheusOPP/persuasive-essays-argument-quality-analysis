@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: Going to another place to learn language is better choice
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

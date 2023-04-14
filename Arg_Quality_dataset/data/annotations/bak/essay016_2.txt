@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: doing this various testing is a hazard of human's future and next generation
-Supporting Claim T5
-
-    Premise: animals are friendly and vital for people
-    Premise: The animal experiments accelerate the vanishing of some categories of animals
-
-No arguments attacks Claim T5
-

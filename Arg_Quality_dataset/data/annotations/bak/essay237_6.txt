@@ -1,7 +1,0 @@
-Type: Claim T17
-Text: television and movies are entertaining
-Supporting Claim T17
-
-
-No arguments attacks Claim T17
-

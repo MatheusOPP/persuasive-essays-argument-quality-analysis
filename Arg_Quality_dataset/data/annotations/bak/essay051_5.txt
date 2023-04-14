@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income
-Supporting Claim T14
-
-    Premise: universities support is vital for libraries
-    Premise: sport activities have a good income
-
-No arguments attacks Claim T14
-

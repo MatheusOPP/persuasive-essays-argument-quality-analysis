@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: it has a number of problems that should be well handled
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

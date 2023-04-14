@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: A university, in common sense, is a medium for conveying or providing access to knowledge
-Supporting Claim T3
-
-    Premise: students are the ones universities should really cater for, not the employers
-    Premise: High school graduates choose to further educate themselves in universities because of all different reasons: a degree that's more widely accepted, gain knowledge and insight into an industry, or simply deepen their research interests in a certain field
-
-No arguments attacks Claim T3
-

@@ -1,7 +1,0 @@
-Type: Claim T1
-Text: The historic buildings show the history of our ancestors
-Supporting Claim T1
-
-
-No arguments attacks Claim T1
-

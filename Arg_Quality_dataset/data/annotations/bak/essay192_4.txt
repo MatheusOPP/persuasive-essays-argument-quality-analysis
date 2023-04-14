@@ -1,8 +1,0 @@
-Type: Claim T7
-Text: When you have just few close friends, on one hand you develop a more intimate relationship with them and you feel you can trust them more
-Supporting Claim T7
-
-
-Attacking Claim T7
-    Premise: they often will give you viewpoints not so different from yours, adding less to your experience
-

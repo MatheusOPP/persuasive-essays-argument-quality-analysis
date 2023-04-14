@@ -1,9 +1,0 @@
-Type: Claim T17
-Text: I also love the environment in here
-Supporting Claim T17
-
-    Premise: I have been gone to some places to travel and stay for a short time, and I realize that the environment in some place isn't clean and fresh like my home town
-    Premise: the environment can't be keep clean
-
-No arguments attacks Claim T17
-

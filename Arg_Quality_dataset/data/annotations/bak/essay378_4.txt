@@ -1,9 +1,0 @@
-Type: Claim T7
-Text: teaching staff are professional and experienced in terms of promoting children's communication skills
-Supporting Claim T7
-
-    Premise: after many years of teaching experience, teacher are able to know how to help children to develop important life skills such as learning personal boundaries, facing future problems and learning important conflict resolution skills
-    Premise: parents are facing difficult generation gap with their children because they are less likely to know how to handle family conflicts in an efficient way
-
-No arguments attacks Claim T7
-

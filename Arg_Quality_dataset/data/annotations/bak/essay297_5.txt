@@ -1,8 +1,0 @@
-Type: Claim T16
-Text: online classes have some advantages so they could be used as supplementary
-Supporting Claim T16
-
-
-Attacking Claim T16
-    Premise: they could not be substitute of existing classroom learning
-

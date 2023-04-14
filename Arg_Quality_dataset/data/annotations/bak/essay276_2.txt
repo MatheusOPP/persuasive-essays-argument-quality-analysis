@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: dancing is important in every culture
-Supporting Claim T5
-
-    Premise: dancing could show how civilization of that culture is
-    Premise: people use dancing to entertain themselves
-
-No arguments attacks Claim T5
-

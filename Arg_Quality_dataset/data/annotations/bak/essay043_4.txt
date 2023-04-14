@@ -1,7 +1,0 @@
-Type: Claim T12
-Text: This has been true for centuries and will certainly not change in the foreseeable future
-Supporting Claim T12
-
-
-No arguments attacks Claim T12
-

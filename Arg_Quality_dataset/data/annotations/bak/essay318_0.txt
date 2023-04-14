@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: no additional payment should be charged on them
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

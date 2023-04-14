@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: the government should disclose the information to the media in a timely manner, especially for disasters and outbreak of new diseases
-Supporting Claim T9
-
-    Premise: Taking the SARS in 2003 as an example, the Chinese government limited the amount of information for public access which therefore causes numerous deaths
-
-Attacking Claim T9
-    Premise: another perspective on this is to prevent the citizen from unnecessary fear and unrest
-

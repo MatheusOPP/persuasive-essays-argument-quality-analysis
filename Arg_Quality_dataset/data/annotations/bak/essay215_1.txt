@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: it may take us a lot of times to develop our personal hobbies
-Supporting Claim T2
-
-    Premise: doing so can bring us a healthy body, a refreshed mind and a way to release pressure and sadness
-
-No arguments attacks Claim T2
-

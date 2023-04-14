@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: If a professor doesn't get any researching works, he cannot give us the opportunity
-Supporting Claim T10
-
-    Premise: As for students, we can get what we want to know from textbooks, webs or teachers
-    Premise: we can only turn to our professors when we want to take part in a research and to get ourselves promoted
-
-No arguments attacks Claim T10
-

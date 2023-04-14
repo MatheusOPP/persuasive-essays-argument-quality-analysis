@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: studying at an overseas university gives individuals the opportunity to improve social skills by interacting and communicating with students from different origins and cultures
-Supporting Claim T3
-
-    Premise: Compared to the peers studying in the home country, it will be more likely for the one who is living overseas to be successful in adapting himself/herself into new environments and situations in life
-
-No arguments attacks Claim T3
-

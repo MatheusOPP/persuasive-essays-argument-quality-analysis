@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: professors should be encouraged to mainly do research
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

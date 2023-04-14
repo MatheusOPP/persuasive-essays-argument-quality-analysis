@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: the Internet will pave way for a more accessible and convenient learning
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

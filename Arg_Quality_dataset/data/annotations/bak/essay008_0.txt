@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: a government is supposed to offer sufficient financial support for both
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: every fast and not well thought decision is a wasted one
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

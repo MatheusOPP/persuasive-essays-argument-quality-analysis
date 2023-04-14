@@ -1,8 +1,0 @@
-Type: Claim T13
-Text: rather than attending any boring lecturers, students can participate to other activities such as debate competition, swimming meet, Basketball and so forth
-Supporting Claim T13
-
-    Premise: they can meet other university students and build up the relationships with them
-
-No arguments attacks Claim T13
-

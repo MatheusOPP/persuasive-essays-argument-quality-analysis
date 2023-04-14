@@ -1,8 +1,0 @@
-Type: Claim T6
-Text: making a rushed decision could also mean that the person is missing out on a potential opportunity
-Supporting Claim T6
-
-    Premise: he wouldn't have been unemployed
-
-No arguments attacks Claim T6
-

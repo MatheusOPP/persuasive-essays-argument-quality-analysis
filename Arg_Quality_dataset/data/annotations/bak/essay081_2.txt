@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: there are many wonderful and beautiful Arts due to the freedom to express ideas
-Supporting Claim T3
-
-    Premise: Allowing them to think freely will give them an opportunity to express themselves
-
-Attacking Claim T3
-    Premise: even though freedom to express ideas can bring some negative effects
-

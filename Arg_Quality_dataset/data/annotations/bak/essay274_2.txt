@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: you will be more likely to accomplish your purpose by concentrating on what you do well
-Supporting Claim T8
-
-    Premise: the more time you spend on what you do well, the more likely to achieve something great you will be
-    Premise: Focusing what you are good at helps you attain your goal
-
-No arguments attacks Claim T8
-

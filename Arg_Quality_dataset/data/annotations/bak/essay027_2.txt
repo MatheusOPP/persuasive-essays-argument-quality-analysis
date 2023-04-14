@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: if the developed countries are unwilling to share their successful experience in education, the developing countries will remain undeveloped, even though they gain a great deal of economic support
-Supporting Claim T6
-
-    Premise: the critical method to improve the condition of poor countries is to help them build up a complete educational system instead of financial aid
-    Premise: education is an essential part in development
-
-No arguments attacks Claim T6
-

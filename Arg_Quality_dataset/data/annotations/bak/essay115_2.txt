@@ -1,8 +1,0 @@
-Type: Claim T5
-Text: the production and labour cost of each kilogram of the agriculture products dramatically decreased
-Supporting Claim T5
-
-    Premise: applying the advanced fertilizers in combine with the automatic reaping resources increase farmers' economic profit
-
-No arguments attacks Claim T5
-

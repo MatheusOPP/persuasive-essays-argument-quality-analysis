@@ -1,9 +1,0 @@
-Type: Claim T18
-Text: communication by letters, email, or telephone can enable them to talk without scruple, which is also one of the most important parts in communication
-Supporting Claim T18
-
-    Premise: It is conceivable that before we talk, it is necessary for us to be imprudent about our words
-
-Attacking Claim T18
-    Premise: Talking without scruple is not the indispensable part in communication; in contrast, it is usually detrimental to us
-

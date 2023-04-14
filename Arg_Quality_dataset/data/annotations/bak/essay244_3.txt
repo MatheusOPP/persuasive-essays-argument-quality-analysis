@@ -1,8 +1,0 @@
-Type: Claim T15
-Text: even when people watch television together, there is no chance for them to have conversation in front of television
-Supporting Claim T15
-
-    Premise: it is not good for them to watch television if they want to improve their sense of closeness
-
-No arguments attacks Claim T15
-

@@ -1,8 +1,0 @@
-Type: Claim T13
-Text: the Internet have several drawbacks which can affect the education system negatively, for instance internet abuse and black webs
-Supporting Claim T13
-
-
-Attacking Claim T13
-    Premise: what we are to do is a change in learners' attitude not an elimination of the Internet from academic study
-

@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: these buildings will not disappear unless people abandon their culture
-Supporting Claim T9
-
-    Premise: museums and art galleries preserve some culture heritages
-
-No arguments attacks Claim T9
-

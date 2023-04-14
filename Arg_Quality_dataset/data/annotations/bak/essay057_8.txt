@@ -1,9 +1,0 @@
-Type: Claim T17
-Text: Artists should have self-awareness not to create vulgar, hurtful or useless works which do not serve any purpose
-Supporting Claim T17
-
-    Premise: artists should also know not to hurt the sentiments of the people
-    Premise: Many artists have been involved in controversies because of hurting the religious or social beliefs of the common people
-
-No arguments attacks Claim T17
-

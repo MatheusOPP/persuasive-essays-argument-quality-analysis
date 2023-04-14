@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: choosing the job that is similar to parents' jobs could benefit to one's career
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

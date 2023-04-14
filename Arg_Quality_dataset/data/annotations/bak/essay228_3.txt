@@ -1,7 +1,0 @@
-Type: Claim T5
-Text: people like having meals while they are watching TV
-Supporting Claim T5
-
-
-No arguments attacks Claim T5
-

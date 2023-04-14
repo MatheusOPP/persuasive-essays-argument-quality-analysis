@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: when children take jobs, they tend to be more responsibl
-Supporting Claim T6
-
-    Premise: whether they can earn money or not will depend on their effectiveness and attitudes in working
-    Premise: To keep their jobs, children will have to try their best to finish their duties
-
-No arguments attacks Claim T6
-

@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: both of studying hard and playing sports are part of life to children
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

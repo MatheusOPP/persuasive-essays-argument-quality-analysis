@@ -1,9 +1,0 @@
-Type: Claim T11
-Text: In a big city you have more qualified teachers and a better access to technology
-Supporting Claim T11
-
-    Premise: I have a friend that grew up in the countryside
-    Premise: He said that he had to study a lot to pass the test to enter the university
-
-No arguments attacks Claim T11
-

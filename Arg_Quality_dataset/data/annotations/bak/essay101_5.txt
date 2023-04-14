@@ -1,8 +1,0 @@
-Type: Claim T14
-Text: the expertise of the senior workers who had retired should never be underestimated
-Supporting Claim T14
-
-    Premise: it is highly recommended that the retiree come over to the companies or hospitals to have regular sessions with the present staffs to bridge the gap between them and to pass on their knowledge
-
-No arguments attacks Claim T14
-

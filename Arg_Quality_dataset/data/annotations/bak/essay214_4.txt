@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: the disgusting smoke will severely affect their appetite, or, in other words, spoil their meals and make them an unpleasant experience
-Supporting Claim T6
-
-    Premise: The smoke exhaled from the smoker often makes other people feel uncomfortable or disgusted, thus affecting their mood in having their meals
-    Premise: This, on the other hand, can indirectly decrease the restaurants' popularity
-
-No arguments attacks Claim T6
-

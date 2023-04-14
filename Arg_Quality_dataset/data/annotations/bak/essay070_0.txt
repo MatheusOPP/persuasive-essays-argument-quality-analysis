@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: it is insufficient to increase the petrol price only to solve problems
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

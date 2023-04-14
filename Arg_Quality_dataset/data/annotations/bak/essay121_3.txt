@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: they might hit consumer's life
-Supporting Claim T6
-
-    Premise: if we let them do anything they can to just make a profit, they will produce products with low qualities and high prices
-    Premise: a few months ago it was broadcast from TV that a company which produced baby milk, sold milk which did not have quality and it caused a few babies die
-
-No arguments attacks Claim T6
-

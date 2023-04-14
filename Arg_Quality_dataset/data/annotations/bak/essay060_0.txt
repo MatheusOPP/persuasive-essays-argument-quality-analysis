@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: a break of one year is good for young people after finishing their high school
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

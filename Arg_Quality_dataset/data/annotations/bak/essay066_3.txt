@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: some people are concerned that technology may have a detrimental effect on the traditional lifestyles
-Supporting Claim T9
-
-    Premise: especially youngsters, are crazier about fresh and advanced things, such as digital products, thus becoming indifferent to traditional techniques
-
-No arguments attacks Claim T9
-

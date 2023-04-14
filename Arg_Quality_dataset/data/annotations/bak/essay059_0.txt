@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: strict laws, like capital punishment, are essential in a society
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

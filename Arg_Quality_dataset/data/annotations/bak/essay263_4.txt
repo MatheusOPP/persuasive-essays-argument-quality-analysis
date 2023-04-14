@@ -1,7 +1,0 @@
-Type: MajorClaim T11
-Text: a broad knowledge of different subjects is really important
-Supporting MajorClaim T11
-
-
-No arguments attacks MajorClaim T11
-

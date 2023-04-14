@@ -1,9 +1,0 @@
-Type: Claim T10
-Text: newspapers' production will have to face environmentalists on its way to be alive
-Supporting Claim T10
-
-    Premise: This is simply the contributor to the deforestation which is happening all over the world today
-    Premise: when taking environment into consideration, people must conceive that the more newspapers are published, the more trees are cut down
-
-No arguments attacks Claim T10
-

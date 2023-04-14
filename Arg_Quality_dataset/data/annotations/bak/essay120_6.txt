@@ -1,7 +1,0 @@
-Type: Claim T14
-Text: it can be replaced by a life sentence
-Supporting Claim T14
-
-
-No arguments attacks Claim T14
-

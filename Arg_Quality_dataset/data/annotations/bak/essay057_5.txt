@@ -1,9 +1,0 @@
-Type: Claim T12
-Text: Like the media, artists should also be given the freedom to express their ideas freely
-Supporting Claim T12
-
-    Premise: Frank Zappa once said, "Mind is like a parachute, it doesn't work if its not open“
-    Premise: Restrictions would just curb the innovative ideas of the artists and would limit their brains
-
-No arguments attacks Claim T12
-

@@ -1,8 +1,0 @@
-Type: Claim T3
-Text: university restriction has both pros and cons
-Supporting Claim T3
-
-
-Attacking Claim T3
-    Premise: it will yield more negative results than positive ones
-

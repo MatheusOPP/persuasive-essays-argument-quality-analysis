@@ -1,9 +1,0 @@
-Type: Claim T9
-Text: writing e-mail helps people express honestly
-Supporting Claim T9
-
-    Premise: the face-to-face conversations make them feel stupid
-    Premise: e-mail will be a good tool to help me speak out
-
-No arguments attacks Claim T9
-

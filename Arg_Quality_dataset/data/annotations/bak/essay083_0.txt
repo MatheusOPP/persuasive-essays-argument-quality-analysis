@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: I find myself aligned with opponents of the usages of nuclear power
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

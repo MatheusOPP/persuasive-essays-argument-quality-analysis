@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: the importance of museums and art galleries is plain in terms of education and culture
-Supporting Claim T8
-
-    Premise: authentic exhibits cannot be completely displayed only by images and videos
-    Premise: It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it
-
-No arguments attacks Claim T8
-

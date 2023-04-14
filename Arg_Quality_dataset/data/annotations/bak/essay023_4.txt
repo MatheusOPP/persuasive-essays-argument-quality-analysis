@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: some harmful effects on our health are lethal
-Supporting Claim T9
-
-    Premise: It has been proved that overusing of the electronic devices including mobile phones could lead to higher possibility of suffering hearing loss and even cancers, although the further investigation are needed
-
-No arguments attacks Claim T9
-

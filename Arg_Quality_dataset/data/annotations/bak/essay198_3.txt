@@ -1,9 +1,0 @@
-Type: Claim T8
-Text: public transportation helps to solve the air pollution problems
-Supporting Claim T8
-
-    Premise: public transports use much less gasoline to carry people than private cars
-    Premise: It means that by using public transports, the less gas exhaust is pumped to the air and people will no longer have to bear the stuffy situation on the roads, which is always full of fumes
-
-No arguments attacks Claim T8
-

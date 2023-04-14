@@ -1,9 +1,0 @@
-Type: Claim T13
-Text: the gap between rich people and poor is widen by technology
-Supporting Claim T13
-
-    Premise: only the rich people have ability to afford the expensive high-tech products, and these products can help them to earn more in return
-
-Attacking Claim T13
-    Premise: it is a limp opposition to the remarkable advantages of technology, and technology is not the root cause of the gap
-

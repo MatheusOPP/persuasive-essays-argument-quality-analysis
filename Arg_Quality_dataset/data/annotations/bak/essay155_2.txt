@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: Smoking in restaurants will absolutely disturb other people in enjoying their meals
-Supporting Claim T3
-
-    Premise: restaurants are places where people come and pay some money to enjoy their meals
-    Premise: They will not be able to enjoy their meals while breathing in smoke around them
-
-No arguments attacks Claim T3
-

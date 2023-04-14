@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: pursuit of nuclear technology one way or the other leads towards atomic weapons
-Supporting Claim T3
-
-    Premise: Last century has witnessed the horrors of such weapons
-    Premise: If each country pursues the fusion and fission process some of them may try to mold it for military usage
-
-No arguments attacks Claim T3
-

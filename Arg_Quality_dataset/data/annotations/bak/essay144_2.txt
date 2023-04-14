@@ -1,7 +1,0 @@
-Type: Claim T3
-Text: This will improve the quality of both universities and students, thus placing people in positions which suit them most
-Supporting Claim T3
-
-
-No arguments attacks Claim T3
-

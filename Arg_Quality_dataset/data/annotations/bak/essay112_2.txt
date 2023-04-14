@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: There are clearly advantages to exams
-Supporting Claim T3
-
-    Premise: They help to ensure fairness by imposing the same conditions on all exam candidates
-    Premise: They are also relatively versatile; different types of exam questions, for example, multiple-choice questions and essay tasks, can test different sorts of reasoning ability
-
-No arguments attacks Claim T3
-

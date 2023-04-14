@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: it will yield more negative results than positive ones
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

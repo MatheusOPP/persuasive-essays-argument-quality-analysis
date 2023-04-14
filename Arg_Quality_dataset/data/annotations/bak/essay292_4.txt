@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: there are a few students paying considerable time on the computer games playing finally choose computer games related jobs as their career
-Supporting Claim T14
-
-
-Attacking Claim T14
-    Premise: majority of the students failed in front of the computer games playing and they use their time for studying, sleeping and physical exerice to play these computer games
-    Premise: It is not uncommon that the teenages are found sleepless for several days playing on-line games at public internet bar, and there are also some media reports regarding the sudden death case of the teenages in the internet bar
-

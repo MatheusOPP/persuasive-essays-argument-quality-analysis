@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: complained about the drawbacks of zoos are often heard
-Supporting Claim T5
-
-    Premise: some zoos are lack of systematic management which attributes to numerous wild animals die because of food shortage
-    Premise: being caged in the zoos for long render wildlife lost the ability to survive in nature where is full of cruel competition among various animals
-
-No arguments attacks Claim T5
-

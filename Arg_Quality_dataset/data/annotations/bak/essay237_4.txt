@@ -1,9 +1,0 @@
-Type: Claim T14
-Text: These advertisements build ideal images that make people to feel bad about themselves and want to be more like these images
-Supporting Claim T14
-
-    Premise: When a cool hero characters in a movie smokes and yet a lot of people like him, then people who idolize him may also begin to smoke although they don’t prefer it
-    Premise: they spend a lot of money to buy a lot of beauty products or go to gym to get better appearance or body
-
-No arguments attacks Claim T14
-

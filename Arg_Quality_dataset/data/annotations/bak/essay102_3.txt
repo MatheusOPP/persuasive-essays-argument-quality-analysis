@@ -1,7 +1,0 @@
-Type: Claim T7
-Text: computers can be introduced to museums and galleries in order to help visitors to know more about the art works or historical objects
-Supporting Claim T7
-
-
-No arguments attacks Claim T7
-

@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: education is the single most important factor in the development of a country
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

@@ -1,9 +1,0 @@
-Type: Claim T16
-Text: emails are not convenient for the work but it is better than none
-Supporting Claim T16
-
-    Premise: sometimes we have to use emails if the team members are not located in the same place
-
-Attacking Claim T16
-    Premise: it is a classroom or campus projects, there is few possibility that the project members are located in different areas
-

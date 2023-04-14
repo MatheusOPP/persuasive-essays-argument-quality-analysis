@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: it is not the good idea for teenagers to have job while they are still students
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

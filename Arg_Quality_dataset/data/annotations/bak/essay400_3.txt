@@ -1,8 +1,0 @@
-Type: Claim T10
-Text: governments should allocate more budget on prevention from illness and providing health education is the welfare of the society
-Supporting Claim T10
-
-    Premise: a government's role should be providing means that lead its citizens to learn how to prevent from potential illness that can cause misery in people's lives
-
-No arguments attacks Claim T10
-

@@ -1,9 +1,0 @@
-Type: Claim T2
-Text: sometimes the students in the university can learn better from other sources outside the class room
-Supporting Claim T2
-
-    Premise: she rarely went to class but spent most time to understand confusing topic
-    Premise: Student can also study by themselves in the library and focus on only the topic they do not understand
-
-No arguments attacks Claim T2
-

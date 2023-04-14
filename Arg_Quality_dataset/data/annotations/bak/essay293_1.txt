@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: this means help to achieve a good communication
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-

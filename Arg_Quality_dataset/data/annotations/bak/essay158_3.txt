@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: governments can construct more accommodation instead of preserving old buildings
-Supporting Claim T4
-
-    Premise: As a result of the rapid urbanization process, in which rural people must go to urban centers to look for job opportunities, the question of the preservation of old buildings has become more pressing
-    Premise: the preservation is very expensive because all components of old buildings have historical values
-
-No arguments attacks Claim T4
-

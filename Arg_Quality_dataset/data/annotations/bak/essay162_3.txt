@@ -1,7 +1,0 @@
-Type: MajorClaim T11
-Text: the drawbacks of cheap air fares outweigh the benefits
-Supporting MajorClaim T11
-
-
-No arguments attacks MajorClaim T11
-

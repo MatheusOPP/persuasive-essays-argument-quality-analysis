@@ -1,9 +1,0 @@
-Type: Claim T3
-Text: it is not easy to influence young people these days when they are well equipped of life skills
-Supporting Claim T3
-
-    Premise: the young generation these days is very conscious toward positive lifestyles
-    Premise: They are mostly being educated at very early ages by family or schools as to distinguish what is benefit for them
-
-No arguments attacks Claim T3
-

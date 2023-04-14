@@ -1,9 +1,0 @@
-Type: Claim T6
-Text: people should concern more about their living environment than job
-Supporting Claim T6
-
-    Premise: for most of us, job is only a tool to maintain our lives
-    Premise: Few people can feel happiness from their job
-
-No arguments attacks Claim T6
-

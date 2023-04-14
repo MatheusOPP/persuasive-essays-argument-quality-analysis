@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: Students who take break, gain lot of benefits by traveling around the places or by working
-Supporting Claim T2
-
-    Premise: They tend to contribute more due to their real world experiences which makes them more mature
-
-No arguments attacks Claim T2
-

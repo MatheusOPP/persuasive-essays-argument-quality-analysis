@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: children are taught basic things, which influence their whole life, by their parents
-Supporting Claim T4
-
-    Premise: parents bring the whole world of wonderful and colorful thing into their baby's little mind
-    Premise: As a baby, they do not know any thing all around but they learn everything from their parents
-
-No arguments attacks Claim T4
-

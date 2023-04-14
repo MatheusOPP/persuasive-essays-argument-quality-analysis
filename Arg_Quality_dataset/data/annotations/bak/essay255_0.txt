@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: there will be a decrease in cars use in the future
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

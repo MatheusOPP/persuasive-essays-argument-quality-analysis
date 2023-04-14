@@ -1,8 +1,0 @@
-Type: Claim T2
-Text: there are some inevitable problems
-Supporting Claim T2
-
-
-Attacking Claim T2
-    Premise: they are outweighed by advantages and can be tackled if proper measures are taken
-

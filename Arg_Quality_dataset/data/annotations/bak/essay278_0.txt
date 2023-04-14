@@ -1,7 +1,0 @@
-Type: MajorClaim T1
-Text: these activities have the same efficient role in students' lives
-Supporting MajorClaim T1
-
-
-No arguments attacks MajorClaim T1
-

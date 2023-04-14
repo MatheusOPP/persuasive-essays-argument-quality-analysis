@@ -1,9 +1,0 @@
-Type: Claim T5
-Text: tourism has threatened the nature environments
-Supporting Claim T5
-
-    Premise: tourism increasingly create harms to the natural habitats of the destination appeals
-    Premise: many marine lives have been endangered, in the extremes part of the reef become uninhabitable for these marine species
-
-No arguments attacks Claim T5
-

@@ -1,9 +1,0 @@
-Type: Claim T4
-Text: zoos afford a platform to education teenagers, helping to establish eco-friendly behavior towards animals
-Supporting Claim T4
-
-    Premise: When children pay a visit to the zoos, they still could observe the eating behavior or leisure activities among animals, which would definitely enrich their knowledge associated with different animals
-    Premise: children could acquire the information regarding how to protect wild animals according to guided tour or volunteers
-
-No arguments attacks Claim T4
-

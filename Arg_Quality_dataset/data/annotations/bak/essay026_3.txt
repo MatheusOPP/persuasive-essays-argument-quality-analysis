@@ -1,8 +1,0 @@
-Type: Claim T9
-Text: Not cooking fresh food will also lead to the lack of nutrition
-Supporting Claim T9
-
-    Premise: Whereas some research has apparently demonstrated that prepared food is unable to support enough nutrients we need, especially for children who are growing up
-
-No arguments attacks Claim T9
-

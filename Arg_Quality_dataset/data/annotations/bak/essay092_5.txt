@@ -1,9 +1,0 @@
-Type: Claim T12
-Text: the world would look monotonous
-Supporting Claim T12
-
-    Premise: Individuals purchase their clothes according to the latest fashion trends, which may result in the phenomenon that people would wear the same style of clothes
-    Premise: following fashion trends constantly may undermine individuals' personalities
-
-No arguments attacks Claim T12
-

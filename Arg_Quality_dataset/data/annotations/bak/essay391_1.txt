@@ -1,7 +1,0 @@
-Type: Claim T2
-Text: mobile phones make our communication faster
-Supporting Claim T2
-
-
-No arguments attacks Claim T2
-
